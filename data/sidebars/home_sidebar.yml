@@ -3,6 +3,8 @@
 title: भागाः
 contents:
   - url: recdir://
+  - title: वेदः
+    url: ../vedAH/
   - title: ऋग्वेदः
     url: ../vedAH_Rk/
   - title: यजुर्वेदः
