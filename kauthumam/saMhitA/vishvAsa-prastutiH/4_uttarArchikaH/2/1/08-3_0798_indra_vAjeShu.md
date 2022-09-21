@@ -1,7 +1,5 @@
 +++
 title = "08-3_0798 इन्द्र वाजेषु"
-similar_rv = "/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/007/04_indra_vAjeShu.md"
-edit_distance_to_rv = 0.0
 
 +++
 इ꣢न्द्र꣣ वा꣡जे꣢षु नोऽव स꣣ह꣡स्र꣢प्रधनेषु च। उ꣣ग्र꣢ उ꣣ग्रा꣡भि꣢रू꣣ति꣡भिः꣢ ॥ 08-3:0798 ॥

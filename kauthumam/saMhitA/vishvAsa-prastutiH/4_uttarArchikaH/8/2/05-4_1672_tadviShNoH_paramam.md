@@ -1,7 +1,5 @@
 +++
 title = "05-4_1672 तद्विष्णोः परमम्"
-similar_rv = "/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/20_tadviShNoH_paramaM.md"
-edit_distance_to_rv = 0.0
 
 +++
 त꣡द्विष्णोः꣢꣯ पर꣣मं꣢ प꣣द꣡ꣳ सदा꣢꣯ पश्यन्ति सू꣣र꣡यः꣢। दि꣣वी꣢व꣣ च꣢क्षु꣣रा꣡त꣢तम् ॥ 05-4:1672 ॥

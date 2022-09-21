@@ -1,7 +1,5 @@
 +++
 title = "19_0115 तद्वो गाय"
-similar_rv = "/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/045/22_tadvo_gAya.md"
-edit_distance_to_rv = 0.0
 
 +++
 ## ऐन्द्रं काण्डम्

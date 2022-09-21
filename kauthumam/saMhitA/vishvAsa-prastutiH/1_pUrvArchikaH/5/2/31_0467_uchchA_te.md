@@ -1,7 +1,5 @@
 +++
 title = "31_0467 उच्चा ते"
-similar_rv = "/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/061/10_uchchA_te.md"
-edit_distance_to_rv = 0.017
 
 +++
 ## पवमानकाण्डम्

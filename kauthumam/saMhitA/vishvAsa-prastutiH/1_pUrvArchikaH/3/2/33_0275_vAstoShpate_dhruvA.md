@@ -1,7 +1,5 @@
 +++
 title = "33_0275 वास्तोष्पते ध्रुवा"
-similar_rv = "/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/017/14_vAstoShpate_dhruvA.md"
-edit_distance_to_rv = 0.149
 
 +++
 

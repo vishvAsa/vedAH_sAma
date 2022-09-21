@@ -1,7 +1,5 @@
 +++
 title = "41_0333 त्रातारमिन्द्रमवितारमिन्द्रं हवेहवे"
-similar_rv = "/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/047/11_trAtAramindramavitAramindraM_havehave.md"
-edit_distance_to_rv = 0.171
 
 +++
 त्रा꣣ता꣢र꣣मि꣡न्द्र꣢मवि꣣ता꣢र꣣मि꣢न्द्र꣣ꣳ ह꣡वे꣢हवे सु꣣ह꣢व꣣ꣳ शू꣢र꣣मि꣡न्द्र꣢म्।  

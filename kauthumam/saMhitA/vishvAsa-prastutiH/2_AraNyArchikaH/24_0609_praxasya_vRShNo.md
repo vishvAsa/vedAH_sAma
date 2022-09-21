@@ -1,7 +1,5 @@
 +++
 title = "24_0609 प्रक्षस्य वृष्णो"
-similar_rv = "/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/008/01_pRxasya_vRShNo.md"
-edit_distance_to_rv = 0.073
 
 +++
 प्र꣣क्ष꣢स्य꣣ वृ꣡ष्णो꣢ अरु꣣ष꣢स्य꣣ नू꣢꣫ महः꣣ प्र꣢ नो꣣ व꣡चो꣢ वि꣣द꣡था꣢

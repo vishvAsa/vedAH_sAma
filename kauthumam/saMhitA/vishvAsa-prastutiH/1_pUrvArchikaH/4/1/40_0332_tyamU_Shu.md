@@ -1,7 +1,5 @@
 +++
 title = "40_0332 त्यमू षु"
-similar_rv = "/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/178/01_tyamU_Shu.md"
-edit_distance_to_rv = 0.01
 
 +++
 

@@ -1,7 +1,5 @@
 +++
 title = "19-1_1332 पवस्व सोम"
-similar_rv = "/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/109/10_pavasva_soma.md"
-edit_distance_to_rv = 0.136
 
 +++
 प꣡व꣢स्व सोम म꣣हे꣢꣫ दक्षा꣣या꣢श्वो꣣ न꣢ नि꣣क्तो꣢ वा꣣जी꣡ धना꣢꣯य ॥ 19-1:1332 ॥

@@ -1,7 +1,5 @@
 +++
 title = "12-1_1648 नमस्ते अग्न"
-similar_rv = "/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/075/10_namaste_agna.md"
-edit_distance_to_rv = 0.0
 
 +++
 न꣡म꣢स्ते अग्न꣣ ओ꣡ज꣢से गृ꣣ण꣡न्ति꣢ देव कृ꣣ष्ट꣡यः꣢। अ꣡मै꣢र꣣मि꣡त्र꣢मर्दय ॥ 12-1:1648 ॥

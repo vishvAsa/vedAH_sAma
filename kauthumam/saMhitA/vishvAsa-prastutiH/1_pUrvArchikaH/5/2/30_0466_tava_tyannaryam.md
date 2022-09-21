@@ -1,7 +1,5 @@
 +++
 title = "30_0466 तव त्यन्नर्यम्"
-similar_rv = "/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/022/04_tava_tyannaryaM.md"
-edit_distance_to_rv = 0.051
 
 +++
 त꣢व꣣ त्य꣡न्न꣢꣯र्यं नृ꣣तो꣡ऽप꣢ इन्द्र प्रथ꣣मं꣢ पू꣣र्व्यं꣢ दि꣣वि꣢ प्र꣣वा꣡च्यं꣢ कृ꣣त꣢म्।  

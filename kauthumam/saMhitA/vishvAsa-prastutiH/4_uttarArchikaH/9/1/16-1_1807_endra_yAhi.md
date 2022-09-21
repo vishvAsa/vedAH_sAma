@@ -1,7 +1,5 @@
 +++
 title = "16-1_1807 एन्द्र याहि"
-similar_rv = "/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/034/01_endra_yAhi.md"
-edit_distance_to_rv = 0.0
 
 +++
 ए꣡न्द्र꣢ याहि꣣ ह꣡रि꣢भि꣣रु꣢प꣣ क꣡ण्व꣢स्य सुष्टु꣣ति꣢म्। दि꣣वो꣢ अ꣣मु꣢ष्य꣣ शा꣡स꣢तो꣣ दि꣡वं꣢ य꣣य꣡ दि꣢वावसो ॥ 16-1:1807 ॥
