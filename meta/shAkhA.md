@@ -10,4 +10,5 @@ unicode_script = "devanagari"
 > Gautama SV: Said to have been prevalent in Tamil Nadu and in Andhra Pradesh till the 17th cent. C.E. Many followers of the Kauthuma school in Andhra Pradesh still call themselves ‘Gautamas’.  
 > Bhallavi SV: Said to have been prevalent in Karnataka and parts of North India.
 
-> Shatyayaniya ,Gautama, Vyasa ,Bhaguri,Olundi,Goulgulvi,Bhan- umanoupamayava,Karati,Mashaka argya shakha,Varshagagavya , Shakugitre shakhas - extinct 
+> Shatyayaniya ,Gautama, Vyasa ,Bhaguri, Olundi,Goulgulvi, Bhanumanoupamayava, Karati, Mashaka argya shakha,Varshagagavya , Shakugitre shakhas - extinct 
+
