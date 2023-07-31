@@ -102,7 +102,7 @@ unicode_script: devanagari
 ॐ शान्तिः॒ शान्तिः॒ शान्तिः॑ ।  
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/05/01_shanno_mitraH_prArambhe/">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/05_taittirIyopaniShat/01_shanno_mitraH_prArambhe/">
 <details open><summary><h2>शन्नो मित्रः ...{Loading}...</h2></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="../shanno_mitraH"></div>  
 
@@ -113,7 +113,7 @@ unicode_script: devanagari
 ओम् शान्ति॒श् शान्ति॒श् शान्तिः॑ ॥
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/05/23_sahanAvavatu/">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/05_taittirIyopaniShat/23_sahanAvavatu/">
 <details open><summary><h2>सह नाववतु ...{Loading}...</h2></summary>
 
 स॒ह ना॑व् अवतु ।  
