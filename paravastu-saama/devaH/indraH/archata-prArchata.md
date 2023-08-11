@@ -15,7 +15,7 @@ RV.8.69.8a; AV;S.20.92.5a; SV.1.362a; AB.4.4.4; A;S.6.2.9.
 अ꣡र्च꣢त꣣ प्रा꣡र्च꣢ता नरः꣣ प्रि꣡य꣢मेधासो꣣ अ꣡र्च꣢त। अ꣡र्च꣢न्तु पुत्र꣣का꣢ उ꣣त꣢꣫ पुर꣣मि꣢द् धृ꣣꣬ष्ण्व꣢꣯र्चत ॥ 21:0362 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/069/08_archata_prArchata.md">
-<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 
 अर्च॑त॒ प्रार्च॑त +++(नराः)+++  

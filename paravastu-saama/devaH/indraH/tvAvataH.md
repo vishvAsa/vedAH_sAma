@@ -15,7 +15,7 @@ unicode_script: devanagari
 त्वा꣡व꣢तः पुरूवसो व꣣य꣡मि꣢न्द्र प्रणेतः। स्म꣡सि꣢ स्थातर्हरीणाम् ॥ 49:0193 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/046/01_tvAvataH_purUvaso.md">
-<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 
 त्वाव॑तः+++(=त्वादृशस्य)+++ पुरूवसो व॒यमि॑न्द्र प्रणेतः ।  

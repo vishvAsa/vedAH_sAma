@@ -15,7 +15,7 @@ RV.9.107.19a; SV.1.516a; 2.272a; JB.3.67a; PB.12.9.3a; Svidh.1.5.8.
 त꣢वा꣣ह꣡ꣳ सो꣢म रारण स꣣ख्य꣡ इ꣢न्दो दि꣣वे꣡दि꣢वे। पु꣣रू꣡णि꣢ बभ्रो꣣ नि꣡ च꣢रन्ति꣣ मा꣡मव꣢꣯ परि꣣धी꣢꣫ꣳरति꣣ ता꣡ꣳ इ꣢हि ॥ 30:0516 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/107/19_tavAhaM_soma.md">
-<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 
 
@@ -32,12 +32,12 @@ RV.9.107.19a; SV.1.516a; 2.272a; JB.3.67a; PB.12.9.3a; Svidh.1.5.8.
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/3/1/11-2_0923_tavAhaM_naktamuta.md">
-<details open><summary><h3>11-2_0923 तवाहन् नक्तमुत ...{Loading}...</h3></summary>
+<details open><summary><h3>11-2_0923 तवाहं नक्तमुत ...{Loading}...</h3></summary>
 
 त꣢वा꣣हं꣡ नक्त꣢꣯मु꣣त꣡ सो꣢म ते꣣ दि꣡वा꣢ दुहा꣣नो꣡ ब꣢भ्र꣣ ऊ꣡ध꣢नि। घृ꣣णा꣡ तप꣢꣯न्त꣣म꣢ति꣣ सू꣡र्यं꣢ प꣣रः꣡ श꣢कु꣣ना꣡ इ꣢व पप्तिम ॥ 11-2:0923 ॥ ॥11 (ति)॥ [धा. 14 । उ 1 । स्व. 3 ।]
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/107/20_utAhaM_naktamuta.md">
-<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 
 

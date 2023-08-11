@@ -17,7 +17,7 @@ RV.2.22.4b; SV.1.466b.
 भु꣢वो꣣ वि꣡श्व꣢म꣣भ्य꣡दे꣢व꣣मो꣡ज꣢सा वि꣣दे꣡दूर्ज꣢꣯ꣳ श꣣त꣡क्र꣢तुर्वि꣣दे꣡दिष꣢꣯म् ॥ 30:0466 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/022/04_tava_tyannaryaM.md">
-<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 
 

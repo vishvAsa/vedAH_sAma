@@ -17,7 +17,7 @@ unicode_script: devanagari
 अ꣣भि꣡ त्वा꣢ शूर नोनु꣣मो꣡ऽदु꣢ग्धा इव धे꣣न꣡वः꣢। ई꣡शा꣢नम꣣स्य꣡ जग꣢꣯तः स्व꣣र्दृ꣢श꣣मी꣡शा꣢नमिन्द्र त꣣स्थु꣡षः꣢ ॥ 40:0233 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/032/22_abhi_tvA.md">
-<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 
 
@@ -34,7 +34,7 @@ unicode_script: devanagari
 न꣡ त्वावा꣢꣯ꣳअ꣣न्यो꣢ दि꣣व्यो꣡ न पार्थि꣢꣯वो꣣ न꣢ जा꣣तो꣡ न ज꣢꣯निष्यते। अ꣣श्वाय꣡न्तो꣢ मघवन्निन्द्र वा꣣जि꣡नो꣢ ग꣣व्य꣡न्त꣢स्त्वा हवामहे ॥ 11-2:0681 ॥॥11(यी)॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/032/23_na_tvAvA_N.md">
-<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 
 

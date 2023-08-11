@@ -12,7 +12,7 @@ unicode_script: devanagari
 अ꣣भी꣡ नो꣢ वाज꣣सा꣡त꣢मꣳ र꣣यि꣡म꣢र्ष शत꣣स्पृ꣡ह꣢म्। इ꣡न्दो꣢ स꣣ह꣡स्र꣢भर्णसं तुविद्यु꣣म्नं꣡ वि꣢भा꣣स꣡ह꣢म् ॥ 05:0549 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/098/01_abhi_no.md">
-<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 
 अ॒भि नो॑ वाज॒सात॑मं र॒यिम॑र्ष पुरु॒स्पृह॑म् ।  

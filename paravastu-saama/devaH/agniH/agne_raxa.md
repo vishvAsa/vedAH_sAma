@@ -15,7 +15,7 @@ unicode_script: devanagari
 अ꣢ग्ने꣣ र꣡क्षा꣢ णो꣣ अ꣡ꣳह꣢सः꣣ प्र꣡ति꣢ स्म देव रीष꣣तः꣢। त꣡पि꣢ष्ठैर꣣ज꣡रो꣢ दह ॥ 24:0024 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/015/13_agne_raxA.md">
-<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 
 अग्ने॒ रक्षा॑ णो॒ अंह॑सः॒  

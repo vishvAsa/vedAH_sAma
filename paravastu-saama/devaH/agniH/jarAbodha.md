@@ -13,7 +13,7 @@ unicode_script: devanagari
 ज꣡रा꣢बोध꣣ त꣡द्वि꣢विड्ढि वि꣣शे꣡वि꣢शे य꣣ज्ञि꣡या꣢य। स्तो꣡म꣢ꣳ रु꣣द्रा꣡य꣢ दृशी꣣क꣢म् ॥ 03-1:1663 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/027/10_jarAbodha_tadviviDDhi.md">
-<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 
 जरा॑+++(=स्तुति)+++बोध॒ तद्वि॑विड्ढि+++(=प्रविश)+++  

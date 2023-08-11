@@ -17,7 +17,7 @@ unicode_script: devanagari
 सु꣣रूपकृत्नु꣢मू꣣त꣡ये꣢ सु꣣दु꣡घा꣢मिव गो꣣दु꣡हे꣢। जु꣣हूम꣢सि꣣ द्य꣡वि꣢द्यवि ॥ 16:0160 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/004/01_surUpakRtnumUtaye_sudughAmiva.md">
-<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 
 

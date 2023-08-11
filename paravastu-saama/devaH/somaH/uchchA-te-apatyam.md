@@ -12,7 +12,7 @@ unicode_script: devanagari
 उ꣣च्चा꣡ ते꣢ जा꣣त꣡मन्ध꣢꣯सो दि꣣वि꣡ सद्भूम्या द꣢꣯दे। उ꣣ग्र꣢꣫ꣳ शर्म꣣ म꣢हि꣣ श्र꣡वः꣢ ॥ 31:0467 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/061/10_uchchA_te.md">
-<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 
 

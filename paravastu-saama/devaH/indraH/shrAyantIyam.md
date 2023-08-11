@@ -15,7 +15,7 @@ RV.8.99.3a; AV;S.20.58.1a; SV.1.267a; 2.669a; VS.33.41a; JB.3.261a; KB.25.6; A;S
 श्रा꣡य꣢न्त इव꣣ सू꣢र्यं꣣ वि꣡श्वेदिन्द्र꣢꣯स्य भक्षत। व꣡सू꣢नि जा꣣तो꣡ जनि꣢꣯मा꣣न्यो꣡ज꣢सा꣣ प्र꣡ति꣢ भा꣣गं꣡ न दी꣢꣯धिमः ॥ 25:0267 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/099/03_shrAyanta_iva.md">
-<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 
 
@@ -33,7 +33,7 @@ RV.8.99.3a; AV;S.20.58.1a; SV.1.267a; 2.669a; VS.33.41a; JB.3.261a; KB.25.6; A;S
 अ꣡ल꣢र्षिरातिं वसु꣣दा꣡मुप꣢꣯ स्तुहि भ꣣द्रा꣡ इन्द्र꣢꣯स्य रा꣣त꣡यः꣢। यो꣡ अ꣢स्य꣣ का꣡मं꣢ विध꣣तो꣡ न रोष꣢꣯ति꣣ म꣡नो꣢ दा꣣ना꣡य꣢ चो꣣द꣡य꣢न् ॥ 14-2:1320 ॥ ॥14 (लू)॥ [धा. 19 । उ नास्ति । स्व. 6 ।]
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/099/04_anarsharAtiM_vasudAmupa.md">
-<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 
 अन॑र्शरातिं +++(=अपापकदानम्)+++ वसु॒दाम् +++(इन्द्रम्)+++ उप स्तुहि भ॒द्रा इन्द्र॑स्य रा॒तयः +++(=दानानि)+++ ।  

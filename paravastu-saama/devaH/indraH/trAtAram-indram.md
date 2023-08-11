@@ -18,12 +18,12 @@ unicode_script: devanagari
 
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/047/11_trAtAramindramavitAramindraM_havehave.md">
-<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 
 त्रा॒तार॑म् इन्द्र॑म् अवि॒तार॑म् इन्द्रं  
-हवे॑हवेे+++(=ह्वाने ह्वाने)+++ सु॒हवं॒+++(=स्वाह्वेयं)+++  शूर॒मिन्द्र॑म् ।  
-ह्वया॑मि श॒क्रम् पु॑रुहू॒तमिन्द्रं॑  
+हवे॑हवेे+++(=ह्वाने ह्वाने)+++ सु॒हवं॒+++(=स्वाह्वेयं)+++  शूर॒म् इन्द्र॑म् ।  
+ह्वया॑मि श॒क्रम् पु॑रुहू॒तम् इन्द्रं॑  
 स्व॒स्ति नो॑ म॒घवा॑ धा॒त्विन्द्रः॑ ।
 
 </details>

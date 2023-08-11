@@ -12,7 +12,7 @@ unicode_script: devanagari
 त꣡द्वो꣢ गाय सु꣣ते꣡ सचा꣢꣯ पुरुहू꣣ता꣢य꣣ स꣡त्व꣢ने। शं꣢꣫ यद्गवे꣣ न꣢ शा꣣कि꣡ने꣢ ॥ 19:0115 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/045/22_tadvo_gAya.md">
-<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 
 

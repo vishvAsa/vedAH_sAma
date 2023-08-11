@@ -16,7 +16,7 @@ RV.8.89.5a; SV.2.779a; ArS.2.7a; KB.24.5; A;S.8.5.12; 10.2.22; ;S;S.11.11.14; 18
 य꣡ज्जाय꣢꣯था अपूर्व्य꣣ म꣡घ꣢वन्वृत्र꣣ह꣡त्या꣢य। त꣡त्पृ꣢थि꣣वी꣡म꣢प्रथय꣣स्त꣡द꣢स्तभ्ना उ꣣तो꣡ दिव꣢꣯म् ॥ 16:0601 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/089/05_yajjAyathA_apUrvya.md">
-<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 
 यज्जाय॑था +++(=अजायथाः)+++ अपूर्व्य॒  

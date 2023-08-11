@@ -12,8 +12,7 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/5/2/01_0437_vishvatodAvanvishvato_na.md">
 <details open><summary><h3>01_0437 विश्वतोदावन्विश्वतो न ...{Loading}...</h3></summary>
 
-वि꣡श्व꣢तोदावन् +++(=दानवान् छेदनवान् वा)+++ वि꣣श्व꣡तो꣢ न꣣ आ꣡ भ꣢र꣣ यं꣢ त्वा꣣ श꣡वि꣢ष्ठ꣣मी꣡म꣢हे ॥ 01:0437 ॥
-
+वि꣡श्व꣢तोदावन्वि꣣श्व꣡तो꣢ न꣣ आ꣡ भ꣢र꣣ यं꣢ त्वा꣣ श꣡वि꣢ष्ठ꣣मी꣡म꣢हे ॥ 01:0437 ॥
 </details>
 </div>  
 

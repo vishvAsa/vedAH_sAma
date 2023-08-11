@@ -14,7 +14,7 @@ unicode_script: devanagari
 त्वा꣢मि꣣दा꣡ ह्यो नरोऽपी꣢꣯प्यन्वज्रि꣣न्भू꣡र्ण꣢यः। स꣡ इ꣢न्द्र꣣ स्तो꣡म꣢वाहस इ꣣ह꣡ श्रु꣣ध्यु꣢प꣣ स्व꣡स꣢र꣣मा꣡ ग꣢हि ॥ 10:0302 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/099/01_tvAmidA_hyo.md">
-<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 
 त्वाम् इ॒दा+++(=अद्य)+++ ह्यो+++(च)+++ नरो+++(=कर्मणां नेतारोयजमाना)+++  

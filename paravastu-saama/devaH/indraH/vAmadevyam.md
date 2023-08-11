@@ -11,7 +11,7 @@ unicode_script: devanagari
 क꣡या꣢ नश्चि꣣त्र꣡ आ भुव꣢꣯दू꣣ती꣢ स꣣दा꣢वृ꣣धः꣢ स꣡खा꣢। क꣢या꣣ श꣡चि꣢ष्ठया वृ꣣ता꣢ ॥ 12-1:0682 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/031/01_kayA_nashchitra.md">
-<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 
 कया॑ नश्चि॒त्र +++(=चयनीयः)+++ आ भु॑वद्  
@@ -28,7 +28,7 @@ unicode_script: devanagari
 क꣡स्त्वा꣢ स꣣त्यो꣡ मदा꣢꣯नां꣣ म꣡ꣳहि꣢ष्ठो मत्स꣣द꣡न्ध꣢सः। दृ꣣ढा꣡ चि꣢दा꣣रु꣢जे꣣ व꣡सु꣢ ॥ 12-2:0683 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/031/02_kastvA_satyo.md">
-<details open=""><summary><h4>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h4></summary>
+<details open><summary><h4>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 
 कस्त्वा॑ स॒त्यो मदा॑नां॒  
@@ -45,7 +45,7 @@ unicode_script: devanagari
 अ꣣भी꣢꣫ षु णः꣣ स꣡खी꣢नामवि꣣ता꣡ ज꣢रितृ꣣णा꣢म्। श꣣तं꣡ भ꣢वास्यू꣣त꣡ये꣢ ॥ 12-3:0684 ॥॥12(टा)॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/031/03_abhI_Shu.md">
-<details open=""><summary><h4>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h4></summary>
+<details open><summary><h4>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 
 अ॒भी षु णः॒ सखी॑नाम्  

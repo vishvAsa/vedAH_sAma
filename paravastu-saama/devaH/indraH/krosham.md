@@ -16,7 +16,7 @@ SV.1.381a; 2.96a; JB.1.227,228; PB.9.2.21. RV.8.13.1a; A;S.6.4.10; ;S;S.9.18.1; 
 इ꣡न्द्र꣢ सु꣣ते꣢षु꣣ सो꣡मे꣢षु꣣ क्र꣡तुं꣢ पुनीष उ꣣꣬क्थ्य꣢꣯म्। वि꣣दे꣢ वृ꣣ध꣢स्य꣣ द꣡क्ष꣢स्य म꣣हा꣢ꣳ हि षः ॥ 40:0381 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/013/01_indraH_suteShu.md">
-<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 
 

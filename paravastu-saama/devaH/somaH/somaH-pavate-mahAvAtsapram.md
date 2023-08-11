@@ -10,7 +10,7 @@ unicode_script: devanagari
 सो꣡मः꣢ पवते जनि꣣ता꣡ म꣢ती꣣नां꣡ ज꣢नि꣣ता꣢ दि꣣वो꣡ ज꣢नि꣣ता꣡ पृ꣢थि꣣व्याः꣢। ज꣣निता꣡ग्नेर्ज꣢꣯नि꣣ता꣡ सूर्य꣢꣯स्य जनि꣣ते꣡न्द्र꣢स्य जनि꣣तो꣡त विष्णोः꣢꣯ ॥ 41:0527 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/096/05_somaH_pavate.md">
-<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 
 सोमः॑ पवते +++(=पात्रेषु क्षरति)+++ जनि॒ता म॑ती॒नां  
@@ -30,7 +30,7 @@ unicode_script: devanagari
 ब्र꣣ह्मा꣢ दे꣣वा꣡नां꣢ पद꣣वीः꣡ क꣢वी꣣ना꣢꣫मृषि꣣र्वि꣡प्रा꣢णां महि꣣षो꣢ मृ꣣गा꣡णा꣢म्। श्ये꣣नो꣡ गृध्रा꣢꣯णा꣣ꣳ स्व꣡धि꣢ति꣣र्व꣡ना꣢ना꣣ꣳ सो꣡मः꣢ प꣣वि꣢त्र꣣म꣡त्ये꣢ति꣣ रे꣡भ꣢न् ॥ 19-2:0944 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/096/06_brahmA_devAnAM.md">
-<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 
 ब्र॒ह्मा दे॒वानां॑, पद॒वीः+++(=पद्धति-कृत्)+++ क॑वी॒नाम्  
@@ -49,7 +49,7 @@ unicode_script: devanagari
 प्रा꣡वी꣢विपद्वा꣣च꣢ ऊ꣣र्मिं꣢꣫ न सिन्धु꣣र्गि꣢र꣣ स्तो꣢मा꣣न्प꣡व꣢मानो मनी꣣षाः꣢। अ꣣न्तः꣡ पश्य꣢꣯न्वृ꣣ज꣢ने꣣मा꣡व꣢रा꣣ण्या꣡ ति꣢ष्ठति वृष꣣भो꣡ गोषु꣢꣯ जा꣡न꣢न् ॥ 19-3:0945 ॥ ॥19 (फू)॥ [धा. 30 । उ 2 । स्व. 6 ।]
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/096/07_prAvIvipadvAcha_UrmiM.md">
-<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 प्रावी॑विपद् +++(=प्रावेपयत् / प्रेरयत्)+++ वा॒च ऊ॒र्मिं न सिन्धु॒र्  
 गिरः॒ सोमः॒+++(सामवेदे भेदोऽत्र)+++ पव॑मानो मनी॒षाः +++(=हृदयङ्गमाः)+++ ।  

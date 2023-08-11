@@ -12,7 +12,7 @@ unicode_script: devanagari
 पि꣢बा꣣ सो꣡म꣢मिन्द्र꣣ म꣡न्द꣢तु त्वा꣣ यं꣡ ते꣢ सु꣣षा꣡व꣢ हर्य꣣श्वा꣡द्रिः꣢। सो꣣तु꣢र्बा꣣हु꣢भ्या꣣ꣳ सु꣡य꣢तो꣣ ना꣡र्वा꣢ ॥ 08:0398 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/022/01_pibA_somamindra.md">
-<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 
 

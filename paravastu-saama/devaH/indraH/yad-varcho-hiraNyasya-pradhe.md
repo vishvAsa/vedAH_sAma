@@ -10,12 +10,16 @@ unicode_script: devanagari
 <details open><summary><h3>39_0624 यद्वर्चो हिरण्यस्य ...{Loading}...</h3></summary>
 
 य꣢꣫द्वर्चो꣣ हि꣡र꣢ण्यस्य꣣ य꣢द्वा꣣ व꣢र्चो꣣ ग꣡वा꣢मु꣣त꣢। सृ꣢जामसि ॥ 39:0624 ॥
+
+
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/2_AraNyArchikaH/40_0625_sahastanna_indra.md">
 <details open><summary><h3>40_0625 सहस्तन्न इन्द्र ...{Loading}...</h3></summary>
 
 स꣢ह꣣स्त꣡न्न꣢ इन्द्र꣣ द꣣द्ध्यो꣢ज꣡ ई꣢शे꣣꣬ ह्यस्य म꣢ह꣣तो꣡ वि꣢रप्शिन्। स्थवि꣢꣯रं च꣣ वा꣡जं꣢ वृ꣡त्रे꣢षु꣣ श꣡त्रू꣢न्त्सु꣣ह꣡ना꣢ कृधी नः ॥ 40:0625 ॥
+
+
 </details>
 </div>  
 

@@ -10,12 +10,12 @@ unicode_script: devanagari
 
 
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/4/2/18_0359_purAM_bhinduryuvA.md">
-<details open><summary><h3>18_0359 पुराम् भिन्दुर्युवा ...{Loading}...</h3></summary>
+<details open><summary><h3>18_0359 पुरां भिन्दुर्युवा ...{Loading}...</h3></summary>
 
 पु꣣रां꣢ भि꣣न्दु꣡र्युवा꣢꣯ क꣣वि꣡रमि꣢꣯तौजा अजायत। इ꣢न्द्रो꣣ वि꣡श्व꣢स्य꣣ क꣡र्म꣢णो ध꣣र्त्ता꣢ व꣣ज्री꣡ पु꣢रुष्टु꣣तः꣢ ॥ 18:0359 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/011/04_purAM_bhinduryuvA.md">
-<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 
 पु॒रां भि॒न्दुर्+++(=भेत्ता)+++ युवा॑ क॒विरमि॑तौजा अजायत ।  

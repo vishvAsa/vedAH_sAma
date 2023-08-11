@@ -12,7 +12,7 @@ unicode_script: devanagari
 अ꣣भि꣡ वस्त्रा꣢꣯ सुवस꣣ना꣡न्य꣢र्षा꣣भि꣢ धे꣣नूः꣢ सु꣣दु꣡घाः꣢ पू꣣य꣡मा꣢नः। अ꣣भि꣡ च꣣न्द्रा꣡ भर्त्त꣢꣯वे नो꣣ हि꣡र꣢ण्या꣣भ्य꣡श्वा꣢न्र꣣थि꣡नो꣢ देव सोम ॥ 18-2:1427 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/097/50_abhi_vastrA.md">
-<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 
 अ॒भि वस्त्रा॑ सुवस॒नान्य॑र्षा॒भि धे॒नूः सु॒दुघाः॑ पू॒यमा॑नः ।  

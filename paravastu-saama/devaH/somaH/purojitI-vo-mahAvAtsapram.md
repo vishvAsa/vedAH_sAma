@@ -12,7 +12,7 @@ RV.9.101.1a; SV.1.545a; 2.47a; JB.1.116,161a,163a; 2.195,425; 3.79,195; PB.8.5.7
 पु꣣रो꣡जि꣢ती वो꣣ अ꣡न्ध꣢सः सु꣣ता꣡य꣢ मादयि꣣त्न꣡वे꣢। अ꣢प꣣ श्वा꣡न꣢ꣳ श्नथिष्टन꣣ स꣡खा꣢यो दीर्घजि꣣꣬ह्व्य꣢꣯म् ॥ 01:0545 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/101/01_purojitI_vo.md">
-<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 
 पु॒रोऽजि॑ती +++(=जयस्य)+++ वो॒ अन्ध॑सः +++(=अदनीयस्य सोमस्य)+++ सु॒ताय॑ मादयि॒त्नवे॑ ।  
@@ -28,7 +28,7 @@ RV.9.101.1a; SV.1.545a; 2.47a; JB.1.116,161a,163a; 2.195,425; 3.79,195; PB.8.5.7
 यो꣡ धार꣢꣯या पाव꣣क꣡या꣢ परिप्र꣣स्य꣡न्द꣢ते सु꣣तः꣢। इ꣢न्दु꣣र꣢श्वो꣣ न꣡ कृत्व्यः꣢꣯ ॥ 18-2:0698 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/101/02_yo_dhArayA.md">
-<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 
 यो धार॑या पाव॒कया॑ परिप्र॒स्यन्द॑ते सु॒तः ।  
@@ -38,23 +38,7 @@ RV.9.101.1a; SV.1.545a; 2.47a; JB.1.116,161a,163a; 2.195,425; 3.79,195; PB.8.5.7
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/1/1/18-3_0699_duroShamabhInaraH.md">
-<details open><summary><h3>18-3_0699 तन् दुरोषमभीनरः ...{Loading}...</h3></summary>
-
-तं꣢ दु꣣रो꣡ष꣢म꣣भी꣡नरः꣣ सो꣡मं꣢ वि꣣श्वा꣡च्या꣢ धि꣣या꣢। य꣣ज्ञा꣡य꣢ स꣣न्त्व꣡द्र꣢यः ॥ 18-3:0699 ॥ ॥18(यि)॥
-
-<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/101/03_taM_duroShamabhI.md">
-<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
-
-
-
-तं दु॒रोष॑म् +++(=दुर्दहं)+++ अ॒भी नरः॒ सोमं॑ वि॒श्वाच्या॑ धि॒या ।  
-य॒ज्ञं हि॑न्व॒न्त्य् +++(=प्रेरयन्ति)+++ अद्रि॑भिः +++(=अश्मभिः)+++ ३ +++(यज्ञाय सन्त्वद्रय इति साम्नि।)+++
-
-</details>
-</div>
-</details>
-</div>  
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/1/1/18-3_0699_duroShamabhInaraH.md"></div>  
 
 पु꣣रो꣡जि꣢ती वो꣣ अ꣡न्ध꣢सः सु꣣ता꣡य꣢ मादयि꣣त्न꣡वे꣢।  
 अ꣢प꣣ श्वा꣡न꣢ᳱ श्नथिष्टन꣣ स꣡खा꣢यो दीर्घजि꣣꣬ह्व्य꣢꣯म् ।।1 ।।  

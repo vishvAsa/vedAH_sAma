@@ -17,8 +17,8 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/2_AraNyArchikaH/09_0594_ahamasmi_prathamajA.md">
 <details open><summary><h3>09_0594 अहमस्मि प्रथमजा ...{Loading}...</h3></summary>
 
-
 अ꣣ह꣡म꣢स्मि प्रथम꣣जा꣢ ऋ꣣त꣢स्य꣣ पू꣡र्वं꣢ दे꣣वे꣡भ्यो꣢ अ꣣मृ꣡त꣢स्य꣣ ना꣡म꣢। यो꣢ मा꣣ द꣡दा꣢ति꣣ स꣢꣫ इदे꣣व꣡मा꣢वद꣣ह꣢꣫मन्न꣣म꣡न्न꣢म꣣द꣡न्त꣢मद्मि ॥ 09:0594 ॥
+
 
 </details>
 </div>  

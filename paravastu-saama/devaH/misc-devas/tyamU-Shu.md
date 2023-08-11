@@ -20,7 +20,7 @@ unicode_script: devanagari
 स्व꣣स्त꣢ये꣣ ता꣡र्क्ष्य꣢म् इ꣣हा꣡ हु꣢वेम ॥ 40:0332 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/178/01_tyamU_Shu.md">
-<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 
 त्यमू॒+++(=तं)+++ षु वा॒जिनं॑+++(=अन्नवन्तं बलवन्तं वा)+++ दे॒वजू॑तं +++(प्रेरितम् प्रीतं वा [सोमाहरणाय])+++  

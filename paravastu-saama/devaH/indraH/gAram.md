@@ -15,7 +15,7 @@ RV.8.2.1a
 इ꣣दं꣡ व꣢सो सु꣣त꣢꣫मन्धः꣣ पि꣢बा꣣ सु꣡पू꣢र्णमु꣣द꣡र꣢म्। अ꣡ना꣢भयिन्ररि꣣मा꣡ ते꣢ ॥ 28:0124 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/002/01_idaM_vaso.md">
-<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 
 इ॒दं व॑सो सु॒तम् अन्धः॒ +++(=अशनीयम्)+++  
@@ -32,7 +32,7 @@ RV.8.2.1a
 नृ꣡भि꣢र्धौ꣣तः꣢ सु꣣तो꣢꣫ अश्नै꣣र꣢व्या꣣ वा꣢रैः꣣ प꣡रि꣢पूतः। अ꣢श्वो꣣ न꣢ नि꣣क्तो꣢ न꣣दी꣡षु꣢ ॥ 08-2:0735 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/002/02_nRbhirdhUtaH_suto.md">
-<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 
 
@@ -45,12 +45,12 @@ RV.8.2.1a
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/1/2/08-3_0736_taM_te.md">
-<details open><summary><h3>08-3_0736 तन् ते ...{Loading}...</h3></summary>
+<details open><summary><h3>08-3_0736 तं ते ...{Loading}...</h3></summary>
 
 तं꣢ ते꣣ य꣢वं꣣ य꣢था꣣ गो꣡भिः꣢ स्वा꣣दु꣡म꣢कर्म श्री꣣ण꣡न्तः꣢। इ꣡न्द्र꣢ त्वा꣣स्मिं꣡त्स꣢ध꣣मा꣡दे꣢ ॥ 08-3:0736 ॥ ॥8(थौ)॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/002/03_taM_te.md">
-<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 
 

@@ -13,7 +13,7 @@ unicode_script: devanagari
 स꣡खा꣢य꣣ आ꣡ नि षी꣢꣯दत पुना꣣ना꣢य꣣ प्र꣡ गा꣢यत। शि꣢शुं꣣ न꣢ य꣣ज्ञैः꣡ परि꣢꣯ भूषत श्रि꣣ये꣢ ॥ 24:0568 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/104/01_sakhAya_A.md">
-<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 
 सखा॑य॒ आ नि षी॑दत पुना॒नाय॒ प्र गा॑यत ।  

@@ -15,7 +15,7 @@ RV.9.90.2a; SV.1.528a; 2.758a. P: abhi tripRTEMPiShTham Svidh.1.4.20; 5.16.
 अ꣣भि꣡ त्रि꣢पृ꣣ष्ठं꣡ वृष꣢꣯णं वयो꣣धा꣡मा꣢ङ्गो꣣षि꣡ण꣢मवावशन्त꣣ वा꣡णी꣢। व꣢ना꣣ व꣡सा꣢नो꣣ व꣡रु꣢णो꣣ न꣢उ। सिन्धू꣣र्वि꣡ र꣢त्न꣣धा꣡ द꣢यते꣣ वा꣡र्या꣢णि ॥ 42:0528 ॥  
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/090/02_abhi_tripRShThaM.md">
-<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 
 अ॒भि त्रि॑पृ॒ष्ठं +++(=त्रिस्तोत्रम् त्रिसवनं वा)+++ वृष॑णं +++(=वर्षकम्)+++ वयो॒धाम् +++(=अन्नदम्)+++    

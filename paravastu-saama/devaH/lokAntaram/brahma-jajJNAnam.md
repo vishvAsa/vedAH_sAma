@@ -1,9 +1,8 @@
 ---
-title: ब्रह्म जज्ञानम्  
-unicode_script: devanagari  
+title: ब्रह्म जज्ञानम्
+unicode_script: devanagari
 
 ---
-
 ## ऋक्
 
 ### परिचयः
@@ -13,24 +12,35 @@ unicode_script: devanagari
 
 ### ऋक्
 
-<div class="js_include" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/13/03_brahma_jajnAnam.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/13/03_brahma_jajnAnam.md">
+<details open><summary><h5>०३ ब्रह्म जज्ञानम् ...{Loading}...</h5></summary>
+
+ब्रह्म॑ +++(=मन्त्रः ([सौरमण्डलयज्ञे]))+++ जज्ञा॒नं +++(=उत्पन्नम्)+++ प्र॑थ॒मं पु॒रस्ता॑द्  
+वि सी॑म॒तस् सु॒रुचो॑ वे॒न आ॑वः ।  
+स बु॒ध्न्या॑ +++(=मूले भवः ([खस्य सूर्यः]))+++ उप॒मा अ॑स्य वि॒ष्ठाः +++(=विस्थितः)+++,  
+स॒तश्च॒ योनि॒म् +++(सूर्यम्)+++ अस॑तश्च॒ विवः॑ +++(=विवृतवान्)+++  ।
+
+{{< figure src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/venus_morning_star.jpg"  class="thumbnail">}}
+
+</details>
+</div>  
 
 
 
 ## साम १
 
 - पारम्परिक-गान-मूलम् [अत्र](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI%23mode/1up&sa=D&ust=1542425956412000)।
-<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+<div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/brahma-jajJNAnam-1.mp3"></div>
-<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+<div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/brahma-jajJNAnam-1.mp3"></div>
-<div class="audioEmbed"  caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1x" src="https://archive
+<div caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1x" class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018/brahma-jajJNAnam-1.mp3"></div>
-<div class="audioEmbed"  caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1.5x" src="https://archive
+<div caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1.5x" class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018-150p-speed/brahma-jajJNAnam-1.mp3"></div>
-<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015 1x" src="https://archive
+<div caption="गोपालपवनयोर् अनुवचनम् 2015 1x" class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/brahma-jajJNAnam-1.mp3"></div>
-<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015 1.5x" src="https://archive
+<div caption="गोपालपवनयोर् अनुवचनम् 2015 1.5x" class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015-150p-speed/brahma-jajJNAnam-1.mp3"></div>
 
 ब्र+++([त])+++ह्मा+++(%)+++ ब्रा+++([तः]--%३)+++अह्मा, ज+++([पो])+++ज्ञा+++(")+++आनम्।
@@ -52,17 +62,17 @@ unicode_script: devanagari
 ओ+++([ति]"३)+++इ,डा+++([प]--"३)+++अ॥
 
 ## साम २
-<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+<div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/brahma-jajJNAnam-2.mp3"></div>
-<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+<div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/brahma-jajJNAnam-2.mp3"></div>
-<div class="audioEmbed"  caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1x" src="https://archive
+<div caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1x" class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018/brahma-jajJNAnam-2.mp3"></div>
-<div class="audioEmbed"  caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1.5x" src="https://archive
+<div caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1.5x" class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018-150p-speed/brahma-jajJNAnam-2.mp3"></div>
-<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015 1x" src="https://archive
+<div caption="गोपालपवनयोर् अनुवचनम् 2015 1x" class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/brahma-jajJNAnam-2.mp3"></div>
-<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015 1.5x" src="https://archive
+<div caption="गोपालपवनयोर् अनुवचनम् 2015 1.5x" class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015-150p-speed/brahma-jajJNAnam-2.mp3"></div>
 
 {हु+++([घॄ])+++वे+++([रॄ]"३)+++हा+++(३)+++{अ}इ।}+++([द्विः])+++। ही+++([घू]%)+++षा+++([रॄ]--%३)+++अया+++(३)+++।

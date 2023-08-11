@@ -25,7 +25,7 @@ RV.7.32.16
 पु꣣नानः꣡ सो꣢म꣣ धा꣡र꣢या꣣पो꣡ वसा꣢꣯नो अर्षसि। आ꣡ र꣢त्न꣣धा꣡ योनि꣢꣯मृ꣣त꣡स्य꣢ सीद꣣स्युत्सो꣢ दे꣣वो꣡ हि꣢र꣣ण्य꣡यः꣢ ॥ 25:0511 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/107/04_punAnaH_soma.md">
-<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 
 
@@ -43,7 +43,7 @@ RV.7.32.16
 दु꣣हान꣡ ऊध꣢꣯र्दि꣣व्यं꣡ मधु꣢꣯ प्रि꣣यं꣢ प्र꣣त्न꣢ꣳ स꣣ध꣢स्थ꣣मा꣡स꣢दत्। आ꣣पृ꣡च्छ्यं꣢ ध꣣रु꣡णं꣢ वा꣣꣬ज्य꣢꣯र्षसि꣣ नृ꣡भि꣢र्धौ꣣तो꣡ वि꣢चक्ष꣣णः꣢ ॥ 09-2:0676 ॥ ॥9(लु)॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/107/05_duhAna_UdhardivyaM.md">
-<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 
 दु॒हा॒न ऊध॑र्दि॒व्यं मधु॑ प्रि॒यं प्र॒त्नं +++(=पुरातनम्)+++ स॒धस्थ॒मास॑दत् +++(=स्थानमासदत्)+++ ।

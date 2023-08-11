@@ -18,7 +18,7 @@ unicode_script: devanagari
 रु꣣द्र꣢स्य꣣ म꣢र्या꣣ अ꣢था꣣ स्व꣡श्वाः꣢ ॥ 44:0433 ॥  
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/056/01_ka_IM.md">
-<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 
 क+++(य्)+++ ईं॒ व्य॑क्ता॒  

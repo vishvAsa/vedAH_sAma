@@ -10,7 +10,7 @@ unicode_script: devanagari
 अ꣢ग्न꣣ आ꣡ या꣢ह्य꣣ग्नि꣢भि꣣र्हो꣡ता꣢रं त्वा वृणीमहे। आ꣡ त्वाम꣢꣯नक्तु꣣ प्र꣡य꣢ता ह꣣वि꣡ष्म꣢ती꣣ य꣡जि꣢ष्ठं ब꣣र्हि꣢रा꣣स꣡दे꣢ ॥ 07-1:1552 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/060/01_agna_A.md">
-<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 
 अग्न॒ आ या॑ह्य॒ग्निभि॒र्होता॑रं त्वा वृणीमहे ।  
