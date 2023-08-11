@@ -218,7 +218,7 @@ title = "२ आरण्यार्चिकः (५८६-६४०)"
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_sAma/kauthumam/saMhitA/mUlam/2_AraNyArchikaH/18_0603_san_te.md"></div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_sAma/kauthumam/saMhitA/mUlam/2_AraNyArchikaH/18_0603_saM_te.md"></div>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_sAma/kauthumam/saMhitA/mUlam/2_AraNyArchikaH/19_0604_tvamimA_oShadhIH.md">
 <details open><summary><h2>19_0604 त्वमिमा ओषधीः ...{Loading}...</h2></summary>
 
@@ -559,8 +559,8 @@ title = "२ आरण्यार्चिकः (५८६-६४०)"
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_sAma/kauthumam/saMhitA/mUlam/2_AraNyArchikaH/44_0629_chitran_devAnAmudagAdanIkam.md"></div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_sAma/kauthumam/saMhitA/mUlam/2_AraNyArchikaH/45_0630_Aya~N_gauH.md"></div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_sAma/kauthumam/saMhitA/mUlam/2_AraNyArchikaH/44_0629_chitraM_devAnAmudagAdanIkam.md"></div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_sAma/kauthumam/saMhitA/mUlam/2_AraNyArchikaH/45_0630_AyaM_gauH.md"></div>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_sAma/kauthumam/saMhitA/mUlam/2_AraNyArchikaH/46_0631_antashcharati_rochanAsya.md">
 <details open><summary><h2>46_0631 अन्तश्चरति रोचनास्य ...{Loading}...</h2></summary>
 
@@ -624,7 +624,7 @@ title = "२ आरण्यार्चिकः (५८६-६४०)"
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_sAma/kauthumam/saMhitA/mUlam/2_AraNyArchikaH/51_0636_pratya~N_devAnAm.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_sAma/kauthumam/saMhitA/mUlam/2_AraNyArchikaH/51_0636_pratyaM_devAnAm.md">
 <details open><summary><h2>51_0636 प्रत्यङ् देवानाम् ...{Loading}...</h2></summary>
 
 प्र꣣त्य꣢ङ् दे꣣वा꣢नां꣣ वि꣡शः꣢ प्र꣣त्य꣡ङ्ङुदे꣢꣯षि꣣ मा꣡नु꣢षान्। स्व꣢꣯र्दृ꣣शे꣢ ॥ 51:0636 ॥

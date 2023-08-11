@@ -90,7 +90,7 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_sAma/kauthumam/saMhitA/mUlam/3_mahAnAmny-ArchikaH/07_0647_indran_dhanasya.md"></div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_sAma/kauthumam/saMhitA/mUlam/3_mahAnAmny-ArchikaH/07_0647_indraM_dhanasya.md"></div>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_sAma/kauthumam/saMhitA/mUlam/3_mahAnAmny-ArchikaH/08_0648_pUrvasya_yatte.md">
 <details open><summary><h2>08_0648 पूर्वस्य यत्ते ...{Loading}...</h2></summary>
 
