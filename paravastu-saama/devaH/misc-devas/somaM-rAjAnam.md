@@ -1,5 +1,5 @@
 ---
-title: 
+title: सोमं राजानं
 unicode_script: devanagari
 
 status: to_memorize
@@ -7,7 +7,8 @@ practice_weight: 0
 ---
 
 ## ऋक्
-सोमं राजानं वरुणं । अग्निमन्वारभामहे । आदित्यं विष्णुं सूर्यं । ब्रह्माणं च बृहस्पतिम् ।  
+<div class="js_include" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/37_0091_somaM_rAjAnam.md"  newLevelForH1="5" includeTitle="false"> </div>  
+  
 
 ## साम
 
