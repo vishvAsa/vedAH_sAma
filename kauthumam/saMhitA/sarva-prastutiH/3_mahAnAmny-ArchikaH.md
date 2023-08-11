@@ -90,7 +90,21 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_sAma/kauthumam/saMhitA/mUlam/3_mahAnAmny-ArchikaH/07_0647_indraM_dhanasya.md"></div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_sAma/kauthumam/saMhitA/mUlam/3_mahAnAmny-ArchikaH/07_0647_indraM_dhanasya.md">
+<details open><summary><h2>07_0647 इन्द्रं धनस्य ...{Loading}...</h2></summary>
+
+इ꣢न्द्रं꣣ ध꣡न꣢स्य꣣ सा꣡त꣢ये हवामहे꣣ जे꣡ता꣢र꣣म꣡प꣢राजितम्। स꣡ नः꣢ स्व꣣र्ष꣢द꣣ति द्वि꣢षः꣣ स꣡ नः꣢ स्वर्ष꣣द꣢ति꣣ द्वि꣡षः꣢ ॥ 07:0647 ॥
+
+<details><summary>मूलम् (VC)</summary>
+
+इ꣢न्द्रं꣣ ध꣡न꣢स्य꣣ सा꣡त꣢ये हवामहे꣣ जे꣡ता꣢र꣣म꣡प꣢राजितम् । स꣡ नः꣢ स्वर्ष꣣द꣢ति꣣ द्वि꣢षः꣣ स꣡ नः꣢ स्वर्ष꣣द꣢ति꣣ द्वि꣡षः꣢ ॥६४७
+</details>
+<details><summary>विस्वर-मूलम् (VC)</summary>
+
+इन्द्रं धनस्य सातये हवामहे जेतारमपराजितम् । स नः स्वर्षदति द्विषः स नः स्वर्षदति द्विषः ॥६४७
+</details>
+</details>
+</div>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_sAma/kauthumam/saMhitA/mUlam/3_mahAnAmny-ArchikaH/08_0648_pUrvasya_yatte.md">
 <details open><summary><h2>08_0648 पूर्वस्य यत्ते ...{Loading}...</h2></summary>
 

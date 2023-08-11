@@ -218,7 +218,21 @@ title = "२ आरण्यार्चिकः (५८६-६४०)"
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_sAma/kauthumam/saMhitA/mUlam/2_AraNyArchikaH/18_0603_saM_te.md"></div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_sAma/kauthumam/saMhitA/mUlam/2_AraNyArchikaH/18_0603_saM_te.md">
+<details open><summary><h2>18_0603 सं ते ...{Loading}...</h2></summary>
+
+सं꣢ ते꣣ प꣡या꣢ꣳसि꣣ स꣡मु꣢ यन्तु꣣ वा꣢जाः꣣ सं꣡ वृष्ण्या꣢꣯न्यभिमाति꣣षा꣡हः꣢। स्युत्त꣣मा꣡नि꣢ धिष्व ॥ 18:0603 ॥
+
+<details><summary>मूलम् (VC)</summary>
+
+सं꣢ ते꣣ प꣡या꣢ꣳसि꣣ स꣡मु꣢ यन्तु꣣ वा꣢जाः꣣ सं꣢꣯ वृष्ण्या꣢꣯न्यभिमाति꣣षा꣡हः꣢ । आ꣣प्या꣡य꣢मानो अ꣣मृ꣡ता꣢य सोम दि꣣वि꣡ श्रवा꣢꣯ꣳस्युत्त꣣मा꣡नि꣢ धिष्व ॥६०३॥
+</details>
+<details><summary>विस्वर-मूलम् (VC)</summary>
+
+सं ते पयाꣳसि समु यन्तु वाजाः सं वृष्ण्यान्यभिमातिषाहः । आप्यायमानो अमृताय सोम दिवि श्रवाꣳस्युत्तमानि धिष्व ॥६०३॥
+</details>
+</details>
+</div>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_sAma/kauthumam/saMhitA/mUlam/2_AraNyArchikaH/19_0604_tvamimA_oShadhIH.md">
 <details open><summary><h2>19_0604 त्वमिमा ओषधीः ...{Loading}...</h2></summary>
 
@@ -559,8 +573,32 @@ title = "२ आरण्यार्चिकः (५८६-६४०)"
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_sAma/kauthumam/saMhitA/mUlam/2_AraNyArchikaH/44_0629_chitraM_devAnAmudagAdanIkam.md"></div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_sAma/kauthumam/saMhitA/mUlam/2_AraNyArchikaH/45_0630_AyaM_gauH.md"></div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_sAma/kauthumam/saMhitA/mUlam/2_AraNyArchikaH/44_0629_chitraM_devAnAmudagAdanIkam.md">
+<details open><summary><h2>44_0629 चित्रं देवानामुदगादनीकम् ...{Loading}...</h2></summary>
+
+चि꣣त्रं꣢ दे꣣वा꣢ना꣣मु꣡द꣢गा꣣द꣡नी꣢कं꣣ च꣡क्षु꣢र्मि꣣त्र꣢स्य꣣ व꣡रु꣢णस्या꣣ग्ने꣢। सू꣡र्य꣢ आ꣣त्मा꣡ जग꣢꣯तस्त꣣स्थु꣡ष꣢श्च ॥ 44:0629 ॥
+
+<details><summary>मूलम् (VC)</summary>
+
+चि꣣त्रं꣢ दे꣣वा꣢ना꣣मु꣡द꣢गा꣣द꣡नी꣢कं꣣ च꣡क्षु꣢र्मि꣣त्र꣢स्य꣣ व꣡रु꣢णस्या꣣ग्नेः꣢ । आ꣢प्रा꣣ द्या꣡वा꣢पृथि꣣वी꣢ अ꣣न्त꣡रि꣢क्ष꣣ꣳ सू꣡र्य꣢ आ꣣त्मा꣡ जग꣢꣯तस्त꣣स्थु꣡ष꣢श्च ॥६२९॥
+</details>
+<details><summary>विस्वर-मूलम् (VC)</summary>
+
+चित्रं देवानामुदगादनीकं चक्षुर्मित्रस्य वरुणस्याग्नेः । आप्रा द्यावापृथिवी अन्तरिक्षꣳ सूर्य आत्मा जगतस्तस्थुषश्च ॥६२९॥
+</details>
+</details>
+</div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_sAma/kauthumam/saMhitA/mUlam/2_AraNyArchikaH/45_0630_AyaM_gauH.md">
+<details open><summary><h2>45_0630 आयं गौः ...{Loading}...</h2></summary>
+
+आ꣡यं गौः पृश्नि꣢꣯रक्रमी꣣द꣡स꣢दन्मा꣣त꣡रं꣢ पु꣣रः꣢। पि꣣त꣡रं꣢ च प्र꣣य꣡न्त्स्वः꣢ ॥ 45:0630 ॥
+
+<details><summary>विस्वर-मूलम् (VC)</summary>
+
+आयं गौः पृश्निरक्रमीदसदन्मातरं पुरः । पितरं च प्रयन्त्स्वः ॥६३०॥
+</details>
+</details>
+</div>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_sAma/kauthumam/saMhitA/mUlam/2_AraNyArchikaH/46_0631_antashcharati_rochanAsya.md">
 <details open><summary><h2>46_0631 अन्तश्चरति रोचनास्य ...{Loading}...</h2></summary>
 
@@ -624,21 +662,7 @@ title = "२ आरण्यार्चिकः (५८६-६४०)"
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_sAma/kauthumam/saMhitA/mUlam/2_AraNyArchikaH/51_0636_pratyaM_devAnAm.md">
-<details open><summary><h2>51_0636 प्रत्यङ् देवानाम् ...{Loading}...</h2></summary>
-
-प्र꣣त्य꣢ङ् दे꣣वा꣢नां꣣ वि꣡शः꣢ प्र꣣त्य꣡ङ्ङुदे꣢꣯षि꣣ मा꣡नु꣢षान्। स्व꣢꣯र्दृ꣣शे꣢ ॥ 51:0636 ॥
-
-<details><summary>मूलम् (VC)</summary>
-
-प्र꣣त्य꣢ङ् दे꣣वा꣢नां꣣ वि꣡शः꣢ प्र꣣त्य꣡ङ्ङुदे꣢꣯षि꣣ मा꣡नु꣢षान् । प्र꣣त्य꣢꣫ङ् विश्व꣣꣬ꣳ स्व꣢꣯र्दृ꣣शे꣢ ॥६३६॥
-</details>
-<details><summary>विस्वर-मूलम् (VC)</summary>
-
-प्रत्यङ् देवानां विशः प्रत्यङ्ङुदेषि मानुषान् । प्रत्यङ् विश्वꣳ स्वर्दृशे ॥६३६॥
-</details>
-</details>
-</div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_sAma/kauthumam/saMhitA/mUlam/2_AraNyArchikaH/51_0636_pratyaM_devAnAm.md"></div>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_sAma/kauthumam/saMhitA/mUlam/2_AraNyArchikaH/52_0637_yenA_pAvaka.md">
 <details open><summary><h2>52_0637 येना पावक ...{Loading}...</h2></summary>
 
