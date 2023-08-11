@@ -38,7 +38,7 @@ RV.9.101.1a; SV.1.545a; 2.47a; JB.1.116,161a,163a; 2.195,425; 3.79,195; PB.8.5.7
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/1/1/18-3_0699_tan_duroShamabhInaraH.md">
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/1/1/18-3_0699_duroShamabhInaraH.md">
 <details open><summary><h3>18-3_0699 तन् दुरोषमभीनरः ...{Loading}...</h3></summary>
 
 तं꣢ दु꣣रो꣡ष꣢म꣣भी꣡नरः꣣ सो꣡मं꣢ वि꣣श्वा꣡च्या꣢ धि꣣या꣢। य꣣ज्ञा꣡य꣢ स꣣न्त्व꣡द्र꣢यः ॥ 18-3:0699 ॥ ॥18(यि)॥

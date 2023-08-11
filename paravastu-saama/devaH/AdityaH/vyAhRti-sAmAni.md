@@ -6,7 +6,7 @@ unicode_script: devanagari
 ## ऋक्
 भूः - स्वर्ज्योतिः। भुवः - स्वर्ज्योतिः। सुवः - स्वर्ज्योतिः। सत्यम् - स्वर्ज्योतिः। पुरुषः - स्वर्ज्योतिः।
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/6/3/10-1_1462_tatsaviturvareNyam_bhargo.md">
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/6/3/10-1_1462_tatsaviturvareNyaM_bhargo.md">
 <details open><summary><h3>10-1_1462 तत्सवितुर्वरेण्यम् भर्गो ...{Loading}...</h3></summary>
 
 त꣡त्स꣢वि꣣तु꣡र्वरे꣢꣯ण्यं꣣ भ꣡र्गो꣢ दे꣣व꣡स्य꣢ धीमहि। धि꣢यो꣣ यो꣡ नः꣢ प्रचो꣣द꣡या꣢त् ॥ 10-1:1462 ॥

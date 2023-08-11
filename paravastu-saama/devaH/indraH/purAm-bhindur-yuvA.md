@@ -9,7 +9,7 @@ unicode_script: devanagari
 ऋग्वेदे 1.11.4। कौथुमायाम् 1.1.4.1.8।
 
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/4/2/18_0359_purAm_bhinduryuvA.md">
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/4/2/18_0359_purAM_bhinduryuvA.md">
 <details open><summary><h3>18_0359 पुराम् भिन्दुर्युवा ...{Loading}...</h3></summary>
 
 पु꣣रां꣢ भि꣣न्दु꣡र्युवा꣢꣯ क꣣वि꣡रमि꣢꣯तौजा अजायत। इ꣢न्द्रो꣣ वि꣡श्व꣢स्य꣣ क꣡र्म꣢णो ध꣣र्त्ता꣢ व꣣ज्री꣡ पु꣢रुष्टु꣣तः꣢ ॥ 18:0359 ॥
