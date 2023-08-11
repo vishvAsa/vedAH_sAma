@@ -7,7 +7,7 @@ unicode_script: devanagari
 सायणः कौथुमभाष्ये [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n155)। शुनःशेपः। अग्निः।
 
 १ १ १ ०२०७  
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/17_0017_ashvan_na.md">
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/17_0017_ashvaM_na.md">
 <details open><summary><h3>17_0017 अश्वन् न ...{Loading}...</h3></summary>
 
 अ꣢श्वं꣣ न꣢ त्वा꣣ वा꣡र꣢वन्तं व꣣न्द꣡ध्या꣢ अ꣣ग्निं꣡ नमो꣢꣯भिः। स꣣म्रा꣡ज꣢न्तमध्व꣣रा꣡णा꣢म् ॥ 17:0017 ॥
