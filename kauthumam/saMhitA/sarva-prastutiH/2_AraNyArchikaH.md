@@ -662,7 +662,21 @@ title = "२ आरण्यार्चिकः (५८६-६४०)"
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_sAma/kauthumam/saMhitA/mUlam/2_AraNyArchikaH/51_0636_pratyaM_devAnAm.md"></div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_sAma/kauthumam/saMhitA/mUlam/2_AraNyArchikaH/51_0636_pratya~N_devAnAm.md">
+<details open><summary><h2>51_0636 प्रत्यङ् देवानाम् ...{Loading}...</h2></summary>
+
+प्र꣣त्य꣢ङ् दे꣣वा꣢नां꣣ वि꣡शः꣢ प्र꣣त्य꣡ङ्ङुदे꣢꣯षि꣣ मा꣡नु꣢षान्। स्व꣢꣯र्दृ꣣शे꣢ ॥ 51:0636 ॥
+
+<details><summary>मूलम् (VC)</summary>
+
+प्र꣣त्य꣢ङ् दे꣣वा꣢नां꣣ वि꣡शः꣢ प्र꣣त्य꣡ङ्ङुदे꣢꣯षि꣣ मा꣡नु꣢षान् । प्र꣣त्य꣢꣫ङ् विश्व꣣꣬ꣳ स्व꣢꣯र्दृ꣣शे꣢ ॥६३६॥
+</details>
+<details><summary>विस्वर-मूलम् (VC)</summary>
+
+प्रत्यङ् देवानां विशः प्रत्यङ्ङुदेषि मानुषान् । प्रत्यङ् विश्वꣳ स्वर्दृशे ॥६३६॥
+</details>
+</details>
+</div>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_sAma/kauthumam/saMhitA/mUlam/2_AraNyArchikaH/52_0637_yenA_pAvaka.md">
 <details open><summary><h2>52_0637 येना पावक ...{Loading}...</h2></summary>
 
