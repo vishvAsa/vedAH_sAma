@@ -88,7 +88,7 @@ unicode_script: devanagari
 
 # पञ्च शांतिः
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/devaH/AryaH/hindukaH/misc-devas/yajuH/tat_shaMyoH/"></div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/devaH/AryaH/hindukaH/classes/sadbhAvaH/yajuH/tach_ChaMyoH/"></div>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/05_taittirIyopaniShat/01_shanno_mitraH_prArambhe/">
 <details open><summary><h2>शन्नो मित्रः ...{Loading}...</h2></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="../shanno_mitraH"></div>  
