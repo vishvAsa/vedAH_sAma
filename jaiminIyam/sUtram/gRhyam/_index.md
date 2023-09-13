@@ -5,6 +5,25 @@ unicode_script = "devanagari"
 
 अनुवादः सटीकम् [अत्र](https://archive.org/details/dli.ernet.552491/page/n97/mode/2up) ।
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Sources: Willem Caland, The Jaiminig¨hyasªtra belonging to the SŒmaveda,
+
+Lahore 1922.
+
+Typescript: Entered by Thomas Zehnder
+
+Conversion to Devanagari using Vedapad Software by Ralph Bunker
+
+Formatted for Maharishi University of Management Vedic Literature
+Collection
+
+</details>
+
+<div class="js_include" url="homaH"  newLevelForH1="5" includeTitle="false"> </div>  
+
+
+
 ## पुंसवनम्
 
 पुंसवनं तृतीये मास्यन्यत्र गृष्टेर्घृते चरुं श्रपयित्वा पृषदाज्यं वा
@@ -272,7 +291,7 @@ unicode_script = "devanagari"
 
 गौदानिकव्रातिकौपनिषदाः संवत्सरास्तेषु सायम्प्रातरुदकोपस्पर्शनं
 नानुप-स्पृश्य भोजनं प्रातः सायमुपस्पृश्या
-समिदाधानादरण्यात्समिधमाहृत्याद-ध्यादादित्यव्रातिकः
+समिदाधानादरण्यात्समिधमाहृत्यादध्यादादित्यव्रातिकः
 संवत्सर एकवासा न युक्तमारोहेदादित्यं नान्तर्दधीत छत्त्रेण
 महीमासनशयनाभ्यामुपानद्भ्यां च नोर्ध्वं
 जान्वोरपः प्रस्नायादन्यत्रा-चार्यवचनाद्व्रातिके
@@ -897,28 +916,3 @@ unicode_script = "devanagari"
  
 
 इति जैमिनिसूत्रं समाप्तम्
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Credits
-
-Sources: Willem Caland, The Jaiminig¨hyasªtra belonging to the SŒmaveda,
-
-Lahore 1922.
-
-Typescript: Entered by Thomas Zehnder
-
-Conversion to Devanagari using Vedapad Software by Ralph Bunker
-
- 
-
-Formatted for Maharishi University of Management Vedic Literature
-Collection
