@@ -17,8 +17,8 @@ title = "०१ आग्नेयं पर्व"
 ### १.१.१
 [[अथ प्रथम खण्डः]]
 
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/01_0001_agna_A.md">
-<details open><summary><h4>01_0001 अग्न आ ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/01_0001_agna_A.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अ꣢ग्न꣣ आ꣡ या꣢हि वी꣣त꣡ये꣢ गृणा꣣नो꣢ ह꣣व्य꣡दा꣢तये। नि꣡ होता꣢꣯ सत्सि ब꣣र्हि꣡षि꣢ ॥ 01:0001 ॥
 
@@ -36,8 +36,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/01_0001_agna_A.md">
-<details open><summary><h4>01_0001 अग्न आ ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/01_0001_agna_A.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 अ꣡ग्ने꣢꣯। आ। या꣣हि। वीत꣡ये꣢। गृ꣣णानः꣢। ह꣣व्य꣡दा꣢तये। ह꣣व्य꣢। दा꣣तये। नि꣢। हो꣡ता꣢꣯। स꣣त्सि। बर्हि꣡षि꣢। १।
@@ -103,8 +103,8 @@ title = "०१ आग्नेयं पर्व"
 अ꣤ग्न꣥आ꣤꣯या꣥꣯हि। वा꣤ऽ५इतया꣤इ॥ गृ꣡णा꣯नो꣯हव्यदा꣢ऽ१ता꣢ऽ३ये꣢॥ निहो᳐ता꣣ऽ२३४सा꣥॥ त्सा꣡ऽ२३इबा꣢ऽ३। हा꣡ऽ२३४इषो꣥ऽ६हा꣥इ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/02_0002_tvamagne_yajnAnAm.md">
-<details open><summary><h4>02_0002 त्वमग्ने यज्ञानाम् ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/02_0002_tvamagne_yajnAnAm.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 त्व꣡म꣢ग्ने य꣣ज्ञा꣢ना꣣ꣳ हो꣢ता꣣ वि꣡ श्वे꣢षाꣳ हि꣣तः꣢। दे꣣वे꣢भि꣣र्मा꣡नु꣢षे꣣ ज꣡ने꣢ ॥ 02:0002 ॥
 
@@ -119,8 +119,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/02_0002_tvamagne_yajnAnAm.md">
-<details open><summary><h4>02_0002 त्वमग्ने यज्ञानाम् ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/02_0002_tvamagne_yajnAnAm.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 त्व꣢म्। अ꣣ग्ने। यज्ञा꣡ना꣢म्। हो꣡ता꣢꣯। वि꣡श्वे꣢꣯षाम्। हि꣣तः꣢। दे꣣वे꣡भिः꣢। मा꣡नु꣢꣯षे। ज꣡ने꣢꣯। २।
@@ -171,8 +171,8 @@ title = "०१ आग्नेयं पर्व"
 त्व꣤म꣥ग्ने꣯यज्ञा꣤꣯ना꣥꣯म्। त्व꣤म꣥ग्ना꣤इ॥ य꣢ज्ञा꣡꣯नाꣳ꣯हो꣯ता꣯। विश्वे꣯षाꣳ꣯हाऽ२३इताः꣢॥ दे꣯वै꣡꣯भाऽ२३इर्मा꣢। नु꣣षे꣯ज꣢ना꣡। औ꣢ऽ३हो꣤वा꣥। हो꣤ऽ५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/03_0003_agniM_dUtam.md">
-<details open><summary><h4>03_0003 अग्निं दूतम् ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/03_0003_agniM_dUtam.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अ꣣ग्निं꣢ दू꣣तं꣡ वृ꣢णीमहे꣣ हो꣡ता꣢रं वि꣣श्व꣡वे꣢दसम्। अ꣣स्य꣢ य꣣ज्ञ꣡स्य꣢ सु꣣क्र꣡तु꣢म् ॥ 03:0003 ॥
 
@@ -187,8 +187,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/03_0003_agniM_dUtam.md">
-<details open><summary><h4>03_0003 अग्निं दूतम् ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/03_0003_agniM_dUtam.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 अ꣣ग्नि꣢म्। दू꣣त꣢म्। वृ꣣णीमहे। हो꣡ता꣢꣯रम्। वि꣣श्व꣡वे꣢दसम्। वि꣣श्व꣢। वे꣣दसम्। अस्य꣢। य꣣ज्ञ꣡स्य꣢। सु꣣क्र꣡तु꣢म्। सु꣣। क्र꣡तु꣢꣯म्। ३।
@@ -239,8 +239,8 @@ title = "०१ आग्नेयं पर्व"
 अ꣥ग्निन्दू꣯ताम्॥ वृ꣢णी꣡꣯महाइ। हो꣯ता꣯रांऽ२३वी꣢। श्ववे꣡꣯दसाम्॥ अस्ययाऽ२३ज्ञा꣢। आ꣡। औ꣢ऽ३हो꣯वा꣢॥ स्या꣡सुक्र꣢तुम्। इ꣡डाऽ२३भा꣢ऽ३४३। ओ꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/04_0004_agnirvRtrANi_janghanad.md">
-<details open><summary><h4>04_0004 अग्निर्वृत्राणि जङ्घनद् ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/04_0004_agnirvRtrANi_janghanad.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अ꣣ग्नि꣢र्वृ꣣त्रा꣡णि꣢ जङ्घनद् द्रविण꣣स्यु꣡र्वि꣢प꣣न्य꣡या꣢। स꣡मि꣢द्धः शु꣣क्र꣡ आहु꣢꣯तः ॥ 04:0004 ॥
 
@@ -255,8 +255,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/04_0004_agnirvRtrANi_janghanad.md">
-<details open><summary><h4>04_0004 अग्निर्वृत्राणि जङ्घनद् ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/04_0004_agnirvRtrANi_janghanad.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 अ꣣ग्निः꣢। वृ꣣त्रा꣡णि꣢। ज꣣ङ्घनत्। द्रविणस्युः꣢। वि꣣पन्य꣡या꣢। स꣡मि꣢꣯द्धः। सम्। इ꣣द्धः। शुक्रः꣢। आ꣡हु꣢꣯तः। आ। हु꣣तः। ४।
@@ -321,8 +321,8 @@ title = "०१ आग्नेयं पर्व"
 ओ꣤ग्नीः꣥॥ वृ꣢त्रा꣡꣯णिजङ्घनात्। औ꣣꣯हौ꣢हो꣣ऽ२३४वा꣥। द्र꣢विणस्यु꣡र्विप꣢न्य꣡या। औ꣣꣯हौ꣢हो꣣ऽ२३४वा꣥॥ स꣡मिद्ध꣢श्शुक्र꣡या। औ꣣꣯हौ꣢हो꣣ऽ२३४वा꣥॥ हो꣤ऽ५तोऽ६"हा꣥इ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/05_0005_preShThaM_vo.md">
-<details open><summary><h4>05_0005 प्रेष्ठं वो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/05_0005_preShThaM_vo.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 प्रे꣡ष्ठं꣢ वो꣣ अ꣡ति꣢थिꣳ स्तु꣣षे꣢ मि꣣त्र꣡मि꣢व प्रि꣣य꣢म्। अ꣢ग्ने꣣ र꣢थं꣣ न꣡ वेद्य꣢꣯म् ॥ 05:0005 ॥
 
@@ -337,8 +337,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/05_0005_preShThaM_vo.md">
-<details open><summary><h4>05_0005 प्रेष्ठं वो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/05_0005_preShThaM_vo.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 प्रे꣡ष्ठ꣢꣯म्। वः꣣। अ꣡ति꣢꣯थिम्। स्तु꣣षे꣢। मि꣣त्र꣢म्। मि꣣। त्र꣢म्। इ꣣व। प्रिय꣢म्। अ꣡ग्ने꣢꣯। र꣡थ꣢꣯म्। न। वे꣡द्य꣢꣯म्। ५।
@@ -405,8 +405,8 @@ title = "०१ आग्नेयं पर्व"
 प्रे꣥꣯ष्ठंवो꣯हाउ॥ अ꣡तिथाइम्। स्तुषे꣯मित्रमिवप्राऽ२३या꣢म्॥ अ꣡ग्नाये꣢ऽ३। रा꣡ऽ२᳐था꣣ऽ२३४ औ꣥꣯हो꣯वा॥ न꣢वे꣡꣯दिया꣣ऽ२᳐३꣡४꣡५꣡म्॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/06_0006_tvaM_no.md">
-<details open><summary><h4>06_0006 त्वं नो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/06_0006_tvaM_no.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 त्वं꣡ नो꣢ अग्ने꣣ म꣡हो꣢भिः पा꣣हि꣢ विश्व꣢꣯स्या꣣ अ꣡रा꣢तेः। उ꣣त꣢ द्वि꣣षो꣡ मर्त्य꣢꣯स्य ॥ 06:0006 ॥
 
@@ -421,8 +421,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/06_0006_tvaM_no.md">
-<details open><summary><h4>06_0006 त्वं नो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/06_0006_tvaM_no.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 त्व꣢म्। नः꣢। अग्ने। म꣡हो꣢꣯भिः। पा꣣हि꣢। वि꣡श्व꣢꣯स्य। अ꣡रा꣢꣯तेः। अ। रा꣣तेः। उत꣢। द्वि꣣षः꣢। म꣡र्त्य꣢꣯स्य। ६।
@@ -479,8 +479,8 @@ title = "०१ आग्नेयं पर्व"
 त्वां꣤꣯त्वन्नो꣥꣯अग्ने꣯म꣤। हो꣥ऽ६भा꣥इः॥ पा꣢꣯हि꣡विश्वाऔ꣢ऽ३हो꣢। स्या꣡औ꣢ऽ३हो꣢। आ꣡रातेः꣢। उ꣡ताद्वा꣢ऽ१इषाऽ᳒२ः᳒। म꣡र्ताऽ२᳐या꣣ऽ२३४औ꣥꣯हो꣯वा॥ स्या꣣ऽ२३꣡४꣡५꣡॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/07_0007_ehyU_Shu.md">
-<details open><summary><h4>07_0007 एह्यू षु ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/07_0007_ehyU_Shu.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 ए꣢ह्यू꣣ षु꣡ ब्रवा꣢꣯णि꣣ ते꣡ऽग्न꣢ इ꣣त्थे꣡त꣢रा꣣ गि꣡रः꣢। ए꣣भि꣡र्व꣢र्धास꣣ इ꣡न्दु꣢भिः ॥ 07:0007 ॥
 
@@ -495,8 +495,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/07_0007_ehyU_Shu.md">
-<details open><summary><h4>07_0007 एह्यू षु ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/07_0007_ehyU_Shu.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 आ꣢। इ꣣हि। उ। सु꣢। ब्र꣡वा꣢꣯णि। ते꣣। अ꣡ग्ने꣢꣯। इ꣣त्था꣢। इ꣡त꣢꣯राः। गि꣡रः꣢꣯। ए꣣भिः꣢। व꣣र्धासे। इ꣡न्दु꣢꣯भिः। ७।
@@ -555,8 +555,8 @@ title = "०१ आग्नेयं पर्व"
 ए꣥꣯ह्यू꣯षुब्रवौ꣯ हो꣤णाइता꣥इ॥ अ꣡ग्नइत्थे꣯तरा꣢ऽ१गी꣢ऽ३राः꣢॥ एभि᳐र्वा꣣ऽ२३४र्द्धा꣥॥ स꣡याऽ२३हा꣢ऽ᳐३४३इ॥ दू꣡ऽ२३४भो꣥ऽ६"हा꣥इ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/08_0008_A_te.md">
-<details open><summary><h4>08_0008 आ ते ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/08_0008_A_te.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 आ꣡ ते꣢ व꣣त्सो꣡ मनो꣢꣯ यमत्पर꣣मा꣡च्चि꣢त्स꣣ध꣡स्था꣢त्। अ꣢ग्ने꣣ त्वां꣡ का꣢मये गि꣣रा꣢ ॥ 08:0008 ॥
 
@@ -571,8 +571,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/08_0008_A_te.md">
-<details open><summary><h4>08_0008 आ ते ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/08_0008_A_te.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 आ꣢। ते꣣। वत्सः꣢। म꣡नः꣢꣯। य꣣मत्। परमा꣢त्। चि꣣त्। सध꣡स्था꣢त्। स꣣ध꣢। स्था꣣त्। अ꣡ग्ने꣢꣯। त्वाम्। का꣣मये। गिरा꣢। ८।
@@ -629,8 +629,8 @@ title = "०१ आग्नेयं पर्व"
 ८-२। काण्वम्॥ कण्वः गायत्र्यग्निः॥आ꣤꣯ते꣥꣯वत्सो꣤꣯मनो꣥꣯यमत्। ऐ꣤याहा꣥इ॥ प꣢रमा꣡꣯च्चित्सधस्था꣯दै꣯याऽ२३हो꣡इया॥ अग्ने꣯त्वां꣯का꣯मयऐ꣯याऽ२३हो꣡इया॥ गि꣢रा꣯। इ꣡डाऽ२३भा꣢ऽ३४३। ओ꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/09_0009_tvAmagne_puShkarAdadhyatharvA.md">
-<details open><summary><h4>09_0009 त्वामग्ने पुष्करादध्यथर्वा ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/09_0009_tvAmagne_puShkarAdadhyatharvA.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 त्वा꣡म꣢ग्ने꣣ पु꣡ष्क꣢रा꣣द꣡ध्यथ꣢꣯र्वा꣣ नि꣡र꣢मन्थत। मू꣣र्ध्नो꣡ विश्व꣢꣯स्य वा꣣घ꣡तः꣢ ॥ 09:0009 ॥
 
@@ -645,8 +645,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/09_0009_tvAmagne_puShkarAdadhyatharvA.md">
-<details open><summary><h4>09_0009 त्वामग्ने पुष्करादध्यथर्वा ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/09_0009_tvAmagne_puShkarAdadhyatharvA.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 त्वा꣢म्। अ꣣ग्ने। पु꣡ष्क꣢꣯रात्। अ꣡धि꣢꣯। अ꣡थ꣢꣯र्वा। निः। अ꣣मन्थत। मूर्ध्नः꣢। वि꣡श्व꣢꣯स्य। वा꣣घ꣡तः꣢। ९।
@@ -701,14 +701,14 @@ title = "०१ आग्नेयं पर्व"
 त्वा꣥꣯मग्ने꣯पू꣯ष्काऽ६रा꣥꣯दधी॥ आ꣡थ꣢र्वा꣯। ना꣡इः। अ꣪माऽ२᳐न्था꣣ऽ२३४ता꣥॥ मू꣣ऽ२३४र्ध्नो꣥। वा꣣ऽ२३४इश्वा꣥। स्य꣤वोवा꣥। घा꣤ऽ५तोऽ६"हा꣥इ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/10_0010_agne_vivasvadA.md">
-<details open><summary><h4>10_0010 अग्ने विवस्वदा ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/10_0010_agne_vivasvadA.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अ꣢ग्ने꣣ वि꣡व꣢स्व꣣दा꣡ भ꣢रा꣣स्म꣡भ्य꣢मू꣣त꣡ये꣢ म꣣हे꣢। दे꣣वो꣡ ह्यसि꣢꣯ नो दृ꣣शे꣢ ॥ 10:0010 ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/10_0010_agne_vivasvadA.md">
-<details open><summary><h4>10_0010 अग्ने विवस्वदा ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/10_0010_agne_vivasvadA.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 अ꣡ग्ने꣢꣯। वि꣡व꣢꣯स्वत्। वि। व꣣स्वत्। आ꣢। भ꣣र। अस्म꣡भ्य꣢म्। ऊ꣣त꣡ये꣢। म꣣हे꣢। दे꣣वः꣢। हि। अ꣡सि꣢꣯। नः꣢। दृशे꣢। १०।
@@ -762,8 +762,8 @@ title = "०१ आग्नेयं पर्व"
 
 [[अथ द्वितीयः खण्डः]]
 
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/11_0011_namaste_agna.md">
-<details open><summary><h4>11_0011 नमस्ते अग्न ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/11_0011_namaste_agna.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 न꣡म꣢स्ते अग्न꣣ ओ꣡ज꣢से गृ꣣ण꣡न्ति꣢ देव कृ꣣ष्ट꣡यः꣢। अ꣡मै꣢र꣣मि꣡त्र꣢मर्दय ॥ 11:0011 ॥
 
@@ -778,8 +778,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/11_0011_namaste_agna.md">
-<details open><summary><h4>11_0011 नमस्ते अग्न ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/11_0011_namaste_agna.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 न꣡मः꣢꣯। ते꣣। अग्ने। ओ꣡ज꣢꣯से। गृ꣣ण꣡न्ति꣢। दे꣣व। कृष्ट꣡यः꣢। अ꣡मैः꣢꣯। अ꣣मि꣡त्र꣢म्। अ꣣। मि꣡त्र꣢꣯म्। अ꣣र्दय। ११।
@@ -830,8 +830,8 @@ title = "०१ आग्नेयं पर्व"
 न꣤म꣥स्तौ꣯। हो꣤ग्ना꣥इ॥ ओ꣡जसा꣢ऽ३इ। गृ꣡णाऽ२᳐न्ता꣣ऽ२३४इदे꣥। वा꣡कृ꣪ष्टयाऽ᳒२ः᳒॥ अ꣡माये꣢ऽ३ः॥ आ꣡ऽ२᳐मा꣣ऽ२३४औ꣥꣯हो꣯वा॥ त्र꣢मर्द᳐या꣣ऽ२३꣡४꣡५꣡॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/12_0012_dUtaM_vo.md">
-<details open><summary><h4>12_0012 दूतं वो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/12_0012_dUtaM_vo.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 दू꣣तं꣡ वो꣢ वि꣣श्व꣡वे꣢दसꣳ हव्य꣣वा꣢ह꣣म꣡म꣢र्त्यम्। य꣡जि꣢ष्ठमृञ्जसे गि꣣रा꣢ ॥ 12:0012 ॥
 
@@ -846,8 +846,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/12_0012_dUtaM_vo.md">
-<details open><summary><h4>12_0012 दूतं वो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/12_0012_dUtaM_vo.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 दू꣣त꣢म्। वः꣣। विश्व꣡वे꣢दसम्। वि꣣श्व꣢। वे꣣दसम्। हव्यवा꣡ह꣢म्। ह꣣व्य। वा꣡ह꣢꣯म्। अ꣡म꣢꣯र्त्यम्। अ। म꣣र्त्यम्। य꣡जि꣢꣯ष्ठम्। ऋ꣣ञ्जसे। गिरा꣢। १२।
@@ -898,8 +898,8 @@ title = "०१ आग्नेयं पर्व"
 दू꣥꣯ता꣤ऽ३म्वो꣢ऽ३वि꣤श्ववे꣥꣯दसाम्॥ ह꣢व्यवा꣡꣯हाम्। अ꣪माऽ२᳐र्त्ता꣣ऽ२३४या꣥म्॥ या꣡जिष्ठ꣢म्। ऋ꣡। जसे꣢ऽ३᳐हा꣢इ॥ गिरा꣡। औ꣢ऽ᳐३हो꣤वा꣥। हो꣤ऽ५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/13_0013_upa_tvA.md">
-<details open><summary><h4>13_0013 उप त्वा ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/13_0013_upa_tvA.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 उ꣡प꣢ त्वा जा꣣म꣢यो꣣ गि꣢रो꣣ दे꣡दि꣢शतीर्हवि꣣ष्कृतः꣢। वा꣣यो꣡रनी꣢꣯के अस्थिरन् ॥ 13:0013 ॥
 
@@ -914,8 +914,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/13_0013_upa_tvA.md">
-<details open><summary><h4>13_0013 उप त्वा ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/13_0013_upa_tvA.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 उ꣡प꣢꣯। त्वा꣣। जाम꣡यः꣢। गि꣡रः꣢꣯। दे꣡दि꣢꣯शतीः। ह꣣विष्कृ꣡तः꣢। ह꣣विः। कृ꣡तः꣢꣯। वा꣣योः꣢। अ꣡नी꣢꣯के। अ꣣स्थिरन्। १३।
@@ -976,8 +976,8 @@ title = "०१ आग्नेयं पर्व"
 उ꣥पत्वा꣯जा꣯माऽ६यो꣥꣯गिराः॥ दा꣡इदिश꣢। ता꣡इः। ह꣪वीऽ२᳐ष्का꣣ऽ२३४र्त्ताः꣥॥ वा꣯यो꣯रना꣯हा꣯इका꣤या꣥॥ स्था꣡इरा꣢। औ꣣꣯होऽ२३४वा꣥॥ ई꣤डा꣥॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/14_0014_upa_tvAgne.md">
-<details open><summary><h4>14_0014 उप त्वाग्ने ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/14_0014_upa_tvAgne.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 उ꣡प꣢ त्वाग्ने दि꣣वे꣡दि꣢वे꣣ दो꣡षा꣢वस्तर्धि꣣या꣢ व꣣य꣢म्। न꣢मो꣣ भ꣡र꣢न्त꣣ ए꣡म꣢सि ॥ 14:0014 ॥
 
@@ -993,8 +993,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/14_0014_upa_tvAgne.md">
-<details open><summary><h4>14_0014 उप त्वाग्ने ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/14_0014_upa_tvAgne.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 उ꣡प꣢꣯। त्वा꣣। अग्ने। दिवे꣡दि꣢वे। दि꣣वे꣢। दि꣣वे। दो꣡षा꣢꣯वस्तः। दो꣡षा꣢꣯। व꣣स्तः। धिया꣢। व꣣य꣢म्। न꣡मः꣢꣯। भ꣡र꣢꣯न्तः। आ। इ꣣मसि। १४।
@@ -1045,8 +1045,8 @@ title = "०१ आग्नेयं पर्व"
 उ꣢पा꣡त्वाऽ२३ग्ने꣤꣯दिवे꣥꣯दिवाइ॥ दो꣡षाऽ᳒२᳒वा꣡स्ताऽ᳒२ः᳒। धिया꣡꣯वयम्॥ नामोऽ᳒२᳒भा꣡राऽ᳒२᳒॥ तये꣡꣯माऽ२३सा꣢ऽ३४३इ। ओ꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/15_0015_jarAbodha_tadviviDDhi.md">
-<details open><summary><h4>15_0015 जराबोध तद्विविड्ढि ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/15_0015_jarAbodha_tadviviDDhi.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 ज꣡रा꣢बोध꣣ त꣡द्वि꣢विड्ढि वि꣣शे꣡वि꣢शे य꣣ज्ञि꣡या꣢य। स्तो꣡म꣢ꣳ रु꣣द्रा꣡य꣢ दृशी꣣क꣢म् ॥ 15:0015 ॥
 
@@ -1062,8 +1062,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/15_0015_jarAbodha_tadviviDDhi.md">
-<details open><summary><h4>15_0015 जराबोध तद्विविड्ढि ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/15_0015_jarAbodha_tadviviDDhi.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 ज꣡रा꣢꣯बोध। ज꣡रा꣢꣯। बो꣣ध। त꣢त्। वि꣣विड्ढि। विशे꣡वि꣢शे। वि꣣शे꣢। वि꣣शे। यज्ञि꣡या꣢य। स्तो꣡म꣢꣯म्। रु꣣द्रा꣡य꣢। दृ꣣शीक꣢म्। १५।
@@ -1120,8 +1120,8 @@ title = "०१ आग्नेयं पर्व"
 १५-२।ज꣥रा꣯बो꣯धो꣤वा꣥॥ ता꣡द्विवि꣢ड्ढा꣡इ। वि꣢शा꣡इवाऽ२᳐३इशे꣢। यज्ञिया꣡꣯या। स्तो꣯माꣳरु꣪द्राऽ२३"या꣤। दृ꣥। शी꣣꣯को꣢ऽ३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/16_0016_prati_tyam.md">
-<details open><summary><h4>16_0016 प्रति त्यम् ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/16_0016_prati_tyam.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 प्र꣢ति꣣ त्यं꣡ चारु꣢꣯मध्व꣣रं꣡ गो꣢पी꣣था꣢य꣣ प्र꣡ हू꣢यसे। म꣣रु꣡द्भि꣢रग्न꣣ आ꣡ ग꣢हि ॥ 16:0016 ॥
 
@@ -1136,8 +1136,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/16_0016_prati_tyam.md">
-<details open><summary><h4>16_0016 प्रति त्यम् ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/16_0016_prati_tyam.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 प्र꣡ति꣢꣯। त्यम्। चा꣡रु꣢꣯म्। अ꣣ध्वर꣢म्। गो꣣पीथा꣡य꣢। प्र। हू꣣यसे। मरु꣡द्भिः꣢। अ꣣ग्ने। आ꣢। ग꣣हि। १६।
@@ -1188,8 +1188,8 @@ title = "०१ आग्नेयं पर्व"
 प्र꣢ति꣡त्याऽ२३ञ्चा꣤꣯रुम꣥ध्वराम्॥ गो꣢꣯पी꣯था꣡꣯। या। प्राहू꣢या꣣ऽ२३४सा꣥इ॥ म꣢रु꣡द्भिः꣢। आ꣡। ग्नाआ꣢꣯गहा꣡। औ꣢ऽ᳐३हो꣤वा꣥। हो꣤ऽ५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/17_0017_ashvaM_na.md">
-<details open><summary><h4>17_0017 अश्वं न ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/17_0017_ashvaM_na.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अ꣢श्वं꣣ न꣢ त्वा꣣ वा꣡र꣢वन्तं व꣣न्द꣡ध्या꣢ अ꣣ग्निं꣡ नमो꣢꣯भिः। स꣣म्रा꣡ज꣢न्तमध्व꣣रा꣡णा꣢म् ॥ 17:0017 ॥
 
@@ -1205,8 +1205,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/17_0017_ashvaM_na.md">
-<details open><summary><h4>17_0017 अश्वं न ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/17_0017_ashvaM_na.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 अ꣡श्व꣢꣯म्। न। त्वा꣣। वा꣡र꣢꣯वन्तम् व꣣न्द꣡ध्यै꣢। अ꣣ग्नि꣢म् न꣡मो꣢꣯भिः। स꣣म्रा꣡ज꣢न्तम्। स꣣म्। रा꣡ज꣢꣯न्तम्। अ꣣ध्वरा꣡णा꣢म्। १७।
@@ -1273,8 +1273,8 @@ title = "०१ आग्नेयं पर्व"
 अ꣥श्वन्नत्वा꣯औ꣯हो꣤हा꣥इ॥ वा꣢रा᳐वा꣣ऽ२३४न्ता꣥म्। व꣢न्दा꣡ध्याऽ२३४हा꣥इ। अ꣡ग्नाइन्नमा꣢ऽ३४। औ꣣꣯हो꣤꣯वा꣥। इ꣡हा꣣ऽ२३४हा꣥इ। उ꣢हु᳐वा꣣ऽ२३४भीः꣥॥ स꣢म्म्रा꣡꣯ज꣢। ता꣡म꣪ध्वरा꣢ऽ३४। औ꣣꣯हो꣤꣯वा꣥॥ इ꣡हा꣣ऽ२३४हा꣥इ। औ꣣꣯हो꣢ऽ३᳐१२३४। णाम्। ए꣥꣯हियाऽ६हा꣥। हो꣤ऽ५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/18_0018_aurvabhRguvachChuchimapnavAnavadA_huve.md">
-<details open><summary><h4>18_0018 और्वभृगुवच्छुचिमप्नवानवदा हुवे ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/18_0018_aurvabhRguvachChuchimapnavAnavadA_huve.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 औ꣣र्वभृगुव꣡च्छुचि꣢꣯मप्नवान꣣व꣡दा हु꣢꣯वे। अ꣣ग्नि꣡ꣳ स꣢मु꣣द्र꣡वा꣢ससम् ॥ 18:0018 ॥
 
@@ -1289,8 +1289,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/18_0018_aurvabhRguvachChuchimapnavAnavadA_huve.md">
-<details open><summary><h4>18_0018 और्वभृगुवच्छुचिमप्नवानवदा हुवे ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/18_0018_aurvabhRguvachChuchimapnavAnavadA_huve.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 औ꣣र्वभृगुव꣢त्। औ꣣र्व। भृगुव꣢त्। शु꣡चि꣢꣯म्। अ꣣प्नवानव꣢त्। आ। हु꣣वे। अग्नि꣢म् स꣣मुद्र꣡वा꣢ससम्। स꣣मुद्र꣢। वा꣣ससम्। १८।
@@ -1348,8 +1348,8 @@ title = "०१ आग्नेयं पर्व"
 औ꣥꣯र्वभृगुव꣤च्छुचि꣥म्। ए꣤ऽ५। शु꣤चीम्॥ आ꣡प्नवा꣢꣯न। वदा꣡ऽ२३हुवा꣢इ। हुवा꣡ऽ२३इ। हु꣢व꣣ए꣢॥ अ꣡ग्नाइꣳसा꣢ऽ३मू꣢॥ समू꣡ऽ२३। स꣢मु꣣ए꣢ऽ३। द्रा꣡ऽ२᳐वा꣣ऽ२३४औ꣥꣯हो꣯वा॥ स꣢साऽ३मे꣡ऽ२३꣡४꣡५꣡॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/19_0019_agnimindhAno_manasA.md">
-<details open><summary><h4>19_0019 अग्निमिन्धानो मनसा ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/19_0019_agnimindhAno_manasA.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अ꣣ग्नि꣡मि꣢न्धा꣣नो꣡ मन꣢꣯सा꣣ धि꣡य꣢ꣳ सचेत꣣ म꣡र्त्यः꣢। अ꣣ग्नि꣡मि꣢न्धे वि꣣व꣡स्व꣢भिः ॥ 19:0019 ॥
 
@@ -1364,8 +1364,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/19_0019_agnimindhAno_manasA.md">
-<details open><summary><h4>19_0019 अग्निमिन्धानो मनसा ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/19_0019_agnimindhAno_manasA.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 अ꣣ग्नि꣢म्। इ꣣न्धानः꣢। म꣡न꣢꣯सा। धि꣡य꣢꣯म् स꣣चेत। म꣡र्त्यः꣢꣯। अ꣣ग्नि꣢म्। इ꣣न्धे। वि꣣व꣡स्व꣢भिः। वि꣣। व꣡स्व꣢भिः। १९।
@@ -1416,8 +1416,8 @@ title = "०१ आग्नेयं पर्व"
 अ꣥ग्नि꣤मि꣥न्धा꣯नो꣤꣯मन꣥सौ꣯। हौ꣤꣯होवाहा꣥इ॥ धि꣣यꣳ꣤स꣥चे꣯तमौ꣯। हो꣭ऽ३हा꣢ऽ३। हो꣡ऽ२३४र्तियाः॥ अ꣡ग्नाये꣢ऽ३᳐म्। आ꣡ऽ२᳐इंधा꣣ऽ२३४औ꣥꣯हो꣯वा॥ वि꣢व꣡स्वभी꣣ऽ२३꣡४꣡५ः꣡॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/20_0020_Aditpratnasya_retaso.md">
-<details open><summary><h4>20_0020 आदित्प्रत्नस्य रेतसो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/20_0020_Aditpratnasya_retaso.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 आ꣢꣫दित्प्र꣣त्न꣢स्य꣣ रे꣡त꣢सो꣣ ज्यो꣡तिः꣢ पश्यन्ति वास꣣र꣢म्। प꣣रो꣢꣫ यदि꣣ध्य꣡ते꣢ दि꣣वि꣢ ॥ 20:0020 ॥
 
@@ -1432,8 +1432,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/20_0020_Aditpratnasya_retaso.md">
-<details open><summary><h4>20_0020 आदित्प्रत्नस्य रेतसो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/20_0020_Aditpratnasya_retaso.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 आ꣢त्। इत्। प्र꣣त्न꣡स्य꣢। रे꣡त꣢꣯सः। ज्यो꣡तिः꣢꣯। प꣣श्यन्ति। वासर꣢म्। प꣣रः꣢। यत्। इ꣣ध्य꣡ते꣢। दि꣣वि꣢। २०।
@@ -1490,8 +1490,8 @@ title = "०१ आग्नेयं पर्व"
 ## १.२
 [[अथ प्रथमप्रपाठके द्वितीयोऽर्धः]]
 
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/21_0021_agniM_vo.md">
-<details open><summary><h4>21_0021 अग्निं वो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/21_0021_agniM_vo.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अ꣣ग्निं꣡ वो꣢ वृ꣣ध꣡न्त꣢मध्व꣣रा꣡णां꣢ पुरू꣣त꣡म꣢म्। अ꣢च्छा꣣ न꣢प्त्रे꣣ स꣡ह꣢स्वते॥ 21:0021 ॥
 
@@ -1506,8 +1506,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/21_0021_agniM_vo.md">
-<details open><summary><h4>21_0021 अग्निं वो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/21_0021_agniM_vo.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 अ꣣ग्नि꣢म्। वः꣣। वृध꣡न्त꣢म्। अ꣣ध्वरा꣡णा꣢म्। पु꣣रूत꣡म꣢म्। अ꣡च्छ꣢꣯। न꣡प्त्रे꣢꣯। स꣡ह꣢꣯स्वते। २१।
@@ -1572,8 +1572,8 @@ title = "०१ आग्नेयं पर्व"
 अ꣥ग्निं꣤वः꣥। ओ꣤हाइ॥ वृ꣡धाऽ२३न्ता꣢म्। अ꣡ध्वरा꣯णा꣯म्पुरू꣢ऽ१ता꣢᳐ऽ३मा꣢म्॥ अच्छा꣯नप्त्रो꣣ऽ२३४हा꣥इ॥ सा꣡हा꣢ऽ३हा꣢। स्वता꣡। औ꣢ऽ३᳐हो꣤वा꣥॥ हो꣤ऽ५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/22_0022_agnistigmena_shochiShA.md">
-<details open><summary><h4>22_0022 अग्निस्तिग्मेन शोचिषा ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/22_0022_agnistigmena_shochiShA.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अ꣣ग्नि꣢स्ति꣣ग्मे꣡न꣢ शो꣣चि꣢षा꣣ य꣢ꣳस꣣द्वि꣢श्वं꣣ न्य3꣢ऽत्रि꣡ण꣢म्। अ꣣ग्नि꣡र्नो꣢ वꣳसते र꣣यि꣢म् ॥ 22:0022 ॥
 
@@ -1588,8 +1588,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/22_0022_agnistigmena_shochiShA.md">
-<details open><summary><h4>22_0022 अग्निस्तिग्मेन शोचिषा ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/22_0022_agnistigmena_shochiShA.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 अ꣣ग्निः꣢। ति꣣ग्मे꣡न꣢। शो꣣चि꣡षा꣢। यँ꣡ऽस꣢꣯त्। वि꣡श्व꣢꣯म्। नि। अ꣣त्रि꣡ण꣢म्। अ꣣ग्निः꣢। नः꣣। वँऽसते। र꣣यि꣢म्। २२।
@@ -1654,8 +1654,8 @@ title = "०१ आग्नेयं पर्व"
 २२-३। इहवद्वामदेव्यम्॥ वामदेवो गायत्र्यग्निः॥अ꣥ग्नि꣤स्ति꣥ग्मे꣤꣯न꣥शो꣯चि꣤षा꣥꣯। इ꣤हा॥ यꣳ꣡सद्विश्वन्यत्रिणाऽ᳒२᳒म्। इ꣡हा꣢॥ अग्नि꣡र्नो꣯वꣳसताऽ᳒२᳒इ। इ꣡हा꣢ऽ३॥ रा꣡ऽ२३४यो꣥ऽ६"हा꣥इ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/23_0023_agne_mRDa.md">
-<details open><summary><h4>23_0023 अग्ने मृड ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/23_0023_agne_mRDa.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अ꣡ग्ने꣢ मृ꣣ड꣢ म꣣हा꣢ꣳ अ꣣स्य꣢य꣣ आ꣡ दे꣢व꣣युं꣡ जन꣢꣯म्। इ꣣ये꣡थ꣢ ब꣣र्हि꣢रा꣣स꣡द꣢म् ॥ 23:0023 ॥
 
@@ -1670,8 +1670,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/23_0023_agne_mRDa.md">
-<details open><summary><h4>23_0023 अग्ने मृड ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/23_0023_agne_mRDa.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 अ꣡ग्ने꣢꣯। मृ꣣ड꣢। म꣣हा꣢न्। अ꣣सि। अ꣡यः꣢꣯। आ। दे꣣वयु꣢म्। ज꣡न꣢꣯म्। इ꣣ये꣡थ꣢। ब꣣र्हिः꣢। आ꣣स꣡द꣢म्। आ꣣। स꣡द꣢म्। २३।
@@ -1730,8 +1730,8 @@ title = "०१ आग्नेयं पर्व"
 अ꣣ग्ने꣤꣯मृड꣣म꣤हा꣣꣯ऽꣳअ꣤सि꣥। ओ꣣꣯हा꣢ऽ३ओ꣤हा꣥॥ अ꣣य꣤आ꣣꣯दे꣤꣯वयु꣣ञ्ज꣤न꣥म्। ओ꣣꣯हा꣢ऽ३᳐ओ꣤हा꣥॥ इ꣢ये꣡꣯थाऽ२३ब꣢॥ हि꣣रा꣢ऽ३सा꣤ऽ५"दाऽ६५६म्॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/24_0024_agne_raxA.md">
-<details open><summary><h4>24_0024 अग्ने रक्षा ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/24_0024_agne_raxA.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अ꣢ग्ने꣣ र꣡क्षा꣢ णो꣣ अ꣡ꣳह꣢सः꣣ प्र꣡ति꣢ स्म देव रीष꣣तः꣢। त꣡पि꣢ष्ठैर꣣ज꣡रो꣢ दह ॥ 24:0024 ॥
 
@@ -1747,8 +1747,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/24_0024_agne_raxA.md">
-<details open><summary><h4>24_0024 अग्ने रक्षा ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/24_0024_agne_raxA.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 अ꣡ग्ने꣢꣯। र꣡क्ष꣢꣯। नः꣣। अँ꣡ह꣢꣯सः। प्र꣡ति꣢꣯। स्म꣣। देव। रीषतः꣢। त꣡पि꣢꣯ष्ठैः। अ꣣ज꣡रः꣢। अ꣣। ज꣡रः꣢꣯। द꣣ह। २४।
@@ -1799,8 +1799,8 @@ title = "०१ आग्नेयं पर्व"
 अ꣥ग्ने꣯रा꣢ऽ३क्षा꣤꣯णो꣥꣯अꣳ꣤हसाः꣥॥ प्र꣡तिस्मदे꣯व꣢रि꣡षाऽ२३ताः꣢॥ तपा꣡इष्ठाऽ२३इरा꣢॥ जरो꣡꣯दाऽ२३हा꣢ऽ३४३। ओ꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/25_0025_agne_yunxvA.md">
-<details open><summary><h4>25_0025 अग्ने युङ्क्ष्वा ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/25_0025_agne_yunxvA.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अ꣡ग्ने꣢ यु꣣ङ्क्ष्वा꣡ हि ये तवाश्वा꣢꣯सो देव सा꣣ध꣡वः꣢। अ꣢रं꣣ व꣡ह꣢न्त्या꣣श꣡वः꣢ ॥ 25:0025 ॥
 
@@ -1815,8 +1815,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/25_0025_agne_yunxvA.md">
-<details open><summary><h4>25_0025 अग्ने युङ्क्ष्वा ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/25_0025_agne_yunxvA.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 अ꣡ग्ने꣢꣯। यु꣣ङ्क्ष्वा꣢। हि। ये। त꣡व꣢꣯। अ꣡श्वा꣢꣯सः। दे꣣व। साध꣡वः꣢। अ꣡र꣢꣯म्। व꣡ह꣢꣯न्ति। आ꣣श꣡वः꣢। २५।
@@ -1867,8 +1867,8 @@ title = "०१ आग्नेयं पर्व"
 अ꣥ग्ने꣯यू꣢ऽ३ङ्क्ष्वा꣤꣯हि꣥ये꣤꣯तवा꣥॥ अ꣡श्वा꣯सो꣯दे꣯व꣢सा꣡꣯धाऽ२३वाः꣢॥ अरं꣡वाऽ२३हा꣢॥ तिया꣡꣯शाऽ२३वा꣢ऽ३४३ः। ओ꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/26_0026_ni_tvA.md">
-<details open><summary><h4>26_0026 नि त्वा ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/26_0026_ni_tvA.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 नि꣡ त्वा꣢ नक्ष्य विश्पते द्यु꣣म꣡न्तं꣢ धीमहे व꣣य꣢म्। सु꣣वी꣡र꣢मग्न आहुत ॥ 26:0026 ॥
 
@@ -1883,8 +1883,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/26_0026_ni_tvA.md">
-<details open><summary><h4>26_0026 नि त्वा ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/26_0026_ni_tvA.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 नि꣢। त्वा꣣। नक्ष्य। विश्पते। द्युम꣡न्त꣢म्। धी꣣महे। वय꣢म् सु꣣वी꣡र꣢म्। सु꣣। वी꣡र꣢꣯म्। अ꣣ग्ने। आहुत। आ। हुत। २६।
@@ -1933,8 +1933,8 @@ title = "०१ आग्नेयं पर्व"
 २६-१। वैश्वमनसम्॥ विश्वमना गायत्र्यग्निः॥नि꣥त्वा꣯। हो꣢ऽ३इ। न꣤। क्षिया꣥॥ वा꣡इश्प꣢ता꣡इ। द्यु꣢म꣡न्त꣢म्। धा꣡इ। माहे꣢वा꣣ऽ२३४या꣥म्॥ सुवो꣤हाइ॥ रा꣢꣯म꣡ग्ना꣢꣯ओ꣡ऽ२३४वा꣥। हो꣤ऽ५तोऽ६"हा꣥इ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/27_0027_agnirmUrdhA_divaH.md">
-<details open><summary><h4>27_0027 अग्निर्मूर्धा दिवः ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/27_0027_agnirmUrdhA_divaH.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अ꣣ग्नि꣢र्मू꣣र्धा꣢ दि꣣वः꣢ क꣣कु꣡त्पतिः꣢꣯ पृथि꣣व्या꣢ अ꣣य꣢म्। अ꣣पा꣡ꣳ रेता꣢꣯ꣳसि जिन्वति ॥ 27:0027 ॥
 
@@ -1950,8 +1950,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/27_0027_agnirmUrdhA_divaH.md">
-<details open><summary><h4>27_0027 अग्निर्मूर्धा दिवः ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/27_0027_agnirmUrdhA_divaH.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 अ꣣ग्निः꣢। मू꣣र्धा꣢। दि꣣वः꣢। क꣣कु꣢त्। प꣡तिः꣢꣯। पृ꣣थिव्याः꣢। अ꣣य꣢म्। अ꣣पां꣢। रे꣡ताँ꣢꣯सि। जि꣣न्वति। २७।
@@ -2002,8 +2002,8 @@ title = "०१ आग्नेयं पर्व"
 अ꣥ग्निर्मू꣯र्धा꣯दीऽ६वᳲ꣥ककूत्॥ पा꣡तीऽ᳒२ᳲ᳒पा꣡र्थीऽ᳒२᳒। विया꣡꣯अयाम्॥ आपाऽ᳒२ꣳ᳒रा꣡इताऽ᳒२᳒॥ सिजि꣡न्वाऽ२३ता꣢᳐ऽ३४३इ। ओ꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/28_0028_imamU_Shu.md">
-<details open><summary><h4>28_0028 इममू षु ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/28_0028_imamU_Shu.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 इ꣣म꣢मू꣣ षु꣢꣫ त्वम꣣स्मा꣡क꣢ꣳ स꣣निं꣡ गा꣢य꣣त्रं꣡ नव्या꣢꣯ꣳसम्। अ꣡ग्ने꣢ दे꣣वे꣢षु꣣ प्र꣡ वो꣢चः ॥ 28:0028 ॥
 
@@ -2018,8 +2018,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/28_0028_imamU_Shu.md">
-<details open><summary><h4>28_0028 इममू षु ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/28_0028_imamU_Shu.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 इ꣣म꣢म्। उ꣣। सु꣢। त्वम्। अ꣣स्मा꣡क꣢म्। स꣣नि꣢म्। गा꣣यत्र꣢म्। न꣡व्याँ꣢꣯सम्। अ꣡ग्ने꣢꣯। दे꣣वे꣡षु꣢। प्र। वो꣣चः। २८।
@@ -2070,8 +2070,8 @@ title = "०१ आग्नेयं पर्व"
 इ꣥ममू꣯षू॥ त्व꣢मा꣡स्माऽ२३४का꣥म्। सा꣡नीऽ᳒२ꣳ᳒हो꣡इ। गायाऽ᳒२᳒हो꣡। त्र꣢न्न꣡व्याऽ२३ꣳसा꣢म्॥ आ꣡ग्नेऽ᳒२᳒हो꣡इ। दाइवाऽ᳒२᳒हो꣡॥ षु꣢प्रा꣡वोऽ२३चा꣢ऽ᳐३४३ः। ओ꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/29_0029_taM_tvA.md">
-<details open><summary><h4>29_0029 तं त्वा ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/29_0029_taM_tvA.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 तं꣡ त्वा꣢ गो꣣प꣡व꣢नो गि꣣रा꣡ जनि꣢꣯ष्ठदग्ने अङ्गिरः। स꣡ पा꣢वक श्रुधी꣣ ह꣡व꣢म् ॥ 29:0029 ॥
 
@@ -2086,8 +2086,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/29_0029_taM_tvA.md">
-<details open><summary><h4>29_0029 तं त्वा ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/29_0029_taM_tvA.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 त꣢म्। त्वा꣣। गो꣣प꣡व꣢नः। गि꣣रा꣢। ज꣡नि꣢꣯ष्ठत्। अ꣣ग्ने। अङ्गिरः। सः꣢। पा꣣वक। श्रुधी। ह꣡व꣢꣯म्। २९।
@@ -2138,8 +2138,8 @@ title = "०१ आग्नेयं पर्व"
 तं꣥त्वा꣯गो꣯पा॥ वा꣡नोऽ२᳐गा꣣ऽ२३४इरा꣥। ज꣢ना꣡इष्ठ꣢दा꣡। ग्न꣪याऽ२᳐ङ्गा꣣ऽ२३४इराः꣥॥ स꣢पौवा᳐ओ꣣ऽ२३४वा꣥। कौ꣢वा᳐ओ꣣ऽ२३४वा꣥॥ श्रु꣤धीऽ५हवाम्॥ हो꣤ऽ५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/30_0030_pari_vAjapatiH.md">
-<details open><summary><h4>30_0030 परि वाजपतिः ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/30_0030_pari_vAjapatiH.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 प꣢रि꣣ वा꣡ज꣢पतिः क꣣वि꣢र꣣ग्नि꣢र्ह꣣व्या꣡न्य꣢क्रमीत्। द꣢ध꣣द्र꣡त्ना꣢नि दा꣣शु꣡षे꣢ ॥ 30:0030 ॥
 
@@ -2155,8 +2155,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/30_0030_pari_vAjapatiH.md">
-<details open><summary><h4>30_0030 परि वाजपतिः ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/30_0030_pari_vAjapatiH.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 प꣡रि꣢꣯। वा꣡ज꣢꣯पतिः। वा꣡ज꣢꣯। प꣣तिः। कविः꣢। अ꣣ग्निः꣢। ह꣣व्या꣡नि꣢। अ꣣क्रमीत्। द꣡ध꣢꣯त्। र꣡त्ना꣢꣯नि। दा꣣शु꣡षे꣢। ३०।
@@ -2207,8 +2207,8 @@ title = "०१ आग्नेयं पर्व"
 प꣤र्यौ꣥꣯। हो꣤इवाजा꣥॥ प꣢ता꣡इᳲका꣢ऽ१वीऽ᳒२ः᳒। आ꣡ग्निर्ह꣢व्या꣯। ना꣡य꣪क्रमीऽ᳒२᳒त्॥ द꣡धाऽ२३त्॥ रा꣡ऽ२᳐त्ना꣣ऽ२३४औ꣥꣯हो꣯वा॥ नि꣢दा꣯शु꣡षे꣣ऽ२३꣡४꣡५꣡।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/31_0031_udu_tyam.md">
-<details open><summary><h4>31_0031 उदु त्यम् ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/31_0031_udu_tyam.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 उ꣢दु꣣ त्यं꣢ जा꣣त꣡वे꣢दसं दे꣣वं꣡ व꣢हन्ति के꣣त꣡वः꣢। दृ꣣शे꣡ विश्वा꣢꣯य꣣ सू꣡र्य꣢म् ॥ 31:0031 ॥
 
@@ -2224,8 +2224,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/31_0031_udu_tyam.md">
-<details open><summary><h4>31_0031 उदु त्यम् ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/31_0031_udu_tyam.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 उ꣢त्। उ꣣। त्य꣢म्। जा꣣त꣡वे꣢दसम्। जा꣣त꣢। वे꣣दसम्। देव꣢म्। व꣣हन्ति। केत꣡वः꣢। दृ꣣शे꣢। वि꣡श्वा꣢꣯य। सू꣡र्य꣢꣯म्। ३१।
@@ -2274,8 +2274,8 @@ title = "०१ आग्नेयं पर्व"
 ३१-१। सौर्यम्॥ सूर्यो गायत्री सूर्यः॥उ꣤दु꣥त्य꣤म्। ओहाइ॥ जा꣡। त꣪वेऽ२᳐दा꣣ऽ२३४सा꣥म्। दे꣢꣯वं꣡वहा। तीके꣢ता꣣ऽ२३४वाः꣥॥ दा꣡ऽ२३४र्शे꣯हा꣥इ॥ वा꣡इश्वा꣢꣯यसू꣡꣯। र्याम्। औऽ२३हो꣤वा꣥। हो꣤ऽ५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/32_0032_kavimagnimupa_stuhi.md">
-<details open><summary><h4>32_0032 कविमग्निमुप स्तुहि ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/32_0032_kavimagnimupa_stuhi.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 क꣣वि꣢म꣣ग्नि꣡मुप꣢꣯ स्तुहि स꣣त्य꣡ध꣢र्माणमध्व꣣रे꣢। दे꣣व꣡म꣢मीव꣣चा꣡त꣢नम् ॥ 32:0032 ॥
 
@@ -2290,8 +2290,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/32_0032_kavimagnimupa_stuhi.md">
-<details open><summary><h4>32_0032 कविमग्निमुप स्तुहि ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/32_0032_kavimagnimupa_stuhi.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 क꣣वि꣢म्। अ꣣ग्नि꣢म्। उ꣡प꣢꣯। स्तु꣣हि। स꣣त्य꣡ध꣢र्माणम्। स꣣त्य꣢। ध꣣र्माणम्। अध्वरे꣢। दे꣣व꣢म्। अ꣣मीवचा꣡त꣢नम्। अ꣣मीव। चा꣡त꣢꣯नम्। ३२।
@@ -2342,8 +2342,8 @@ title = "०१ आग्नेयं पर्व"
 क꣥विमग्नीम्॥ उ꣢पा꣡ऽ२३। स्तू꣡ऽ२᳐हा꣣ऽ२३४औ꣥꣯हो꣯वा॥ स꣢त्य꣡ध꣢र्मा꣯णमध्वरे꣡꣯॥ दे꣢꣯वाम्॥ अमी꣯वचा꣡꣯ताऽ२३ना꣢᳐ऽ३४३म्। ओ꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/33_0033_shaM_no.md">
-<details open><summary><h4>33_0033 शं नो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/33_0033_shaM_no.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 शं꣡ नो꣢ दे꣣वी꣢र꣣भि꣡ष्ट꣢ये꣣ शं꣡ नो꣢ भवन्तु पी꣣त꣡ये꣢। शं꣢꣫ योर꣣भि꣡ स्र꣢वन्तु नः ॥ 33:0033 ॥
 
@@ -2359,8 +2359,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/33_0033_shaM_no.md">
-<details open><summary><h4>33_0033 शं नो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/33_0033_shaM_no.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 श꣢म्। नः꣢। देवीः꣢। अ꣣भि꣡ष्ट꣢ये। शम्। नः꣣। भवन्तु। पीत꣡ये꣢। शम्। योः। अ꣣भि꣢। स्र꣣वन्तु। नः। ३३।
@@ -2419,8 +2419,8 @@ title = "०१ आग्नेयं पर्व"
 हु꣣वा꣢᳐ऽ३हो꣡ऽ२३४इ। शन्नो꣯दे꣥꣯वीः꣯। अ꣤भिष्ट꣥याइ॥ हु꣣वा꣢ऽ३हो꣡ऽ२३४इ। शन्नो꣯भ꣥व। तु꣤पी꣯त꣥याइ॥ हु꣣वा꣢ऽ३᳐हो꣡ऽ२३४इ। शंयो꣯र꣥भि। स्र꣤वन्तु꣥नाः॥ हु꣣वा꣢ऽ३हो꣡ऽ२᳐। वा꣣ऽ२३४औ꣥꣯हो꣯वा॥ ऊ꣣ऽ२३४पा꣥॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/34_0034_kasya_nUnam.md">
-<details open><summary><h4>34_0034 कस्य नूनम् ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/34_0034_kasya_nUnam.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 क꣡स्य꣢ नू꣣नं꣡ परी꣢꣯णसि꣣ धि꣡यो꣢ जिन्वसि सत्पते। गो꣡षा꣢ता꣣ य꣡स्य꣢ ते꣣ गि꣡रः꣢ ॥ 34:0034 ॥
 
@@ -2435,8 +2435,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/34_0034_kasya_nUnam.md">
-<details open><summary><h4>34_0034 कस्य नूनम् ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/34_0034_kasya_nUnam.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 क꣡स्य꣢꣯। नू꣣न꣢म्। प꣡री꣢꣯णसि। प꣡रि꣢꣯। न꣣सि। धि꣡यः꣢꣯। जि꣣न्वसि। सत्पते। सत्। पते। गो꣡षा꣢꣯ता। गो꣢। सा꣣ता। य꣡स्य꣢꣯। ते꣣। गि꣡रः꣢꣯। ३४।
@@ -2496,8 +2496,8 @@ title = "०१ आग्नेयं पर्व"
 
 [[अथ तुरीय खण्डः]]
 
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/35_0035_yajnAyajnA_vo.md">
-<details open><summary><h4>35_0035 यज्ञायज्ञा वो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/35_0035_yajnAyajnA_vo.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 य꣣ज्ञा꣡य꣢ज्ञा वो अ꣣ग्न꣡ये꣢ गि꣣रा꣡गि꣢रा च꣣ द꣡क्ष꣢से। प्र꣡प्र꣢ व꣣य꣢म꣣मृ꣡तं꣢ जा꣣त꣡वे꣢दसं प्रि꣣यं꣢ मि꣣त्रं꣡ न श꣢꣯ꣳसिषम् ॥ 35:0035 ॥
 
@@ -2512,8 +2512,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/35_0035_yajnAyajnA_vo.md">
-<details open><summary><h4>35_0035 यज्ञायज्ञा वो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/35_0035_yajnAyajnA_vo.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 य꣣ज्ञा꣡य꣢ज्ञा। य꣣ज्ञा꣢। य꣣ज्ञा꣢। वः। अग्न꣡ये꣢। गि꣣रा꣡गि꣢रा। गि꣣रा꣢। गि꣣रा। च। द꣡क्ष꣢꣯से। प्र꣡प्र꣢꣯। प्र। प्र꣣। वयम्꣢। अ꣣मृ꣡तम्꣢। अ꣣। मृ꣡तम्꣢꣯। जा꣣त꣡वे꣢दसम्। जा꣣त꣢। वे꣣दसम्। प्रियम्꣢। मि꣣त्रम्꣢। मि꣣। त्रम्꣢। न। शँ꣣सिषम्। ३५।
@@ -2588,8 +2588,8 @@ title = "०१ आग्नेयं पर्व"
 य꣤ज्ञा꣣ऽ५य। ज्ञा꣤ऽ३वो꣢ऽ३᳐ग्ना꣤या꣥इ॥ गा꣡इरा꣯गिरा। चा꣢ऽ३᳐दा꣡क्षा꣢ऽ३᳐सा꣢इ। प्र꣡प्रा꣰꣯ऽ२᳐वय꣡ममृतम्। जा꣯ताऽ२३वा꣢। हि꣡म्माइ॥ दा꣢ऽ३सा꣢म्॥ प्रा꣡यम्मित्रन्नशाऽ२ꣳ᳐सि꣣षा꣢उ॥ वाऽ३꣡४꣡५꣡॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/36_0036_pAhino_agna.md">
-<details open><summary><h4>36_0036 पाहिनो अग्न ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/36_0036_pAhino_agna.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 पा꣣हि꣡नो꣢ अ꣣ग्न꣡ ए꣢कया पा꣣ह्यू꣡३ऽत꣢ द्वि꣣ती꣡य꣢या । पा꣣हि꣢गी꣣र्भि꣢स्ति꣣सृ꣡भि꣢रूर्जां पते पा꣣हि꣡ च꣢त꣣सृ꣡भि꣢र्वसो॥ 36:0036॥
 
@@ -2604,8 +2604,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/36_0036_pAhino_agna.md">
-<details open><summary><h4>36_0036 पाहिनो अग्न ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/36_0036_pAhino_agna.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 पा꣣हि꣢। नः꣣। अग्ने। ए꣡क꣢꣯या। पा꣣हि꣢। उ꣣त꣢। द्वि꣣ती꣡य꣢या। पा꣣हि꣢। गी꣣र्भिः꣢। ति꣣सृ꣡भिः꣢। ऊ꣣र्जाम्। पते। पाहि꣢। च꣣तसृ꣡भिः꣢। व꣣सो। ३६।
@@ -2672,14 +2672,14 @@ title = "०१ आग्नेयं पर्व"
 पा꣤꣯हि꣣नो꣤꣯अ꣥ग्नए꣯। क꣣या꣢ऽ३। पा꣡ऽ२३४। हियु꣥तद्विती꣯। या꣤या꣥॥ पा꣤꣯हि꣣गी꣤꣯र्भि꣣स्ति꣤सृ꣣भि꣤रू꣥꣯र्जा꣯म्। पा꣢ऽ३ता꣢इ॥ पा꣡꣯होइचा꣢ऽ᳐३ता꣢ऽ३᳐४। हा꣥꣯ओ꣤वा꣥॥ सृ꣡भि꣢र्वसो꣯॥ उ꣡पा꣣ऽ२३꣡४꣡५꣡॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/37_0037_bRhadbhiragne_archibhiH.md">
-<details open><summary><h4>37_0037 बृहद्भिरग्ने अर्चिभिः ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/37_0037_bRhadbhiragne_archibhiH.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 बृ꣣ह꣡द्भि꣢रग्ने अ꣣र्चि꣡भिः꣢ शु꣣क्रे꣡ण꣢ देव शो꣣चि꣡षा꣢। भ꣣र꣡द्वा꣢जे समिधा꣣नो꣡ य꣢विष्ठ्य रे꣣व꣡त्पा꣢वक दीदिहि ॥ 37:0037 ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/37_0037_bRhadbhiragne_archibhiH.md">
-<details open><summary><h4>37_0037 बृहद्भिरग्ने अर्चिभिः ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/37_0037_bRhadbhiragne_archibhiH.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 बृ꣣ह꣡द्भिः꣢। अ꣣ग्ने। अ꣣र्चिभिः꣢। शु꣣क्रे꣡ण꣢। दे꣣व। शोचि꣡षा꣢। भ꣣र꣡द्वा꣢जे। भ꣣र꣢त्। वा꣣जे। समिधानः꣢। सम्꣣। इधानः꣢। य꣣विष्ठ्य। रेव꣢त्। पा꣣वक। दीदिहि। ३७।
@@ -2738,8 +2738,8 @@ title = "०१ आग्नेयं पर्व"
 बृ꣥हद्भिरग्ने꣯अर्चिभीऽ६रे꣥॥ शु꣢क्रा꣡इणदे꣢꣯वशो꣯चि꣡षा꣢꣯। भ꣡राद्वा꣢ऽ१जेऽ२३। ओ꣭ऽ३वा꣢। स꣡मिधा꣢꣯नः। या꣡वि꣪ष्ठियाऽ२३। ओ꣭ऽ३वा꣢॥ रे꣯वा꣡त्पा꣢ऽ१वाऽ२३। ओ꣭ऽ३वा꣢॥ का꣡दी꣯दि꣢हि। इ꣡डाऽ२३भा꣢ऽ३४३। ओ꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/38_0038_tve_agne.md">
-<details open><summary><h4>38_0038 त्वे अग्ने ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/38_0038_tve_agne.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 त्वे꣡ अ꣢ग्ने स्वाहुत प्रि꣣या꣡सः꣢ सन्तु सू꣣र꣡यः꣢। य꣣न्ता꣢रो꣣ ये꣢ म꣣घ꣡वा꣢नो꣣ ज꣡ना꣢नामू꣣र्वं꣡ दय꣢꣯न्त꣣ गो꣡ना꣢म् ॥ 38:0038 ॥
 
@@ -2754,8 +2754,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/38_0038_tve_agne.md">
-<details open><summary><h4>38_0038 त्वे अग्ने ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/38_0038_tve_agne.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 त्वे꣣ इति꣢। अ꣣ग्ने। स्वाहुत। सु। आहुत। प्रिया꣡सः꣢। स꣣न्तु। सूर꣡यः꣢। य꣣न्ता꣡रः꣢। ये। म꣣घ꣡वा꣢नः। ज꣡ना꣢꣯नाम्। ऊ꣣र्व꣢म्। दय꣢꣯न्त। गो꣡ना꣢꣯म्। ३८।
@@ -2806,8 +2806,8 @@ title = "०१ आग्नेयं पर्व"
 त्वे꣡꣯आऽ२३ग्ने꣤꣯स्वा꣯हुतहा꣥उ॥ प्रि꣢या꣡꣯सस्स꣢न्तुसू꣯र꣡यः꣢। य꣡न्तारो꣢ऽ१याऽ२३४इ। मघ꣣वा꣤꣯नो꣥꣯ज꣤ना꣥꣯। ना꣢ऽ३᳐म्॥ ऊ꣡र्व꣪न्दयाऽ२३हा꣢॥ तगो꣡꣯ना꣰꣯ऽ२म्। इ꣡डाऽ२३भा꣢ऽ३४३। ओ꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/39_0039_agne_jaritarvishpatistapAno.md">
-<details open><summary><h4>39_0039 अग्ने जरितर्विश्पतिस्तपानो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/39_0039_agne_jaritarvishpatistapAno.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अ꣢ग्ने꣣ ज꣡रि꣢तर्वि꣣श्प꣡ति꣢स्तपा꣣नो꣡ दे꣢व र꣣क्ष꣡सः꣢। अ꣡प्रो꣢षिवान्गृहपते म꣣हा꣡ꣳ अ꣢सि दि꣣व꣢स्पा꣣यु꣡र्दु꣢रोण꣣युः꣢ ॥ 39:0039 ॥
 
@@ -2822,8 +2822,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/39_0039_agne_jaritarvishpatistapAno.md">
-<details open><summary><h4>39_0039 अग्ने जरितर्विश्पतिस्तपानो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/39_0039_agne_jaritarvishpatistapAno.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 अ꣡ग्ने꣢꣯। ज꣡रि꣢꣯तः। वि꣣श्प꣡तिः꣢। त꣣पानः꣢। दे꣣व। रक्ष꣡सः꣢। अ꣡प्रो꣢꣯षिवान्। अ। प्रो꣣षिवान्। गृहपते। गृह। पते। महा꣢न्। अ꣣सि। दि꣣वः꣢। पा꣣युः꣢। दु꣣रोणयुः꣢। दुः꣣। ओनयुः꣢। । ३९।
@@ -2882,8 +2882,8 @@ title = "०१ आग्नेयं पर्व"
 अ꣣ग्ने꣤꣯ज꣣रि꣤त꣥र्वि। श्प꣣ती꣢ऽ३ः। ता꣡ऽ२३४। पा꣯नो꣯दे꣥꣯वर। क्ष꣤साः꣥॥ ता꣡पा꣯नो꣯दे꣯वरक्षसो। अप्रोषी꣢ऽ३᳐वा꣢न्। गृ꣡ह꣢पता꣡इ। माहा꣢ऽꣳआ꣣ऽ२३४सी꣥॥ ओ꣣ऽ४हा꣥। ह꣣हा꣢इ᳐। दि꣣वस्पा꣢꣯यू꣡ऽ२३꣡४꣡५ः꣡॥ ओ꣣ऽ४हा꣥। ह꣣हा꣢इ᳐। दु꣣रो꣯ण꣢यू꣡ऽ२३꣡४꣡५ः꣡॥ ओ꣣ऽ४हा꣥। ह꣣हा꣢ऽ३᳐४३इ। ओ꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/40_0040_agne_vivasvaduShasashchitram.md">
-<details open><summary><h4>40_0040 अग्ने विवस्वदुषसश्चित्रम् ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/40_0040_agne_vivasvaduShasashchitram.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अ꣢ग्ने꣣ वि꣡व꣢स्वदु꣣ष꣡स꣢श्चि꣣त्र꣡ꣳ राधो꣢꣯ अमर्त्य। आ꣢ दा꣣शु꣡षे꣢ जातवेदो वहा꣣ त्व꣢म꣣द्या꣢ दे꣣वा꣡ꣳ उ꣢ष꣣र्बु꣡धः꣢ ॥ 40:0040 ॥
 
@@ -2898,8 +2898,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/40_0040_agne_vivasvaduShasashchitram.md">
-<details open><summary><h4>40_0040 अग्ने विवस्वदुषसश्चित्रम् ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/40_0040_agne_vivasvaduShasashchitram.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 अ꣡ग्ने꣢। वि꣡व꣢꣯स्वत्। वि। व꣣स्वत्। उष꣡सः꣢। चि꣣त्र꣢म्। रा꣡धः꣢꣯। अ꣣मर्त्य। अ। मर्त्य। आ꣢। दा꣣शु꣡षे꣢। जा꣣तवेदः। जात। वेदः। वह। त्व꣢म्। अ꣣द्य꣢। अ꣣। द्य꣢। दे꣣वा꣢न्। उ꣣षर्बु꣡धः꣢। उ꣣षः। बु꣡धः꣢꣯। ४०।
@@ -2958,8 +2958,8 @@ title = "०१ आग्नेयं पर्व"
 अ꣥ग्ने꣯विवस्वदुषा꣤साः꣥॥ चि꣢त्रꣳ꣡रा꣯धो꣢꣯अ꣡मा꣰꣯ऽ२र्तिय। आ꣡दा꣢ऽ१शुषेऽ᳒२᳒। जा꣡तवे꣢꣯दः। वहा꣡तू꣢ऽ१वाऽ᳒२᳒म्॥ अद्या꣡꣯दाऽ२३इवाꣳ꣢॥ उषः꣡। बूऽ२᳐धा꣣ऽ२३४औ꣥꣯हो꣯वा॥ वि꣢दा꣯व꣡सू꣣ऽ२३꣡४꣡५꣡॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/41_0041_tvaM_nashchitra.md">
-<details open><summary><h4>41_0041 त्वं नश्चित्र ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/41_0041_tvaM_nashchitra.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 त्वं꣡ न꣢श्चि꣣त्र꣢ ऊ꣣त्या꣢꣫ वसो꣣ रा꣡धा꣢ꣳसि चोदय। अ꣣स्य꣢ रा꣣य꣡स्त्वम꣢꣯ग्ने र꣣थी꣡र꣢सि वि꣣दा꣢ गा꣣धं꣢ तु꣣चे꣡ तु नः꣢꣯ ॥ 41:0041 ॥
 
@@ -2974,8 +2974,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/41_0041_tvaM_nashchitra.md">
-<details open><summary><h4>41_0041 त्वं नश्चित्र ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/41_0041_tvaM_nashchitra.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 त्व꣢म्। नः꣣। चित्रः꣢। ऊ꣣त्या꣢। व꣡सो꣢꣯। रा꣡धाँ꣢꣯सि। चो꣣दय। अस्य꣢। रा꣣यः꣢। त्वम्। अ꣣ग्ने। रथीः꣢। अ꣣सि। विदाः꣢। गा꣣ध꣢म् तु꣣चे꣢। तु। नः꣣। ४१।
@@ -3026,8 +3026,8 @@ title = "०१ आग्नेयं पर्व"
 ## २.१
 [[अथ द्वितीयप्रपाठके प्रथमोऽर्धः]]
 
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/42_0042_tvamitsaprathA_asyagne.md">
-<details open><summary><h4>42_0042 त्वमित्सप्रथा अस्यग्ने ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/42_0042_tvamitsaprathA_asyagne.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 त्व꣢꣫मित्स꣣प्र꣡था꣢ अ꣣स्य꣡ग्ने꣢ त्रातर्ऋ꣣तः꣢ क꣣विः꣢। त्वां꣡ विप्रा꣢꣯सः समिधान दीदिव꣣ आ꣡ वि꣢वासन्ति वे꣣ध꣡सः꣢ ॥ 42:0042 ॥
 
@@ -3042,8 +3042,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/42_0042_tvamitsaprathA_asyagne.md">
-<details open><summary><h4>42_0042 त्वमित्सप्रथा अस्यग्ने ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/42_0042_tvamitsaprathA_asyagne.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 त्व꣢म्। इत्। स꣣प्र꣡थाः꣢। स꣣। प्र꣡थाः꣢꣯। अ꣣सि। अ꣡ग्ने꣢꣯। त्रा꣣तः। ऋतः꣢। क꣣विः꣢। त्वाम्। वि꣡प्रा꣢꣯सः। वि। प्रा꣣सः। समिधान। सम्। इधान। दीदिवः। आ꣢। वि꣣वासन्ति। वेध꣡सः꣢। ४२।
@@ -3102,8 +3102,8 @@ title = "०१ आग्नेयं पर्व"
 त्वं꣥त्वाऽ६मे꣥॥ इ꣢त्सप्रऽ३था꣡यासा꣢᳐इ। आ꣣ऽ२३४सी꣥। आ꣡ग्ने꣯त्रा꣢꣯तः। ऋताᳲ꣡क꣪वाऽ२᳐इः। का꣣ऽ२३४वीः꣥। त्वा꣡꣯म्विप्रा꣢꣯सस्स꣡मिधा꣢꣯। ना꣡दी꣯दिवो꣢। दा꣣ऽ२३४इवाः꣥॥ आ꣡विवा꣢꣯सा꣡ऽ२३हा꣢॥ तिवे꣡꣯धाऽ२३सा꣢ऽ३४३ः। ओ꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/43_0043_A_no.md">
-<details open><summary><h4>43_0043 आ नो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/43_0043_A_no.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 आ꣡ नो꣢ अग्ने वयो꣣वृ꣡ध꣢ꣳ र꣣यिं꣡ पा꣢वक꣣ श꣡ꣳस्य꣢म्। रा꣡स्वा꣢ च न उपमाते पु꣣रु꣢स्पृह꣣ꣳ सु꣡नी꣢ती꣣ सु꣡य꣢शस्तरम् ॥ 43:0043 ॥
 
@@ -3118,8 +3118,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/43_0043_A_no.md">
-<details open><summary><h4>43_0043 आ नो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/43_0043_A_no.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 आ꣢। नः꣣। अग्ने। वयोवृ꣡धम्꣢। वयः। वृ꣡ध꣢꣯म्। र꣣यि꣢म्। पा꣣वक। शँ꣡स्य꣢꣯म्। रा꣡स्वा꣢꣯। च꣣। नः। उपमाते। उप। माते। पुरुस्पृ꣡ह꣢म्। पु꣣रु। स्पृ꣡ह꣢꣯म्। सु꣡नी꣢꣯ती। सु। नी꣣ती। सु꣡य꣢꣯शस्तरम्। सु। य꣣शस्तरम्। ४३।
@@ -3170,8 +3170,8 @@ title = "०१ आग्नेयं पर्व"
 आ꣣꣯नो꣤꣯अ꣥ग्ने꣯वयो꣯वृ꣤ध꣥म्। ए꣢ऽ᳐३४। र꣣या꣢ऽ३꣡४꣡५꣡इम्॥ पा꣢꣯व᳐ऽ३का꣡श꣪ꣳसाऽ२३या꣢म्। रा꣡꣯स्वा꣢꣯चनउ꣡पमा꣢꣯ते꣯। पू꣡रु꣪स्पृहाऽ᳒२᳒म्॥ सु꣡नाइताइसू꣢ऽ३हा꣢इ॥ य꣣शस्त꣢रा꣡म्। औऽ२३हो꣤वा꣥। हो꣤ऽ५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/44_0044_yo_vishvA.md">
-<details open><summary><h4>44_0044 यो विश्वा ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/44_0044_yo_vishvA.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 यो꣢꣫ विश्वा꣣ द꣡य꣢ते꣣ व꣢सु꣣ हो꣡ता꣢ म꣣न्द्रो꣡ जना꣢꣯नाम्। म꣢धो꣣र्न꣡ पात्रा꣢꣯ प्रथ꣣मा꣡न्य꣢स्मै꣣ प्र꣡ स्तोमा꣢꣯ यन्त्व꣣ग्न꣡ये꣢ ॥ 44:0044 ॥
 
@@ -3186,8 +3186,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/44_0044_yo_vishvA.md">
-<details open><summary><h4>44_0044 यो विश्वा ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/44_0044_yo_vishvA.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 यः꣢। वि꣡श्वा꣢꣯। द꣡य꣢꣯ते। व꣡सु꣢꣯। हो꣡ता꣢꣯। म꣣न्द्रः꣢। ज꣡ना꣢꣯नाम्। म꣡धोः꣢꣯। न। पा꣡त्रा꣢꣯। प्र꣣थमा꣢नि꣢। अ꣣स्मै। प्र꣢। स्तो꣡माः꣢꣯। य꣣न्तु। अग्न꣡ये꣢। ४४।
@@ -3259,8 +3259,8 @@ title = "०१ आग्नेयं पर्व"
 
 [[अथ पञ्चम खण्डः]]
 
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/45_0045_enA_vo.md">
-<details open><summary><h4>45_0045 एना वो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/45_0045_enA_vo.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 ए꣣ना꣡ वो꣢ अ꣣ग्निं꣡ नम꣢꣯सो꣣र्जो꣡ नपा꣢꣯त꣣मा꣡ हु꣢वे। प्रि꣣यं꣡ चेति꣢꣯ष्ठमर꣣ति꣡ꣳ स्व꣢ध्व꣣रं꣡ विश्व꣢꣯स्य दू꣣त꣢म꣣मृ꣡त꣢म् ॥ 45:0045 ॥
 
@@ -3275,8 +3275,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/45_0045_enA_vo.md">
-<details open><summary><h4>45_0045 एना वो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/45_0045_enA_vo.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 ए꣣ना꣢। वः꣣। अग्नि꣢म्। न꣡म꣢꣯सा। ऊ꣣र्जः꣢। न꣡पा꣢꣯तम्। आ। हु꣣वे। प्रिय꣢म्। चे꣡ति꣢꣯ष्ठम्। अर꣣ति꣢म्। स्व꣣ध्वरम्। सु। अध्वर꣢म्। वि꣡श्व꣢꣯स्य दू꣣त꣢म्। अ꣣मृ꣡त꣢म्। अ꣣। मृ꣡त꣢꣯म्। ४५।
@@ -3351,8 +3351,8 @@ title = "०१ आग्नेयं पर्व"
 ए꣥꣯ना꣤꣯वो꣥꣯अग्नि꣤न्नम꣥सो꣯। जो꣯नपो꣤वा꣥॥ ता꣡मा꣯हु꣢वे꣯। प्रा꣡ऽ२३या꣢म्। चा꣡इतिष्ठ꣢म। रा꣡ऽ२३ती꣢म्। स्वध्वर꣡म्॥ विश्वस्याऽ२३दू꣢॥ ता꣡ममृ꣢तम्। इ꣡डाऽ२३भा꣢ऽ३४३। ओ꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/46_0046_sheShe_vaneShu.md">
-<details open><summary><h4>46_0046 शेषे वनेषु ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/46_0046_sheShe_vaneShu.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 शे꣢षे꣣ वने꣡षु꣢ मा꣣तृ꣢षु꣣ सं꣢ त्वा꣣ म꣡र्ता꣢स इन्धते। अ꣡त꣢न्द्रो ह꣣व्यं꣡ व꣢हसि हवि꣣ष्कृ꣢त꣣ आ꣢꣫दिद्दे꣣वे꣡षु꣢ राजसि ॥ 46:0046 ॥
 
@@ -3367,8 +3367,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/46_0046_sheShe_vaneShu.md">
-<details open><summary><h4>46_0046 शेषे वनेषु ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/46_0046_sheShe_vaneShu.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 शे꣡षे꣢꣯। व꣡ने꣢꣯षु। मा꣣तृ꣡षु꣢। सम्। त्वा꣣। म꣡र्ता꣢꣯सः। इ꣣न्धते। अ꣡त꣢꣯न्द्रः। अ। त꣣न्द्रः। ह꣣व्यम्। व꣣हसि। हविष्कृ꣡तः꣢। ह꣣विः। कृ꣡तः꣢꣯। आत्। इत्। दे꣣वे꣡षु꣢। रा꣣जसि। ४६।
@@ -3419,8 +3419,8 @@ title = "०१ आग्नेयं पर्व"
 शे꣤꣯षे꣯वनाऽ५इषुमा꣯तृ꣤षू॥ सां꣡त्वा꣢꣯म꣡र्ता꣢꣯सः। इ꣡न्धाऽ२३ता꣢इ। आ꣡तन्द्रो꣢꣯हव्यं꣡वह꣢। सा꣡इ। ह꣪वीऽ२᳐ष्का꣣ऽ२३४र्त्ताः꣥॥ आ꣡दिद्दे꣢꣯वा꣡इ॥ षु꣢रा꣡꣯जाऽ२३सा꣢ऽ३४३इ। ओ꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/47_0047_adarshi_gAtuvittamo.md">
-<details open><summary><h4>47_0047 अदर्शि गातुवित्तमो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/47_0047_adarshi_gAtuvittamo.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अ꣡द꣢र्शि गातु꣣वि꣡त्त꣢मो꣣ य꣡स्मि꣢न्व्र꣣ता꣡न्या꣢द꣣धुः꣢। उ꣢पो꣣ षु꣢ जा꣣त꣡मार्य꣢꣯स्य व꣡र्ध꣢नम꣣ग्निं꣡ न꣢क्षन्तु नो꣣ गि꣡रः꣢ ॥ 47:0047 ॥
 
@@ -3435,8 +3435,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/47_0047_adarshi_gAtuvittamo.md">
-<details open><summary><h4>47_0047 अदर्शि गातुवित्तमो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/47_0047_adarshi_gAtuvittamo.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 अ꣡द꣢꣯र्शि। गा꣣तुवि꣡त्त꣢मः। गा꣣तु। वि꣡त्त꣢꣯मः। य꣡स्मि꣢꣯न्। व्र꣣ता꣡नि꣢। आ꣣दधुः꣢। आ꣣। दधुः꣢। उ꣡प꣢꣯। उ꣣। सु꣢। जा꣣त꣢म्। आ꣡र्य꣢꣯स्य। व꣡र्ध꣢꣯नम्। अ꣣ग्नि꣢म्। न꣣क्षन्तु। नः। गि꣡रः꣢꣯। ४७।
@@ -3487,8 +3487,8 @@ title = "०१ आग्नेयं पर्व"
 अ꣥दर्शिगा꣯तुवित्तमाऽ६ए꣥॥ या꣡स्मिन्(स्थि)व्र꣢ता꣡꣯निया꣢꣯दधुः꣡। ऊपो꣯षुजा꣢ऽ३। हा꣢ऽ३᳐हा꣢इ। तमा꣡꣯रिय꣢स्यव꣡र्द्ध꣢नम्॥ अ꣡ग्नाइन्नक्षा꣢ऽ३। हा꣢ऽ३᳐हा꣢॥ तुनो꣯गि꣡रः꣢। इ꣡डाऽ२३भा꣢ऽ३४३। ओ꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/48_0048_agnirukthe_purohito.md">
-<details open><summary><h4>48_0048 अग्निरुक्थे पुरोहितो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/48_0048_agnirukthe_purohito.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अ꣣ग्नि꣢रु꣣क्थे꣢ पु꣣रो꣡हि꣢तो꣣ ग्रा꣡वा꣢णो ब꣣र्हि꣡र꣢ध्व꣣रे꣢। ऋ꣣चा꣡ या꣢मि मरुतो ब्रह्मणस्पते꣣ दे꣢वा꣣ अ꣢वो꣣ व꣡रे꣢ण्यम् ॥ 48:0048 ॥
 
@@ -3503,8 +3503,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/48_0048_agnirukthe_purohito.md">
-<details open><summary><h4>48_0048 अग्निरुक्थे पुरोहितो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/48_0048_agnirukthe_purohito.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 अ꣣ग्निः꣢। उ꣣क्थे꣢। पु꣣रो꣡हि꣢तः। पु꣣रः꣢। हि꣣तः। ग्रा꣡वा꣢꣯णः। ब꣣र्हिः꣢। अ꣣ध्वरे꣢। ऋ꣣चा꣢। या꣣मि। मरुतः। ब्रह्मणः। पते। दे꣡वाः꣢꣯। अ꣡वः꣢꣯। व꣡रे꣢꣯ण्यम्। ४८।
@@ -3563,8 +3563,8 @@ title = "०१ आग्नेयं पर्व"
 अ꣥ग्निरुक्था꣯औ꣯हो꣤होहा꣥इ॥ पु꣣रौ꣢᳐वाओ꣣ऽ२३४वा꣥। हि꣤ताः। ग्रा꣢꣯वा꣡꣯णो꣢꣯ब꣡। हि꣣रौ꣢᳐वाओ꣣ऽ२३४वा꣥। ध्व꣤राइ। ऋ꣢चौ꣭ऽ३हो꣢। या꣡꣯मिमरुतो꣯ब्रह्माण꣪स्पाताऽ᳒२᳒इ॥ दा꣡इवाऽ᳒२᳒आ꣡वाऽ२३ः॥ व꣢रो꣡ऽ२३४वा꣥। णा꣤ऽ५योऽ६"हा꣥इ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/49_0049_agnimIDiShvAvase_gAthAbhiH.md">
-<details open><summary><h4>49_0049 अग्निमीडिष्वावसे गाथाभिः ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/49_0049_agnimIDiShvAvase_gAthAbhiH.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अ꣣ग्नि꣡मी꣢डि꣣ष्वा꣡व꣢से꣣ गा꣡था꣢भिः शी꣣र꣡शो꣢चिषम्। अ꣣ग्नि꣢ꣳ रा꣣ये꣡ पु꣢रुमीढ श्रु꣣तं꣢꣫ नरो꣣ऽग्निः꣡ सु꣢दी꣣त꣡ये꣢ छ꣣र्दिः꣢ ॥ 49:0049 ॥
 
@@ -3579,8 +3579,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/49_0049_agnimIDiShvAvase_gAthAbhiH.md">
-<details open><summary><h4>49_0049 अग्निमीडिष्वावसे गाथाभिः ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/49_0049_agnimIDiShvAvase_gAthAbhiH.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 अ꣣ग्नि꣢म्। ई꣣डिष्व। अ꣡व꣢꣯से। गा꣡था꣢꣯भिः। शी꣣र꣡शो꣢चिषम्। शी꣣र꣢। शो꣣चिषम्। अग्नि꣢म्। रा꣣ये꣢। पु꣣रुमीढ। पुरु। मीढ। श्रुत꣢म्। न꣡रः꣢꣯। अ꣣ग्निः꣢। सु꣣दीत꣡ये꣢। सु꣣। दीत꣡ये꣢। छ꣣र्दिः꣢। ४९।
@@ -3631,8 +3631,8 @@ title = "०१ आग्नेयं पर्व"
 अ꣥ग्नि꣤मी꣥꣯। डि꣣ष्वा꣢ऽ३४औ꣣꣯हो꣤꣯वा꣥॥ आ꣡वसे꣢꣯। गा꣡꣯था꣢꣯भिश्शी꣯। रशो꣡꣯चाऽ२३इषा꣢म्। अग्निꣳ꣡रा꣯याइ। पुरुमाऽ२३इढा꣢। श्रुत꣡न्नरो॥ अग्निस्सूऽ२३दी꣢। तया꣡इच्छाऽ२३४५र्दीऽ६५६ः॥ द꣡क्षा꣢ऽ३या꣡ऽ२३꣡४꣡५꣡॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/50_0050_shrudhi_shrutkarNa.md">
-<details open><summary><h4>50_0050 श्रुधि श्रुत्कर्ण ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/50_0050_shrudhi_shrutkarNa.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 श्रु꣣धि꣡ श्रु꣢त्कर्ण꣣ व꣡ह्नि꣢भिर्दे꣣वै꣡र꣢ग्ने स꣣या꣡व꣢भिः। आ꣡ सी꣢दतु ब꣣र्हि꣡षि꣢ मि꣣त्रो꣡ अ꣢र्य꣣मा꣡ प्रा꣢त꣣र्या꣡व꣢भिरध्व꣣रे꣢ ॥ 50:0050 ॥
 
@@ -3647,8 +3647,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/50_0050_shrudhi_shrutkarNa.md">
-<details open><summary><h4>50_0050 श्रुधि श्रुत्कर्ण ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/50_0050_shrudhi_shrutkarNa.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 श्रु꣣धि꣢। श्रु꣣त्कर्ण। श्रुत्। कर्ण। व꣡ह्नि꣢꣯भिः। दे꣣वैः꣢। अ꣣ग्ने। सया꣡व꣢भिः। स꣣। या꣡व꣢꣯भिः। आ। सी꣣दतु। बर्हि꣡षि꣢। मि꣣त्रः꣢। मि꣣। त्रः꣢। अ꣣र्यमा꣢। प्रा꣣तः। या꣡व꣢꣯भिः। अ꣣ध्वरे꣢। ५०।
@@ -3699,8 +3699,8 @@ title = "०१ आग्नेयं पर्व"
 श्रु꣣धी꣢ऽ३। श्रू꣡ऽ२३४। धिश्रुत्क꣥र्णव꣤। ह्निभा꣥इः॥ दे꣢꣯वै꣡꣯रग्ने꣯स꣢या꣡꣯वाऽ२३भीः꣢। आ꣡꣯सी꣯दतुबर्हिषिमित्रो꣯अर्याऽ२३मा꣢॥ प्रा꣯त꣡र्याऽ२३वा꣢ऽ३॥ भा꣡ऽ२᳐इरा꣣ऽ२३४औ꣥꣯हो꣯वा॥ ए꣢ऽ᳐३। ध्व꣢र꣣आ꣢॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/51_0051_pra_daivodAso.md">
-<details open><summary><h4>51_0051 प्र दैवोदासो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/51_0051_pra_daivodAso.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 प्र꣡ दैवो꣢꣯दासो अ꣣ग्नि꣢र्दे꣣व꣢꣫ इन्द्रो꣣ न꣢ म꣣ज्म꣡ना꣢। अ꣡नु꣢ मा꣣त꣡रं꣢ पृथि꣣वीं꣡ वि वा꣢꣯वृते त꣣स्थौ꣡ नाक꣢꣯स्य꣣ श꣡र्म꣢णि ॥ 51:0051 ॥
 
@@ -3715,8 +3715,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/51_0051_pra_daivodAso.md">
-<details open><summary><h4>51_0051 प्र दैवोदासो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/51_0051_pra_daivodAso.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 प्र꣢। दै꣡वो꣢꣯दासः। दै꣡वः꣢꣯। दा꣣सः। अग्निः꣢। दे꣣वः꣢। इ꣡न्द्रः꣢꣯। न। म꣣ज्म꣡ना꣢। अ꣡नु꣢꣯। मा꣣त꣡र꣢म्। पृ꣣थिवी꣢म्। वि। वा꣣वृते। तस्थौ꣢। ना꣡क꣢꣯स्य। श꣡र्म꣢꣯णि। ५१।
@@ -3767,8 +3767,8 @@ title = "०१ आग्नेयं पर्व"
 प्र꣥दै꣯वो꣯दा꣯सो꣤ग्नीः꣥॥ दे꣢꣯व꣡इन्द्रोन꣢म꣡ज्मना। अनुमाऽ२३ता꣢। रं꣡पृथिवींवि꣢वा꣡꣯वृताइ॥ तस्थौ꣯नाऽ२३का꣢॥ स्या꣡शर्म꣢णि। इ꣡डाऽ२३भा꣢ऽ३४३। ओ꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/52_0052_adha_jmo.md">
-<details open><summary><h4>52_0052 अध ज्मो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/52_0052_adha_jmo.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अ꣢ध꣣ ज्मो꣡ अध꣢꣯ वा दि꣣वो꣡ बृ꣢ह꣣तो꣡ रो꣢च꣣ना꣡दधि꣢꣯। अ꣣या꣡ व꣢र्धस्व त꣣꣬न्वा꣢꣯ गि꣣रा꣢꣫ ममा जा꣣ता꣡ सु꣢क्रतो पृण ॥ 52:0052 ॥
 
@@ -3783,8 +3783,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/52_0052_adha_jmo.md">
-<details open><summary><h4>52_0052 अध ज्मो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/52_0052_adha_jmo.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 अ꣡ध꣢꣯। ज्मः। अ꣡ध꣢꣯। वा꣣। दिवः꣢। बृ꣣हतः꣢। रो꣣चना꣢त्। अधि꣢꣯। अ꣣या꣢। व꣣र्धस्व। त꣡न्वा꣢꣯। गि꣣रा꣢। म꣡म꣢꣯। आ। जा꣣ता꣢। सु꣢क्रतो। सु। क्रतो पृण। ५२।
@@ -3835,8 +3835,8 @@ title = "०१ आग्नेयं पर्व"
 अ꣥धज्मा꣯ओ꣤वा꣥॥ ध꣡वादा꣢ऽ१इवाऽ᳒२ः᳒। बृहतो꣡꣯रो꣯चाना꣢ऽ१दाधीऽ᳒२᳒। आ꣡। यौ꣯। हौ꣢꣯हो᳐ऽ३वा꣢। वा꣡र्धस्व꣢तन्वा꣯। गा꣡इरा꣢ऽ१ममाऽ᳒२᳒। आ꣡जातासौ꣢꣯। हौ꣯होऽ३वा꣢ऽ३४॥ हा꣥। हा꣢उवाऽ३॥ क्र꣢तो꣯पृणा꣣ऽ२३꣡४꣡५꣡॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/53_0053_kAyamAno_vanA.md">
-<details open><summary><h4>53_0053 कायमानो वना ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/53_0053_kAyamAno_vanA.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 का꣡य꣢मानो व꣣ना꣢꣫ त्वं यन्मा꣣तृ꣡रज꣢꣯गन्न꣣पः꣢। न꣡ तत्ते꣢꣯ अग्ने प्र꣣मृ꣡षे꣢ नि꣣व꣡र्त꣢नं꣣ य꣢द्दू꣣रे꣢꣫ सन्नि꣣हा꣡भुवः꣢ ॥ 53:0053 ॥
 
@@ -3865,8 +3865,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/53_0053_kAyamAno_vanA.md">
-<details open><summary><h4>53_0053 कायमानो वना ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/53_0053_kAyamAno_vanA.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 का꣡य꣢꣯मानः। व꣣ना꣢। त्वम्। यत्। मा꣣तॄः꣢। अ꣡ज꣢꣯गन्। अ꣣पः꣢। न। तत्। ते꣣। अग्ने। प्रमृ꣡षे꣢। प्र꣣। मृ꣡षे꣢꣯। नि꣣। व꣡र्त्त꣢꣯नम्। यत्। दू꣣रे꣢। दुः꣣। ए꣢। सन्। इ꣣ह꣢। अ꣡भु꣢꣯वः। ५३।
@@ -3925,8 +3925,8 @@ title = "०१ आग्नेयं पर्व"
 ए꣤काया꣥॥ मा꣡꣯नो। व꣣ना꣢तू꣣ऽ२३४वा꣥म्। ओ꣢इ᳐। तू꣣ऽ२३४वा꣥म्। उ꣤हुवाहा꣥इ। औ꣭ऽ३᳐हो꣢ऽ३१इ। य꣢न्मा꣡꣯तॄ꣢꣯रा꣡। जाग꣢न्ना꣣ऽ२३४पाः꣥। आ꣣ऽ२३४पाः꣥। उ꣤हुवाहा꣥इ। औ꣭ऽ३᳐हो꣢ऽ३१इ॥ न꣢त꣡त्त꣢आ꣡। ग्ना꣢ऽ३इप्र꣡मृषा꣢ऽ३इ। नि꣡वाऽ२᳐र्ता꣣ऽ२३४ना꣥म्। ता꣣ऽ२३४ना꣥म्। उ꣤हुवाहा꣥इ। औ꣭ऽ३᳐हो꣢ऽ३१इ॥ य꣢द्दू꣡꣯रे꣢꣯सा꣡न्। इहा꣢भू꣣ऽ२३४वाः꣥। भू꣣ऽ२३४वाः꣥॥ उ꣤हुवाहा꣥इ। औ꣭ऽ३᳐हो꣢ऽ३१२᳐। या꣣ऽ२३४औ꣥꣯हो꣯वा॥ ऊ꣣ऽ२३४पा꣥॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/54_0054_ni_tvAmagne.md">
-<details open><summary><h4>54_0054 नि त्वामग्ने ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/54_0054_ni_tvAmagne.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 नि꣡ त्वाम꣢꣯ग्ने꣣ म꣡नु꣢र्दधे꣣ ज्यो꣢ति꣣र्ज꣡ना꣢य꣣ श꣡श्व꣢ते। दी꣣दे꣢थ꣣ क꣡ण्व꣢ ऋ꣣त꣡जा꣢त उक्षि꣣तो꣡ यं न꣢꣯म꣣स्य꣡न्ति꣢ कृ꣣ष्ट꣡यः꣢ ॥ 54:0054 ॥
 
@@ -3941,8 +3941,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/54_0054_ni_tvAmagne.md">
-<details open><summary><h4>54_0054 नि त्वामग्ने ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/1/54_0054_ni_tvAmagne.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 नि꣢। त्वाम्। अ꣣ग्ने। म꣡नुः꣢꣯। द꣣धे। ज्यो꣡तिः꣢꣯। ज꣡ना꣢꣯य। श꣡श्व꣢꣯ते। दी꣣दे꣡थ꣢। क꣡ण्वे꣢꣯। ऋ꣣त꣡जा꣢तः। ऋ꣣त। जा꣣तः। उक्षितः꣢। यम्। न꣣मस्य꣡न्ति꣢। कृ꣣ष्ट꣡यः꣢। ५४।
@@ -4004,8 +4004,8 @@ title = "०१ आग्नेयं पर्व"
 
 [[अथ षष्ठ खण्डः]]
 
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/01_0055_devo_vo.md">
-<details open><summary><h4>01_0055 देवो वो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/01_0055_devo_vo.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 दे꣣वो꣡ वो꣢ द्रविणो꣣दाः꣢ पू꣣र्णां꣡ वि꣢वष्ट्वा꣣सि꣡च꣢म्। उ꣡द्वा꣢ सि꣣ञ्च꣢ध्व꣣मु꣡प꣢ वा पृणध्व꣣मा꣡दिद्वो꣢꣯ दे꣣व꣡ ओ꣢हते ॥ 01:0055 ॥
 
@@ -4020,8 +4020,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/01_0055_devo_vo.md">
-<details open><summary><h4>01_0055 देवो वो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/01_0055_devo_vo.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 दे꣣वः꣢। वः꣣। द्रविणोदाः꣢। द्र꣣विणः। दाः꣢। पू꣣र्णा꣢म्। वि꣣वष्टु। आसि꣡च꣢म्। आ꣣। सि꣡च꣢꣯म्। उत्। वा꣣। सिञ्च꣡ध्व꣢म्। उ꣡प꣢꣯। वा꣣। पृणध्वम्। आ꣢त्। इत्। वः꣣। देवः꣢। ओ꣣हते। ५५।
@@ -4072,8 +4072,8 @@ title = "०१ आग्नेयं पर्व"
 दे꣥꣯वो꣤ऽ३वो꣢ऽ३द्र꣤विणो꣥꣯दाः॥ पू꣢꣯र्णां꣡꣯विव꣢ष्ट्वा꣯सि꣡च꣢म्। ऊ꣡द्वा꣢ऽ१सिञ्चाऽ᳒२᳒। ध्वमु꣡पवा꣢꣯पृणध्वम्॥ आ꣡दि꣪द्वोदेऽ᳒२᳒॥ व꣡ओ꣯ह꣢ते꣯। इ꣡डाऽ२३भा꣢ऽ३४३। ओ꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/02_0056_praitu_brahmaNaspatiH.md">
-<details open><summary><h4>02_0056 प्रैतु ब्रह्मणस्पतिः ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/02_0056_praitu_brahmaNaspatiH.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 प्रै꣢तु꣣ ब्र꣡ह्म꣢ण꣣स्प꣢तिः꣣ प्र꣢ दे꣣꣬व्ये꣢꣯तु सू꣣नृ꣡ता꣢। अ꣡च्छा꣢ वी꣣रं꣡ नर्यं꣢꣯ प꣣ङ्क्ति꣡रा꣢धसं दे꣣वा꣢ य꣣ज्ञं꣡ न꣢यन्तु नः ॥ 02:0056 ॥
 
@@ -4088,8 +4088,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/02_0056_praitu_brahmaNaspatiH.md">
-<details open><summary><h4>02_0056 प्रैतु ब्रह्मणस्पतिः ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/02_0056_praitu_brahmaNaspatiH.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 प्र꣢। ए꣣तु। ब्रह्म꣢꣯णः प꣡तिः꣢꣯। प्र। दे꣣वी꣢। ए꣣तु। सूनृ꣡ता꣢। सु꣣। नृ꣡ता꣢꣯। अ꣡च्छ꣢꣯। वी꣣र꣢म्। न꣡र्य꣢꣯म्। प꣣ङ्क्ति꣡रा꣢धसम्। प꣣ङ्क्ति꣢म्। रा꣣धसम्। देवाः꣢। य꣣ज्ञ꣢म्। न꣣यन्तु। नः। ५६।
@@ -4140,8 +4140,8 @@ title = "०१ आग्नेयं पर्व"
 प्रै꣥꣯तू꣢ऽ३ब्र꣤ह्म꣥ण꣤स्पतीः꣥॥ प्र꣢दा꣡इविये꣢। तुसू꣡नृता꣢ऽ३। अ꣡च्छाऽ२᳐वा꣣ऽ२३४इरा꣥म्। न꣡र्यम्प꣢। ङ्क्तिरा꣡धा꣢ऽ१साऽ२३म्॥ दे꣡꣯वाऽ२᳐या꣣ऽ२३४ज्ञा꣥म्॥ ना꣡ऽ२᳐या꣣ऽ२३४औ꣥꣯हो꣯वा॥ तू꣣ऽ२३४नाः꣥॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/03_0057_Urdhva_U.md">
-<details open><summary><h4>03_0057 ऊर्ध्व ऊ ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/03_0057_Urdhva_U.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 ऊ꣣र्ध्व꣢ ऊ꣣ षु꣡ ण꣢ ऊ꣣त꣢ये꣣ ति꣡ष्ठा꣢ दे꣣वो꣡ न स꣢꣯वि꣣ता꣢। ऊ꣣र्ध्वो꣡ वाज꣢꣯स्य꣣ स꣡नि꣢ता꣣ य꣢द꣣ञ्जि꣡भि꣢र्वा꣣घ꣡द्भि꣢र्वि꣣ह्व꣡या꣢महे ॥ 03:0057 ॥
 
@@ -4156,8 +4156,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/03_0057_Urdhva_U.md">
-<details open><summary><h4>03_0057 ऊर्ध्व ऊ ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/03_0057_Urdhva_U.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 ऊ꣣र्ध्वः꣢। ऊ꣣। सु꣢। नः꣢। ऊत꣡ये꣣। ति꣡ष्ठ꣢꣯। दे꣣वः꣢। न। स꣣विता꣢। ऊ꣣र्ध्वः꣢। वा꣡ज꣢꣯स्य। स꣡नि꣢꣯ता। यत्। अ꣣ञ्जिभिः꣢। वा꣣घ꣡द्भिः꣢। वि꣣ह्व꣡या꣢महे। वि꣣। ह्व꣡या꣢꣯महे। ५७।
@@ -4208,8 +4208,8 @@ title = "०१ आग्नेयं पर्व"
 ऊ꣢꣯र्ध्वऊ꣯षुणऽ३᳐ऊ꣡ताऽ२३४या꣥इ॥ ति꣡ष्ठा꣯दे꣯वो꣯नसविता। ऊ꣯र्ध्वो꣯वाऽ२३जा꣢। स्या꣡सनि꣢ता꣯। या꣡दं꣪जिभीऽ᳒२ः᳒॥ वा꣯घा꣡द्भीऽ᳒२ः᳒॥ वी꣡वीऽ᳒२᳒॥ ह्वया꣡꣯माऽ२३हा꣢ऽ३४३इ। ओ꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/04_0058_pra_yo.md">
-<details open><summary><h4>04_0058 प्र यो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/04_0058_pra_yo.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 प्र꣢꣫ यो रा꣣ये꣡ निनी꣢꣯षति꣣ म꣢र्तो꣣ य꣡स्ते꣢ वसो꣣ दा꣡श꣢त्। स꣢ वी꣣रं꣡ ध꣢त्ते अग्न उक्थशꣳ꣣सि꣢नं꣣ त्म꣡ना꣢ सहस्रपो꣣षि꣡ण꣢म् ॥ 04:0058 ॥
 
@@ -4224,8 +4224,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/04_0058_pra_yo.md">
-<details open><summary><h4>04_0058 प्र यो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/04_0058_pra_yo.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 प्र꣢। यः। रा꣣ये꣢। नि꣡नी꣢꣯षति। म꣡र्तः꣢꣯। यः। ते꣣। वसो। दा꣡श꣢꣯त्। सः। वी꣣र꣢म्। ध꣣त्ते। अग्ने। उक्थशँसि꣡न꣢म्। उ꣣क्थ। शँसि꣡न꣢म्। त्म꣡ना꣢꣯। स꣣हस्रपोषि꣡ण꣢म्। स꣣हस्र। पोषि꣡ण꣢म्। ५८।
@@ -4276,8 +4276,8 @@ title = "०१ आग्नेयं पर्व"
 प्र꣤यो꣯रा꣯याऽ५इनिनी꣯ष꣤ताइ॥ म꣡र्तो꣯यस्तेव꣢सो꣡꣯दा꣯शत्। सवी꣯राऽ२३न्धा꣢। ता꣡अग्न꣢उ। क्थशꣳसि꣡नम्॥ त्मना꣯साऽ२३हा꣢॥ स्रपो꣡꣯षाऽ२३इणा꣢ऽ३४३म्। ओ꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/05_0059_pra_vo.md">
-<details open><summary><h4>05_0059 प्र वो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/05_0059_pra_vo.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 प्र꣡ वो꣢ य꣣ह्वं꣡ पु꣢रू꣣णां꣢ वि꣣शां꣡ दे꣢वय꣣ती꣡ना꣢म्। अ꣣ग्नि꣢ꣳ सू꣣क्ते꣢भि꣣र्व꣡चो꣢भिर्वृणीमहे꣣ य꣢꣫ꣳसमिद꣣न्य꣢ इ꣣न्ध꣡ते꣢ ॥ 05:0059 ॥
 
@@ -4292,8 +4292,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/05_0059_pra_vo.md">
-<details open><summary><h4>05_0059 प्र वो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/05_0059_pra_vo.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 प्र꣢। वः꣣। यह्व꣢म्। पु꣣रूणा꣢म्। वि꣣शा꣢म्। दे꣣वयती꣡ना꣢म्। अ꣣ग्नि꣢म्। सू꣣क्ते꣢भिः꣣। सु꣣। उक्थे꣡भिः꣢। व꣡चो꣢꣯भिः। वृ꣣णीमहे। य꣢म्। सम्। इत्। अ꣣न्ये꣢। अ꣣न्। ये꣢। इ꣣न्ध꣡ते꣢। ५९।
@@ -4342,8 +4342,8 @@ title = "०१ आग्नेयं पर्व"
 ५९-१। ऐतवाध्य्रम्॥ ऐतवद्ध्रिर्बृहत्यग्निः॥प्र꣥वाः꣤॥ य꣢ह्वं꣡पुरूऽ२३णा꣢म्। विशां꣡꣯दे꣯व꣢य꣡ताऽ२३इना꣢म्। अग्निꣳ꣡सू꣯क्ते꣯भिर्वचो꣯भिर्वृ꣢णी꣡꣯माऽ२३हा꣢इ। याꣳ꣡साऽ᳒२᳒मा꣡इदाऽ᳒२᳒न्॥ य꣡इंध꣢ते꣯। इ꣡डाऽ२३भा꣢ऽ३४३। ओ꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/06_0060_ayamagniH_suvIryasyeshe.md">
-<details open><summary><h4>06_0060 अयमग्निः सुवीर्यस्येशे ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/06_0060_ayamagniH_suvIryasyeshe.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अ꣣य꣢म꣣ग्निः꣢ सु꣣वी꣢र्य꣣स्ये꣢शे꣣ हि꣡ सौभ꣢꣯गस्य। रा꣡य꣣ ई꣢शे स्वप꣣त्य꣢स्य꣣ गो꣡म꣢त꣣ ई꣡शे꣢ वृत्र꣣ह꣡था꣢नाम् ॥ 06:0060 ॥
 
@@ -4358,8 +4358,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/06_0060_ayamagniH_suvIryasyeshe.md">
-<details open><summary><h4>06_0060 अयमग्निः सुवीर्यस्येशे ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/06_0060_ayamagniH_suvIryasyeshe.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 अ꣣य꣢म्। अ꣣ग्निः꣢। सु꣣वी꣡र्य꣣स्य। सु꣣। वी꣡र्य꣢꣯स्य। ई꣡शे꣢꣯। हि। सौ꣡भ꣢꣯गस्य। सौ। भ꣣गस्य। रायः꣢। ई꣣शे। स्वपत्य꣡स्य꣣। सु꣣। अपत्य꣡स्य꣢। गो꣡म꣢꣯तः। ई꣡शे꣢꣯। वृ꣣त्रह꣡था꣢नाम्। वृ꣣त्र। ह꣡था꣢꣯नाम्। ६०।
@@ -4410,8 +4410,8 @@ title = "०१ आग्नेयं पर्व"
 अ꣥यमग्निस्सुवी꣯र्यस्यहाउ॥ आ꣡इशे꣢꣯हि꣡सौ꣯भग꣢स्य। हो꣡वा꣢ऽ᳐३हा꣢इ। रा꣯य꣡ई꣯शे꣢꣯स्व꣡पत्य꣢। स्या꣡गो꣢ऽ१माताऽ२३ः। हो꣡वा꣢ऽ᳐३हा꣢इ॥ ई꣯शे꣡꣯हाऽ२३इवॄ꣢ऽ३। हो꣡वा꣢ऽ᳐३हा꣢॥ त्रा꣡हथा꣢꣯ना꣯म्। इ꣡डाऽ२३भा꣢ऽ३४३। ओ꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/07_0061_tvamagne_gRhapatistvam.md">
-<details open><summary><h4>07_0061 त्वमग्ने गृहपतिस्त्वम् ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/07_0061_tvamagne_gRhapatistvam.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 त्व꣡म꣢ग्ने गृ꣣ह꣡प꣢ति꣣स्त्व꣡ꣳ होता꣢꣯ नो अध्व꣣रे꣢। त्वं꣡ पोता꣢꣯ विश्ववार꣣ प्र꣡चे꣢ता꣣ य꣢क्षि꣣ या꣡सि꣢ च꣣ वा꣡र्य꣢म् ॥ 07:0061 ॥
 
@@ -4426,8 +4426,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/07_0061_tvamagne_gRhapatistvam.md">
-<details open><summary><h4>07_0061 त्वमग्ने गृहपतिस्त्वम् ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/07_0061_tvamagne_gRhapatistvam.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 त्व꣢म्। अ꣣ग्ने। गृह꣡प꣢तिः। गृ꣣ह꣢। प꣣तिः। त्व꣢म्। हो꣡ता꣢꣯। नः꣢। अध्वरे꣢। त्वम्। पो꣡ता꣢꣯। वि꣣श्ववार। विश्व। वार। प्र꣡चे꣢꣯ताः। प्र। चे꣣ताः। य꣡क्षि꣢꣯। या꣡सि꣢꣯। च꣣। वा꣡र्य꣢꣯म्। ६१।
@@ -4494,8 +4494,8 @@ title = "०१ आग्नेयं पर्व"
 त्व꣥मा꣢ऽ३ग्ने꣤꣯गृ꣥हा꣤पतीः꣥॥ त्वꣳ꣡हो꣯ता꣢꣯नो꣯अ꣡ध्व꣢रे꣯। त्वा꣡ऽ२३म्पो꣯ता꣢। औ꣣꣯हो꣢ऽ३४इ। औ꣯हो꣥꣯। वा꣣꣯हा꣢इ। वा꣡इश्ववा꣢꣯। रप्र꣡चाइताः꣢꣯। औ꣣꣯हो꣢ऽ३४इ। औ꣯हो꣥꣯। वा꣣꣯हा꣢इ॥ य꣡क्षाइयासा꣢। औ꣣꣯हो꣢ऽ३४इ। औ꣯हो꣥꣯। वा꣣꣯हा꣢इ॥ चवा꣡꣯राऽ२३या꣢ऽ३४३म्। ओ꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/08_0062_sakhAyastvA_vavRmahe.md">
-<details open><summary><h4>08_0062 सखायस्त्वा ववृमहे ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/08_0062_sakhAyastvA_vavRmahe.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 स꣡खा꣢यस्त्वा ववृमहे दे꣣वं꣡ मर्ता꣢꣯स ऊ꣣त꣡ये꣢। अ꣣पां नपा꣢꣯तꣳ सु꣣भ꣡ग꣢ꣳ सु꣣द꣡ꣳस꣢सꣳ सु꣣प्र꣡तू꣢र्तिमने꣣ह꣡स꣢म् ॥ 08:0062 ॥
 
@@ -4510,8 +4510,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/08_0062_sakhAyastvA_vavRmahe.md">
-<details open><summary><h4>08_0062 सखायस्त्वा ववृमहे ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/08_0062_sakhAyastvA_vavRmahe.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 स꣡खा꣢꣯यः। स꣢। खा꣣यः। त्वा। ववृमहे। देवम्꣢। म꣡र्ता꣢꣯सः। ऊ꣣त꣡ये꣢। अ꣣पा꣢म्। न꣣पा꣢꣯तम्। सु꣣भ꣡ग꣢म्। सु꣣। भ꣡ग꣢꣯म्। सु꣣दँ꣡ऽस꣢सम्। सु꣣। दँ꣡स꣢꣯सम्। सु꣣प्र꣡तू꣢र्तिम्। सु꣣। प्र꣡तू꣢꣯र्त्तिम्। अ꣣नेह꣡स꣢म्। अ꣣न्। एह꣡स꣢म्। ६२।
@@ -4563,14 +4563,14 @@ title = "०१ आग्नेयं पर्व"
 
 [[अथ सप्तम खण्डः]]
 
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/09_0063_A_juhotA.md">
-<details open><summary><h4>09_0063 आ जुहोता ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/09_0063_A_juhotA.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 आ꣡ जु꣢होता ह꣣वि꣡षा꣢ मर्जय꣣ध्वं नि꣡ होता꣢꣯रं गृ꣣ह꣡प꣢तिं दधिध्वम्। इ꣣ड꣢स्प꣣दे꣡ नम꣢꣯सा रा꣣त꣡ह꣢व्यꣳ सप꣣र्य꣡ता꣢ यज꣣तं꣢ प꣣꣬स्त्या꣢꣯नाम् ॥ 09:0063 ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/09_0063_A_juhotA.md">
-<details open><summary><h4>09_0063 आ जुहोता ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/09_0063_A_juhotA.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 आ꣢। जु꣣होत। हवि꣡षा꣢। म꣣र्जयध्वम्। नि꣢। हो꣡ता꣢꣯रम्। गृ꣣ह꣡प꣢तिम्। गृ꣣ह꣢। प꣣तिम्। दधिध्वम्। इडः꣢। प꣣दे꣢। न꣡म꣢꣯सा। रा꣣त꣡ह꣢व्यम्। रा꣣त। ह꣣व्यम्। सपर्य꣡त꣢। य꣣जत꣢म्। प꣣स्त्या꣢꣯नाम्। ६३।
@@ -4621,8 +4621,8 @@ title = "०१ आग्नेयं पर्व"
 आ꣤꣯जु꣥हो꣯ता꣤॥ ह꣢वि꣡षा꣯मर्जयाऽ᳒२᳒ध्वा꣡उवाऽ᳒२᳒। नि꣡हो꣯ता꣯रंगृहपतिन्दधाऽ᳒२᳒इध्वा꣡उवाऽ२३४॥ इ꣣डा꣢ऽ३४स्प꣣दा꣢इ॥ न꣡मसा꣯रा꣯त꣢हा꣡व्याऽ᳒२᳒म्। सा꣡पर्य꣢ता꣡। याजतं꣢पा꣡ऽ२३। स्ति꣤योवा꣥। आ꣤ऽ५नोऽ६"हा꣥इ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/10_0064_chitra_ichChishostaruNasya.md">
-<details open><summary><h4>10_0064 चित्र इच्छिशोस्तरुणस्य ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/10_0064_chitra_ichChishostaruNasya.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 चि꣣त्र꣢꣫ इच्छिशो꣣स्त꣡रु꣢णस्य व꣣क्ष꣢थो꣣ न꣢꣫ यो मा꣣त꣡रा꣢व꣣न्वे꣢ति꣣ धा꣡त꣢वे। अ꣣नूधा꣡ यदजी꣢꣯जन꣣द꣡धा꣢ चि꣣दा꣢ व꣣व꣡क्ष꣢त्स꣣द्यो꣡ महि꣢꣯ दू꣣त्यां३꣢च꣡र꣢न् ॥ 10:0064 ॥
 
@@ -4637,8 +4637,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/10_0064_chitra_ichChishostaruNasya.md">
-<details open><summary><h4>10_0064 चित्र इच्छिशोस्तरुणस्य ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/10_0064_chitra_ichChishostaruNasya.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 चि꣣त्रः꣢। इत्। शि꣡शोः꣢꣯। त꣡रु꣢꣯णस्य। व꣣क्षथः꣢। न। यः। मा꣣त꣡रौ꣢। अ꣣न्वे꣡ति꣣। अ꣣नु। ए꣡ति꣢꣯। धा꣣त꣢꣯वे। अ꣣नूधाः꣢। अ꣣न्। ऊधाः꣢। यत्। अ꣡जी꣢꣯जनत्। अ꣡ध꣢꣯। चि꣣त्। आ꣢। व꣣व꣡क्ष꣢त्। स꣣द्यः꣢। स꣣। द्यः꣢। म꣡हि꣢꣯। दू꣣त्य꣢꣯म्। च꣡र꣢꣯न्। ६४।
@@ -4697,8 +4697,8 @@ title = "०१ आग्नेयं पर्व"
 चि꣥त्राऽ६ए꣥॥ ए꣢ऽ३᳐१२३४। शिशो꣥꣯स्त꣤रु꣥णस्यवक्ष꣤थः꣥। क्ष꣤थः꣥। हिहिहियाऽ६हा꣥उ। ए꣢ऽ३᳐१२३४॥ नयो꣯मा꣥꣯त꣤रा꣥꣯वन्वे꣤꣯ति꣥धा꣤꣯त꣥वे꣯। त꣤वे꣥꣯। हिहिहियाऽ६हा꣥उ॥ ए꣢ऽ३᳐१२३४। अनू꣥꣯धा꣤꣯यदजी꣥꣯जनद꣤धा꣥꣯चिदा꣤꣯। चिदा꣥꣯। हिहिहियाऽ६हा꣥उ। ए꣢ऽ३᳐१२३४॥ ववक्ष꣥त्सद्यो꣤꣯महि꣥दू꣯ति꣤यं꣥च꣤र꣥न्। च꣤र꣥न्। हिहिहियाऽ६हा꣥उ। वा॥ ए꣢ऽ᳐३। ऋ꣢तू꣡न्॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/11_0065_idaM_ta.md">
-<details open><summary><h4>11_0065 इदं त ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/11_0065_idaM_ta.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 इ꣣दं꣢ त꣣ ए꣡कं꣢ प꣣र꣡ उ꣢ त꣣ ए꣡कं꣢ तृ꣣ती꣡ये꣢न꣣ ज्यो꣡ति꣢षा꣣ सं꣡ वि꣢शस्व। सं꣣वे꣡श꣢नस्त꣣न्वे꣢ऽ३चा꣡रु꣢रेधि प्रि꣣यो꣢ दे꣣वा꣡नां꣢ पर꣣मे꣢ ज꣣नि꣡त्रे꣢ ॥ 11:0065 ॥
 
@@ -4713,8 +4713,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/11_0065_idaM_ta.md">
-<details open><summary><h4>11_0065 इदं त ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/11_0065_idaM_ta.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 इ꣣द꣢म्। ते꣣। ए꣡क꣢꣯म्। प꣣रः꣢। उ꣣। ते। ए꣡क꣢꣯म्। तृ꣣ती꣡ये꣢न। ज्यो꣡ति꣢꣯षा। सम्। वि꣣शस्व। संवे꣡श꣢नः। स꣣म्। वे꣡श꣢꣯नः। त꣡न्वे꣢꣯। चा꣡रुः꣢꣯। ए꣣धि। प्रियः꣢। दे꣣वा꣡ना꣢म्। प꣣रमे꣢। ज꣣नि꣡त्रे꣢। ६५।
@@ -4765,8 +4765,8 @@ title = "०१ आग्नेयं पर्व"
 ओ꣣ऽ४हा꣥। ह꣣हा꣢इ। इदं꣡तए। का꣢ऽ᳐३म्प꣡रः। ऊ꣢त꣣ए꣤का꣥म्॥ तृ꣢ती꣡꣯ये꣯ना। ज्यो꣯तिषा꣢ऽ᳐३। सं꣢वि꣣श꣤स्वा꣥॥ सं꣢वे꣡꣯शनाः। त꣢नु꣡वे꣯। चा꣢᳐रु꣣रे꣤धी꣥॥ ओ꣣ऽ४हा꣥। ह꣣हा꣢इ। प्रियो꣡꣯दे꣯वा। ना꣢ऽ३म्प꣡र। मा꣢ऽ३४३इ। जा꣢ऽ३᳐ना꣤ऽ५इत्रा"ऽ६५६इ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/12_0066_imaM_stomamarhate.md">
-<details open><summary><h4>12_0066 इमं स्तोममर्हते ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/12_0066_imaM_stomamarhate.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 इ꣣म꣢꣫ꣳ स्तो꣣म꣡मर्ह꣢ते जा꣣त꣡वे꣢दसे꣣ र꣡थ꣢मिव꣣ सं꣡ म꣢हेमा मनी꣣ष꣡या꣢। भ꣣द्रा꣢꣫ हि नः꣣ प्र꣡म꣢तिरस्य स꣣ꣳस꣡द्यग्ने꣢꣯ स꣣ख्ये꣡ मा रि꣢꣯षामा व꣣यं꣡ तव꣢꣯ ॥ 12:0066 ॥
 
@@ -4781,8 +4781,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/12_0066_imaM_stomamarhate.md">
-<details open><summary><h4>12_0066 इमं स्तोममर्हते ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/12_0066_imaM_stomamarhate.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 इ꣣म꣢म्। स्तो꣡मम꣢꣯म्। अ꣡र्ह꣢꣯ते। जा꣣त꣡वे꣢दसे। जा꣣त꣢। वे꣣दसे। र꣡थ꣢꣯म्। इ꣣व। स꣢꣯म्। म꣣हेम। मनीष꣡या꣢। भ꣣द्रा꣢। हि। नः꣣। प्र꣡म꣢꣯तिः। प्र। म꣣तिः। अस्य। सँस꣡दि꣢। सम्। स꣡दि꣢꣯। अ꣡ग्ने꣢꣯। स꣣ख्ये꣢। स꣣। ख्ये꣢। मा। रि꣣षाम। वय꣢म्। त꣡व꣢꣯। ६६।
@@ -4833,8 +4833,8 @@ title = "०१ आग्नेयं पर्व"
 इ꣣मꣳ꣢स्तो꣣ऽ२३४मा꣥म्। अ꣢र्हा᳐ते꣣ऽ२३४जा꣥। ता꣡वे꣢꣯द꣡से꣢ऽ३। हो꣡इ॥ र꣣था꣢मी꣣ऽ२३४वा꣥। सं꣢मा᳐हे꣣ऽ२३४मा꣥। मा꣡नी꣢꣯ष꣡या꣢ऽ३। हो꣡इ॥ भ꣣द्रा꣢ही꣣ऽ२३४नाः꣥। प्र꣢मा᳐ती꣣ऽ२३४रा꣥। स्या꣡सꣳ꣢स꣡दे꣢ऽ३। हो꣡इ॥ अ꣣ग्ना꣢इ᳐सा꣣ऽ२३४ख्या꣥इ। मा꣢रा᳐इषा꣣ऽ२३४मा꣥। वा꣡यं꣢त꣡वा꣢ऽ३। हो꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/13_0067_mUrdhAnaM_divo.md">
-<details open><summary><h4>13_0067 मूर्धानं दिवो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/13_0067_mUrdhAnaM_divo.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 मू꣣र्धा꣡नं꣢ दि꣣वो꣡ अ꣢र꣣तिं꣡ पृ꣢थि꣣व्या꣡ वै꣢श्वान꣣र꣢मृ꣣त꣢꣫ आ जा꣣त꣢म꣣ग्नि꣢म्। क꣣वि꣢ꣳ स꣣म्रा꣢ज꣣म꣡ति꣢थिं꣣ ज꣡ना꣢नामा꣣स꣢न्नः꣣ पा꣡त्रं꣢ जनयन्त दे꣣वाः꣢ ॥ 13:0067 ॥
 
@@ -4851,8 +4851,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/13_0067_mUrdhAnaM_divo.md">
-<details open><summary><h4>13_0067 मूर्धानं दिवो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/13_0067_mUrdhAnaM_divo.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 मू꣣र्धान꣢म्। दि꣣वः꣢। अ꣣रति꣢म्। पृ꣣थिव्याः꣢। वै꣣श्वानर꣢म्। वै꣣श्व। नर꣢म्। ऋ꣣ते꣢। आ। जा꣣त꣢म्। अ꣣ग्नि꣢म्। क꣣वि꣢म्। स꣣म्रा꣡ज꣢म्। स꣣म्। रा꣡ज꣢꣯म्। अ꣡ति꣢꣯थिम्। ज꣡ना꣢꣯नाम्। आ꣣स꣢न्। नः꣣। पा꣡त्र꣢꣯म्। ज꣣नयन्त। देवाः꣢। ६७।
@@ -4915,14 +4915,14 @@ title = "०१ आग्नेयं पर्व"
 ## २.२
 [[अथ द्वितीयप्रपाठके द्वितीयोऽर्धः]]
 
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/14_0068_vi_tvadApo.md">
-<details open><summary><h4>14_0068 वि त्वदापो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/14_0068_vi_tvadApo.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 वि꣢꣫ त्वदापो꣣ न꣡ पर्व꣢꣯तस्य पृ꣣ष्ठा꣢दु꣣क्थे꣡भि꣢रग्ने जनयन्त दे꣣वाः꣢। तं꣢ त्वा꣣ गि꣡रः꣢ सुष्टु꣣त꣡यो꣢ वाजयन्त्या꣣जिं꣡ न गि꣢꣯र्व꣣वा꣡हो꣢ जिग्यु꣣र꣡श्वाः꣢ ॥ 14:0068 ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/14_0068_vi_tvadApo.md">
-<details open><summary><h4>14_0068 वि त्वदापो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/14_0068_vi_tvadApo.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 वि꣢। त्वत्। आ꣡पः꣢꣯। न। प꣡र्व꣢꣯तस्य। पृ꣣ष्ठा꣢त्। उ꣣क्थे꣡भिः꣢। अ꣣ग्ने। जनयन्त। दे꣣वाः꣢। तम्। त्वा꣣। गि꣡रः꣢꣯। सु꣣ष्टु꣡तयः꣢। सु꣣। स्तुत꣡यः꣢। वा꣣जयन्ति। आजि꣢म्। न। गि꣣र्ववा꣡हः꣢। गि꣣र्व। वा꣡हः꣢꣯। जि꣣ग्युः। अ꣡श्वाः꣢꣯। ६८।
@@ -4979,8 +4979,8 @@ title = "०१ आग्नेयं पर्व"
 ६८-२।हा꣥। य꣣या꣢इदि꣣वो꣤हा꣥इ। वि꣤त्व꣥त्। आ꣡꣯पो। न꣢प꣡र्व। त꣢स्य꣣पृ꣤ष्ठा꣥त्॥ हा। य꣣या꣢इदि꣣वो꣤हा꣥इ। उ꣤क्था꣥इ। भि꣡रा। ग्ने꣢ऽ᳐३ज꣡न। यं꣢त꣣दे꣤वाः꣥॥ हा। य꣣या꣢इदि꣣वो꣤हा꣥इ। तं꣤त्वा꣥। गि꣡राः। सु꣢ष्टुत꣡यः। वा꣢ज꣣यं꣤ती꣥॥ हा। य꣣या꣢इदि꣣वो꣤हा꣥इ। आ꣤जी꣥म्। न꣡गाइर्व꣪वाऽ२३हा꣢ऽ᳐३ः। जा꣡ये꣢ऽ᳐३। ग्यू꣡ऽ२᳐रा꣣ऽ२३४औ꣥꣯हो꣯वा॥ अ꣢श्वा꣡ऽ२३꣡४꣡५ः꣡॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/15_0069_A_vo.md">
-<details open><summary><h4>15_0069 आ वो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/15_0069_A_vo.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 आ꣢ वो꣣ रा꣡जा꣢नमध्व꣣र꣡स्य꣢ रु꣣द्र꣡ꣳ होता꣢꣯रꣳ सत्य꣣य꣢ज꣣ꣳ रो꣡द꣢स्योः। अ꣣ग्निं꣢ पु꣣रा꣡ त꣢नयि꣣त्नो꣢र꣣चि꣢त्ता꣣द्धि꣡र꣢ण्यरूप꣣म꣡व꣢से कृणुध्वम् ॥ 15:0069 ॥
 
@@ -4997,8 +4997,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/15_0069_A_vo.md">
-<details open><summary><h4>15_0069 आ वो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/15_0069_A_vo.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 आ꣢। वः꣣। रा꣡जा꣢꣯नम्। अ꣣ध्वर꣡स्य꣢। रु꣣द्र꣢म्। हो꣡ता꣢꣯रम्। स꣣त्यय꣡ज꣢म्। स꣣त्य। य꣡ज꣢꣯म्। रो꣡द꣢꣯स्योः। अ꣣ग्नि꣢म्। पु꣣रा꣢। त꣣नयित्नोः꣢। अ꣣चि꣡त्ता꣢त्। अ꣣। चि꣡त्ता꣢꣯त्। हि꣡र꣢꣯ण्यरूपम्। हि꣡र꣢꣯ण्य। रू꣣पम्। अ꣡व꣢꣯से। कृ꣣णुध्वम्। ६९।
@@ -5049,8 +5049,8 @@ title = "०१ आग्नेयं पर्व"
 आ꣤꣯वो꣥꣯रा꣯जा꣤॥ न꣣म꣢ध्व꣣। र꣢स्य꣣रु꣤द्रा꣥म्। हो꣡। ता꣢꣯। रा꣡म्। स꣢। त्ययजा᳐ऽ३म्। रो꣢द꣣सी꣤योः꣥॥ अ꣢ग्निं꣡पु। रा। त꣢नयि꣣। त्नो꣢र꣣चि꣤त्ता꣥त्॥ हि꣡रण्य꣢। रू꣡॥ पा꣢ऽ३म꣡व। सा꣢ऽ᳐३४३इ। का꣢ऽ३᳐र्णू꣤ऽ५ध्वाऽ६५"६म्॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/16_0070_indhe_rAjA.md">
-<details open><summary><h4>16_0070 इन्धे राजा ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/16_0070_indhe_rAjA.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 इ꣣न्धे꣢꣫ राजा꣣ स꣢म꣣र्यो꣡ नमो꣢꣯भि꣣र्य꣢स्य꣣ प्र꣡ती꣢क꣣मा꣡हु꣢तं घृ꣣ते꣡न꣢। न꣡रो꣢ ह꣣व्ये꣡भि꣢रीडते स꣣बा꣢ध꣣ आ꣡ग्निरग्र꣢꣯मु꣣ष꣡सा꣢मशोचि ॥ 16:0070 ॥
 
@@ -5065,8 +5065,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/16_0070_indhe_rAjA.md">
-<details open><summary><h4>16_0070 इन्धे राजा ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/16_0070_indhe_rAjA.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 इ꣣न्धे꣢। रा꣡जा꣢꣯। सम्। अ꣣र्यः꣢। न꣡मो꣢꣯भिः। य꣡स्य꣢꣯। प्र꣡ती꣢꣯कम्। आ꣡हु꣢꣯तम्। आ। हु꣣तम्। घृते꣡न꣢। न꣡रः꣢꣯। ह꣣व्ये꣡भिः꣢। ई꣣डते। स꣣बा꣡धः꣢। स꣣। बा꣡धः꣢꣯। आ। अ꣣ग्निः꣢। अ꣡ग्र꣢꣯म्। उ꣣ष꣡सा꣢म्। अ꣣शोचि। ७०।
@@ -5125,8 +5125,8 @@ title = "०१ आग्नेयं पर्व"
 हौ꣡होऽ᳒२᳒। हौ꣡होऽ᳒२᳒। हौ꣡꣯होइ। इ꣢न्धे꣯रा꣯जा꣯समर्यो꣯नऽ᳐३मो꣡भीऽ᳒२ः᳒। ओ꣡भीऽ᳒२ः᳒। ओ꣡भीऽ᳒२ः᳒॥ यस्यप्रती꣯कमा꣯हुतंघृऽ३ता꣡इनाऽ᳒२᳒। आ꣡इनाऽ᳒२᳒। आ꣡इनाऽ᳒२᳒॥ नरो꣯हव्ये꣯भिरी꣯डते꣯सऽ३बा꣡धाऽ᳒२ः᳒। बा꣡धाऽ᳒२ः᳒। बा꣡धाऽ᳒२ः᳒॥ हौ꣡होऽ᳒२᳒। हौ꣡होऽ᳒२᳒। हौ꣡꣯होइ। आ꣢꣯ग्निरग्रमुष꣡साऽ२३मशा꣢उ। वाऽ᳐३॥ चीऽ२३꣡४꣡५꣡॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/17_0071_pra_ketunA.md">
-<details open><summary><h4>17_0071 प्र केतुना ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/17_0071_pra_ketunA.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 प्र꣢ के꣣तु꣡ना꣢ बृह꣣ता꣡ या꣢त्य꣣ग्नि꣡रा रोद꣢꣯सी वृष꣣भो꣡ रो꣢रवीति। दि꣣व꣢श्चि꣣द꣡न्ता꣢दुप꣣मा꣡मुदा꣢꣯नड꣣पा꣢मु꣣प꣡स्थे꣢ महि꣣षो꣡ व꣢वर्ध ॥ 17:0071 ॥
 
@@ -5141,8 +5141,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/17_0071_pra_ketunA.md">
-<details open><summary><h4>17_0071 प्र केतुना ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/17_0071_pra_ketunA.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 प्र꣢। के꣣तु꣡ना꣢। बृ꣣हता꣢। या꣣ति। अग्निः꣢। आ। रो꣡द꣢꣯सी꣣इ꣡ति꣢। वृ꣣षभः꣢। रो꣣रवीति। दिवः꣢। चि꣣त्। अ꣡न्ता꣢꣯त्। उ꣣पमा꣢म्। उ꣣प। मा꣢म्। उत्। आ꣣नट्। अपा꣢म्। उ꣣प꣡स्थे꣢। उ꣣प꣡। स्थे꣣। महिषः꣢। व꣣वर्ध। ७१।
@@ -5199,8 +5199,8 @@ title = "०१ आग्नेयं पर्व"
 ७१-२।हा꣥। हा꣢औ꣯हो᳐इ। प्रा꣣ऽ२३४के꣥। तु꣡ना। बृ꣢ह꣣ता꣢ऽ३᳐। या꣢ति꣣य꣤ग्नीः꣥॥ हा। हा꣢औ꣯हो᳐इ। आ꣣ऽ२३४रो꣥। द꣡साइ। वृ꣢ष꣣भो꣢ऽ३। रो꣢र꣣वी꣤ती꣥॥ हा। हा꣢औ꣯हो᳐इ। दी꣣ऽ२३४वाः꣥। चि꣡दा। ता꣢ऽ३᳐दु꣡प। मा꣢मु꣣दा꣤न꣥ट्॥ हा। हा꣢औ꣯हो᳐इ। आ꣣ऽ२३४पा꣥म्। उ꣡पा। स्थे꣢ऽ᳐३म꣡हि। षो꣢व꣣व꣤र्द्धा꣥। हा। हा꣢औ꣯हो᳐। वा꣣ऽ२३४औ꣥꣯हो꣯वा॥ ए꣢ऽ᳐३। दि꣡वाऽ२३꣡४꣡५꣡म्॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/18_0072_agniM_naro.md">
-<details open><summary><h4>18_0072 अग्निं नरो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/18_0072_agniM_naro.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अ꣣ग्निं꣢꣫ नरो꣣ दी꣡धि꣢तिभिर꣣र꣢ण्यो꣣र्ह꣡स्त꣢च्युतं जनयत प्रश꣣स्त꣢म्। दूरे꣣दृ꣡शं꣢ गृ꣣ह꣡प꣢तिमथ꣣व्यु꣢म् ॥ 18:0072 ॥
 
@@ -5215,8 +5215,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/18_0072_agniM_naro.md">
-<details open><summary><h4>18_0072 अग्निं नरो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/18_0072_agniM_naro.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 अ꣣ग्नि꣢म्। न꣡रः꣢꣯। दी꣡धि꣢꣯तिभिः। अ꣣र꣡ण्योः꣢। ह꣡स्त꣢꣯च्युतम्। ह꣡स्त꣢꣯। च्यु꣣तम्। जनयत। प्रशस्त꣢म्। प्र꣣। श꣢स्तम्। दू꣣रेदृ꣡श꣢म्। दू꣣रे। दृ꣡ष꣢꣯म्। गृ꣣ह꣡ प꣢तिम्। गृ꣣ह꣢। प꣣तिम्। अथव्यु꣢म्। अ꣣। थव्यु꣢म्। ७२।
@@ -5278,8 +5278,8 @@ title = "०१ आग्नेयं पर्व"
 
 [[अथ सप्तम खण्डः]]
 
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/19_0073_abodhyagniH_samidhA.md">
-<details open><summary><h4>19_0073 अबोध्यग्निः समिधा ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/19_0073_abodhyagniH_samidhA.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अ꣡बो꣢ध्य꣣ग्निः꣢ स꣣मि꣢धा꣣ ज꣡ना꣢नां꣣ प्र꣡ति꣢धे꣣नु꣡मि꣢वाय꣣ती꣢मु꣣षा꣡स꣢म् । य꣣ह्वा꣡ इ꣢व꣣ प्र꣢ व꣣या꣢मु꣣ज्जि꣡हा꣢नाः꣣ प्र꣢ भा꣣न꣡वः꣢ सस्रते꣣ ना꣢क꣣म꣡च्छ꣢ ॥ 19:0073 ॥
 
@@ -5294,8 +5294,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/19_0073_abodhyagniH_samidhA.md">
-<details open><summary><h4>19_0073 अबोध्यग्निः समिधा ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/19_0073_abodhyagniH_samidhA.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 अ꣡बो꣢꣯धि। अ꣣ग्निः꣢। स꣣मि꣡धा꣢। स꣣म्। इ꣡धा꣢꣯। ज꣡ना꣢꣯नाम्। प्र꣡ति꣢꣯। धे꣣नु꣢म्। इ꣣व। आयती꣢म्। आ꣣। यती꣢म्। उ꣣षा꣡स꣢म्। य꣣ह्वाः꣢। इ꣣व। प्र꣢। व꣣या꣢म्। उ꣣ज्जि꣡हा꣢नाः। उ꣣त्। जि꣡हा꣢꣯नाः। प्र। भा꣣न꣡वः꣢। स꣣स्रते। ना꣡क꣢꣯म्। अ꣡च्छ꣢꣯। ७३।
@@ -5346,8 +5346,8 @@ title = "०१ आग्नेयं पर्व"
 अ꣤बो꣥꣯धिया꣤॥ ग्ना꣡इस्स꣢मि꣡धा꣢꣯ज꣡ना꣰꣯ऽ२ना꣯म्। प्र꣡ताइधे꣢ऽ३नू꣢म्॥ इवा꣯यती꣡꣯मुषा꣯स꣢म्। य꣡ह्वाई꣢ऽ३वा꣢। प्र꣡वा꣰꣯ऽ२या꣡꣯मु꣢ज्जि꣡हा꣢꣯नाः꣯॥ प्र꣡भा꣯नाऽ२३वाः꣢॥ सस्रते꣯ना꣡꣯क꣢म꣡च्छ꣢। इ꣡डाऽ२३भा꣢ऽ३४३। ओ꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/20_0074_pra_bhUrjayantam.md">
-<details open><summary><h4>20_0074 प्र भूर्जयन्तम् ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/20_0074_pra_bhUrjayantam.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 प्र꣢ भू꣣र्ज꣡य꣢न्तं म꣣हां꣡ वि꣢पो꣣धां꣢ मू꣣रै꣡रमू꣢꣯रं पु꣣रां꣢ द꣣र्मा꣡ण꣢म्। न꣡य꣢न्तं गी꣣र्भि꣢र्व꣣ना꣡ धियं꣢꣯धा꣣ ह꣡रि꣢श्मश्रुं꣣ न꣡ वर्म꣢꣯णा धन꣣र्चि꣢म् ॥ 20:0074 ॥
 
@@ -5362,8 +5362,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/20_0074_pra_bhUrjayantam.md">
-<details open><summary><h4>20_0074 प्र भूर्जयन्तम् ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/20_0074_pra_bhUrjayantam.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 प्र꣢। भूः꣣। ज꣡य꣢꣯न्तम्। म꣣हा꣢म्। वि꣣पोधा꣢म्। वि꣣पः। धा꣢म्। मू꣣रैः꣢। अ꣡मू꣢꣯रम्। अ꣢। मू꣣रम्। पुरा꣢म्। द꣣र्मा꣡ण꣢म्। न꣡य꣢꣯न्तम्। गी꣣र्भिः꣢। व꣣ना꣢। धि꣡य꣢꣯म्। धाः꣢। ह꣡रि꣢꣯श्मश्रुम्। ह꣡रि꣢꣯। श्म꣣श्रुम्। न꣢। व꣡र्म꣢꣯णा। ध꣣नर्चि꣢म्। ७४।
@@ -5414,8 +5414,8 @@ title = "०१ आग्नेयं पर्व"
 प्र꣤भू꣥꣯र्ज꣤य꣥न्ता꣤म्॥ म꣣हा꣢ऽ३४३म्वि꣢पो꣣꣯धा꣥꣯म्। मू꣢꣯रै꣡꣯रमू꣯रंपुरान्द꣪र्माऽ२३णा꣢म्॥ न꣣या꣢ऽ३४३न्त꣢गी꣣꣯र्भिः꣥। व꣣ना꣢ऽ३४३धि꣢य꣣न्धाः꣥꣯॥ ह꣤रि꣥श्मश्रुन्न꣤वर्म꣥णाऽ६। हा꣥उवा॥ ध꣢नाऽ३र्ची꣡ऽ२३꣡४꣡५꣡म्॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/21_0075_shukraM_te.md">
-<details open><summary><h4>21_0075 शुक्रं ते ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/21_0075_shukraM_te.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 शु꣣क्रं ते꣢ अ꣣न्य꣡द्य꣢ज꣣तं꣡ ते꣢ अ꣣न्य꣡द्विषु꣢꣯रूपे꣣ अ꣡ह꣢नी꣣ द्यौ꣡रि꣢वासि। वि꣢श्वा꣣ हि꣢ मा꣣या꣡ अव꣢꣯सि स्वधावन्भ꣣द्रा꣡ ते꣢ पूषन्नि꣣ह꣢ रा꣣ति꣡र꣢स्तु॥ 21:0075 ॥
 
@@ -5430,8 +5430,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/21_0075_shukraM_te.md">
-<details open><summary><h4>21_0075 शुक्रं ते ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/21_0075_shukraM_te.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 शु꣣क्र꣢म्। ते꣣। अन्य꣢त्। अ꣣न्। य꣢त्। य꣣जतम्। ते꣣। अन्य꣢त्। अ꣣न्। य꣢त्। वि꣡षु꣢꣯रूपे। वि꣡षु꣢꣯। रू꣣पेइ꣡ति꣢। अ꣡ह꣢꣯नी। अ। ह꣣नीइ꣡ति꣢। द्यौः। इ꣣व। असि। वि꣡श्वाः꣢꣯। हि। मा꣣याः꣢। अ꣡व꣢꣯सि। स्व꣣धावन्। स्व। धावन्। भद्रा꣢। ते꣣। पूषन्। इह꣢। रा꣣तिः। अ꣣स्तु। ७५।
@@ -5482,8 +5482,8 @@ title = "०१ आग्नेयं पर्व"
 शु꣥क्र꣤न्ते꣥꣯अन्य꣤द्य꣥जत꣤म्। त꣥आऽ६न्या꣥त्॥ वि꣡षुरू꣯पे꣯अहनी꣯द्यौः। इ꣪वाऽ२३सी꣢॥ वा꣡इश्वा꣯हिमा꣯या꣯अवसाइ। स्वधा꣢ऽ३वा꣢न्॥ भद्रा꣡꣯ते꣢꣯। पू꣡। षा꣢ऽ३नि꣡ह। रा꣢ति꣣र꣤स्तू꣥। ति꣤राऽ५स्तुहाउ"वा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/22_0076_iDAmagne_purudaMsam.md">
-<details open><summary><h4>22_0076 इडामग्ने पुरुदंसम् ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/22_0076_iDAmagne_purudaMsam.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 इ꣡डा꣢मग्ने पुरु꣣द꣡ꣳस꣢ꣳ स꣣निं꣡ गोः श꣢꣯श्वत्त꣣म꣡ꣳ हव꣢꣯मानाय साध। स्या꣡न्नः꣢ सू꣣नु꣡स्तन꣢꣯यो वि꣣जा꣢꣫वाग्ने꣣ सा꣡ ते꣢ सुम꣣ति꣡र्भू꣢त्व꣣स्मे꣢ ॥ 22:0076 ॥
 
@@ -5498,8 +5498,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/22_0076_iDAmagne_purudaMsam.md">
-<details open><summary><h4>22_0076 इडामग्ने पुरुदंसम् ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/22_0076_iDAmagne_purudaMsam.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 इ꣡डा꣢꣯म्। अ꣣ग्ने। पुरुदँ꣡स꣢म्। पु꣣रु। दँ꣡स꣢꣯म्। स꣣नि꣢म्। गोः। श꣣श्वत्तम꣢म्। ह꣡व꣢꣯मानाय। सा꣣ध। स्या꣢त्। नः꣣। सूनुः꣢। त꣡न꣢꣯यः। वि꣣जा꣡वा꣢। वि꣣। जा꣡वा꣢꣯। अ꣡ग्ने꣣। सा। ते꣣। सुमतिः꣢। सु꣣। मतिः꣢। भू꣣तु। अस्मे꣡इति꣢। ७६।
@@ -5550,8 +5550,8 @@ title = "०१ आग्नेयं पर्व"
 इ꣥डा꣯मग्नाइ॥ पु꣢रुदाऽ᳐३। सꣳ꣢स꣣निं꣤गोः꣥। श꣤श्वत्तमꣳ꣣हव꣤मा꣥꣯ना꣯। य꣣साऽ२३४धा꣥। स्या꣡꣯न्नस्सू꣯नुस्तनयः। विजा꣢ऽ३वा꣢ऽ३॥ आ꣤ग्ने꣥सा꣤ता꣥इ॥ सु꣣मा꣢ऽ३४३। ती꣢ऽ᳐३ः। भू꣤꣯तुहा꣥उवा॥ स्मा꣣ऽ२३꣡४꣡५꣡इ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/23_0077_pra_hotA.md">
-<details open><summary><h4>23_0077 प्र होता ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/23_0077_pra_hotA.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 प्र꣡ होता꣢꣯ जा꣣तो꣢ म꣣हा꣡न्न꣢भो꣣वि꣢न्नृ꣣ष꣡द्मा꣢ सीदद꣣पां꣡ वि꣢व꣣र्ते꣢ । द꣢ध꣣द्यो꣢ धा꣣यी꣢ सु꣣ते꣡ वया꣢꣯ꣳसि य꣣न्ता꣡ वसू꣢꣯नि विध꣣ते꣡ त꣢नू꣣पाः꣢ ॥ 23:0077 ॥
 
@@ -5566,8 +5566,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/23_0077_pra_hotA.md">
-<details open><summary><h4>23_0077 प्र होता ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/23_0077_pra_hotA.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 प्र꣢। हो꣡ता꣢꣯। जा꣣तः꣢। म꣣हा꣢न्। न꣣भोवि꣢त्। न꣣भः। वि꣢त्। नृ꣣ष꣡द्मा꣢। नृ꣣। स꣡द्मा꣢꣯। सी꣣दत्। अपा꣢म्। वि꣣वर्ते꣢। वि꣣। वर्त्ते꣢। द꣡ध꣢꣯त्। यः। धा꣣यी꣢। सु꣣ते꣢। व꣡याँ꣢꣯सि। य꣣न्ता꣢। व꣡सू꣢꣯नि। वि꣣धते꣢। त꣣नूपाः꣢। त꣣नू। पाः꣢। ७७।
@@ -5626,8 +5626,8 @@ title = "०१ आग्नेयं पर्व"
 प्र꣤हो꣯ता꣥꣯जा꣯तः꣤। उ꣥हु꣤वाहा꣥इ॥ मा꣡हाऽ᳒२᳒न्ना꣡भोऽ᳒२᳒। वा꣡इन्नृषद्मा꣯सी꣯ददपांवि꣪वाऽ२३र्ता꣢इ। आ꣡औ꣢ऽ३हो꣢। इ꣡हा꣢। दा꣡धाऽ᳒२᳒द्यो꣡धाऽ᳒२᳒। या꣡इसुते꣯वयाꣳ꣯सियन्ता꣯वसूऽ२३नी꣢। आ꣡औ꣢ऽ३हो꣢। इ꣡हा꣢॥ विधता꣡ये꣢ऽ३। त꣡नूऽ२᳐पा꣣ऽ२३४औ꣥꣯हो꣯वा॥ ह꣢वि꣡ष्मते꣣ऽ२३꣡४꣡५꣡॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/24_0078_pra_samrAjamasurasya.md">
-<details open><summary><h4>24_0078 प्र सम्राजमसुरस्य ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/24_0078_pra_samrAjamasurasya.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 प्र꣢ स꣣म्रा꣢ज꣣म꣡सु꣢रस्य प्रश꣣स्तं꣢ पु꣣ꣳसः꣡ कृ꣢ष्टी꣣ना꣡म꣢नु꣣मा꣡द्य꣢स्य । इ꣡न्द्र꣢स्येव꣣ प्र꣢ त꣣व꣡स꣢स्कृ꣣ता꣡नि꣢ व꣣न्द꣡द्वा꣢रा꣣ व꣡न्द꣢माना विवष्टु ॥ 24:0078 ॥
 
@@ -5642,8 +5642,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/24_0078_pra_samrAjamasurasya.md">
-<details open><summary><h4>24_0078 प्र सम्राजमसुरस्य ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/24_0078_pra_samrAjamasurasya.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 प्र꣢। स꣣म्रा꣡ज꣢म्। स꣣म्। रा꣡ज꣢꣯म्। अ꣡सु꣢꣯रस्य। अ। सु꣣रस्य। प्रशस्त꣢म्। प्र꣣। शस्त꣢म्। पुँ꣣सः꣢। कृ꣣ष्टीना꣢म्। अ꣣नुमा꣡द्य꣢स्य। अ꣣नु। मा꣡द्य꣢꣯स्य। इ꣡न्द्र꣢꣯स्य। इ꣣व। प्र꣢। त꣣व꣡सः꣢। कृ꣣ता꣡नि꣢। व꣣न्द꣡द्वा꣢रा। व꣡न्द꣢꣯माना। वि꣣वष्टु। ७८।
@@ -5694,8 +5694,8 @@ title = "०१ आग्नेयं पर्व"
 प्र꣥सम्रा꣯जाम्॥ अ꣢सुराऽ᳐३। स्या꣢᳐प्र꣣श꣤स्ता꣥म्। पुं꣢सᳲ꣡कृष्टाइ। ना꣢ऽ३म꣡नु। मा꣢दि꣣य꣤स्या꣥। इ꣢न्द्रस्ये꣯वाऽ३४३प्र꣢तव꣣। स꣢स्कृ꣣ता꣤नी꣥॥ व꣢न्द꣡द्वा꣯रा꣢꣯व꣡न्दमा꣢꣯ना꣯॥ वि꣡वाऽ२᳐ष्टू꣣ऽ२३४औ꣥꣯हो꣯वा॥ वी꣣ऽ२३४शाः꣥॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/25_0079_araNyornihito_jAtavedA.md">
-<details open><summary><h4>25_0079 अरण्योर्निहितो जातवेदा ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/25_0079_araNyornihito_jAtavedA.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अ꣣र꣢ण्यो꣣र्नि꣡हि꣢तो जा꣣त꣡वे꣢दा꣣ ग꣡र्भ꣢ इ꣢वे꣡त्सुभृ꣢꣯तो ग꣣र्भि꣡णी꣢भिः । दि꣣वे꣡दि꣢व꣣ ई꣡ड्यो꣢ जागृ꣣व꣡द्भि꣢र्ह꣣वि꣡ष्म꣢द्भिर्मनु꣣꣬ष्ये꣢꣯भिर꣣ग्निः꣢ ॥ 25:0079 ॥
 
@@ -5710,8 +5710,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/25_0079_araNyornihito_jAtavedA.md">
-<details open><summary><h4>25_0079 अरण्योर्निहितो जातवेदा ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/25_0079_araNyornihito_jAtavedA.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 अ꣣र꣡ण्योः꣢। नि꣡हि꣢꣯तः। नि꣡। हि꣣तः। जा꣣तवे꣢दाः꣢। जा꣣त꣢। वे꣣दाः। ग꣡र्भः꣢꣯। इ꣣व। इ꣢त्। सु꣡भृ꣢꣯तः। सु। भृ꣣तः। गर्भि꣡णी꣢भिः। दि꣣वे꣡दि꣢वे। दि꣣वे꣢। दि꣣वे। ई꣡ड्यः꣢꣯। जा꣣गृव꣡द्भिः꣢। ह꣣वि꣡ष्म꣢द्भिः। म꣣नुष्ये꣢꣯भिः। अ꣣ग्निः꣢। ७९।
@@ -5762,8 +5762,8 @@ title = "०१ आग्नेयं पर्व"
 अ꣥रण्योः॥ नि꣢हितो꣯जाऽ३४३त꣢वे꣣꣯दाः꣥꣯। ग꣣र्भ꣤इवे꣣꣯त्सुभृ꣤तो꣥꣯ग। भि꣣णाऽ२३४इभीः꣥॥ दि꣢वे꣡꣯दिवई꣯ड्यो꣯जागृ꣪वाऽ२३द्भीः꣢॥ हा꣣ऽ२३४वी꣥। ष्मा꣣ऽ२३४द्भीः꣥। मनुष्ये꣤꣯ऽ५भिरग्निः꣤। ए꣥꣯हियाऽ६हा꣥। हो꣤ऽ५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/26_0080_sanAdagne_mRNasi.md">
-<details open><summary><h4>26_0080 सनादग्ने मृणसि ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/26_0080_sanAdagne_mRNasi.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 स꣣ना꣡द꣢ग्ने मृणसि यातु꣣धा꣢ना꣣न्न꣢ त्वा꣣ र꣡क्षा꣢ꣳसि꣣ पृ꣡त꣢नाशु जिग्युः । अ꣡नु꣢ दह स꣣ह꣡मू꣢रान्क꣣या꣢दो꣣ मा꣡ ते꣢ हे꣣त्या꣡ मु꣢क्षत꣣ दै꣡व्या꣢याः ॥ 26:0080 ॥
 
@@ -5778,8 +5778,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/26_0080_sanAdagne_mRNasi.md">
-<details open><summary><h4>26_0080 सनादग्ने मृणसि ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/26_0080_sanAdagne_mRNasi.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 स꣣ना꣢त्। अ꣣ग्ने। मृणसि। यातुधा꣡ना꣢न्। या꣣तु। धा꣡ना꣢꣯न्। न। त्वा꣣। र꣡क्षाँ꣢꣯सि। पृ꣡त꣢꣯नासु। जि꣣ग्युः। अ꣡नु꣢꣯। द꣣ह। सह꣡मू꣢रान्। स꣣ह꣢। मू꣣रान्। क꣣या꣡दः꣢। क꣣य। अ꣡दः꣢꣯। मा। ते꣣। हेत्याः꣢। मु꣣क्षत। दै꣡व्या꣢꣯याः। ८०।
@@ -5833,8 +5833,8 @@ title = "०१ आग्नेयं पर्व"
 
 [[अथ अष्टम खण्डः]]
 
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/27_0081_agna_ojiShThamA.md">
-<details open><summary><h4>27_0081 अग्न ओजिष्ठमा ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/27_0081_agna_ojiShThamA.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अ꣢ग्न꣣ ओ꣡जि꣢ष्ठ꣣मा꣡ भ꣢र द्यु꣣म्न꣢म꣣स्म꣡भ्य꣢मध्रिगो । प्र꣡ नो꣢ रा꣣ये पनी꣢꣯यसे꣣ र꣢त्सि꣣ वा꣡जा꣢य꣣ प꣡न्था꣢म् ॥ 27:0081 ॥
 
@@ -5849,8 +5849,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/27_0081_agna_ojiShThamA.md">
-<details open><summary><h4>27_0081 अग्न ओजिष्ठमा ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/27_0081_agna_ojiShThamA.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 अ꣡ग्ने꣢꣯। ओ꣡जि꣢꣯ष्ठम्। आ। भ꣣र। द्युम्न꣢म्। अ꣣स्म꣡भ्य꣢म्। अ꣣ध्रिगो। अध्रि। गो। प्र꣢। नः꣣। राये꣢। प꣡नी꣢꣯यसे। र꣡त्सि꣢꣯। वा꣡जा꣢꣯य। प꣡न्था꣢꣯म्। ८१।
@@ -5909,14 +5909,14 @@ title = "०१ आग्नेयं पर्व"
 अ꣤ग्नेहा꣥उ॥ ओ꣡꣯जि। ष्ठामा꣢ऽ१भारा꣢। औ꣣꣯होऽ२३४वा꣥। द्यु꣢म्न꣡मस्म। भ्याम꣪ध्रीगा꣢। औ꣣꣯होऽ२३४वा꣥। प्र꣡नो꣯रा꣯ये꣯। पानी꣢ऽ१यासा꣢। औ꣣꣯होऽ२३४वा꣥॥ रा꣡त्सीऽ᳒२᳒वा꣡जाऽ᳒२᳒॥ यपो꣡वा꣢ऽ३ओ꣡ऽ२३४वा꣥। था꣤ऽ५मोऽ६"हा꣥इ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/28_0082_yadi_vIro.md">
-<details open><summary><h4>28_0082 यदि वीरो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/28_0082_yadi_vIro.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 य꣡दि꣢ वी꣣रो꣢꣫ अनु꣣ ष्या꣢द꣣ग्नि꣡मि꣢न्धीत꣣ म꣡र्त्यः꣢ । आ꣣जु꣡ह्व꣢द्ध꣣व्य꣡मा꣢नु꣣ष꣡क् शर्म꣢꣯ भक्षीत꣣ दै꣡व्य꣢म् ॥ 28:0082 ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/28_0082_yadi_vIro.md">
-<details open><summary><h4>28_0082 यदि वीरो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/28_0082_yadi_vIro.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 य꣡दि꣢꣯। वी꣣रः꣢। अ꣡नु꣢꣯। स्यात्। अ꣣ग्नि꣢म्। इ꣣न्धीत। म꣡र्त्यः꣢꣯। आ꣣जु꣡ह्व꣢त्। आ꣣। जु꣡ह्व꣢꣯त्। ह꣣व्य꣢म्। आ꣣नुष꣢क्। अ꣣नु। स꣢क्। श꣡र्म꣢꣯। भ꣣क्षीत। दै꣡व्य꣢꣯म्। ८२। १
@@ -5965,8 +5965,8 @@ title = "०१ आग्नेयं पर्व"
 ८२-१। बृहदाग्नेयम्॥ अग्निरनुष्टुबग्निः॥य꣣दि꣤वी꣯रो꣣꣯अनु꣤ष्या꣥꣯त्। ऐ꣢꣯याऽ३४३ई꣢ऽ३४या꣥॥ अ꣤ग्नि꣣मि꣤न्धी꣥꣯तमौ꣯। हो꣭ऽ३हा꣢ऽ३। हो꣡ऽ२३४र्तियाः। आ꣡जूऽ᳒२᳒ह्वा꣡द्धाऽ२३। व्य꣡माऽ२᳐नू꣣ऽ२३४षा꣥क्॥ श꣡र्मभ꣢। क्षा꣡इ। तदा꣢ऽ᳐३हा꣢ऽ३इ॥ वा꣢ऽ३ओ꣡ऽ२३४वा꣥॥ व्या꣣ऽ२३꣡४꣡५꣡म्॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/29_0083_tveShaste_dhUma.md">
-<details open><summary><h4>29_0083 त्वेषस्ते धूम ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/29_0083_tveShaste_dhUma.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 त्वे꣣ष꣡स्ते꣢ धू꣣म꣡ ऋ꣢ण्वति दि꣣वि꣢꣫ सञ्च्छु꣣क्र꣡ आत꣢꣯तः । सू꣢रो꣣ न꣢꣫ हि द्यु꣣ता꣢꣫ त्वं कृ꣣पा꣡ पा꣢वक꣣ रो꣡च꣢से ॥ 29:0083 ॥
 
@@ -5981,8 +5981,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/29_0083_tveShaste_dhUma.md">
-<details open><summary><h4>29_0083 त्वेषस्ते धूम ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/29_0083_tveShaste_dhUma.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 त्वे꣣षः꣢। ते꣣। धूमः꣢। ऋ꣣ण्वति। दि꣣वि꣢। सन्। शु꣣क्रः꣢। आ꣡त꣢꣯तः। आ। त꣣तः। सू꣡रः꣢꣯। न। हि। द्यु꣣ता꣢। त्वम्। कृ꣣पा꣢। पा꣣वक। रो꣡च꣢꣯से। ८३।
@@ -6033,8 +6033,8 @@ title = "०१ आग्नेयं पर्व"
 त्वे꣢꣯षा꣡स्तेऽ२३धू꣤꣯मऋण्वतीर्हा꣥उ॥ दि꣢विसंछुक्रऽ᳐३आ꣡ताता꣢ऽ३ः। सू꣤꣯रो꣯नहीहा꣥उ॥ द्यु꣢ता꣡तूवा꣢ऽ३म्। कृ꣤पा꣯पवाहा꣥उ॥ क꣢रो꣡꣯चाऽ२३सा꣢ऽ३४३इ। ओ꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/30_0084_tvaM_hi.md">
-<details open><summary><h4>30_0084 त्वं हि ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/30_0084_tvaM_hi.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 त्व꣡ꣳ हि क्षैत꣢꣯व꣣द्य꣡शोऽग्ने꣢꣯ मि꣣त्रो꣡ न पत्य꣢꣯से । त्वं꣡ वि꣢चर्षणे꣣ श्र꣢वो꣣ व꣡सो꣢ पु꣣ष्टिं꣡ न पु꣢꣯ष्यसि ॥ 30:0084 ॥
 
@@ -6049,8 +6049,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/30_0084_tvaM_hi.md">
-<details open><summary><h4>30_0084 त्वं हि ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/30_0084_tvaM_hi.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 त्व꣢म्। हि। क्षै꣡त꣢꣯वत्। य꣡शः꣢꣯। अ꣡ग्ने꣢꣯। मि꣣त्रः꣢। मि꣣। त्रः꣢। न। प꣡त्य꣢꣯से। त्वम्। वि꣣चर्षणे। वि। चर्षणे। श्र꣡वः꣢꣯। व꣡सो꣢꣯। पु꣣ष्टि꣢म्। न। पु꣣ष्यसि। ८४।
@@ -6101,14 +6101,14 @@ title = "०१ आग्नेयं पर्व"
 त्वꣳ꣤हिक्षै꣯त꣥वद्य꣤शः꣥। ई꣤य꣥इ꣤याहा꣥इ॥ अ꣡ग्नाइमि꣢। त्रो꣡। नाप꣢त्या꣣ऽ२३४सा꣥इ। आ꣡औ꣢ऽ३४हो꣥। इ꣤याहा꣥इ। त्वं꣡वि। चा। ष꣪णेऽ२᳐श्रा꣣ऽ२३४वाः꣥। आ꣡औ꣢ऽ३४हो꣥। इ꣤याहा꣥इ॥ वा꣡सा꣢᳐ऽ३उवा꣢। पु। ष्टा꣡इम्। नापु꣢ष्या꣣ऽ२३४सी꣥। आ꣡औ꣢ऽ३४हो꣥। इ꣤याहा꣥। हो꣤ऽ५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/31_0085_prAtaragniH_purupriyo.md">
-<details open><summary><h4>31_0085 प्रातरग्निः पुरुप्रियो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/31_0085_prAtaragniH_purupriyo.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 प्रा꣣त꣢र꣣ग्निः꣡ पु꣢रुप्रि꣣यो꣢ वि꣣श꣡ स्त꣢वे꣣ता꣡ति꣢थिः । वि꣢श्वे꣣ य꣢स्मि꣣न्न꣡म꣢र्त्ये ह꣣व्यं꣡ मर्ता꣢꣯स इ꣣न्ध꣡ते꣢ ॥ 31:0085 ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/31_0085_prAtaragniH_purupriyo.md">
-<details open><summary><h4>31_0085 प्रातरग्निः पुरुप्रियो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/31_0085_prAtaragniH_purupriyo.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 प्रा꣣तः꣢। अ꣣ग्निः꣢। पु꣣रुप्रियः꣢। पु꣣रु। प्रियः꣢। वि꣣शः꣢। स्त꣣वेत। अ꣡ति꣢꣯थिः। वि꣡श्वे꣢꣯। य꣡स्मि꣢꣯न्। अ꣡म꣢꣯र्त्ये। अ। म꣣र्त्ये। ह꣣व्य꣢म्। म꣡र्ता꣢꣯सः। इ꣣न्ध꣡ते꣢। ८५।
@@ -6159,8 +6159,8 @@ title = "०१ आग्नेयं पर्व"
 प्रा꣥꣯तरग्ना꣯इᳲपूऽ६रु꣥प्रियाः॥ वि꣢शा꣡स्त꣢वे꣯। ता꣡ऽ२३। अ꣢ति꣣था꣢इः। वा꣡इश्वेयास्मी꣢ऽ३न्। अ꣡माऽ२᳐र्त्ता꣣ऽ२३४या꣥इ॥ ह꣡व्याऽ२३ꣳहो꣡इ। मर्त्ता꣢ऽ३हो꣡॥ स꣢इ꣡न्धाऽ२३ता꣢ऽ३४३इ॥ ओ꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/32_0086_yadvAhiShThaM_tadagnaye.md">
-<details open><summary><h4>32_0086 यद्वाहिष्ठं तदग्नये ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/32_0086_yadvAhiShThaM_tadagnaye.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 य꣡द्वाहि꣢꣯ष्ठं꣣ त꣢द꣣ग्न꣡ये꣢ बृ꣣ह꣡द꣢र्च विभावसो। म꣡हि꣢षीव꣣ त्व꣢द्र꣣यि꣢꣫स्त्वद्वाजा꣣ उ꣡दी꣢रते ॥ 32:0086 ॥
 
@@ -6176,8 +6176,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/32_0086_yadvAhiShThaM_tadagnaye.md">
-<details open><summary><h4>32_0086 यद्वाहिष्ठं तदग्नये ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/32_0086_yadvAhiShThaM_tadagnaye.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 य꣢त्। वा꣡हि꣢꣯ष्ठम्। तत्। अ꣣ग्न꣡ये꣢। बृ꣣ह꣢त्। अ꣣र्च। विभावसो। विभा। वसो। म꣡हि꣢꣯षी। इ꣣व। त्व꣢त्। र꣣यिः꣢। त्वत्। वा꣡जाः꣢꣯। उत्। ई꣣रते। ८६।
@@ -6234,8 +6234,8 @@ title = "०१ आग्नेयं पर्व"
 ८६-२। यद्वाहिष्ठीयोत्तरम्॥य꣤द्वा꣯हि꣥ष्ठंत꣤द꣥ग्न꣤ये꣥꣯। यद्वा꣯हिष्ठो꣤वा꣥॥ त꣢द꣡ग्नयाइ। बृहदाऽ२३र्चा꣢। विभा꣡꣯वसाउ। महिषाऽ२३इवा꣢। त्व꣡द्रयिः॥ त्वद्वाऽ२३जाः꣢॥ उदी꣡꣯राऽ२३ता꣢ऽ३४३इ। ओ꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/33_0087_vishovisho_vo.md">
-<details open><summary><h4>33_0087 विशोविशो वो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/33_0087_vishovisho_vo.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 वि꣣शो꣡वि꣢शो वो꣣ अ꣡ति꣢थिं वाज꣣य꣡न्तः꣢ पुरुप्रि꣣य꣢म्। अ꣣ग्निं꣢ वो꣣ दु꣢र्यं꣣ व꣡चः꣢ स्तु꣣षे꣢ शू꣣ष꣢स्य꣣ म꣡न्म꣢भिः ॥ 33:0087 ॥
 
@@ -6250,8 +6250,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/33_0087_vishovisho_vo.md">
-<details open><summary><h4>33_0087 विशोविशो वो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/33_0087_vishovisho_vo.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 वि꣣शो꣡वि꣢शः। वि꣣शः꣢। वि꣣शः। वः। अ꣡ति꣢꣯थिम्। वा꣣जय꣡न्तः꣢। पु꣣रुप्रिय꣢म्। पु꣣रु। प्रिय꣢म्। अ꣣ग्नि꣢म्। वः꣣। दु꣡र्य꣢꣯म्। दुः। य꣣म्। व꣡चः꣢꣯। स्तु꣣षे꣢। शू꣣ष꣡स्य꣢। म꣡न्म꣢꣯भिः। ८७।
@@ -6302,8 +6302,8 @@ title = "०१ आग्नेयं पर्व"
 वि꣥शो꣯विशो꣯हिं꣯(स्थि)वोऽ६अ꣥तिथाइम्॥ वा꣡꣯जयन्ताः। पू꣢ऽ३रू꣡प्री꣢ऽ३या꣢म्। अग्निं꣡वो꣰꣯ऽ२। दू꣡राऽ२३या꣢म्। हिं꣡माइ। वा꣢ऽ३चा꣢ऽ३ः। स्तू꣡ऽ२३४षे꣯हा꣥इ॥ ओ꣡। हु꣣वा꣢इ। शू꣣ऽ२३४षा꣥॥ हिं꣡मा। स्या꣢ऽ३मा꣢ऽ३। न्मा꣡ऽ२३४भाइ। ए꣥꣯हियाऽ६हा꣥। हो꣤ऽ५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/34_0088_bRhadvayo_hi.md">
-<details open><summary><h4>34_0088 बृहद्वयो हि ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/34_0088_bRhadvayo_hi.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 बृ꣣ह꣢꣫द्वयो꣣ हि꣢ भा꣣न꣡वेऽर्चा꣢꣯ दे꣣वा꣢या꣣ग्न꣡ये꣢ । यं꣢ मि꣣त्रं꣡ न प्रश꣢꣯स्तये꣣ म꣡र्ता꣢सो दधि꣣रे꣢ पु꣣रः꣢ ॥ 34:0088 ॥
 
@@ -6318,8 +6318,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/34_0088_bRhadvayo_hi.md">
-<details open><summary><h4>34_0088 बृहद्वयो हि ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/34_0088_bRhadvayo_hi.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 बृ꣣ह꣢त्। व꣡यः꣢꣯। हि। भा꣣न꣡वे꣢। अ꣡र्च꣢꣯। दे꣣वा꣡य꣢। अ꣣ग्न꣡ये꣢। यम्। मि꣣त्र꣢म्। मि꣣। त्रं꣢। न। प्र꣡श꣢꣯स्तये। प्र। श꣣स्तये। म꣡र्ता꣢꣯सः। द꣣धिरे꣢। पु꣣रः꣢। । ८८।
@@ -6378,8 +6378,8 @@ title = "०१ आग्नेयं पर्व"
 बृ꣥हद्वयो꣯हिभा꣯नाऽ६वा꣥इ॥ आ꣡र्चा꣯दे꣢꣯वा꣯। यअ꣡ग्नाऽ२३या꣢इ। य꣡म्मित्र꣢न्न। प्रा꣡श꣪स्तायाऽ᳒२᳒इ॥ म꣡र्ता꣢꣯सो꣯द॥ धा꣡इरे꣢ऽ१पूरा꣢। औ꣣꣯हो꣯वा꣯हा꣢ऽ३४औ꣥꣯हो꣯वा॥ वा꣢ऽ᳐३हा꣡ऽ२३꣡४꣡५ः꣡॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/35_0089_aganma_vRtrahantamam.md">
-<details open><summary><h4>35_0089 अगन्म वृत्रहन्तमम् ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/35_0089_aganma_vRtrahantamam.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अ꣡ग꣢न्म वृत्र꣣ह꣡न्त꣢मं꣣ ज्ये꣡ष्ठ꣢म꣣ग्नि꣡मान꣢꣯वम् । य꣡ स्म꣢ श्रु꣣त꣡र्व꣢न्ना꣣र्क्ष्ये꣢ बृ꣣ह꣡द꣢नीक इ꣣ध्य꣡ते꣢ ॥ 35:0089 ॥
 
@@ -6394,8 +6394,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/35_0089_aganma_vRtrahantamam.md">
-<details open><summary><h4>35_0089 अगन्म वृत्रहन्तमम् ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/35_0089_aganma_vRtrahantamam.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 अ꣡ग꣢꣯न्म। वृ꣣त्रह꣡न्त꣢मम्। वृ꣣त्र। ह꣡न्त꣢꣯मम्। ज्ये꣡ष्ठ꣢꣯म्। अ꣣ग्नि꣢म्। आ꣡न꣢꣯वम्। यः। स्म꣣। श्रुत꣡र्व꣢न्। आ꣣र्क्षे꣢। बृ꣣ह꣡द꣢नीकः। बृ꣣ह꣢त्। अ꣣नीकः। इध्य꣡ते꣢। ८९।
@@ -6446,16 +6446,16 @@ title = "०१ आग्नेयं पर्व"
 अ꣥गन्मवॄ॥ त्रा꣢ऽ३हा꣡न्ता꣢ऽ३मा꣢म्। ज्या꣡इष्ठ꣢म। ग्नि꣡माना꣢ऽ३वा꣢म्। य꣡स्माऽ२३हो꣡इ। श्रु꣢त꣡र्वन्ना꣯र्क्षाइ॥ बृहाऽ२३द्धो꣡इ॥ आनी꣯क꣢याऽ३१उवाये꣢ऽ३॥ ध्याऽ२३४ते꣥॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/36_0090_jAtaH_pareNa.md">
-<details open><summary><h4>36_0090 जातः परेण ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/36_0090_jAtaH_pareNa.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 जा꣣तः꣡ परे꣢꣯ण꣣ ध꣡र्म꣢णा꣣ य꣢त्स꣣वृ꣡द्धिः꣢ स꣣हा꣡भु꣢वः । पि꣣ता꣢꣫ यत्क꣣श्य꣡प꣢स्या꣣ग्निः꣢ श्र꣣द्धा꣢ मा꣣ता꣡ मनुः꣢꣯ क꣣विः꣢ ॥ 36:0090 ॥
 
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/36_0090_jAtaH_pareNa.md">
-<details open><summary><h4>36_0090 जातः परेण ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/36_0090_jAtaH_pareNa.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 जा꣣तः꣢। प꣡रे꣢꣯ण। ध꣡र्म꣢꣯णा। यत्। स꣣वृ꣡द्भिः꣢। स꣣। वृ꣡द्भिः꣢꣯। स꣣ह꣢। अ꣡भु꣢꣯वः। पि꣣ता꣢। यत्। क꣣श्य꣡प꣢स्य। अ꣣ग्निः꣢। श्र꣣द्धा꣢। श्र꣣त्। धा꣢। मा꣣ता꣢। म꣡नुः꣢꣯। क꣣विः꣢। ९०।
@@ -6510,8 +6510,8 @@ title = "०१ आग्नेयं पर्व"
 ## ३.१
 [[अथ तृतीयप्रपाठके प्रथमोऽर्धः]]
 
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/37_0091_somaM_rAjAnam.md">
-<details open><summary><h4>37_0091 सोमं राजानम् ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/37_0091_somaM_rAjAnam.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 सो꣢म꣣ꣳ रा꣡जा꣢नं꣣ व꣡रु꣢णम꣣ग्नि꣢म꣣न्वा꣡र꣢भामहे । आ꣣दित्यं꣢꣫ विष्णु꣣ꣳ सू꣡र्यं꣢ ब्र꣣ह्मा꣡णं꣢ च꣣ बृ꣢ह꣣स्प꣡ति꣢म् ॥ 37:0091 ॥
 
@@ -6526,8 +6526,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/37_0091_somaM_rAjAnam.md">
-<details open><summary><h4>37_0091 सोमं राजानम् ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/37_0091_somaM_rAjAnam.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 सो꣡म꣢꣯म्। रा꣡जा꣢꣯नम्। व꣡रु꣢꣯णम्। अ꣣ग्नि꣢म्। अ꣣न्वा꣡र꣢भामहे। अ꣣नु। आ꣡र꣢꣯भामहे। आ꣣दित्य꣢म्। आ꣣। दित्य꣢म्। वि꣡ष्णु꣢꣯म्। सू꣡र्य꣢꣯म्। ब्र꣣ह्मा꣡ण꣢म्। च꣣। बृ꣡हः꣢꣯। प꣡ति꣢꣯म्। ९१।
@@ -6578,8 +6578,8 @@ title = "०१ आग्नेयं पर्व"
 सो꣤꣯मꣳ꣥रा꣤꣯जा꣥꣯नंव꣤रु꣥णा꣤म्॥ अ꣢ग्नि꣡मन्वा꣯रभा꣢꣯महेऽ᳐३। हो꣡वा꣢ऽ३हा꣢इ। आ꣯दित्यं꣡विष्णुꣳ꣢सू꣡꣯र्य꣢म्। हो꣡वा꣢ऽ३हा꣢इ॥ ब्रह्मा꣡꣯णाऽ२३ञ्चा꣢ऽ३। हो꣡वा꣢ऽ३हा꣢इ॥ बॄ꣡हा꣭ऽ३उवा꣢ऽ३॥ पाऽ२३४ती꣥म्॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/38_0092_ita_eta.md">
-<details open><summary><h4>38_0092 इत एत ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/38_0092_ita_eta.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 
 इ꣣त꣢ ए꣣त꣢ उ꣣दा꣡रु꣢हन्  
@@ -6589,8 +6589,8 @@ title = "०१ आग्नेयं पर्व"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/38_0092_ita_eta.md">
-<details open><summary><h4>38_0092 इत एत ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/38_0092_ita_eta.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 इ꣣तः꣢। ए꣣ते꣢। उ꣣दा꣢रु꣢हन्। उ꣣त्। आ꣡रु꣢꣯हन्। दि꣣वः꣢। पृ꣣ष्ठा꣡नि꣢। आ। अ꣣रुहन्। प्र꣢। भूः꣣। ज꣡यः꣢꣯। य꣡था꣢꣯। प꣣था꣢। उत्। द्याम्। अ꣡ङ्गि꣢꣯रसः। य꣣युः। ९२।
@@ -6641,16 +6641,16 @@ title = "०१ आग्नेयं पर्व"
 आ꣡꣯रो꣭ऽ᳐३हा꣢न्। आ꣡꣯रो꣭ऽ᳐३हा꣢न्। आ꣡꣯रो꣭ऽ᳐३हा꣢न्। इतए꣯तउऽ᳐३दा꣡रू꣢ऽ१हाऽ᳒२᳒न्॥ दिवᳲपृष्ठा꣯निऽ᳐३या꣡रू꣢ऽ१हाऽ᳒२᳒न्॥ प्रभू꣯र्जयो꣯यऽ᳐३था꣡पा꣢ऽ१थाऽ᳒२᳒॥ उद्या꣯मङ्गिरऽ᳐३सो꣡या꣢ऽ१यूऽ᳒२ः᳒। आ꣡꣯रो꣭ऽ᳐३हा꣢न्। आ꣡꣯रो꣭ऽ᳐३हा꣢न्। आ꣡ऽ२३। रो꣡ऽ२᳐। हा꣣ऽ२३४। औ꣥꣯हो꣯वा। ऊ꣣ऽ२३४पा꣥॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/39_0093_rAye_agne.md">
-<details open><summary><h4>39_0093 राये अग्ने ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/39_0093_rAye_agne.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 रा꣣ये꣡ अ꣢ग्ने म꣣हे꣢ त्वा꣣ दा꣡ना꣢य꣣ स꣡मि꣢धीमहि । ई꣡डि꣢ष्वा꣣ हि꣢ म꣣हे꣡ वृ꣢षं꣣ द्या꣡वा꣢ हो꣣त्रा꣡य꣢ पृथि꣣वी꣢ ॥ 39:0093 ॥
 
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/39_0093_rAye_agne.md">
-<details open><summary><h4>39_0093 राये अग्ने ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/39_0093_rAye_agne.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 रा꣣ये꣢। अ꣣ग्ने। महे꣢। त्वा꣣। दा꣡ना꣢꣯य। सम्। इ꣣धीमहि। ई꣡डि꣢꣯ष्व। हि। म꣣हे꣢। वृ꣣षन्। द्या꣡वा꣢꣯। हो꣣त्रा꣡य꣢। पृ꣣थिवी꣡इ꣢ति। ९३।
@@ -6703,8 +6703,8 @@ title = "०१ आग्नेयं पर्व"
 ९३-२।रा꣢꣯या꣡याऽ२३ग्ने꣤꣯महे꣯त्वा꣯हा꣥उ॥ दा꣡꣯ना꣯यसमिधी꣯माऽ२३हा꣢इ। आ꣡इडाइष्वा꣢ऽ᳐३हा꣢ऽ᳐३इ। मा꣡हे꣢वा꣣ऽ२३४र्षा꣥न्॥ द्या꣡꣯वाहो꣢ऽ३त्रा꣢ऽ३॥ य꣢पो꣡ऽ२३४वा꣥। था꣤ऽ५इवोऽ६"हा꣥इ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/40_0094_dadhanve_vA.md">
-<details open><summary><h4>40_0094 दधन्वे वा ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/40_0094_dadhanve_vA.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 द꣣धन्वे꣢ वा꣣ य꣢दी꣣म꣢नु꣣ वो꣢च꣣द्ब्र꣢꣫ह्मेति꣣ वे꣢रु꣣ त꣢त्। प꣢रि꣣ वि꣡श्वा꣢नि꣣ का꣡व्या꣢ ने꣣मि꣢श्च꣣क्र꣡मि꣢वाभुवत् ॥ 40:0094 ॥
 
@@ -6719,8 +6719,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/40_0094_dadhanve_vA.md">
-<details open><summary><h4>40_0094 दधन्वे वा ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/40_0094_dadhanve_vA.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 द꣣धन्वे꣢। वा꣣। य꣢त्। ई꣣म्। अ꣡नु꣢꣯। वो꣡च꣢꣯त्। ब्र꣡ह्म꣢꣯। इ꣡ति꣢꣯। वेः। उ꣣। त꣢त्। प꣡रि꣢꣯। वि꣡श्वा꣢꣯नि꣣। का꣡व्या꣢꣯। ने꣣मिः꣢। च꣣क्र꣢म् इ꣣व। अभुवत्। ९४।
@@ -6771,8 +6771,8 @@ title = "०१ आग्नेयं पर्व"
 द꣤धन्वे꣯वाऽ५यदी꣯म꣤नू॥ वो꣡꣯चद्ब्रह्मे꣯तिवे꣯रुतत्। पारि꣪विश्वाऽ᳒२᳒। निका꣡꣯व्या॥ नाइमिश्चक्रौ꣢वा᳐॥ ई꣣ऽ२३४वा꣥। भु꣢वा꣡त्। औऽ२३हो꣤वा꣥। हो꣤ऽ५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/41_0095_pratyagne_harasA.md">
-<details open><summary><h4>41_0095 प्रत्यग्ने हरसा ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/41_0095_pratyagne_harasA.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 प्र꣡त्य꣢ग्ने꣣ ह꣡र꣢सा꣣ ह꣡रः꣢ शृणा꣣हि꣢ वि꣣श्व꣢त꣣स्प꣡रि꣢ । या꣣तुधा꣡न꣢स्य र꣣क्ष꣢सो꣣ ब꣢लं꣣꣬ न्यु꣢꣯ब्जवी꣣꣬र्य꣢꣯म् ॥ 41:0095 ॥
 
@@ -6787,8 +6787,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/41_0095_pratyagne_harasA.md">
-<details open><summary><h4>41_0095 प्रत्यग्ने हरसा ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/41_0095_pratyagne_harasA.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 प्र꣡ति꣢꣯। अ꣣ग्ने। ह꣡र꣢꣯सा। ह꣡रः꣢꣯। शृ꣣णाहि꣢। वि꣣श्व꣡तः꣢। प꣡रि꣢꣯। या꣣तुधा꣡न꣢स्य। या꣣तु। धा꣡न꣢꣯स्य। र꣣क्ष꣡सः꣢। ब꣡ल꣢꣯म्। नि। उ꣣ब्ज। वी꣣र्य꣢꣯म्। ९५।
@@ -6839,8 +6839,8 @@ title = "०१ आग्नेयं पर्व"
 प्र꣣त्य꣤ग्ने꣥꣯। हो꣢इ᳐। ह꣣र꣤सा꣯हरा꣥ऽ६ए꣥॥ शृ꣢णा꣡꣯हि꣢वा꣡ऽ२᳐इ। श्व꣣ता꣢ऽ३४५ः। पा꣣ऽ२३४री꣥॥ या꣢꣯तुधा꣡꣯नस्य꣢रक्ष꣡सो꣢꣯ऽ३᳐॥ बा꣡ऽ२३ला꣢म्॥ नि꣡युब्ज꣢वो꣡ऽ२३४वा꣥॥ री꣣ऽ२३४या꣥म्॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/42_0096_tvamagne_vasUMriha.md">
-<details open><summary><h4>42_0096 त्वमग्ने वसूंरिह ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/42_0096_tvamagne_vasUMriha.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 त्व꣡म꣢ग्ने꣣ व꣡सू꣢ꣳरि꣣ह꣢ रु꣣द्रा꣡ꣳ आ꣢दि꣣त्या꣢ꣳ उ꣣त꣢ । य꣡जा꣢ स्वध्व꣣रं꣢꣫ जनं꣣ म꣡नु꣢जातं घृत꣣प्रु꣡ष꣢म् ॥ 42:0096 ॥
 
@@ -6857,8 +6857,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/42_0096_tvamagne_vasUMriha.md">
-<details open><summary><h4>42_0096 त्वमग्ने वसूंरिह ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/1/2/42_0096_tvamagne_vasUMriha.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 त्व꣢म्। अ꣣ग्ने। व꣡सू꣢꣯न्। इ꣣ह꣢। रु꣣द्रा꣢न्। आ꣣दित्या꣢न्। आ꣣। दित्या꣢न्। उ꣣त꣢। य꣡ज꣢꣯। स्व꣣ध्वर꣢म्। सु꣣। अध्वर꣢म्। ज꣡न꣢꣯म्। म꣡नु꣢꣯जातम्। म꣡नु꣢꣯। जा꣣तम्। घृ꣣तप्रु꣡ष꣢म्। घृ꣣त। प्रु꣡ष꣢꣯म्। ९६।
@@ -6912,8 +6912,8 @@ title = "०१ आग्नेयं पर्व"
 
 [[अथ दशम खण्डः]]
 
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/2/1/01_0097_puru_tvA.md">
-<details open><summary><h4>01_0097 पुरु त्वा ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/2/1/01_0097_puru_tvA.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 पु꣣रु꣡ त्वा꣢ दाशि꣣वा꣡ꣳ वो꣢चे꣣ऽरि꣡र꣢ग्ने꣣ त꣡व꣢ स्वि꣣दा꣢ । तो꣣द꣡स्ये꣢व शर꣣ण꣢꣫ आ म꣣ह꣡स्य꣢ ॥ 01:0097 ॥
 
@@ -6928,8 +6928,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/2/1/01_0097_puru_tvA.md">
-<details open><summary><h4>01_0097 पुरु त्वा ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/2/1/01_0097_puru_tvA.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 पु꣣रु꣢। त्वा꣣। दाशिवा꣢न्। वो꣣चे। अरिः꣢। अ꣣ग्ने। त꣡व꣢꣯। स्वि꣣त्। आ꣢। तो꣣द꣡स्य꣢। इ꣣व शरणे꣢। आ। म꣣ह꣡स्य꣢। ९७।
@@ -7012,8 +7012,8 @@ title = "०१ आग्नेयं पर्व"
 पु꣢रु꣡त्वाऽ२३दा꣤꣯शिवाꣳ꣯वो꣯चे꣯हा꣥उ॥ हा꣢। औ꣣꣯हो꣭ऽ३हा꣢। ओ꣣ऽ२३४वा꣥। अ꣢रि꣡रग्ने꣢꣯त꣡वस्वि꣢दा꣡꣯॥ हा꣢᳐। औ꣣꣯हो꣭ऽ३हा꣢। ओ꣣ऽ२३४वा꣥। तो꣢꣯द꣡स्ये꣢꣯वशरण꣡आ꣯॥ हा꣢᳐। औ꣣꣯हो꣭ऽ३हा꣢। ओ꣣ऽ२३४वा꣥॥ ए꣢ऽ᳐३। म꣢ह꣡स्या꣣ऽ२३꣡४꣡५꣡॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/2/1/02_0098_pra_hotre.md">
-<details open><summary><h4>02_0098 प्र होत्रे ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/2/1/02_0098_pra_hotre.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 प्र꣡ होत्रे꣢꣯ पू꣣र्व्यं꣢꣫ वचो꣣ऽग्न꣡ये꣢ भरता बृ꣣ह꣢त् । वि꣣पां꣡ ज्योती꣢꣯ꣳषि꣣ बि꣡भ्र꣢ते꣣ न꣢ वे꣣ध꣡से꣢ ॥ 02:0098 ॥
 
@@ -7028,8 +7028,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/2/1/02_0098_pra_hotre.md">
-<details open><summary><h4>02_0098 प्र होत्रे ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/2/1/02_0098_pra_hotre.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 प्र꣢। हो꣡त्रे꣢꣯। पू꣣र्व्य꣢म्। व꣡चः꣢꣯। अ꣣ग्न꣡ये꣢। भ꣣रत। बृह꣢त्। वि꣣पा꣢म्। ज्यो꣡तीँ꣢꣯षि꣣। बि꣡भ्र꣢꣯ते। न। वे꣣ध꣡से꣢। ९८।
@@ -7088,8 +7088,8 @@ title = "०१ आग्नेयं पर्व"
 प्र꣥हो꣯त्रा꣢ऽ३इपू꣤꣯र्वि꣥यं꣤वचाः꣥॥ अ꣢ग्न꣡ये꣰꣯ऽ२भ꣡रता꣢꣯ऽ३बॄ꣢। हा꣡ऽ२३त्। वि꣢पां꣣꣯ज्यो꣯ता꣢इ। षी꣣ऽ२३४बि꣥। भ्र꣣ता꣢ऽ३इ॥ ना꣡ऽ२३वे꣤ऽ३॥ धा꣢ऽ᳐३४५सोऽ६"हा꣥इ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/2/1/03_0099_agne_vAjasya.md">
-<details open><summary><h4>03_0099 अग्ने वाजस्य ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/2/1/03_0099_agne_vAjasya.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अ꣢ग्ने꣣ वा꣡ज꣢स्य꣣ गो꣡म꣢त꣣ ई꣡शा꣢नः सहसो यहो । अ꣣स्मे꣡ दे꣢हि जातवेदो꣣ म꣢हि꣣ श्र꣡वः꣢ ॥ 03:0099 ॥
 
@@ -7104,8 +7104,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/2/1/03_0099_agne_vAjasya.md">
-<details open><summary><h4>03_0099 अग्ने वाजस्य ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/2/1/03_0099_agne_vAjasya.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 अ꣡ग्ने꣢꣯। वा꣡ज꣢꣯स्य। गो꣡म꣢꣯तः। ई꣡शा꣢꣯नः। स꣣हसः। यहो। अस्मे꣡इ꣢ति। दे꣣हि। जातवेदः। जात। वेदः। म꣡हि꣢꣯। श्र꣡वः꣢꣯। ९९।
@@ -7164,8 +7164,8 @@ title = "०१ आग्नेयं पर्व"
 अ꣥ग्ने꣯वा꣯जस्यगो꣯हिं꣯(स्थि)मतो꣤होहा꣥इ॥ ई꣢꣯शा꣡꣯न꣢स्सा꣡। हासो꣢᳐या꣣ऽ२३४हो꣥। आ꣡स्मे꣢ऽ१दाइही꣢ऽ३। जा꣤꣯त꣥। वे꣣꣯दा꣢ऽ३ः॥ मा꣡ऽ२३ही꣤ऽ३॥ श्रा꣢ऽ३४५वोऽ६"हा꣥इ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/2/1/04_0100_agne_yajiShTho.md">
-<details open><summary><h4>04_0100 अग्ने यजिष्ठो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/2/1/04_0100_agne_yajiShTho.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अ꣢ग्ने꣣ य꣡जि꣢ष्ठो अध्व꣣रे꣢ दे꣣वां꣡ दे꣢वय꣣ते꣡ य꣢ज । हो꣡ता꣢ म꣣न्द्रो꣡ वि रा꣢꣯ज꣣स्य꣢ति꣣ स्रि꣡धः꣢ ॥ 04:0100 ॥
 
@@ -7180,8 +7180,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/2/1/04_0100_agne_yajiShTho.md">
-<details open><summary><h4>04_0100 अग्ने यजिष्ठो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/2/1/04_0100_agne_yajiShTho.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 अ꣡ग्ने꣢꣯। य꣡जि꣢꣯ष्ठः। अ꣣ध्वरे꣢। दे꣣वा꣢न्। दे꣣वयते꣢। य꣣ज। हो꣡ता꣢꣯। म꣣न्द्रः꣢। वि। रा꣣जसि। अ꣡ति꣢꣯। स्रि꣡धः꣢꣯। १००।
@@ -7248,8 +7248,8 @@ title = "०१ आग्नेयं पर्व"
 अ꣥ग्नई꣤या꣥। ओ꣤वा꣥॥ य꣡जिष्ठो꣯अध्वराइ। दे꣯वा꣯न्दाऽ२३इवा꣢। या꣡ते꣢ऽ१याजाऽ᳒२᳒॥ हो꣡ता꣢ऽ३उवा꣢॥ मन्द्रो꣯विऽ३रा꣡ऽ२३। जा꣡ऽ२᳐सा꣣ऽ२३४औ꣥꣯हो꣯वा॥ अ꣡ति꣢स्रि꣡धा꣣ऽ२३꣡४꣡५ः꣡॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/2/1/05_0101_jajnAnaH_sapta.md">
-<details open><summary><h4>05_0101 जज्ञानः सप्त ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/2/1/05_0101_jajnAnaH_sapta.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 ज꣡ज्ञानः꣢ स꣣प्त꣢ मा꣣तृ꣡भि꣢र्मे꣣धा꣡माशा꣢꣯सत श्रि꣣ये꣢। अ꣣यं꣢ ध्रु꣣वो꣡ र꣢यी꣣णां꣡ चि꣢केत꣣दा꣢ ॥ 05:0101 ॥
 
@@ -7264,8 +7264,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/2/1/05_0101_jajnAnaH_sapta.md">
-<details open><summary><h4>05_0101 जज्ञानः सप्त ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/2/1/05_0101_jajnAnaH_sapta.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 ज꣣ज्ञानः꣢। स꣣प्त꣢। मा꣣तृ꣡भिः꣢। मे꣣धा꣢म्। आ। अ꣣शासत। श्रिये꣢। अ꣣य꣢म्। ध्रु꣣वः꣢। र꣣यीणा꣢म्। चि꣣केतत्। आ꣢। १०१।
@@ -7316,8 +7316,8 @@ title = "०१ आग्नेयं पर्व"
 ज꣥ज्ञा꣯नस्सा॥ प्त꣢मा꣯तृ꣡भाइः। मेधा꣢᳐मा꣣ऽ२३४शा꣥। स꣢तश्रा꣡याइ। अ꣪याऽ२᳐न्ध्रू꣣ऽ२३४वाः꣥। र꣡याऽ२३इणा꣢म्॥ चि꣡काये꣢ऽ३॥ ता꣡ऽ२᳐दा꣣ऽ२३४औ꣥꣯हो꣯वा॥ ऊ꣣ऽ२३४पा꣥॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/2/1/06_0102_uta_syA.md">
-<details open><summary><h4>06_0102 उत स्या ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/2/1/06_0102_uta_syA.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 उ꣣त꣢꣫ स्या नो꣣ दि꣡वा꣢ म꣣ति꣡रदि꣢꣯तिरू꣣त्या꣡ग꣢मत्। सा꣡ शन्ता꣢꣯ता꣣ म꣡य꣢स्कर꣣द꣢प꣣ स्रि꣡धः꣢ ॥ 06:0102 ॥
 
@@ -7332,8 +7332,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/2/1/06_0102_uta_syA.md">
-<details open><summary><h4>06_0102 उत स्या ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/2/1/06_0102_uta_syA.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 उ꣣त꣢। स्या। नः꣣। दि꣡वा꣢꣯। म꣣तिः꣢। अ꣡दि꣢꣯तिः। अ। दि꣣तिः। ऊत्या꣢। आ। ग꣢मत्। सा꣢। श꣡न्ता꣢꣯ता। शम्। ता꣣ता। म꣡यः꣢꣯। क꣣रत्। अ꣡प꣢꣯। स्रि꣡धः꣢꣯। १०२।
@@ -7384,8 +7384,8 @@ title = "०१ आग्नेयं पर्व"
 उ꣥तस्या꣢ऽ३नो꣤꣯दि꣥वा꣤꣯मतीः꣥॥ आ꣡दिति꣢रू꣯। तिया꣡गा꣢ऽ१माऽ᳒२᳒त्॥ सा꣡꣯शंता꣢ऽ᳐३ता꣢ऽ᳐३॥ मा꣤। यः꣥। क꣣रा꣢ओ꣣ऽ२३४वा꣥। अ꣤पाऽ५स्रिधाः। हो꣤ऽ५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/2/1/07_0103_IDiShvA_hi.md">
-<details open><summary><h4>07_0103 ईडिष्वा हि ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/2/1/07_0103_IDiShvA_hi.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 ई꣡डि꣢ष्वा꣣ हि꣡ प्र꣢ती꣣व्या꣢ꣳ३ य꣡ज꣢स्व ख्जा꣣त꣡वे꣢दसम्। च꣣रिष्णु꣡धू꣢म꣣म꣡गृ꣢भीतशोचिषम् ॥ 07:0103 ॥
 
@@ -7400,8 +7400,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/2/1/07_0103_IDiShvA_hi.md">
-<details open><summary><h4>07_0103 ईडिष्वा हि ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/2/1/07_0103_IDiShvA_hi.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 ई꣡डि꣢꣯ष्व। हि। प्र꣣तीव्य꣢꣯म्। प्र꣣ति। व्य꣢꣯म्। य꣡ज꣢꣯स्व। जा꣣तवे꣡द꣢सम्। जा꣣त꣢। वे꣣दसम्। चरिष्णु꣡धू꣢मम्। च꣣रिष्णु꣢। धू꣣मम्। अ꣡गृ꣢꣯भीतशोचिषम्। अ꣡गृ꣢꣯भीत। शो꣣चिषम्। १०३।
@@ -7452,8 +7452,8 @@ title = "०१ आग्नेयं पर्व"
 ई꣢꣯डा꣡इश्वाऽ२३हि꣤प्रती꣥꣯वियाम्॥ या꣡जस्व꣢जा꣡। त꣢वे꣣꣯द꣢सा꣡ऽ२३म्॥ च꣢रि꣣ष्णुधू꣢॥ मा꣣ऽ२३४म꣥। गृ꣣भा꣢ऽ३इ। ता꣡ऽ२᳐शो꣣ऽ२३४औ꣥꣯हो꣯वा॥ ची꣣ऽ२३४षा꣥म्॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/2/1/08_0104_na_tasya.md">
-<details open><summary><h4>08_0104 न तस्य ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/2/1/08_0104_na_tasya.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 न꣡ तस्य꣢꣯ मा꣣य꣡या꣢ च꣣ न꣢ रि꣣पु꣡री꣢शीत꣣ म꣡र्त्यः꣢। यो꣢ अ꣣ग्न꣡ये꣢ द꣣दा꣡श꣢ ह꣣व्य꣡दा꣢तये ॥ 08:0104 ॥
 
@@ -7468,8 +7468,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/2/1/08_0104_na_tasya.md">
-<details open><summary><h4>08_0104 न तस्य ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/2/1/08_0104_na_tasya.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 न꣢। त꣡स्य꣢꣯। मा꣣य꣡या꣢। च꣣। न꣢। रि꣣पुः꣢। ई꣣शीत। म꣡र्त्यः꣢꣯। यः। अ꣣ग्न꣡ये꣢। द꣣दा꣡श꣢। ह꣣व्य꣡दा꣢तये। ह꣣व्य꣢। दा꣣तये। १०४।
@@ -7520,8 +7520,8 @@ title = "०१ आग्नेयं पर्व"
 न꣥तो꣤वा॥ स्या꣣ऽ२३४मा꣥। य꣢या꣡꣯चाऽ२३ना꣢। रिपु꣡री꣯शी꣯त꣢माऽ३१उवाऽ२३। तीऽ२३४याः꣥॥ यो꣡꣯अग्नये꣰꣯ऽ२ददा꣡꣯। श"हव्यदो"ऽ२३४वा꣥॥ ता꣣ऽ२३४ये꣥॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/2/1/09_0105_apa_tyam.md">
-<details open><summary><h4>09_0105 अप त्यम् ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/2/1/09_0105_apa_tyam.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अ꣢प꣣ त्यं꣡ वृ꣢जि꣣न꣢ꣳ रि꣣पु꣢ꣳ स्ते꣣न꣡म꣢ग्ने दुरा꣣꣬ध्य꣢꣯म्। द꣡वि꣢ष्ठमस्य सत्पते कृ꣣धी꣢ सु꣣ग꣢म् ॥ 09:0105 ॥
 
@@ -7536,8 +7536,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/2/1/09_0105_apa_tyam.md">
-<details open><summary><h4>09_0105 अप त्यम् ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/2/1/09_0105_apa_tyam.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 अ꣡प꣢꣯। त्यम्। वृ꣣जिन꣢म्। रि꣣पु꣢म्। स्ते꣣न꣢म्। अ꣣ग्ने। दुराध्य꣢꣯म्। दुः꣣। आ꣡ध्य꣢꣯म्। द꣡वि꣢꣯ष्ठम्। अ꣣स्य। सत्पते। सत्। पते। कृधि꣢। सु꣣ग꣢म्। सु꣣। ग꣢म्। १०५।
@@ -7588,8 +7588,8 @@ title = "०१ आग्नेयं पर्व"
 अ꣣प꣤त्यं꣣वृ꣤जि꣥नम्। रि꣣पू꣢म्। स्ते꣯ना꣣ऽ२३꣡४꣡५꣡म्॥ अ꣢ग्नाइ। दुरा꣡꣯धाऽ२३या꣢ऽ३४म्॥ द꣣वि꣤ष्ठ꣥मस्यसत्। प꣣ता꣢ऽ३इ॥ का꣡ऽ२३र्धी꣤ऽ३॥ सू꣢ऽ३४५गोऽ६"हा꣥इ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/2/1/10_0106_shruShTyagne_navasya.md">
-<details open><summary><h4>10_0106 श्रुष्ट्यग्ने नवस्य ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/2/1/10_0106_shruShTyagne_navasya.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 श्रु꣣꣬ष्ट्य꣢꣯ग्ने꣣ नव꣢स्य मे स्तो꣡म꣢स्य वीर विश्पते। नि꣢ मा꣣यि꣢न꣣स्त꣡प꣢सा र꣣क्ष꣡सो꣢ दह ॥ 10:0106 ॥
 
@@ -7604,8 +7604,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/2/1/10_0106_shruShTyagne_navasya.md">
-<details open><summary><h4>10_0106 श्रुष्ट्यग्ने नवस्य ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/2/1/10_0106_shruShTyagne_navasya.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 श्रु꣣ष्टी꣢। अ꣣ग्ने। न꣡व꣢꣯स्य। मे꣣। स्तो꣡म꣢꣯स्य। वी꣣र। विश्पते। नि꣢। मा꣣यि꣡नः꣢। त꣡प꣢꣯सा। र꣣क्ष꣡सः। द꣣ह। १०६।
@@ -7659,8 +7659,8 @@ title = "०१ आग्नेयं पर्व"
 
 [[अथ द्वादश खण्डः]]
 
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/2/1/11_0107_pra_maMhiShThAya.md">
-<details open><summary><h4>11_0107 प्र मंहिष्ठाय ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/2/1/11_0107_pra_maMhiShThAya.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 प्र꣡ मꣳहि꣢꣯ष्ठाय गायत ऋ꣣ता꣡व्ने꣢ बृह꣣ते꣢ शु꣣क्र꣡शो꣢चिषे। उ꣣पस्तुता꣡सो꣢ अ꣣ग्न꣡ये꣢ ॥ 11:0107 ॥
 
@@ -7675,8 +7675,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/2/1/11_0107_pra_maMhiShThAya.md">
-<details open><summary><h4>11_0107 प्र मंहिष्ठाय ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/2/1/11_0107_pra_maMhiShThAya.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 प्र꣢। मँ꣡हि꣢꣯ष्ठाय। गा꣣यत। ऋता꣡व्ने꣢। बृ꣣हते꣢। शु꣣क्र꣡शो꣢चिषे। शु꣣क्र꣢। शो꣣चिषे। उपस्तुता꣡सः꣢। उ꣣प। स्तुता꣡सः꣢अ꣣ग्न꣡ये꣢। १०७।
@@ -7749,8 +7749,8 @@ title = "०१ आग्नेयं पर्व"
 प्र꣤मꣳहि꣥ष्ठा꣯यगा꣯यत। प्रमꣳहिष्ठो꣤वा꣥॥ या꣡गा꣯य꣢त। ऋ꣡ताऽ२३व्ना꣢ऽ३४इ। बृहते꣣꣯शु꣤क्रशो꣥꣯। चा꣢ऽ३इषा꣢इ॥ उपौ꣯हो꣯वाऽ३हा꣢इ। स्तुतौ꣯हो꣯वाऽ३हा꣢ऽ३॥ स꣢ओ꣡ऽ२३४वा꣥। ग्ना꣤ऽ५योऽ६"हा꣥इ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/2/1/12_0108_pra_so.md">
-<details open><summary><h4>12_0108 प्र सो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/2/1/12_0108_pra_so.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 प्र꣡ सो अ꣢꣯ग्ने꣣ त꣢वो꣣ति꣡भिः꣢ सु꣣वी꣡रा꣢भिस्तरति꣣ वा꣡ज꣢कर्मभिः। य꣢स्य꣣ त्व꣢ꣳ स꣣ख्य꣡मावि꣢꣯थ ॥ 12:0108 ॥
 
@@ -7765,8 +7765,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/2/1/12_0108_pra_so.md">
-<details open><summary><h4>12_0108 प्र सो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/2/1/12_0108_pra_so.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 प्र꣢। सः। अ꣣ग्ने। त꣡व꣢꣯। ऊ꣣ति꣡भिः꣢। सु꣣वी꣡रा꣢भिः। सु꣣। वी꣡रा꣢꣯भिः। त꣣रति। वा꣡ज꣢꣯कर्मभिः। वा꣡ज꣢꣯। क꣣र्मभिः। य꣣स्य꣢꣯। त्वम्। स꣣ख्य꣢म्। स꣣। ख्य꣢म्। आ꣡वि꣢꣯थ। १०८।
@@ -7817,8 +7817,8 @@ title = "०१ आग्नेयं पर्व"
 प्रा꣡सो꣢ऽ३हा꣢इ। आ꣡ग्ने꣢ऽ३हा꣢इ॥ तवाऽ३१उवाऽ२३। तीऽ२३४भीः꣥। सु꣢वी꣡꣯रा꣯भि꣢स्तरतिवा꣡꣯जक꣢र्मभिः॥ या꣡स्या꣢ऽ३हा꣢इ। त्वाꣳ꣡साऽ२३॥ ख्य꣤मोवा꣥। वा꣤ऽ५इथोऽ६"हा꣥इ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/2/1/13_0109_taM_gUrdhayAsvarNaram.md">
-<details open><summary><h4>13_0109 तं गूर्धयास्वर्णरम् ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/2/1/13_0109_taM_gUrdhayAsvarNaram.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 तं꣡ गू꣢र्धया꣣꣬स्व꣢꣯र्णरं दे꣣वा꣡सो꣢ दे꣣व꣡म꣢र꣣तिं꣡ द꣢धन्विरे। दे꣣वत्रा꣢ ह꣣व्य꣡मू꣢हिषे ॥ 13:0109 ॥
 
@@ -7833,8 +7833,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/2/1/13_0109_taM_gUrdhayAsvarNaram.md">
-<details open><summary><h4>13_0109 तं गूर्धयास्वर्णरम् ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/2/1/13_0109_taM_gUrdhayAsvarNaram.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 त꣢म्। गू꣣र्धय। स्व꣢꣯र्णरम्। स्वः꣢꣯। न꣣रम्। देवा꣡सः꣢। दे꣣व꣢म्। अ꣣रति꣢म्। द꣣धन्विरे। देवत्रा꣢। ह꣣व्य꣢म्। ऊ꣣हिषे। १०९।
@@ -7899,8 +7899,8 @@ title = "०१ आग्नेयं पर्व"
 १०९-३।तं꣥गू꣯र्धया꣯स्वौ꣯हो꣤र्णारा꣥म्॥ दे꣡꣯वाऽ२᳐सो꣣ऽ२३४दे꣥। व꣡मरताऽ२इम्। दा꣣ऽ२३४धा꣥। न्वा꣣ऽ२३४इरा꣥इ। हा꣢हो꣣ऽ२३४हा꣥॥ दे꣡꣯वाऽ२त्रा꣣ऽ२३४हा꣥॥ व्य꣣मू꣢ऽ३हा꣤ऽ५इ॥ षा꣣ऽ२३꣡४꣡५꣡इ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/2/1/14_0110_mA_no.md">
-<details open><summary><h4>14_0110 मा नो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/2/1/14_0110_mA_no.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 मा꣡ नो꣢ हृणीथा꣣ अ꣡ति꣢थिं꣣ व꣡सु꣢र꣣ग्निः꣡ पु꣢रुप्रश꣣स्त꣢ ए꣣षः꣢। यः꣢ सु꣣हो꣡ता꣢ स्वध्व꣣रः꣢ ॥ 14:0110 ॥
 
@@ -7915,8 +7915,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/2/1/14_0110_mA_no.md">
-<details open><summary><h4>14_0110 मा नो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/2/1/14_0110_mA_no.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 मा꣢। नः꣣। हृणीथाः। अ꣡ति꣢꣯थिम्। व꣡सुः꣢। अ꣣ग्निः꣢। पु꣣रुप्रशस्तः꣢। पु꣣रु। प्रशस्तः꣢। ए꣣षः꣢। यः। सु꣣हो꣡ता꣢। सु꣣। हो꣡ता꣢꣯। स्व꣣ध्वरः꣢। सु꣣। अध्वरः꣢। ११०।
@@ -7975,8 +7975,8 @@ title = "०१ आग्नेयं पर्व"
 मा꣤꣯नोहा꣥उ॥ हा꣡ऽ२३४। णी꣯था꣯अ꣣ति꣤थि꣥म्। वा꣢सूरा꣣ऽ२३४ग्ना꣥इः॥ पु꣢रौ꣡꣯ह꣢हो꣡इ। प्र꣢शौ꣡꣯ह꣢हो꣡॥ स्ताऽ२३४ए꣯षाः। ए꣥꣯हियाऽ६हा꣥। हो꣤ऽ५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/2/1/15_0111_bhadro_noagnirAhuto.md">
-<details open><summary><h4>15_0111 भद्रो नोअग्निराहुतो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/2/1/15_0111_bhadro_noagnirAhuto.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 भ꣣द्रो꣡ नो꣢अ꣣ग्नि꣡राहु꣢꣯तो भ꣣द्रा꣢ रा꣣तिः꣡ सु꣢भग भ꣣द्रो꣡ अ꣢ध्व꣣रः꣢। भ꣣द्रा꣢ उ꣣त꣡ प्र꣢꣯शस्तयः ॥ 15:0111 ॥
 
@@ -7991,8 +7991,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/2/1/15_0111_bhadro_noagnirAhuto.md">
-<details open><summary><h4>15_0111 भद्रो नोअग्निराहुतो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/2/1/15_0111_bhadro_noagnirAhuto.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 भ꣣द्रः꣢। नः꣣। अग्निः꣢। आ꣡हु꣢꣯तः। आ। हु꣣तः। भद्रा꣢। रा꣣तिः꣢। सु꣢भग। सु। भग। भद्रः꣢। अ꣣ध्वरः꣢। भ꣣द्राः꣢। उ꣣त꣢। प्र꣡श꣢꣯स्तयः। प्र। श꣣स्तयः। १११।
@@ -8043,8 +8043,8 @@ title = "०१ आग्नेयं पर्व"
 भ꣤द्रो꣣ऽ४नः꣥। हो꣢इ᳐। अ꣣ग्नि꣤रा꣯हुता꣥ऽ६ए꣥॥ भ꣣द्रा꣯रा꣢꣯ता꣡इः। सु꣢भ꣡गभा꣢ऽ᳐३। द्रो꣡ऽ२᳐ध्वा꣣ऽ᳐२३४राः꣥॥ भ꣢द्रा꣡꣯ऊऽ२३ता꣢ऽ३॥ प्रा꣡ऽ२३शा꣤ऽ३। स्ता꣢ऽ३४५योऽ६"हा꣥इ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/2/1/16_0112_yajiShThaM_tvA.md">
-<details open><summary><h4>16_0112 यजिष्ठं त्वा ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/2/1/16_0112_yajiShThaM_tvA.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 य꣡जि꣢ष्ठं त्वा ववृमहे दे꣣वं꣡ दे꣢व꣣त्रा꣡ होता꣢꣯र꣣म꣡म꣢र्त्यम्। अ꣣स्य꣢ य꣣ज्ञ꣡स्य꣢ सु꣣क्र꣡तु꣢म् ॥ 16:0112 ॥
 
@@ -8059,8 +8059,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/2/1/16_0112_yajiShThaM_tvA.md">
-<details open><summary><h4>16_0112 यजिष्ठं त्वा ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/2/1/16_0112_yajiShThaM_tvA.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 य꣡जि꣢꣯ष्ठम्। त्वा꣣। ववृमहे। देव꣢म्। दे꣢वत्रा꣢। हो꣡ता꣢꣯रम्। अ꣡म꣢꣯र्त्यम्। अ। म꣣र्त्यम्। अस्य꣢। य꣣ज्ञ꣡स्य꣢। सुक्र꣡तु꣢म्। सु꣣। क्र꣡तु꣢꣯म्। ११२।
@@ -8111,8 +8111,8 @@ title = "०१ आग्नेयं पर्व"
 या꣣ऽ५जि। ष्ठंत्वा꣤ऽ३वा꣢ऽ᳐३वृ꣤महा꣥इ॥ दे꣢꣯वं꣡दे꣯वत्रा꣯हो꣯ताऽ२३रा꣢म्। आ꣡मर्ति꣢यम्॥ आ꣡स्य꣪याज्ञाऽ२३। स्या꣡ऽ२३सू꣤ऽ३। क्रा꣢ऽ३४५तोऽ६"हा꣥इ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/2/1/17_0113_tadagne_dyumnamA.md">
-<details open><summary><h4>17_0113 तदग्ने द्युम्नमा ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/2/1/17_0113_tadagne_dyumnamA.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 त꣡द꣢ग्ने द्यु꣣म्न꣡मा भ꣢꣯र꣣ यत्सा꣣सा꣡हा꣢ स꣡द꣢ने꣣ कं꣡ चि꣢द꣣त्रि꣡ण꣢म्। म꣣न्युं꣡ जन꣢꣯स्य दू꣣꣬ढ्य꣢꣯म् ॥ 17:0113 ॥
 
@@ -8127,8 +8127,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/2/1/17_0113_tadagne_dyumnamA.md">
-<details open><summary><h4>17_0113 तदग्ने द्युम्नमा ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/2/1/17_0113_tadagne_dyumnamA.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 त꣢त्। अ꣣ग्ने। द्युम्न꣢म्। आ। भ꣣र। य꣢त्। सा꣣सा꣡ह꣢। स꣡द꣢꣯ने। कम्। चि꣣त्। अत्रि꣡ण꣢म्। म꣣न्यु꣢म्। ज꣡न꣢꣯स्य। दू꣣ढ्य꣢꣯म्। ११३।
@@ -8177,8 +8177,8 @@ title = "०१ आग्नेयं पर्व"
 ११३-१। संवर्गः॥ जमदग्न्युष्णिगग्निः॥त꣤दग्ने꣯द्यूऽ५म्नम्। आ꣯भरो꣤वा॥ य꣢त्सा꣡꣯साऽ२३हा꣢। स꣡दाऽ२३ना꣢इ। कञ्चि-द꣡त्राऽ२३इणा꣢म्॥ मा꣡न्युञ्जनस्यदूऽ२३हो꣡॥ ढाऽ२३४याम्। ए꣥꣯हियाऽ६हा꣥। हो꣤ऽ५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/2/1/18_0114_yadvA_u.md">
-<details open><summary><h4>18_0114 यद्वा उ ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="योनि-प्रस्तुतिः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/2/1/18_0114_yadvA_u.md">
+<details><summary><h4>योनि-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 य꣡द्वा उ꣢꣯ वि꣣श्प꣡तिः꣢ शि꣣तः꣡ सुप्री꣢꣯तो꣣ म꣡नु꣢षो वि꣣शे꣢। वि꣢꣫श्वेद꣣ग्निः꣢꣫ प्रति꣣ र꣡क्षा꣢ꣳसि सेधति ॥ 18:0114 ॥
 
@@ -8193,8 +8193,8 @@ title = "०१ आग्नेयं पर्व"
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/2/1/18_0114_yadvA_u.md">
-<details open><summary><h4>18_0114 यद्वा उ ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_sAma/kauthumam/saMhitA/sarvASh_TIkAH/1_pUrvArchikaH/2/1/18_0114_yadvA_u.md">
+<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>पदपाठः</summary>
 
 य꣢द्। वै। उ꣣। विश्प꣡तिः꣢। शि꣣तः꣢। सु꣡प्री꣢꣯तः। सु। प्री꣣तः म꣡नु꣢꣯षः। वि꣣शे꣢। वि꣡श्वा꣢꣯। इत्। अ꣣ग्निः꣢। प्र꣡ति꣢꣯। रक्षाँ꣢꣯सि। से꣣धति। ११४।
