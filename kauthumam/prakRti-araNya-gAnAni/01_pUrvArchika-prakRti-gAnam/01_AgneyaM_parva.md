@@ -80,7 +80,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/01_0001_agna_A/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/01_0001_agna_A/01.md">
 <details open><summary><h6>01_0001 अग्न आ - 01 ...{Loading}...</h6></summary>
 
 १-१। पर्कः॥ गोतमो गायत्र्यग्निः॥
@@ -88,14 +88,14 @@ title = "०१ आग्नेयं पर्व"
 ओ꣤ग्नाइ॥ आ꣢꣯या꣯हीऽ३वो꣡इतोयाऽ᳒२᳒इ। तो꣡याऽ᳒२᳒इ। गृ꣡णा꣯नो꣢꣯ह। व्यदा꣡तोयाऽ᳒२᳒इ। तो꣡याऽ᳒२᳒इ॥ ना꣡इहो꣢꣯ता꣡साऽ२३॥ त्सा꣡ऽ२᳐इबा꣣ऽ२३४औ꣥꣯हो꣯वा॥ ही꣣ऽ२३४षी꣥॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/01_0001_agna_A/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/01_0001_agna_A/02.md">
 <details open><summary><h6>01_0001 अग्न आ - 02 ...{Loading}...</h6></summary>
 
 १-२। बर्हिष्यम्॥ कश्यपो गायत्र्यग्निः॥  
 अ꣤ग्न꣥आ꣤꣯या꣥꣯हिवी꣤॥ त꣡याइ। गृणा꣯नो꣯हव्यदा꣯ताऽ२३या꣢इ। नि꣡हो꣯ता꣯ सत्सि꣢ ब꣡र्हाऽ२३इषी꣢॥ ब꣡र्हाऽ२᳐इषा꣣ऽ२३४औ꣥꣯हो꣯वा॥ ब꣢र्ही᳐ऽ३षी꣡ऽ२३꣡४꣡५꣡॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/01_0001_agna_A/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/01_0001_agna_A/03.md">
 <details open><summary><h6>01_0001 अग्न आ - 03 ...{Loading}...</h6></summary>
 
 १-३। पर्कः॥ गोतमो गायत्र्यग्निः॥
@@ -163,7 +163,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/02_0002_tvamagne_yajnAnAm/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/02_0002_tvamagne_yajnAnAm/01.md">
 <details open><summary><h6>02_0002 त्वमग्ने यज्ञानाम् - 01 ...{Loading}...</h6></summary>
 
 २-१। सौपर्णम्, सुपर्णोः वैश्वमनसम्॥ विश्वमनाः गायत्र्यग्निः॥
@@ -231,7 +231,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/03_0003_agniM_dUtam/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/03_0003_agniM_dUtam/01.md">
 <details open><summary><h6>03_0003 अग्निं दूतम् - 01 ...{Loading}...</h6></summary>
 
 ३-१। बृहद्भारद्वाजम्॥ (बृहदाग्नेयं, बृहद्वासौरम्)। भरद्वाजो गायत्र्यग्निः॥
@@ -299,7 +299,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/04_0004_agnirvRtrANi_janghanad/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/04_0004_agnirvRtrANi_janghanad/01.md">
 <details open><summary><h6>04_0004 अग्निर्वृत्राणि जङ्घनद् - 01 ...{Loading}...</h6></summary>
 
 ४-१। श्रौतर्षाणि त्रीणि श्रौतर्षम्॥ त्रयाणां श्रुतर्षिः गायत्र्यग्निः॥
@@ -307,13 +307,13 @@ title = "०१ आग्नेयं पर्व"
 अ꣥ग्निर्वृत्रा॥ णा꣡ऽ२᳐इजा꣣ऽ२३४औ꣥꣯हो꣯वा। घा꣣ऽ२३४ना꣥त्। द्र꣢विणस्यु꣡र्विप꣢न्य꣡या꣰꣯ऽ२। ओ꣡इसमिद्धाऽ२३श्शू꣢॥ क्रा꣡या꣯हु꣢तः। इ꣡डाऽ२३भा꣢ऽ३४३। ओ꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/04_0004_agnirvRtrANi_janghanad/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/04_0004_agnirvRtrANi_janghanad/02.md">
 <details open><summary><h6>04_0004 अग्निर्वृत्राणि जङ्घनद् - 02 ...{Loading}...</h6></summary>
 
 ४-२।अ꣣ग्नि꣢रौ꣣꣯हो꣤वाहा꣥इ। वृत्रा꣤णी꣥॥ जा꣡ङ्घा꣢ऽ३ना꣢त्। औ꣡हो꣢ऽ३वा꣢ऽ३। द्र꣡विणा꣣ऽ२३४स्यूः꣥। ओ꣡इवोइप꣪न्ययाऽ᳒२᳒॥ स꣡माये꣢ऽ३᳐। धा꣡ऽ२᳐श्शू꣣ऽ२३४औ꣥꣯हो꣯वा। क्र꣢या꣡꣯हुता꣣ऽ२३꣡४꣡५ः꣡॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/04_0004_agnirvRtrANi_janghanad/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/04_0004_agnirvRtrANi_janghanad/03.md">
 <details open><summary><h6>04_0004 अग्निर्वृत्राणि जङ्घनद् - 03 ...{Loading}...</h6></summary>
 
 ४-३।
@@ -381,7 +381,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/05_0005_preShThaM_vo/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/05_0005_preShThaM_vo/01.md">
 <details open><summary><h6>05_0005 प्रेष्ठं वो - 01 ...{Loading}...</h6></summary>
 
 ५-१। औशनम्॥ उशना विराड्गायत्र्यग्निः॥
@@ -389,7 +389,7 @@ title = "०१ आग्नेयं पर्व"
 प्रे꣤꣯ष्ठं꣥वाः꣤॥ अ꣡ताऽ२३इथी꣢म्। स्तौ꣡षे꣯मि꣢त्रम्। इव꣡प्राऽ२३या꣢म्॥ अ꣡ग्नाइरा꣢ऽ३था꣢ऽ३म्॥ ना꣡वाऽ२३हा꣢ऽ३४३इ॥ दा꣡ऽ२३४यो꣥ऽ६"हा꣥इ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/05_0005_preShThaM_vo/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/05_0005_preShThaM_vo/02.md">
 <details open><summary><h6>05_0005 प्रेष्ठं वो - 02 ...{Loading}...</h6></summary>
 
 ५-२। शैरीषम्॥ शिरीषो उशना गायत्र्यग्निः॥
@@ -397,7 +397,7 @@ title = "०१ आग्नेयं पर्व"
 प्रे꣤꣯ष्ठं꣥वः। ओ꣤हाइ॥ अ꣡ताऽ२३इथी꣢म्। स्तुषाइमित्रा᳐ऽ३म्। इ꣡वाऽ२᳐प्रा꣣ऽ२३४या꣥म्॥ औ꣢꣯होऽ१इ। अग्ने꣢꣯रा꣡थाऽ२३म्॥ ना꣡ऽ२३वे꣤ऽ३। दा꣢ऽ३४५योऽ६"हा꣥इ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/05_0005_preShThaM_vo/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/05_0005_preShThaM_vo/03.md">
 <details open><summary><h6>05_0005 प्रेष्ठं वो - 03 ...{Loading}...</h6></summary>
 
 ५-३। औशनम्॥ उशना विराड्गायत्र्यग्निः॥
@@ -465,13 +465,13 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/06_0006_tvaM_no/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/06_0006_tvaM_no/01.md">
 <details open><summary><h6>06_0006 त्वं नो - 01 ...{Loading}...</h6></summary>
 
 ६-१। सांवर्गम्॥ (संवर्गः) साकमश्वः गायत्र्यग्निः॥त्व꣥न्नो꣯या॥ ग्ने꣢꣯म꣡हो꣢꣯भिः। पा꣡꣯होइवी꣢ऽ३श्वा꣢। स्या꣡꣯अरा꣯तेः꣢꣯॥ उ꣡ताद्वा꣢ऽ१इषाऽ᳒२ः᳒॥ म꣡र्त्य꣢स्य। इ꣡डाऽ२३भा꣢ऽ३४३। ओ꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/06_0006_tvaM_no/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/06_0006_tvaM_no/02.md">
 <details open><summary><h6>06_0006 त्वं नो - 02 ...{Loading}...</h6></summary>
 
 ६-२। वार्त्रघ्नम्॥ साकमश्वः गायत्र्यग्निः॥
@@ -539,7 +539,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/07_0007_ehyU_Shu/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/07_0007_ehyU_Shu/01.md">
 <details open><summary><h6>07_0007 एह्यू षु - 01 ...{Loading}...</h6></summary>
 
 ७-१। शौनश्शेपम्॥ वत्सः गायत्र्यग्निः॥
@@ -547,7 +547,7 @@ title = "०१ आग्नेयं पर्व"
 ए꣥꣯ह्यू꣯षू꣢ऽ३ब्र꣤वा꣯णा꣥ऽ६इता꣥इ॥ अ꣡ग्नइत्थे꣯तरा꣯गाऽ᳒२᳒इराः꣡॥ ए꣢꣯भाऽ᳒२᳒इर्व꣡र्द्धा॥ स꣡याऽ२३हा꣢ऽ᳐३४३इ॥ दू꣡ऽ२३४भो꣥ऽ६"हा꣥इ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/07_0007_ehyU_Shu/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/07_0007_ehyU_Shu/02.md">
 <details open><summary><h6>07_0007 एह्यू षु - 02 ...{Loading}...</h6></summary>
 
 ७-२। शौनश्शेपम्॥ शौनश्शेपः गायत्र्यग्निः॥
@@ -615,7 +615,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/08_0008_A_te/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/08_0008_A_te/01.md">
 <details open><summary><h6>08_0008 आ ते - 01 ...{Loading}...</h6></summary>
 
 ८-१। वात्से द्वे॥ वत्सो गायत्र्यग्निः॥
@@ -623,7 +623,7 @@ title = "०१ आग्नेयं पर्व"
 आ꣥꣯ते꣯वत्साः॥ म꣡नो꣯य꣢मत्। प꣡रमा꣢꣯त्। चित्स꣡धाऽ२३स्था꣢त्॥ अ꣡ग्नाइ त्वा꣢᳐ऽ३ङ्का꣢᳐ऽ३॥ म꣤योवा꣥। गा꣤ऽ५इरोऽ६"हा꣥इ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/08_0008_A_te/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/08_0008_A_te/02.md">
 <details open><summary><h6>08_0008 आ ते - 02 ...{Loading}...</h6></summary>
 
 ८-२। काण्वम्॥ कण्वः गायत्र्यग्निः॥आ꣤꣯ते꣥꣯वत्सो꣤꣯मनो꣥꣯यमत्। ऐ꣤याहा꣥इ॥ प꣢रमा꣡꣯च्चित्सधस्था꣯दै꣯याऽ२३हो꣡इया॥ अग्ने꣯त्वां꣯का꣯मयऐ꣯याऽ२३हो꣡इया॥ गि꣢रा꣯। इ꣡डाऽ२३भा꣢ऽ३४३। ओ꣡ऽ२३४५इ॥ डा॥
@@ -693,7 +693,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/09_0009_tvAmagne_puShkarAdadhyatharvA/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/09_0009_tvAmagne_puShkarAdadhyatharvA/01.md">
 <details open><summary><h6>09_0009 त्वामग्ने पुष्करादध्यथर्वा - 01 ...{Loading}...</h6></summary>
 
 ९-१। अग्नेरार्षेयम्॥ अग्निः गायत्र्यग्निः॥
@@ -751,7 +751,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/10_0010_agne_vivasvadA/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/10_0010_agne_vivasvadA/01.md">
 <details open><summary><h6>10_0010 अग्ने विवस्वदा - 01 ...{Loading}...</h6></summary>
 
 १०-१। वाध्र्यश्वम्॥ (वध्र्यश्वोऽनूपो वा) वाध्र्यश्वः। गायत्र्यग्निः॥
@@ -822,7 +822,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/11_0011_namaste_agna/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/11_0011_namaste_agna/01.md">
 <details open><summary><h6>11_0011 नमस्ते अग्न - 01 ...{Loading}...</h6></summary>
 
 ११-१। सांवर्गम्॥ सांवर्गः। अग्निः गायत्र्यग्निः॥
@@ -890,7 +890,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/12_0012_dUtaM_vo/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/12_0012_dUtaM_vo/01.md">
 <details open><summary><h6>12_0012 दूतं वो - 01 ...{Loading}...</h6></summary>
 
 १२-१। वैश्वमनसम्॥ विश्वमनाः गायत्र्यग्निः॥
@@ -958,7 +958,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/13_0013_upa_tvA/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/13_0013_upa_tvA/01.md">
 <details open><summary><h6>13_0013 उप त्वा - 01 ...{Loading}...</h6></summary>
 
 १३-१। श्नाभम्॥ श्नाभो गायत्र्यग्निः॥
@@ -968,7 +968,7 @@ title = "०१ आग्नेयं पर्व"
 श्रुतिरेव गरीयसी
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/13_0013_upa_tvA/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/13_0013_upa_tvA/02.md">
 <details open><summary><h6>13_0013 उप त्वा - 02 ...{Loading}...</h6></summary>
 
 १३-२। श्नौष्टीयम्॥ श्नौष्टम्। श्नुष्टो गायत्र्यग्निः॥
@@ -1037,7 +1037,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/14_0014_upa_tvAgne/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/14_0014_upa_tvAgne/01.md">
 <details open><summary><h6>14_0014 उप त्वाग्ने - 01 ...{Loading}...</h6></summary>
 
 १४-१। वैश्वामित्रम्॥ विश्वामित्रो गायत्र्यग्निः॥
@@ -1106,7 +1106,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/15_0015_jarAbodha_tadviviDDhi/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/15_0015_jarAbodha_tadviviDDhi/01.md">
 <details open><summary><h6>15_0015 जराबोध तद्विविड्ढि - 01 ...{Loading}...</h6></summary>
 
 १५-१। जराबोधीये द्वे॥ द्वयोरग्निर्गायत्री रुद्रः॥
@@ -1114,7 +1114,7 @@ title = "०१ आग्नेयं पर्व"
 जा꣤रा꣥। बो꣡धाऽ᳒२᳒बो꣡धाऽ᳒२᳒। त꣡द्विविड्ढाइ॥ वि꣢शे꣯वा꣡इशेऽ᳒२᳒॥ य꣡ज्ञाऽ२३। या꣯या꣢᳐ऽ३४ औ꣥꣯हो꣯वा॥ स्तो꣡꣯मꣳरु꣢द्रा꣡꣯यदृ꣢शी꣯का꣡म्॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/15_0015_jarAbodha_tadviviDDhi/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/15_0015_jarAbodha_tadviviDDhi/02.md">
 <details open><summary><h6>15_0015 जराबोध तद्विविड्ढि - 02 ...{Loading}...</h6></summary>
 
 १५-२।ज꣥रा꣯बो꣯धो꣤वा꣥॥ ता꣡द्विवि꣢ड्ढा꣡इ। वि꣢शा꣡इवाऽ२᳐३इशे꣢। यज्ञिया꣡꣯या। स्तो꣯माꣳरु꣪द्राऽ२३"या꣤। दृ꣥। शी꣣꣯को꣢ऽ३४५इ॥ डा॥
@@ -1180,7 +1180,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/16_0016_prati_tyam/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/16_0016_prati_tyam/01.md">
 <details open><summary><h6>16_0016 प्रति त्यम् - 01 ...{Loading}...</h6></summary>
 
 १६-१। मारुतम्॥ मरुतो गायत्र्यग्निः॥
@@ -1249,7 +1249,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/17_0017_ashvaM_na/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/17_0017_ashvaM_na/01.md">
 <details open><summary><h6>17_0017 अश्वं न - 01 ...{Loading}...</h6></summary>
 
 १७-१। भार्गवे द्वे॥ वारवन्तीयम्। द्वयोः भृगुः शुनश्शेपो वा गायत्र्यग्निः॥
@@ -1257,7 +1257,7 @@ title = "०१ आग्नेयं पर्व"
 आ꣡श्वा꣢। औ꣣꣯होऽ२३४वा꣥। ना꣡त्वा꣢। औ꣣꣯होऽ२३४वा꣥॥ वा꣤꣯र꣥वन्तंवन्द꣤ध्या। आ꣡ग्ना꣢। औ꣣꣯होऽ२३४वा꣥॥ न꣤मो꣥꣯भिस्सम्रा꣤꣯ज꣥न्ता꣤म्॥ आ꣡ध्वरा꣢꣯णा꣡म्। औऽ२३हो꣤वा꣥। हो꣤ऽ५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/17_0017_ashvaM_na/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/17_0017_ashvaM_na/02.md">
 <details open><summary><h6>17_0017 अश्वं न - 02 ...{Loading}...</h6></summary>
 
 १७-२।
@@ -1265,7 +1265,7 @@ title = "०१ आग्नेयं पर्व"
 अ꣤श्व꣥न्न꣤त्वा꣥꣯वा꣤꣯र꣥वन्ता꣤म्॥ व꣢न्द꣡ध्या꣯अग्निन्नमो꣯भाइः। स꣢म्म्रा꣡꣯ज꣢। तमा꣡ध्वरा꣢ऽ३४। औ꣣꣯हो꣤꣯वा꣥॥ इ꣡हा꣣ऽ२३४हा꣥इ। औ꣣꣯हो꣢ऽ३१२᳐। या꣣ऽ२३४औ꣥꣯हो꣯वा॥ णा꣣ऽ२३꣡४꣡५꣡म्॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/17_0017_ashvaM_na/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/17_0017_ashvaM_na/03.md">
 <details open><summary><h6>17_0017 अश्वं न - 03 ...{Loading}...</h6></summary>
 
 १७-३।
@@ -1333,14 +1333,14 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/18_0018_aurvabhRguvachChuchimapnavAnavadA_huve/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/18_0018_aurvabhRguvachChuchimapnavAnavadA_huve/01.md">
 <details open><summary><h6>18_0018 और्वभृगुवच्छुचिमप्नवानवदा हुवे - 01 ...{Loading}...</h6></summary>
 
 १८-१। सामुद्रे द्वे॥ समुद्रस्य वासो वा। और्वः द्वयोरग्निः गायत्र्यग्निः॥  
 औ꣥꣯र्वभृगुव꣤त्। ओहाइ॥ शू꣣ऽ२३४ची꣥म्। आ꣡प्नवा꣢꣯न। वदाऽ᳒२᳒हु꣡वाऽ᳒२᳒इ। हु꣡व꣢ओ꣡इ॥ अग्नाऽ᳒२᳒इꣳस꣡मूऽ᳒२᳒॥ स꣡मु꣢ओ꣡। द्र꣢वा꣡ससा꣢ऽ३१उवाऽ२३꣡४꣡५꣡॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/18_0018_aurvabhRguvachChuchimapnavAnavadA_huve/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/18_0018_aurvabhRguvachChuchimapnavAnavadA_huve/02.md">
 <details open><summary><h6>18_0018 और्वभृगुवच्छुचिमप्नवानवदा हुवे - 02 ...{Loading}...</h6></summary>
 
 १८-२। (वैधारया ऋषिर्वा)
@@ -1408,7 +1408,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/19_0019_agnimindhAno_manasA/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/19_0019_agnimindhAno_manasA/01.md">
 <details open><summary><h6>19_0019 अग्निमिन्धानो मनसा - 01 ...{Loading}...</h6></summary>
 
 १९-१। असंगम्॥ आसंगः अत्रिः गायत्र्यग्निः॥
@@ -1476,7 +1476,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/20_0020_Aditpratnasya_retaso/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/20_0020_Aditpratnasya_retaso/01.md">
 <details open><summary><h6>20_0020 आदित्प्रत्नस्य रेतसो - 01 ...{Loading}...</h6></summary>
 
 २०-१। निधनकामम्॥ प्रजापतिर्गायत्र्यग्निः॥
@@ -1550,13 +1550,13 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/21_0021_agniM_vo/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/21_0021_agniM_vo/01.md">
 <details open><summary><h6>21_0021 अग्निं वो - 01 ...{Loading}...</h6></summary>
 
 २१-१। सैन्धुक्षितानि॥ त्रयाणां सिन्धुक्षिद्गायत्र्यग्निः॥ (स्वारं सैन्धुक्षितम्)।अ꣥ग्निंवो꣯वृधा꣤न्ता꣥म्॥ आ꣡ध्वरा꣢꣯णा꣯म्। पुरू꣡तामौ꣢꣯। हो꣯वाऽ३᳐हा꣢इ॥ आ꣡च्छाऽ᳒२᳒ना꣡प्त्रेऽ२३॥ स꣢हो꣡ऽ२३४वा꣥। स्वा꣤ऽ५तोऽ६"हा꣥इ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/21_0021_agniM_vo/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/21_0021_agniM_vo/02.md">
 <details open><summary><h6>21_0021 अग्निं वो - 02 ...{Loading}...</h6></summary>
 
 २१-२।
@@ -1564,7 +1564,7 @@ title = "०१ आग्नेयं पर्व"
 अ꣥ग्निंवाऽ६ए꣥॥ वृ꣢ध꣡न्ताम्। अध्वरा꣯णा꣯म्पुरू꣯तममच्छाऽ᳒२᳒होऽ१इ॥ नाऽ२३प्त्रे꣢। सहा꣡स्वाऽ२३४५ताऽ६५६इ॥ ई꣣ऽ२३४ती꣥॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/21_0021_agniM_vo/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/21_0021_agniM_vo/03.md">
 <details open><summary><h6>21_0021 अग्निं वो - 03 ...{Loading}...</h6></summary>
 
 २१-३। ऐडं सैंधुक्षितम्॥
@@ -1632,7 +1632,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/22_0022_agnistigmena_shochiShA/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/22_0022_agnistigmena_shochiShA/01.md">
 <details open><summary><h6>22_0022 अग्निस्तिग्मेन शोचिषा - 01 ...{Loading}...</h6></summary>
 
 २२-१। हरसी द्वे॥ द्वयोरग्निर्गायत्र्यग्निः॥
@@ -1640,7 +1640,7 @@ title = "०१ आग्नेयं पर्व"
 आ꣡ग्ना꣢᳐ओ꣣ऽ२३४वा꣥॥ ति꣢ग्मे꣯नऽ३᳐शो꣡। चाइषा꣢᳐ओ꣣ऽ२३४वा꣥॥ याꣳ꣡सा꣢᳐ओ꣣ऽ२३४वा꣥॥ वा꣡इश्वान्निया। त्राइणा꣢᳐ओ꣣ऽ२३४वा꣥॥ अ꣢ग्नि꣡र्नो꣰꣯ऽ२वꣳसते꣯र꣣यी꣢ऽ१म्॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/22_0022_agnistigmena_shochiShA/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/22_0022_agnistigmena_shochiShA/02.md">
 <details open><summary><h6>22_0022 अग्निस्तिग्मेन शोचिषा - 02 ...{Loading}...</h6></summary>
 
 २२-२।
@@ -1648,7 +1648,7 @@ title = "०१ आग्नेयं पर्व"
 ओ꣤हा꣥। ओ꣤ग्नीः꣥॥ ता꣣ऽ२३४इग्मे꣥। ना꣢शो᳐चा꣣ऽ२३४इषा꣥। यꣳ꣡साऽ२᳐द्वा꣣ऽ२३४इश्वा꣥म्। नि꣢यत्रा꣣ऽ२३४इणा꣥म्॥ अ꣢ग्नि꣡र्नो꣰꣯ऽ२᳐। वꣳ꣡साऽ२᳐ता꣣ऽ२३४औ꣥꣯हो꣯वा॥ रा꣣ऽ२३४यी꣥म्॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/22_0022_agnistigmena_shochiShA/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/22_0022_agnistigmena_shochiShA/03.md">
 <details open><summary><h6>22_0022 अग्निस्तिग्मेन शोचिषा - 03 ...{Loading}...</h6></summary>
 
 २२-३। इहवद्वामदेव्यम्॥ वामदेवो गायत्र्यग्निः॥अ꣥ग्नि꣤स्ति꣥ग्मे꣤꣯न꣥शो꣯चि꣤षा꣥꣯। इ꣤हा॥ यꣳ꣡सद्विश्वन्यत्रिणाऽ᳒२᳒म्। इ꣡हा꣢॥ अग्नि꣡र्नो꣯वꣳसताऽ᳒२᳒इ। इ꣡हा꣢ऽ३॥ रा꣡ऽ२३४यो꣥ऽ६"हा꣥इ॥
@@ -1714,7 +1714,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/23_0023_agne_mRDa/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/23_0023_agne_mRDa/01.md">
 <details open><summary><h6>23_0023 अग्ने मृड - 01 ...{Loading}...</h6></summary>
 
 २३-१। यामम्॥ यमो गायत्र्यग्निः॥
@@ -1722,7 +1722,7 @@ title = "०१ आग्नेयं पर्व"
 अ꣡ग्नाइमृ꣪डाऽ२᳐। म꣣हाꣳ꣢आ꣣ऽ२३४सी꣥॥ अ꣡यआ꣯दाऽ२᳐इ। व꣣यु꣢ञ्जा꣣ऽ२३४ना꣥म्॥ इ꣡ये꣯थबाऽ२३॥ हिरा꣢ऽ३सा꣤ऽ५"दाऽ६५६म्॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/23_0023_agne_mRDa/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/23_0023_agne_mRDa/02.md">
 <details open><summary><h6>23_0023 अग्ने मृड - 02 ...{Loading}...</h6></summary>
 
 २३-२। उत्तरयामम्॥ यमो गायत्र्यग्निः॥
@@ -1791,7 +1791,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/24_0024_agne_raxA/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/24_0024_agne_raxA/01.md">
 <details open><summary><h6>24_0024 अग्ने रक्षा - 01 ...{Loading}...</h6></summary>
 
 २४-१। राक्षोघ्नम्॥ अग्निर्गायत्र्यग्निः॥
@@ -1859,7 +1859,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/25_0025_agne_yunxvA/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/25_0025_agne_yunxvA/01.md">
 <details open><summary><h6>25_0025 अग्ने युङ्क्ष्वा - 01 ...{Loading}...</h6></summary>
 
 २५-१। राक्षोघ्नम्॥ अग्निर्गायत्र्यग्निः॥
@@ -1927,7 +1927,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/26_0026_ni_tvA/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/26_0026_ni_tvA/01.md">
 <details open><summary><h6>26_0026 नि त्वा - 01 ...{Loading}...</h6></summary>
 
 २६-१। वैश्वमनसम्॥ विश्वमना गायत्र्यग्निः॥नि꣥त्वा꣯। हो꣢ऽ३इ। न꣤। क्षिया꣥॥ वा꣡इश्प꣢ता꣡इ। द्यु꣢म꣡न्त꣢म्। धा꣡इ। माहे꣢वा꣣ऽ२३४या꣥म्॥ सुवो꣤हाइ॥ रा꣢꣯म꣡ग्ना꣢꣯ओ꣡ऽ२३४वा꣥। हो꣤ऽ५तोऽ६"हा꣥इ॥
@@ -1994,7 +1994,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/27_0027_agnirmUrdhA_divaH/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/27_0027_agnirmUrdhA_divaH/01.md">
 <details open><summary><h6>27_0027 अग्निर्मूर्धा दिवः - 01 ...{Loading}...</h6></summary>
 
 २७-१। अग्नेः आर्षेयम्॥ अग्निर्गायत्र्यग्निः॥
@@ -2062,7 +2062,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/28_0028_imamU_Shu/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/28_0028_imamU_Shu/01.md">
 <details open><summary><h6>28_0028 इममू षु - 01 ...{Loading}...</h6></summary>
 
 २८-१। सोमसाम॥ सोमो गायत्र्यग्निः॥
@@ -2130,7 +2130,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/29_0029_taM_tvA/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/29_0029_taM_tvA/01.md">
 <details open><summary><h6>29_0029 तं त्वा - 01 ...{Loading}...</h6></summary>
 
 २९-१। गौपवनम्॥ गोपवनो गायत्र्यग्निः॥
@@ -2199,7 +2199,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/30_0030_pari_vAjapatiH/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/30_0030_pari_vAjapatiH/01.md">
 <details open><summary><h6>30_0030 परि वाजपतिः - 01 ...{Loading}...</h6></summary>
 
 ३०-१। सौर्यम्॥ सूर्यवर्च्चा वा वसुरोचिर्वा गायत्र्यग्निः॥
@@ -2268,7 +2268,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/31_0031_udu_tyam/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/31_0031_udu_tyam/01.md">
 <details open><summary><h6>31_0031 उदु त्यम् - 01 ...{Loading}...</h6></summary>
 
 ३१-१। सौर्यम्॥ सूर्यो गायत्री सूर्यः॥उ꣤दु꣥त्य꣤म्। ओहाइ॥ जा꣡। त꣪वेऽ२᳐दा꣣ऽ२३४सा꣥म्। दे꣢꣯वं꣡वहा। तीके꣢ता꣣ऽ२३४वाः꣥॥ दा꣡ऽ२३४र्शे꣯हा꣥इ॥ वा꣡इश्वा꣢꣯यसू꣡꣯। र्याम्। औऽ२३हो꣤वा꣥। हो꣤ऽ५इ॥ डा॥
@@ -2334,7 +2334,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/32_0032_kavimagnimupa_stuhi/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/32_0032_kavimagnimupa_stuhi/01.md">
 <details open><summary><h6>32_0032 कविमग्निमुप स्तुहि - 01 ...{Loading}...</h6></summary>
 
 ३२-१। कावम्॥ कविर्वसुरोचिर्गायत्र्यग्निः॥
@@ -2403,7 +2403,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/33_0033_shaM_no/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/33_0033_shaM_no/01.md">
 <details open><summary><h6>33_0033 शं नो - 01 ...{Loading}...</h6></summary>
 
 ३३-१। काशीतम्॥ कापीतं वा सुमन्दं वा। पारावतो (पारावतिर्वा) गायत्र्यग्निः॥
@@ -2411,7 +2411,7 @@ title = "०१ आग्नेयं पर्व"
 श꣥न्नो꣯दे꣯वीः॥ अ꣢भि꣡ष्टाऽ२३या꣢ऽ३४इ॥ श꣥न्नो꣯भवा॥ तु꣢पी꣡꣯ताऽ२३या꣢ऽ᳐३४इ॥ शं꣥यो꣯रभी॥ स्र꣢व꣡। तूऽ२᳐। ना꣣ऽ२३४। औ꣥꣯हो꣯वा॥ ऊ꣣ऽ२३४पा꣥॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/33_0033_shaM_no/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/33_0033_shaM_no/02.md">
 <details open><summary><h6>33_0033 शं नो - 02 ...{Loading}...</h6></summary>
 
 ३३-२। काशीतोत्तरम्॥ पारावतो गायत्र्यग्निः॥
@@ -2479,7 +2479,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/34_0034_kasya_nUnam/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/34_0034_kasya_nUnam/01.md">
 <details open><summary><h6>34_0034 कस्य नूनम् - 01 ...{Loading}...</h6></summary>
 
 ३४-१। मनाज्ये द्वे॥ द्वयोर्गोतमो (गोराङ्गिरसो वा) गायत्र्यग्निः॥
@@ -2487,7 +2487,7 @@ title = "०१ आग्नेयं पर्व"
 क꣡स्यानू꣢ऽ१नाऽ२᳐म्। प꣣री꣢णा꣣ऽ२३४सी꣥॥ धि꣡यो꣯जिन्वाऽ२᳐। सि꣣स꣢त्पा꣣ऽ२३४ता꣥इ। गो꣡षा꣢꣯ता꣯या꣡ऽ२३॥ स्या꣡ऽ२᳐ता꣣ऽ२३४औ꣥꣯हो꣯वा॥ उ꣢प्‌᳐। गी꣣ऽ२३४राः꣥॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/34_0034_kasya_nUnam/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/34_0034_kasya_nUnam/02.md">
 <details open><summary><h6>34_0034 कस्य नूनम् - 02 ...{Loading}...</h6></summary>
 
 ३४-२। गौराङ्गिरसस्य साम॥ गौतमस्य मनाज्यं वा मनाज्योत्तरं वा॥ओ꣢꣯हो꣯इहुऽ३᳐वा꣡ऽ२३इ। हु꣢व꣣ए꣢। कस्यनू꣯नांऽ३᳐पा꣤ऽ३री꣢꣯ण꣣सि꣥॥ ओ꣢꣯हो꣯इहुऽ३᳐वा꣡ऽ२३इ। हु꣢व꣣ए꣢। धियो꣯जिन्वाऽ३᳐सी꣤ऽ३स꣢त्प꣣ता꣥इ॥ ओ꣢꣯हो꣯इहुऽ३᳐वा꣡ऽ२३इ। हु꣢व꣣ए꣢। गो꣯षा꣯ता꣯य॥ स्य꣣ता꣢ऽ३इगा꣤ऽ५"इराऽ६५६ः॥
@@ -2556,7 +2556,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/35_0035_yajnAyajnA_vo/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/35_0035_yajnAyajnA_vo/01.md">
 <details open><summary><h6>35_0035 यज्ञायज्ञा वो - 01 ...{Loading}...</h6></summary>
 
 ३५-१। उपहवौ द्वौ॥ द्वयोर्भरद्वाजो बृहत्यग्निः॥
@@ -2564,7 +2564,7 @@ title = "०१ आग्नेयं पर्व"
 य꣥ज्ञा꣯यज्ञा॥ वो꣢꣯अग्नयाऽ३᳐इ। गि꣡राऽ२᳐गि꣣रा꣢ऽ३᳐४। हा꣣꣯हो꣢ऽ३᳐इ। चा꣡द꣢क्षा꣣ऽ२३४सा꣥इ। प्र꣡प्रा꣰꣯ऽ२वय꣡ममृतंजा꣢꣯। ता꣡वे꣢ऽ१दासाऽ᳒२᳒म्॥ प्रिय꣡म्मित्राम्। न꣢शꣳ꣡सिषाम्॥ ए꣣꣯हिया꣢। औ꣣꣯हौ꣯होऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/35_0035_yajnAyajnA_vo/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/35_0035_yajnAyajnA_vo/02.md">
 <details open><summary><h6>35_0035 यज्ञायज्ञा वो - 02 ...{Loading}...</h6></summary>
 
 ३५-२।
@@ -2572,7 +2572,7 @@ title = "०१ आग्नेयं पर्व"
 य꣤ज्ञा꣣꣯य꣤ज्ञा꣥꣯। हो꣢इ। वोऽ३᳐ग्न꣢य꣣ए꣢ऽ३४। हि꣥या॥ गि꣣रा꣯गि꣢रा꣡। चाऽ२᳐द꣣क्ष꣢सा꣡इ। प्र꣢प्रा꣣꣯व꣢या꣡म्। अ꣢मृ꣡तंजा꣢ऽ३᳐। त꣡वेऽ२᳐दा꣣ऽ२३४सा꣥म्॥ प्रि꣢य꣡म्मित्राम्। न꣢शꣳ꣡सिषाम्॥ ए꣣꣯हिया꣢। औ꣣꣯होऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/35_0035_yajnAyajnA_vo/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/35_0035_yajnAyajnA_vo/03.md">
 <details open><summary><h6>35_0035 यज्ञायज्ञा वो - 03 ...{Loading}...</h6></summary>
 
 ३५-३। श्नौष्टीगवम्॥ श्नुष्टीगुर्बृहत्यग्निः॥
@@ -2580,7 +2580,7 @@ title = "०१ आग्नेयं पर्व"
 या꣡ज्ञा꣯याज्ञाऽ᳒२᳒। वो꣡अग्नायाऽ᳒२᳒इ॥ गा꣡इरा꣯गाइराऽ᳒२᳒। चा꣡द꣪क्षासाऽ᳒२᳒इ। प्र꣡प्रावायाऽ᳒२᳒म्। अमृ꣡तंजा꣢ऽ३᳐। त꣡वेऽ२᳐दा꣣ऽ२३४सा꣥म्॥ प्रा꣡यम्माइत्राऽ᳒२᳒म्॥ ना꣡श꣪ꣳसाऽ२३इषा꣢ऽ᳐३४३म्। ओ꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/35_0035_yajnAyajnA_vo/04.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/35_0035_yajnAyajnA_vo/04.md">
 <details open><summary><h6>35_0035 यज्ञायज्ञा वो - 04 ...{Loading}...</h6></summary>
 
 ३५-४। यज्ञायज्ञीयम्॥ (भरद्वाजः) अग्निर्वैश्वानरो बृहत्यग्निः॥
@@ -2648,7 +2648,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/36_0036_pAhino_agna/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/36_0036_pAhino_agna/01.md">
 <details open><summary><h6>36_0036 पाहिनो अग्न - 01 ...{Loading}...</h6></summary>
 
 ३६-१। कार्त्तयशम्॥ कृतयशाः बृहत्यग्निः॥
@@ -2656,7 +2656,7 @@ title = "०१ आग्नेयं पर्व"
 पा꣥꣯हिनो꣢᳐ऽ३अ꣤ग्न꣥ए꣤꣯कया꣥॥ पा꣡हियु꣢त। द्विता꣡या꣢ऽ१याऽ᳒२᳒। पा꣡हिगी꣢꣯र्भिस्तिसृभिः। ऊ꣯र्जा꣡म्पा꣢ऽ१ताऽ᳒२᳒इ॥ पा꣡हिच꣢तौ꣭ऽ३। हो꣢᳐ऽ३वा꣢॥ सृभि꣡र्वाऽ२३सा꣢ऽ३४३उ। ओ꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/36_0036_pAhino_agna/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/36_0036_pAhino_agna/02.md">
 <details open><summary><h6>36_0036 पाहिनो अग्न - 02 ...{Loading}...</h6></summary>
 
 ३६-२। नार्मेधम्॥ नृमेधा (भरद्वाजः) बृहत्यग्निः॥
@@ -2664,7 +2664,7 @@ title = "०१ आग्नेयं पर्व"
 पा꣥꣯हिनो꣯अग्नए꣯कयाऽ६ए꣥॥ पा꣢꣯। हो꣡इ। उ꣢। ता꣡। द्वि꣢ता꣡या꣢ऽ३᳐या꣢। पा꣡꣯होऽ२᳐इगा꣣ऽ२३४इर्भीः꣥। ता꣡इसृभिः꣢॥ ऊ꣯र्जा꣡म्पाता꣢। औ꣣꣯हौ꣯होऽ२३४वा꣥। पा꣡ऽ२३४हिहा꣥इ॥ च꣢ता꣡सृभा꣢। औ꣣꣯हौ꣯होऽ२३४वा꣥॥ वा꣡ऽ२३४साउ। ए꣥꣯हियाऽ६हा꣥। हो꣤ऽ५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/36_0036_pAhino_agna/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/36_0036_pAhino_agna/03.md">
 <details open><summary><h6>36_0036 पाहिनो अग्न - 03 ...{Loading}...</h6></summary>
 
 ३६-३। कार्त्तवेशम्॥ कृतवेशो (भरद्वाजः) बृहत्यग्निः॥
@@ -2722,7 +2722,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/37_0037_bRhadbhiragne_archibhiH/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/37_0037_bRhadbhiragne_archibhiH/01.md">
 <details open><summary><h6>37_0037 बृहद्भिरग्ने अर्चिभिः - 01 ...{Loading}...</h6></summary>
 
 ३७-१। पृश्नि॥ भरद्वाजो बृहत्यग्निः॥
@@ -2730,7 +2730,7 @@ title = "०१ आग्नेयं पर्व"
 बृ꣢हा꣡द्भीऽ२३र꣤ग्ने꣯अर्चिभिर्हा꣥उ॥ शु꣢क्रा꣡इणदे꣢꣯वशो꣯चि꣡षा꣢꣯। भ꣡राद्वा꣢ऽ१जेऽ२३। हो꣡वा꣢ऽ३᳐हा꣢इ। स꣡मिधा꣢꣯नः। या꣡वि꣪ष्ठियाऽ२३। हो꣡वा꣢ऽ३᳐हा꣢इ॥ रे꣯वा꣡त्पा꣢ऽ१वाऽ२३। हो꣡वा꣢ऽ३᳐हा꣢इ॥ का꣡दी꣯दि꣢हि। इ꣡डाऽ२३भा꣢ऽ३४३। ओ꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/37_0037_bRhadbhiragne_archibhiH/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/37_0037_bRhadbhiragne_archibhiH/02.md">
 <details open><summary><h6>37_0037 बृहद्भिरग्ने अर्चिभिः - 02 ...{Loading}...</h6></summary>
 
 ३७-२। पृश्नि॥ भरद्वाजो बृहत्यग्निः॥
@@ -2798,7 +2798,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/38_0038_tve_agne/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/38_0038_tve_agne/01.md">
 <details open><summary><h6>38_0038 त्वे अग्ने - 01 ...{Loading}...</h6></summary>
 
 ३८-१। उरोराङ्गिरसस्य साम॥ उरुर्बृहत्यग्निः॥
@@ -2866,7 +2866,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/39_0039_agne_jaritarvishpatistapAno/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/39_0039_agne_jaritarvishpatistapAno/01.md">
 <details open><summary><h6>39_0039 अग्ने जरितर्विश्पतिस्तपानो - 01 ...{Loading}...</h6></summary>
 
 ३९-१। पौरुमद्गे द्वे॥ द्वयोर्गोतमो बृहत्यग्निः॥
@@ -2874,7 +2874,7 @@ title = "०१ आग्नेयं पर्व"
 अ꣤ग्ने꣥꣯ज꣤रि꣥तर्विश्प꣤तिः꣥। औ꣯हो꣤वा। एहि꣥या꣯। हाउ॥ त꣢पा꣯नो꣡꣯दे꣰꣯ऽ२वरक्ष꣡सः꣢। अ꣡प्रोषा꣢ऽ१इवाऽ᳒२᳒न्। गा꣡र्हपता꣢ऽ३इ। मा꣡हा꣢ऽꣳआ꣣ऽ२३४सी꣥॥ दि꣡वाः। पायौ꣢वाओ꣣ऽ२३४वा꣥॥ हा꣢ऽ३᳐हा꣢इ। दु꣤रोऽ५णयूः। हो꣤ऽ५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/39_0039_agne_jaritarvishpatistapAno/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/39_0039_agne_jaritarvishpatistapAno/02.md">
 <details open><summary><h6>39_0039 अग्ने जरितर्विश्पतिस्तपानो - 02 ...{Loading}...</h6></summary>
 
 ३९-२।
@@ -2942,7 +2942,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/40_0040_agne_vivasvaduShasashchitram/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/40_0040_agne_vivasvaduShasashchitram/01.md">
 <details open><summary><h6>40_0040 अग्ने विवस्वदुषसश्चित्रम् - 01 ...{Loading}...</h6></summary>
 
 ४०-१। माण्डवे द्वे॥ जमदग्निः द्वयोर्मण्डुर्बृहत्यग्निः॥
@@ -2950,7 +2950,7 @@ title = "०१ आग्नेयं पर्व"
 अ꣥ग्ने꣯विवा꣯हाउ॥ स्वा꣢ऽ३दू꣡षा꣢ऽ३साः꣢। चा꣡इत्रा꣢ऽ३ꣳ᳐हा꣢इ। रा꣡धो꣢ऽ३हा꣢ऽ३᳐इ। अ꣡माऽ२᳐र्ता꣣ऽ२३४या꣥। आ꣡दा꣢ऽ१शुषेऽ᳒२᳒। जा꣡तवे꣢꣯दः। वहा꣡तू꣢ऽ१वाऽ᳒२᳒म्॥ अद्या꣡꣯होइ। दाऽ२३इवाꣳ꣢॥ उषः꣡। बूऽ२᳐धा꣣ऽ२३४औ꣥꣯हो꣯वा॥ हु꣢वे꣯व꣡सू꣣ऽ२३꣡४꣡५꣡॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/40_0040_agne_vivasvaduShasashchitram/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/40_0040_agne_vivasvaduShasashchitram/02.md">
 <details open><summary><h6>40_0040 अग्ने विवस्वदुषसश्चित्रम् - 02 ...{Loading}...</h6></summary>
 
 ४०-२। विदावसुनिधनम्। माण्डवम्॥
@@ -3014,7 +3014,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/41_0041_tvaM_nashchitra/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/41_0041_tvaM_nashchitra/01.md">
 <details open><summary><h6>41_0041 त्वं नश्चित्र - 01 ...{Loading}...</h6></summary>
 
 ४१-१। गाथम्॥ भरद्वाजो बृहत्यग्निः॥
@@ -3086,7 +3086,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/42_0042_tvamitsaprathA_asyagne/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/42_0042_tvamitsaprathA_asyagne/01.md">
 <details open><summary><h6>42_0042 त्वमित्सप्रथा अस्यग्ने - 01 ...{Loading}...</h6></summary>
 
 ४२-१। उभयत स्तोभम् गौतमम्॥ गोतमो बृहत्यग्निः॥
@@ -3094,7 +3094,7 @@ title = "०१ आग्नेयं पर्व"
 हा꣥꣯उत्वमित्सप्रथा꣯असिहाउ॥ आ꣡ग्ने꣯त्रा꣢꣯तः। ऋताᳲ꣡क꣪वाऽ२३४इः। हा꣣꣯हो꣢इ। त्वां꣡꣯विप्रा꣢꣯सस्स꣡मिधा꣢꣯। ना꣡दी꣯दिवा꣢ऽ३४ः। हा꣣꣯हो꣢इ॥ आ꣡विवासा꣢ऽ३४। हा꣣꣯हो꣢ऽ३॥ ति꣢वो꣡ऽ२३४वा꣥। धा꣤ऽ५सोऽ६"हा꣥इ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/42_0042_tvamitsaprathA_asyagne/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/42_0042_tvamitsaprathA_asyagne/02.md">
 <details open><summary><h6>42_0042 त्वमित्सप्रथा अस्यग्ने - 02 ...{Loading}...</h6></summary>
 
 ४२-२। गौतमम्॥ गोतमो बृहत्यग्निः॥
@@ -3162,7 +3162,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/43_0043_A_no/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/43_0043_A_no/01.md">
 <details open><summary><h6>43_0043 आ नो - 01 ...{Loading}...</h6></summary>
 
 ४३-१। आयुस्साम॥ अग्निर्बृहत्यग्निः॥
@@ -3226,13 +3226,13 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/44_0044_yo_vishvA/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/44_0044_yo_vishvA/01.md">
 <details open><summary><h6>44_0044 यो विश्वा - 01 ...{Loading}...</h6></summary>
 
 ४४-१। हरसी द्वे॥ द्वयोरग्निर्बृहत्यग्निः॥यो꣥꣯विश्वा꣢ऽ३दा꣤य꣥ते꣤꣯वसू꣥॥ हो꣡ताऽ᳒२᳒मा꣡न्द्रोऽ᳒२᳒। ज꣡ना꣯ना꣯म्। माधोऽ᳒२᳒र्ना꣡पाऽ᳒२᳒। त्रा꣡꣯प्रथमा꣯न्यस्मै꣯॥ प्रास्तोऽ᳒२᳒मा꣡याऽ२३। तु꣢वो꣡ऽ२३४वा꣥। ग्ना꣤ऽ५योऽ६"हा꣥इ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/44_0044_yo_vishvA/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/44_0044_yo_vishvA/02.md">
 <details open><summary><h6>44_0044 यो विश्वा - 02 ...{Loading}...</h6></summary>
 
 ४४-२।
@@ -3240,7 +3240,7 @@ title = "०१ आग्नेयं पर्व"
 यो꣥꣯विश्वा꣯दयते꣯वसुहाउ॥ हो꣡ताऽ᳒२᳒मा꣡न्द्रोऽ᳒२᳒। ज꣡ना꣯ना꣯म्। ओवा꣢। ओ꣡वा꣢। मा꣡धोऽ᳒२᳒र्ना꣡पाऽ᳒२᳒। त्रा꣡꣯प्रथमा꣯न्यस्मै꣯। ओवा꣢। ओ꣡वा꣢॥ प्रा꣡स्तोऽ᳒२᳒मा꣡याऽ२३। तु꣢वो꣡ऽ२३४वा꣥। ग्ना꣤ऽ५योऽ६"हा꣥इ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/44_0044_yo_vishvA/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/44_0044_yo_vishvA/03.md">
 <details open><summary><h6>44_0044 यो विश्वा - 03 ...{Loading}...</h6></summary>
 
 ४४-३। दैर्घश्रवसे द्वे॥ द्वयोर्दीर्घश्रवा बृहत्यग्निः॥
@@ -3248,7 +3248,7 @@ title = "०१ आग्नेयं पर्व"
 यो꣥꣯विश्वा꣯दयते꣯वस्वो꣯हा꣯ओ꣯हाऽ६ए꣥॥ हो꣡꣯ता꣰꣯ऽ२मन्द्रो꣡꣯जना꣰꣯ऽ२ना꣯म्। ओ꣭ऽ३हा꣢। ओ꣭ऽ३हा꣢ऽ३᳐ए꣢ऽ३४॥ म꣣धो꣢ऽ३᳐४र्न꣣पा꣢॥ त्रा꣡प्रथ꣢। मा꣯ना꣡यस्मा꣢इ। ओ꣭ऽ३हा꣢। ओ꣭ऽ३हा꣢ऽ३᳐ए꣢ऽ३४॥ प्र꣣स्तो꣢ऽ३४मा꣣꣯या꣢ऽ३॥ तु꣢वो꣡ऽ२३४वा꣥। ग्ना꣤ऽ५योऽ६"हा꣥इ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/44_0044_yo_vishvA/04.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/44_0044_yo_vishvA/04.md">
 <details open><summary><h6>44_0044 यो विश्वा - 04 ...{Loading}...</h6></summary>
 
 ४४-४।
@@ -3319,7 +3319,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/45_0045_enA_vo/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/45_0045_enA_vo/01.md">
 <details open><summary><h6>45_0045 एना वो - 01 ...{Loading}...</h6></summary>
 
 ४५-१। आग्नेये द्वे॥ द्वयोरग्निर्बृहत्यग्निः॥
@@ -3327,7 +3327,7 @@ title = "०१ आग्नेयं पर्व"
 ए꣥꣯ना꣯वो꣯अग्निन्ना꣤मसा꣥॥ ऊ꣡र्जो꣯न꣢पा꣯। ता꣡मा꣢ऽ१हुवेऽ᳒२᳒। प्रा꣡यञ्चे꣢꣯तिष्ठमरतिम्। सुवा꣡ध्वा꣢ऽ१राऽ᳒२᳒म्॥ विश्वा꣡स्या꣢ऽ१दूऽ᳒२᳒॥ ता꣡ममृ꣢तम्। इ꣡डाऽ२३भा꣢ऽ३४३। ओ꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/45_0045_enA_vo/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/45_0045_enA_vo/02.md">
 <details open><summary><h6>45_0045 एना वो - 02 ...{Loading}...</h6></summary>
 
 ४५-२।
@@ -3335,7 +3335,7 @@ title = "०१ आग्नेयं पर्व"
 ए꣥꣯ना꣯वो꣯अग्निन्नमसा꣯हाउ॥ ऊ꣡र्जो꣯न꣢पा꣯। ता꣡मा꣢ऽ१हुवेऽ२३। हा꣢उ। प्रा꣡यञ्चे꣢꣯तिष्ठमरतिम्। सुवा꣡ध्वा꣢ऽ१राऽ२३म्। हा꣢उ॥ विश्वा꣡स्या꣢ऽ१दूऽ२३। हा꣢उ॥ ता꣡ममृ꣢तम्। इ꣡डाऽ२३भा꣢ऽ३४३। ओ꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/45_0045_enA_vo/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/45_0045_enA_vo/03.md">
 <details open><summary><h6>45_0045 एना वो - 03 ...{Loading}...</h6></summary>
 
 ४५-३। मनाज्ये द्वे॥ द्वयोर्गोतमो बृहत्यग्निः॥
@@ -3343,7 +3343,7 @@ title = "०१ आग्नेयं पर्व"
 ए꣥꣯ना꣤꣯वो꣥꣯अग्नि꣤मेऽ५न꣤म꣥सा꣤॥ ऊ꣢꣯र्जो꣡꣯नपा꣢꣯तमा꣡꣯हु꣢वे꣯। प्रा꣡ऽ२३या꣢म्। चा꣡इतिष्ठ꣢म्। आ꣡रति꣢म्। सुवा꣡ध्वा꣢ऽ१राऽ᳒२᳒म्॥ विश्वा꣡स्या꣢ऽ१दूऽ᳒२᳒॥ ता꣡ममृ꣢तम्। इ꣡डाऽ२३भा꣢ऽ३४३। ओ꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/45_0045_enA_vo/04.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/45_0045_enA_vo/04.md">
 <details open><summary><h6>45_0045 एना वो - 04 ...{Loading}...</h6></summary>
 
 ४५-४।
@@ -3411,7 +3411,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/46_0046_sheShe_vaneShu/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/46_0046_sheShe_vaneShu/01.md">
 <details open><summary><h6>46_0046 शेषे वनेषु - 01 ...{Loading}...</h6></summary>
 
 ४६-१। दैवराजम्॥ देवराड् (गौतमः) बृहत्यग्निः॥
@@ -3479,7 +3479,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/47_0047_adarshi_gAtuvittamo/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/47_0047_adarshi_gAtuvittamo/01.md">
 <details open><summary><h6>47_0047 अदर्शि गातुवित्तमो - 01 ...{Loading}...</h6></summary>
 
 ४७-१। गाथिनस्साम॥ कौशिको गाथिः बृहत्यग्निः॥
@@ -3547,7 +3547,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/48_0048_agnirukthe_purohito/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/48_0048_agnirukthe_purohito/01.md">
 <details open><summary><h6>48_0048 अग्निरुक्थे पुरोहितो - 01 ...{Loading}...</h6></summary>
 
 ४८-१। बार्हदुक्थे द्वे॥ द्वयोर्बृहदुक्थो बृहत्यग्निः॥
@@ -3555,7 +3555,7 @@ title = "०१ आग्नेयं पर्व"
 अ꣥ग्निरुक्थाइ॥ पु꣣रो꣢ऽ३हा꣤इताः꣥। ग्रा꣢꣯वा꣡꣯णो꣢꣯ब꣡। हि꣣रा꣢ऽ३ध्वा꣤रा꣥इ। ऋ꣢चा꣡꣯या꣯मिमरुतो꣯ब्रह्माण꣪स्पाताऽ᳒२᳒इ॥ दा꣡इवाऽ᳒२᳒आ꣡वाऽ२३ः॥ व꣢रो꣡ऽ२३४वा꣥। णा꣤ऽ५योऽ६"हा꣥इ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/48_0048_agnirukthe_purohito/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/48_0048_agnirukthe_purohito/02.md">
 <details open><summary><h6>48_0048 अग्निरुक्थे पुरोहितो - 02 ...{Loading}...</h6></summary>
 
 ४८-२।
@@ -3623,7 +3623,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/49_0049_agnimIDiShvAvase_gAthAbhiH/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/49_0049_agnimIDiShvAvase_gAthAbhiH/01.md">
 <details open><summary><h6>49_0049 अग्निमीडिष्वावसे गाथाभिः - 01 ...{Loading}...</h6></summary>
 
 ४९-१। पौरुमीढम्॥ पुरुमीढो बृहत्यग्निः॥
@@ -3691,7 +3691,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/50_0050_shrudhi_shrutkarNa/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/50_0050_shrudhi_shrutkarNa/01.md">
 <details open><summary><h6>50_0050 श्रुधि श्रुत्कर्ण - 01 ...{Loading}...</h6></summary>
 
 ५०-१। कार्णश्रवसम्॥ प्रास्कण्वं वा। कर्णश्रवा बृहत्यग्निः॥
@@ -3759,7 +3759,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/51_0051_pra_daivodAso/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/51_0051_pra_daivodAso/01.md">
 <details open><summary><h6>51_0051 प्र दैवोदासो - 01 ...{Loading}...</h6></summary>
 
 ५१-१। दैवोदासम्॥ दिवोदासो बृहत्यग्निः॥
@@ -3827,7 +3827,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/52_0052_adha_jmo/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/52_0052_adha_jmo/01.md">
 <details open><summary><h6>52_0052 अध ज्मो - 01 ...{Loading}...</h6></summary>
 
 ५२-१। सौक्रतवम्॥ सुक्रतुर्बृहत्यग्निः॥
@@ -3909,7 +3909,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/53_0053_kAyamAno_vanA/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/53_0053_kAyamAno_vanA/01.md">
 <details open><summary><h6>53_0053 कायमानो वना - 01 ...{Loading}...</h6></summary>
 
 ५३-१। काण्वे द्वे॥ द्वयोः कण्वो बृहत्यग्निः॥
@@ -3917,7 +3917,7 @@ title = "०१ आग्नेयं पर्व"
 का꣤꣯यमा꣯नोऽ५वना꣯तु꣤वाम्॥ य꣢न्मा꣡꣯तॄ꣢꣯रा꣡। जाग꣢न्ना꣣ऽ२३४पाः꣥। न꣢तत्ते꣯अग्नेऽ३᳐। प्र꣡मृषे꣢ऽ३हा꣢ऽ३इ। नि꣡वाऽ२᳐र्ता꣣ऽ२३४ना꣥म्॥ य꣢द्दू꣡꣯राऽ२३इसा꣢न्॥ इ꣣हा꣯भु꣢वा꣡। औ꣢ऽ३हो꣤वा꣥। हो꣤ऽ५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/53_0053_kAyamAno_vanA/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/53_0053_kAyamAno_vanA/02.md">
 <details open><summary><h6>53_0053 कायमानो वना - 02 ...{Loading}...</h6></summary>
 
 ५३-२।
@@ -3985,7 +3985,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/54_0054_ni_tvAmagne/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/54_0054_ni_tvAmagne/01.md">
 <details open><summary><h6>54_0054 नि त्वामग्ने - 01 ...{Loading}...</h6></summary>
 
 ५४-१। मानवाद्ये द्वे॥ द्वयोर्मनुर्बृहत्यग्निः॥
@@ -3993,7 +3993,7 @@ title = "०१ आग्नेयं पर्व"
 नि꣥त्वा꣯मग्नाइ॥ म꣢नुर्द्दा꣣ऽ२३४धा꣥इ। ज्यो꣡तिर्ज꣢ना꣯। या꣡श꣪श्वाताऽ᳒२᳒इ। दी꣯। दा꣡इ। थक꣢। ण्वा꣡ऋ꣪तजा꣢ऽ३। त꣡ऊऽ२᳐क्षा꣣ऽ२३४इताः꣥। य꣡न्न꣢मस्या꣡ऽ२३॥ ता꣡ऽ२᳐इकृ꣣ऽ२३४औ꣥꣯हो꣯वा॥ ष्टा꣣ऽ२३४याः꣥॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/54_0054_ni_tvAmagne/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/1/54_0054_ni_tvAmagne/02.md">
 <details open><summary><h6>54_0054 नि त्वामग्ने - 02 ...{Loading}...</h6></summary>
 
 ५४-२। मानवोत्तरम्॥
@@ -4064,7 +4064,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/01_0055_devo_vo/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/01_0055_devo_vo/01.md">
 <details open><summary><h6>01_0055 देवो वो - 01 ...{Loading}...</h6></summary>
 
 ५५-१। द्रविणम्॥ अग्निर्बृहत्यग्निः॥
@@ -4132,7 +4132,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/02_0056_praitu_brahmaNaspatiH/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/02_0056_praitu_brahmaNaspatiH/01.md">
 <details open><summary><h6>02_0056 प्रैतु ब्रह्मणस्पतिः - 01 ...{Loading}...</h6></summary>
 
 ५६-१। बार्हस्पत्यम्॥ बृहस्पतिर्बृहत्यग्निः॥ (ब्रह्मणस्पतिर्वा)।
@@ -4200,7 +4200,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/03_0057_Urdhva_U/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/03_0057_Urdhva_U/01.md">
 <details open><summary><h6>03_0057 ऊर्ध्व ऊ - 01 ...{Loading}...</h6></summary>
 
 ५७-१। वीङ्कम्॥ वसिष्ठो बृहत्यग्निः॥ (यूपो वा)।
@@ -4268,7 +4268,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/04_0058_pra_yo/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/04_0058_pra_yo/01.md">
 <details open><summary><h6>04_0058 प्र यो - 01 ...{Loading}...</h6></summary>
 
 ५८-१। विष्पर्धसस्साम॥ विष्पर्धा बृहत्यग्निः॥
@@ -4336,7 +4336,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/05_0059_pra_vo/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/05_0059_pra_vo/01.md">
 <details open><summary><h6>05_0059 प्र वो - 01 ...{Loading}...</h6></summary>
 
 ५९-१। ऐतवाध्य्रम्॥ ऐतवद्ध्रिर्बृहत्यग्निः॥प्र꣥वाः꣤॥ य꣢ह्वं꣡पुरूऽ२३णा꣢म्। विशां꣡꣯दे꣯व꣢य꣡ताऽ२३इना꣢म्। अग्निꣳ꣡सू꣯क्ते꣯भिर्वचो꣯भिर्वृ꣢णी꣡꣯माऽ२३हा꣢इ। याꣳ꣡साऽ᳒२᳒मा꣡इदाऽ᳒२᳒न्॥ य꣡इंध꣢ते꣯। इ꣡डाऽ२३भा꣢ऽ३४३। ओ꣡ऽ२३४५इ॥ डा॥
@@ -4402,7 +4402,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/06_0060_ayamagniH_suvIryasyeshe/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/06_0060_ayamagniH_suvIryasyeshe/01.md">
 <details open><summary><h6>06_0060 अयमग्निः सुवीर्यस्येशे - 01 ...{Loading}...</h6></summary>
 
 ६०-१। दोहस्साम॥ दोहो बृहत्यग्निः॥
@@ -4470,7 +4470,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/07_0061_tvamagne_gRhapatistvam/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/07_0061_tvamagne_gRhapatistvam/01.md">
 <details open><summary><h6>07_0061 त्वमग्ने गृहपतिस्त्वम् - 01 ...{Loading}...</h6></summary>
 
 ६१-१। समन्तम्॥ अग्निर्वसिष्ठो वा बृहत्यग्निः॥
@@ -4478,7 +4478,7 @@ title = "०१ आग्नेयं पर्व"
 त्व꣤म꣥ग्ने꣯गृह꣤प꣥ता꣤इः॥ त्वꣳ꣡हो꣯तानो꣢꣯अ꣡ध्वराइ। त्वंपोऽ२३ता꣢। वा꣡इश्ववा꣢꣯। रप्र꣡चाइताः꣢꣯। औ꣣꣯हो꣢ऽ३४वा꣣꣯हा꣢इ॥ य꣡। क्षाइयाऽ२३सी꣢ऽ३। हो꣡वा꣢ऽ३᳐हा꣢इ॥ चवा꣡꣯राऽ२३या꣢ऽ३४३म्। ओ꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/07_0061_tvamagne_gRhapatistvam/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/07_0061_tvamagne_gRhapatistvam/02.md">
 <details open><summary><h6>07_0061 त्वमग्ने गृहपतिस्त्वम् - 02 ...{Loading}...</h6></summary>
 
 ६१-२। समन्ते द्वे॥ द्वयोर्वरुणो बृहत्यग्निः॥।
@@ -4486,7 +4486,7 @@ title = "०१ आग्नेयं पर्व"
 त्व꣤म꣥ग्ने꣯गृ। हा꣤ऽ५पतीः꣤॥ त्वꣳ꣢हो꣣ऽ२३४ता꣥। नो꣢अध्वा꣣ऽ२३४रा꣥इ। त्वा꣡ऽ२᳐म्पो꣣ऽ२३४ता꣥। वि꣢श्वा᳐वा꣣ऽ२३४रा꣥। प्र꣢चे꣯ताऽ३ः॥ य꣡क्षाये꣢ऽ३॥ या꣡ऽ२᳐सा꣣ऽ२३४औ꣥꣯हो꣯वा॥ च꣢वा꣡꣯रिया꣣ऽ२३꣡४꣡५꣡म्॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/07_0061_tvamagne_gRhapatistvam/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/07_0061_tvamagne_gRhapatistvam/03.md">
 <details open><summary><h6>07_0061 त्वमग्ने गृहपतिस्त्वम् - 03 ...{Loading}...</h6></summary>
 
 ६१-३। समन्तम्॥
@@ -4554,7 +4554,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/08_0062_sakhAyastvA_vavRmahe/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/08_0062_sakhAyastvA_vavRmahe/01.md">
 <details open><summary><h6>08_0062 सखायस्त्वा ववृमहे - 01 ...{Loading}...</h6></summary>
 
 ६२-१। वाम्रम्॥ वाम्रो वैखानस आञ्जिग दानवो वा बृहत्यग्निः॥स꣥खा꣯यस्त्वा꣯औ꣯हो꣤होहा꣥इ॥ व꣢वृ᳐। मा꣣ऽ२३४हा꣥इ। दे꣢꣯वं꣡मर्ता꣢ऽ३हा꣢ऽ३।
@@ -4613,7 +4613,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/09_0063_A_juhotA/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/09_0063_A_juhotA/01.md">
 <details open><summary><h6>09_0063 आ जुहोता - 01 ...{Loading}...</h6></summary>
 
 ६३-१। त्रिष्टुप्श्यावाश्वम्॥ श्यावाश्वस्त्रिष्टुबग्निः॥
@@ -4681,7 +4681,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/10_0064_chitra_ichChishostaruNasya/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/10_0064_chitra_ichChishostaruNasya/01.md">
 <details open><summary><h6>10_0064 चित्र इच्छिशोस्तरुणस्य - 01 ...{Loading}...</h6></summary>
 
 ६४-१। ऋतुषामणी द्वे॥ द्वयोर्ऋतुर्जगत्यग्निः॥
@@ -4689,7 +4689,7 @@ title = "०१ आग्नेयं पर्व"
 ओ꣡इ। चित्रइच्छाइशो꣢ऽ१स्तरुणाऽ२३। स्या꣤ऽ३व꣢क्ष꣣थः꣥॥ ओ꣡इ। नयो꣯मा꣯तारा꣢ऽ१वनुवाऽ२३इ। ती꣤ऽ३धा꣢꣯त꣣वे꣥꣯॥ ओ꣡इ। अनू꣯धा꣯याद꣪जी꣯जनाऽ२३त्। आ꣤ऽ३धा꣢꣯चि꣣दा꣥꣯॥ ओ꣡इ। ववक्षत्साद्यो꣢ऽ१महिदूऽ२३। तिया꣢ऽ३ञ्चा꣤ऽ५राऽ६५६न्॥ दू꣢꣯त्य꣡न्चरन्महे꣣ऽ२३꣡४꣡५꣡॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/10_0064_chitra_ichChishostaruNasya/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/10_0064_chitra_ichChishostaruNasya/02.md">
 <details open><summary><h6>10_0064 चित्र इच्छिशोस्तरुणस्य - 02 ...{Loading}...</h6></summary>
 
 ६४-२।
@@ -4757,7 +4757,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/11_0065_idaM_ta/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/11_0065_idaM_ta/01.md">
 <details open><summary><h6>11_0065 इदं त - 01 ...{Loading}...</h6></summary>
 
 ६५-१। यामम्॥ कौत्सं वा। यमस्त्रिष्टुबग्निः॥ (विश्वेदेवाः)।
@@ -4825,7 +4825,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/12_0066_imaM_stomamarhate/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/12_0066_imaM_stomamarhate/01.md">
 <details open><summary><h6>12_0066 इमं स्तोममर्हते - 01 ...{Loading}...</h6></summary>
 
 ६६-१। कौत्सम्॥ कुत्सो जगत्यग्निः यज्ञसारथिः अग्निः॥
@@ -4895,7 +4895,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/13_0067_mUrdhAnaM_divo/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/13_0067_mUrdhAnaM_divo/01.md">
 <details open><summary><h6>13_0067 मूर्धानं दिवो - 01 ...{Loading}...</h6></summary>
 
 ६७-१। अग्निर्वैश्वानरस्य सामनी द्वे॥ द्वयोरग्निर्वैश्वानरस्त्रिष्टुबग्निर्वैश्वानरः॥
@@ -4903,7 +4903,7 @@ title = "०१ आग्नेयं पर्व"
 मू꣥꣯र्धो꣤होहा꣥इ॥ नं꣢दा꣣ऽ२३४इवाः꣥। अ꣡रताइम्। पृथी꣢ऽ३व्याः꣢। वै꣯श्वा꣡꣯नराम्। ऋ꣢त꣡आ꣯। जा꣢᳐त꣣म꣤ग्नी꣥म्॥ क꣢विꣳ꣡सम्रा꣯जमतिथाइम्। ज꣪नाऽ२३ना꣢म्॥ आ꣯स꣡न्नᳲपा। त्रा꣢ऽ३ञ्ज꣡न। या꣢ऽ३४३। ता꣢ऽ३दा꣤ऽ५इवा"ऽ६५६ः॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/13_0067_mUrdhAnaM_divo/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/13_0067_mUrdhAnaM_divo/02.md">
 <details open><summary><h6>13_0067 मूर्धानं दिवो - 02 ...{Loading}...</h6></summary>
 
 ६७-२।
@@ -4965,7 +4965,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/14_0068_vi_tvadApo/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/14_0068_vi_tvadApo/01.md">
 <details open><summary><h6>14_0068 वि त्वदापो - 01 ...{Loading}...</h6></summary>
 
 ६८-१। आश्वे द्वे॥ द्वयोरश्वस्त्रिष्टुबग्निः॥
@@ -4973,7 +4973,7 @@ title = "०१ आग्नेयं पर्व"
 वि꣤त्वत्। ओहाइ॥ आ꣡꣯पो꣯नपर्वतस्य꣢पा꣡ऽ२३र्ष्ठा꣢त्। उक्थे꣡꣯भिरग्ने꣯जनयन्त꣢दा꣡ऽ२३इवाः꣢॥ तं꣡त्वा꣯गिरस्सुष्टुतयो꣯वा꣯ज꣢या꣡ऽ२३न्ती꣢॥ आ꣯जि꣡न्नगाइर्व꣪वाऽ२३हा꣢ऽ३ः᳐। जा꣡ये꣢ऽ᳐३। ग्यू꣡ऽ२᳐रा꣣ऽ२३४औ꣥꣯हो꣯वा॥ अ꣢श्वा꣡ऽ२३꣡४꣡५ः꣡॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/14_0068_vi_tvadApo/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/14_0068_vi_tvadApo/02.md">
 <details open><summary><h6>14_0068 वि त्वदापो - 02 ...{Loading}...</h6></summary>
 
 ६८-२।हा꣥। य꣣या꣢इदि꣣वो꣤हा꣥इ। वि꣤त्व꣥त्। आ꣡꣯पो। न꣢प꣡र्व। त꣢स्य꣣पृ꣤ष्ठा꣥त्॥ हा। य꣣या꣢इदि꣣वो꣤हा꣥इ। उ꣤क्था꣥इ। भि꣡रा। ग्ने꣢ऽ᳐३ज꣡न। यं꣢त꣣दे꣤वाः꣥॥ हा। य꣣या꣢इदि꣣वो꣤हा꣥इ। तं꣤त्वा꣥। गि꣡राः। सु꣢ष्टुत꣡यः। वा꣢ज꣣यं꣤ती꣥॥ हा। य꣣या꣢इदि꣣वो꣤हा꣥इ। आ꣤जी꣥म्। न꣡गाइर्व꣪वाऽ२३हा꣢ऽ᳐३ः। जा꣡ये꣢ऽ᳐३। ग्यू꣡ऽ२᳐रा꣣ऽ२३४औ꣥꣯हो꣯वा॥ अ꣢श्वा꣡ऽ२३꣡४꣡५ः꣡॥
@@ -5041,7 +5041,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/15_0069_A_vo/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/15_0069_A_vo/01.md">
 <details open><summary><h6>15_0069 आ वो - 01 ...{Loading}...</h6></summary>
 
 ६९-१। वामदेव्यम्॥ रौद्रं वा। रुद्रस्त्रिष्टुबग्निः रुद्रः॥
@@ -5109,7 +5109,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/16_0070_indhe_rAjA/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/16_0070_indhe_rAjA/01.md">
 <details open><summary><h6>16_0070 इन्धे राजा - 01 ...{Loading}...</h6></summary>
 
 ७०-१। वैश्वज्योतिषे द्वे॥ द्वयोर्विश्वज्योतिस्त्रिष्टुबग्निः उषा वा॥
@@ -5117,7 +5117,7 @@ title = "०१ आग्नेयं पर्व"
 इ꣣न्धा꣢ऽ३१२३४इ। हा꣥꣯उहा꣯उहा꣯उ। रा꣤꣯जा꣥꣯स꣤म꣥र्यो꣤꣯न। मोभी꣥रो꣤भीः꣥। ओ꣤भीः꣥॥ य꣣स्या꣢ऽ३१२३४। हा꣥꣯उहा꣯उहा꣯उ। प्र꣤ती꣥꣯कमा꣤꣯हु꣥तंघृ। ता꣤इना꣥आ꣤इना꣥। आ꣤इना꣥॥ न꣣रा꣢ऽ३१२३४ः। हा꣥꣯उहा꣯उहा꣯उ। हव्ये꣤꣯भि꣥री꣯डते꣯स। बा꣤धा꣥बा꣤धाः꣥। बा꣤धाः꣥॥ आ꣣꣯ग्ना꣢ऽ᳐३१२३४इ। हा꣥꣯उहा꣯उहा꣯उ। अ꣢ग्रमुष꣡साऽ२३मशा꣢उ। वाऽ᳐३॥ चीऽ२३꣡४꣡५꣡॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/16_0070_indhe_rAjA/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/16_0070_indhe_rAjA/02.md">
 <details open><summary><h6>16_0070 इन्धे राजा - 02 ...{Loading}...</h6></summary>
 
 ७०-२।
@@ -5185,7 +5185,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/17_0071_pra_ketunA/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/17_0071_pra_ketunA/01.md">
 <details open><summary><h6>17_0071 प्र केतुना - 01 ...{Loading}...</h6></summary>
 
 ७१-१। यामे द्वे॥ द्वयोर्यमस्त्रिष्टुबग्निः॥
@@ -5193,7 +5193,7 @@ title = "०१ आग्नेयं पर्व"
 प्र꣢के꣯तु꣡ना। बृ꣢हता꣡꣯या। ति꣢य꣡ग्नाइः। होइहोवा꣢ऽ᳐३हो꣡इ॥ आ꣢꣯रो꣯द꣡साइ। वृ꣢षभो꣡꣯रो। र꣢वी꣡꣯ताइ। होइहोवा꣢ऽ᳐३हो꣡इ॥ दि꣢वश्चि꣡दा। ता꣢꣯दु꣡पमाम्। उ꣢दा꣡꣯नाट्। होइहोवा꣢ऽ᳐३हो꣡इ॥ अ꣢पा꣯मु꣡पा। स्थे꣢꣯म꣡हिषो। व꣢व꣡र्द्धा। होइहोवा꣢꣯हाऽ३१उ। वाऽ२३॥ दे꣢ऽ᳐३। दि꣡वाऽ२३꣡४꣡५꣡म्॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/17_0071_pra_ketunA/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/17_0071_pra_ketunA/02.md">
 <details open><summary><h6>17_0071 प्र केतुना - 02 ...{Loading}...</h6></summary>
 
 ७१-२।हा꣥। हा꣢औ꣯हो᳐इ। प्रा꣣ऽ२३४के꣥। तु꣡ना। बृ꣢ह꣣ता꣢ऽ३᳐। या꣢ति꣣य꣤ग्नीः꣥॥ हा। हा꣢औ꣯हो᳐इ। आ꣣ऽ२३४रो꣥। द꣡साइ। वृ꣢ष꣣भो꣢ऽ३। रो꣢र꣣वी꣤ती꣥॥ हा। हा꣢औ꣯हो᳐इ। दी꣣ऽ२३४वाः꣥। चि꣡दा। ता꣢ऽ३᳐दु꣡प। मा꣢मु꣣दा꣤न꣥ट्॥ हा। हा꣢औ꣯हो᳐इ। आ꣣ऽ२३४पा꣥म्। उ꣡पा। स्थे꣢ऽ᳐३म꣡हि। षो꣢व꣣व꣤र्द्धा꣥। हा। हा꣢औ꣯हो᳐। वा꣣ऽ२३४औ꣥꣯हो꣯वा॥ ए꣢ऽ᳐३। दि꣡वाऽ२३꣡४꣡५꣡म्॥
@@ -5259,7 +5259,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/18_0072_agniM_naro/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/18_0072_agniM_naro/01.md">
 <details open><summary><h6>18_0072 अग्निं नरो - 01 ...{Loading}...</h6></summary>
 
 ७२-१। मराये द्वे॥ द्वयोराशिमरायो विराडग्निः॥
@@ -5267,7 +5267,7 @@ title = "०१ आग्नेयं पर्व"
 हा꣥꣯उहा꣯उहा꣯उ। आ꣤ग्नी꣥म्। न꣢राः꣡। न꣢राः꣡। न꣢राः꣡। दी꣢ऽ᳐३धि꣡ति। भि꣢र꣣र꣤ण्योः꣥꣯॥ हा꣯उहा꣯उहा꣯उ। हा꣤स्ता꣥। च्यु꣢ता꣡म्। च्यु꣢ता꣡म्। च्यु꣢ता꣡म्। ज꣢न꣡य। त꣢प्र꣣श꣤स्त꣥म्॥ हा꣯उहा꣯उहा꣯उ। दू꣤रा꣥इ। दृ꣢शा꣡म्। दृ꣢शा꣡म्। दृ꣢शा꣡म्। गृ꣢ह꣡प। ति꣢म꣣थ꣤व्यु꣥म्। हाउहाउहाउ। वा॥ ई꣣ऽ२३꣡४꣡५꣡॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/18_0072_agniM_naro/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/18_0072_agniM_naro/02.md">
 <details open><summary><h6>18_0072 अग्निं नरो - 02 ...{Loading}...</h6></summary>
 
 ७२-२।
@@ -5338,7 +5338,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/19_0073_abodhyagniH_samidhA/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/19_0073_abodhyagniH_samidhA/01.md">
 <details open><summary><h6>19_0073 अबोध्यग्निः समिधा - 01 ...{Loading}...</h6></summary>
 
 ७३-१। श्येनः प्रजापतिर्वा दीर्घायुष्यं वा॥ प्रजापतिस्त्रिष्टुबग्निः॥ उषा वा।
@@ -5406,7 +5406,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/20_0074_pra_bhUrjayantam/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/20_0074_pra_bhUrjayantam/01.md">
 <details open><summary><h6>20_0074 प्र भूर्जयन्तम् - 01 ...{Loading}...</h6></summary>
 
 ७४-१। वासुक्रम्॥ शुक्रं वा। वसुक्रस्त्रिष्टुबग्निः॥
@@ -5474,7 +5474,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/21_0075_shukraM_te/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/21_0075_shukraM_te/01.md">
 <details open><summary><h6>21_0075 शुक्रं ते - 01 ...{Loading}...</h6></summary>
 
 ७५-१। पौषम्॥ पूषा त्रिष्टुप्पूषा॥
@@ -5542,7 +5542,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/22_0076_iDAmagne_purudaMsam/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/22_0076_iDAmagne_purudaMsam/01.md">
 <details open><summary><h6>22_0076 इडामग्ने पुरुदंसम् - 01 ...{Loading}...</h6></summary>
 
 ७६-१। कौत्सम्॥ कुत्सस्त्रिष्टुबग्निः॥
@@ -5610,7 +5610,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/23_0077_pra_hotA/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/23_0077_pra_hotA/01.md">
 <details open><summary><h6>23_0077 प्र होता - 01 ...{Loading}...</h6></summary>
 
 ७७-१। काश्यपे द्वे॥ द्वयोः कश्यपस्त्रिष्टुबग्निः॥
@@ -5618,7 +5618,7 @@ title = "०१ आग्नेयं पर्व"
 प्र꣤हो꣯ता꣥꣯जा꣯ताः꣤॥ म꣢हा꣡꣯न्नभो꣯विन्नृषद्माऽ२३सी꣯दा꣢त्। अपां꣡꣯विवर्ताइ॥ दधद्योऽ२३धा꣢। याइ। सुते꣯वयाꣳ꣡꣯सिय꣣न्ता꣢उ। वा॥ वा꣡सू꣯नि꣢विध। ता꣡ऽ२᳐। या꣣ऽ२३४औ꣥꣯हो꣯वा॥ त꣢नूऽ३पा꣡ऽ२३꣡४꣡५ः꣡॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/23_0077_pra_hotA/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/23_0077_pra_hotA/02.md">
 <details open><summary><h6>23_0077 प्र होता - 02 ...{Loading}...</h6></summary>
 
 ७७-२।
@@ -5686,7 +5686,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/24_0078_pra_samrAjamasurasya/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/24_0078_pra_samrAjamasurasya/01.md">
 <details open><summary><h6>24_0078 प्र सम्राजमसुरस्य - 01 ...{Loading}...</h6></summary>
 
 ७८-१। घृताचेराङ्गिरसस्य साम॥ घृताचिस्त्रिष्टुबग्निः॥ इन्द्रो वा।
@@ -5754,7 +5754,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/25_0079_araNyornihito_jAtavedA/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/25_0079_araNyornihito_jAtavedA/01.md">
 <details open><summary><h6>25_0079 अरण्योर्निहितो जातवेदा - 01 ...{Loading}...</h6></summary>
 
 ७९-१। प्रासाहम्॥ भरद्वाजस्त्रिष्टुबग्निः॥
@@ -5822,7 +5822,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/26_0080_sanAdagne_mRNasi/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/26_0080_sanAdagne_mRNasi/01.md">
 <details open><summary><h6>26_0080 सनादग्ने मृणसि - 01 ...{Loading}...</h6></summary>
 
 ८०-१। अग्नेर्वैश्वानरस्यात्रेर्वा राक्षोघ्नम्॥ अग्निस्त्रिष्टुबग्निः॥
@@ -5893,7 +5893,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/27_0081_agna_ojiShThamA/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/27_0081_agna_ojiShThamA/01.md">
 <details open><summary><h6>27_0081 अग्न ओजिष्ठमा - 01 ...{Loading}...</h6></summary>
 
 ८१-१। पाथे द्वे॥ द्वयोः पथोऽनुष्टुबग्निः॥
@@ -5901,7 +5901,7 @@ title = "०१ आग्नेयं पर्व"
 आ꣡ग्ना꣢ओ꣣ऽ२३४वा꣥॥ ओ꣢꣯जिष्ठऽ३मा꣡। भारा꣢ओ꣣ऽ२३४वा꣥। द्यु꣢म्न꣡मस्मभ्य꣢मध्रिगोऽ᳐३। ओ꣡इ। प्राना꣢ओ꣣ऽ२३४वा꣥॥ रा꣢꣯ये꣡꣯पनी꣰꣯ऽ२यसेऽ᳐३। ओ꣡इ। रात्सा꣢ओ꣣ऽ२३४वा꣥॥ वा꣡꣯जा꣢꣯यप꣡न्था꣣ऽ२३꣡४꣡५꣡म्॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/27_0081_agna_ojiShThamA/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/27_0081_agna_ojiShThamA/02.md">
 <details open><summary><h6>27_0081 अग्न ओजिष्ठमा - 02 ...{Loading}...</h6></summary>
 
 ८१-२।
@@ -5959,7 +5959,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/28_0082_yadi_vIro/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/28_0082_yadi_vIro/01.md">
 <details open><summary><h6>28_0082 यदि वीरो - 01 ...{Loading}...</h6></summary>
 
 ८२-१। बृहदाग्नेयम्॥ अग्निरनुष्टुबग्निः॥य꣣दि꣤वी꣯रो꣣꣯अनु꣤ष्या꣥꣯त्। ऐ꣢꣯याऽ३४३ई꣢ऽ३४या꣥॥ अ꣤ग्नि꣣मि꣤न्धी꣥꣯तमौ꣯। हो꣭ऽ३हा꣢ऽ३। हो꣡ऽ२३४र्तियाः। आ꣡जूऽ᳒२᳒ह्वा꣡द्धाऽ२३। व्य꣡माऽ२᳐नू꣣ऽ२३४षा꣥क्॥ श꣡र्मभ꣢। क्षा꣡इ। तदा꣢ऽ᳐३हा꣢ऽ३इ॥ वा꣢ऽ३ओ꣡ऽ२३४वा꣥॥ व्या꣣ऽ२३꣡४꣡५꣡म्॥
@@ -6025,7 +6025,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/29_0083_tveShaste_dhUma/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/29_0083_tveShaste_dhUma/01.md">
 <details open><summary><h6>29_0083 त्वेषस्ते धूम - 01 ...{Loading}...</h6></summary>
 
 ८३-१। यामम्॥ यमोऽनुष्टुबग्निः॥
@@ -6093,7 +6093,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/30_0084_tvaM_hi/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/30_0084_tvaM_hi/01.md">
 <details open><summary><h6>30_0084 त्वं हि - 01 ...{Loading}...</h6></summary>
 
 ८४-१। बृहदाग्नेयम्॥ अग्निरनुष्टुबग्निः॥
@@ -6151,7 +6151,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/31_0085_prAtaragniH_purupriyo/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/31_0085_prAtaragniH_purupriyo/01.md">
 <details open><summary><h6>31_0085 प्रातरग्निः पुरुप्रियो - 01 ...{Loading}...</h6></summary>
 
 ८५-१। बृहतश्च कौमुदस्य साम॥ कुमुद्बृहदनुष्टुबग्निः॥
@@ -6220,7 +6220,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/32_0086_yadvAhiShThaM_tadagnaye/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/32_0086_yadvAhiShThaM_tadagnaye/01.md">
 <details open><summary><h6>32_0086 यद्वाहिष्ठं तदग्नये - 01 ...{Loading}...</h6></summary>
 
 ८६-१। यद्वाहिष्ठीये द्वे॥ द्वयोरग्निरनुष्टुबग्निः॥
@@ -6228,7 +6228,7 @@ title = "०१ आग्नेयं पर्व"
 य꣤द्वा꣯हि꣥ष्ठन्त꣤दा॥ ग्न꣡याइ। बृहदर्चवि꣢भा꣡꣯वाऽ२३सा꣢उ। मा꣡हीऽ᳒२᳒षा꣡इवाऽ᳒२᳒। त्व꣡द्रयिः॥ त्वद्वाऽ२३जाः꣢॥ उदी꣡꣯राऽ२३ता꣢ऽ३४३इ। ओ꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/32_0086_yadvAhiShThaM_tadagnaye/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/32_0086_yadvAhiShThaM_tadagnaye/02.md">
 <details open><summary><h6>32_0086 यद्वाहिष्ठं तदग्नये - 02 ...{Loading}...</h6></summary>
 
 ८६-२। यद्वाहिष्ठीयोत्तरम्॥य꣤द्वा꣯हि꣥ष्ठंत꣤द꣥ग्न꣤ये꣥꣯। यद्वा꣯हिष्ठो꣤वा꣥॥ त꣢द꣡ग्नयाइ। बृहदाऽ२३र्चा꣢। विभा꣡꣯वसाउ। महिषाऽ२३इवा꣢। त्व꣡द्रयिः॥ त्वद्वाऽ२३जाः꣢॥ उदी꣡꣯राऽ२३ता꣢ऽ३४३इ। ओ꣡ऽ२३४५इ॥ डा॥
@@ -6294,7 +6294,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/33_0087_vishovisho_vo/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/33_0087_vishovisho_vo/01.md">
 <details open><summary><h6>33_0087 विशोविशो वो - 01 ...{Loading}...</h6></summary>
 
 ८७-१। विशोविशीयम् ऐडम् वा॥ अग्निरनुष्टुबग्निः॥
@@ -6362,7 +6362,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/34_0088_bRhadvayo_hi/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/34_0088_bRhadvayo_hi/01.md">
 <details open><summary><h6>34_0088 बृहद्वयो हि - 01 ...{Loading}...</h6></summary>
 
 ८८-१। आत्रेये द्वे॥ द्वयोरत्रिरनुष्टुबग्निः॥
@@ -6370,7 +6370,7 @@ title = "०१ आग्नेयं पर्व"
 बृ꣥हद्वयाः॥ हि꣢भा꣡꣯नाऽ२३वा꣢इ। आ꣡र्चा꣯दे꣢꣯वा꣡꣯। य꣢अ꣡ग्नाऽ२३या꣢इ। य꣡म्मित्रन्न। प्राश꣪स्तायाऽ᳒२᳒इ॥ म꣡र्तासो꣢ऽ३दा꣢ऽ३॥ धि꣤रोवा꣥। पू꣤ऽ५रोऽ६"हा꣥इ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/34_0088_bRhadvayo_hi/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/34_0088_bRhadvayo_hi/02.md">
 <details open><summary><h6>34_0088 बृहद्वयो हि - 02 ...{Loading}...</h6></summary>
 
 ८८-२।
@@ -6438,7 +6438,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/35_0089_aganma_vRtrahantamam/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/35_0089_aganma_vRtrahantamam/01.md">
 <details open><summary><h6>35_0089 अगन्म वृत्रहन्तमम् - 01 ...{Loading}...</h6></summary>
 
 ८९-१। श्रौतर्वणम्॥ श्रुतर्वानुष्टुबग्निः॥ वृत्रहा वा।
@@ -6498,7 +6498,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/36_0090_jAtaH_pareNa/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/36_0090_jAtaH_pareNa/01.md">
 <details open><summary><h6>36_0090 जातः परेण - 01 ...{Loading}...</h6></summary>
 
 ९०-१। इन्द्रस्य प्रियम्॥ इन्द्रोऽनुष्टुबग्निः॥जा꣢꣯तᳲपरे꣯णऽ३धा꣡। इ꣣हा꣢। मणा꣡। इ꣣हा꣢। यो꣣ऽ२३४नी꣥म्। यो꣡꣯निमिन्द्रश्च꣢गच्छथः॥ यत्सवृद्भिस्सऽ३हा꣡। इ꣣हा꣢। भुवाः꣡। इ꣣हा꣢। यो꣣ऽ२३४नी꣥म्। यो꣡꣯निमिन्द्रश्च꣢गच्छथः॥ पिता꣯यत्कश्यऽ३पा꣡। इ꣣हा꣢। स्या꣯ग्ना꣡इ। इ꣣हा꣢। यो꣣ऽ२३४नी꣥म्। यो꣡꣯निमिन्द्रश्च꣢गच्छथः॥ श्रद्धा꣯मा꣯ता꣯मऽ३नूः꣡। इ꣣हा꣢। कवा꣡इ। इ꣣हा꣢। यो꣣ऽ२३४नी꣥म्॥ यो꣡꣯निमिन्द्रश्च꣢गच्छथा꣣ऽ२३꣡४꣡५ः꣡॥
@@ -6570,7 +6570,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/37_0091_somaM_rAjAnam/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/37_0091_somaM_rAjAnam/01.md">
 <details open><summary><h6>37_0091 सोमं राजानम् - 01 ...{Loading}...</h6></summary>
 
 ९१-१। बार्हस्पत्यम्॥ बृहस्पतिरनुष्टुबग्निः॥ विश्वेदेवाः।
@@ -6633,7 +6633,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/38_0092_ita_eta/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/38_0092_ita_eta/01.md">
 <details open><summary><h6>38_0092 इत एत - 01 ...{Loading}...</h6></summary>
 
 ९२-१। आरूढवदाङ्गिरसं यामं वा॥ आरूढविदाङ्गिरानुष्टुबग्निः॥
@@ -6689,7 +6689,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/39_0093_rAye_agne/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/39_0093_rAye_agne/01.md">
 <details open><summary><h6>39_0093 राये अग्ने - 01 ...{Loading}...</h6></summary>
 
 ९३-१। आसिते द्वे॥ द्वयोरसितोऽनुष्टुबग्निः॥
@@ -6697,7 +6697,7 @@ title = "०१ आग्नेयं पर्व"
 रा꣥꣯ये꣤꣯अ꣥ग्ने꣯महा꣤इ॥ त्वा꣡। दा꣯ना꣯यसमिधी꣯माऽ२३ही꣢। आ꣡इडीऽ᳒२᳒ष्वा꣡हीऽ᳒२᳒। महे꣡꣯वृषन्॥ द्यावाऽ᳒२᳒हो꣡त्राऽ᳒२᳒॥ यपो꣡वा꣢ऽ᳐३ओ꣡ऽ२३४वा꣥। था꣤ऽ५इवोऽ६"हा꣥इ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/39_0093_rAye_agne/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/39_0093_rAye_agne/02.md">
 <details open><summary><h6>39_0093 राये अग्ने - 02 ...{Loading}...</h6></summary>
 
 ९३-२।रा꣢꣯या꣡याऽ२३ग्ने꣤꣯महे꣯त्वा꣯हा꣥उ॥ दा꣡꣯ना꣯यसमिधी꣯माऽ२३हा꣢इ। आ꣡इडाइष्वा꣢ऽ᳐३हा꣢ऽ᳐३इ। मा꣡हे꣢वा꣣ऽ२३४र्षा꣥न्॥ द्या꣡꣯वाहो꣢ऽ३त्रा꣢ऽ३॥ य꣢पो꣡ऽ२३४वा꣥। था꣤ऽ५इवोऽ६"हा꣥इ॥
@@ -6763,7 +6763,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/40_0094_dadhanve_vA/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/40_0094_dadhanve_vA/01.md">
 <details open><summary><h6>40_0094 दधन्वे वा - 01 ...{Loading}...</h6></summary>
 
 ९४-१। त्वाष्ट्रीसाम॥ त्वष्टानुष्टुबग्निः॥
@@ -6831,7 +6831,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/41_0095_pratyagne_harasA/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/41_0095_pratyagne_harasA/01.md">
 <details open><summary><h6>41_0095 प्रत्यग्ने हरसा - 01 ...{Loading}...</h6></summary>
 
 ९५-१। राक्षोघ्नम्॥ अगस्त्योऽनुष्टुबग्निः॥ रक्षोहा वा।
@@ -6901,7 +6901,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/42_0096_tvamagne_vasUMriha/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/1/2/42_0096_tvamagne_vasUMriha/01.md">
 <details open><summary><h6>42_0096 त्वमग्ने वसूंरिह - 01 ...{Loading}...</h6></summary>
 
 ९६-१। मानवम्॥ मनुरनुष्टुबग्निः॥ विश्वेदेवाः वा।
@@ -6972,7 +6972,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/01_0097_puru_tvA/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/01_0097_puru_tvA/01.md">
 <details open><summary><h6>01_0097 पुरु त्वा - 01 ...{Loading}...</h6></summary>
 
 ९७-१। (द्यौतानि पञ्च) तौदे द्वे॥ द्वयोः तोद उष्णिगग्निः॥
@@ -6980,7 +6980,7 @@ title = "०१ आग्नेयं पर्व"
 पु꣥रू꣤॥ त्वा꣢꣯दा꣡꣯शिवाꣳ꣯वो꣯चाये꣢ऽ३। आ꣤री꣥रा꣤ग्ना꣥इ। ता꣢꣯व꣡स्विदा। तो꣢꣯द꣡स्ये꣯वशरणआऽ२३हो꣡इ॥ महाऽ२३हो꣡ये꣢ऽ᳐३॥ स्यो꣢। या꣣ऽ२३४औ꣥꣯हो꣯वा॥ ई꣣ऽ२३꣡४꣡५꣡॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/01_0097_puru_tvA/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/01_0097_puru_tvA/02.md">
 <details open><summary><h6>01_0097 पुरु त्वा - 02 ...{Loading}...</h6></summary>
 
 ९७-२।
@@ -6988,7 +6988,7 @@ title = "०१ आग्नेयं पर्व"
 पु꣥रु꣤त्वा꣥꣯दा꣯शिवाꣳ꣤꣯वो꣥꣯। चे॥ आ꣢री᳐रा꣣ऽ२३४ग्ना꣥इ। ता꣢वस्वा꣣ऽ२३४इदा꣥॥ तो꣤꣯द꣣स्ये꣤꣯व꣥शर। ण꣣योऽ२३४हा꣥इ॥ मा꣭ऽ᳐३हा꣢ऽ᳐३॥ हिं꣡माये꣢ऽ३। स्यो꣢। या꣣ऽ२३४औ꣥꣯हो꣯वा॥ ई꣣ऽ२३꣡४꣡५꣡॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/01_0097_puru_tvA/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/01_0097_puru_tvA/03.md">
 <details open><summary><h6>01_0097 पुरु त्वा - 03 ...{Loading}...</h6></summary>
 
 ९७-३। दैर्घतमसानि त्रीणि॥ त्रयाणां दीर्घतमा उष्णिगग्निः॥
@@ -6996,7 +6996,7 @@ title = "०१ आग्नेयं पर्व"
 पु꣥रु꣤त्वा꣥꣯दा꣯शिवाꣳ꣤꣯वो꣥꣯। चे। चे॥ अ꣢रा꣡इराऽ२३४ग्ना꣥इ। ता꣢वस्वा꣣ऽ२३४इदा꣥॥ तो꣢꣯दा꣡स्याऽ२३४इवा꣥॥ शा꣢रा᳐णा꣣ऽ२३४या꣥। मा꣢ऽ३हा꣤ऽ५स्याऽ६५६॥ ए꣢ऽ᳐३१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/01_0097_puru_tvA/04.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/01_0097_puru_tvA/04.md">
 <details open><summary><h6>01_0097 पुरु त्वा - 04 ...{Loading}...</h6></summary>
 
 ९७-४।
@@ -7004,7 +7004,7 @@ title = "०१ आग्नेयं पर्व"
 पु꣥रुत्वा꣢ऽ३दा꣤꣯शि꣥वाꣳ꣤꣯वो꣯चे꣥॥ अ꣢रि꣡र। ग्नाइ। त꣪वाऽ२᳐स्वा꣣ऽ२३४इदा꣥॥ तो꣣ऽ२३४दा꣥। स्या꣣ऽ२३४इवा꣥॥ शा꣢रा᳐णा꣣ऽ२३४या꣥। मा꣢ऽ᳐३हा꣤ऽ५"स्याऽ६५६॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/01_0097_puru_tvA/05.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/01_0097_puru_tvA/05.md">
 <details open><summary><h6>01_0097 पुरु त्वा - 05 ...{Loading}...</h6></summary>
 
 ९७-५।
@@ -7072,7 +7072,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/02_0098_pra_hotre/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/02_0098_pra_hotre/01.md">
 <details open><summary><h6>02_0098 प्र होत्रे - 01 ...{Loading}...</h6></summary>
 
 ९८-१। प्रहितौ द्वौ॥ द्वयोः श्यावाश्व उष्णिगग्निः॥
@@ -7080,7 +7080,7 @@ title = "०१ आग्नेयं पर्व"
 प्र꣥हो꣯त्रे꣯पू॥ र्वि꣢यं꣡वचो। अग्नयाऽ२३इभा꣢। रता꣡꣯बृहत्॥ विपां꣯ज्योऽ२३ती꣢॥ षिबा꣡ये꣢ऽ᳐३। भ्रा꣡ऽ२᳐ता꣣ऽ२३४औ꣥꣯हो꣯वा॥ न꣡वे꣰꣯ऽ२ध꣡से꣣ऽ२३꣡४꣡५꣡॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/02_0098_pra_hotre/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/02_0098_pra_hotre/02.md">
 <details open><summary><h6>02_0098 प्र होत्रे - 02 ...{Loading}...</h6></summary>
 
 ९८-२।
@@ -7148,7 +7148,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/03_0099_agne_vAjasya/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/03_0099_agne_vAjasya/01.md">
 <details open><summary><h6>03_0099 अग्ने वाजस्य - 01 ...{Loading}...</h6></summary>
 
 ९९-१। श्रुध्ये द्वे॥ द्वयोः प्रजापति उष्णिगग्निः॥
@@ -7156,7 +7156,7 @@ title = "०१ आग्नेयं पर्व"
 अ꣤ग्ने꣯वा꣯जाऽ५स्य। गो꣯मतो꣤वा॥ ई꣢꣯शा꣡꣯न꣢स्सा꣡। ह꣢सो꣣꣯य꣢हो꣡॥ अ꣢स्मा꣡इदे꣢꣯हिजा꣡꣯तवे꣢꣯दो꣯म꣡। हाऽ२३इ। श्रवा꣢उवा॥ श्रू꣡꣯धियाऽ᳒२᳒। ए꣡ऽ२३हिया꣢ऽ३४३। ओ꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/03_0099_agne_vAjasya/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/03_0099_agne_vAjasya/02.md">
 <details open><summary><h6>03_0099 अग्ने वाजस्य - 02 ...{Loading}...</h6></summary>
 
 ९९-२।
@@ -7224,7 +7224,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/04_0100_agne_yajiShTho/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/04_0100_agne_yajiShTho/01.md">
 <details open><summary><h6>04_0100 अग्ने यजिष्ठो - 01 ...{Loading}...</h6></summary>
 
 १००-१। सदस्साम॥ प्रजापतिरुष्णिगग्निः॥
@@ -7232,7 +7232,7 @@ title = "०१ आग्नेयं पर्व"
 अ꣥ग्ने꣯यजिष्ठो꣯अध्वराऽ६ए꣥॥ दे꣢꣯वा꣯न्दे꣯वयऽ३ता꣡इया꣢ऽ१जाऽ२᳐। हु꣣वा꣢ऽ३। हो꣭ऽ३वा꣢॥ हो꣡ता꣯मं꣢द्रः। विरा꣡जा꣢ऽ१सीऽ२᳐॥ हु꣣वा꣢ऽ३। हो꣭ऽ३वा꣢। अति꣡स्राऽ२३इधा꣢ऽ३४३ः। ओ꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/04_0100_agne_yajiShTho/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/04_0100_agne_yajiShTho/02.md">
 <details open><summary><h6>04_0100 अग्ने यजिष्ठो - 02 ...{Loading}...</h6></summary>
 
 १००-२। हविर्धाने द्वे॥ द्वयोः प्रजापतिरुष्णिगग्निः॥
@@ -7240,7 +7240,7 @@ title = "०१ आग्नेयं पर्व"
 अ꣥ग्ने꣯। इ꣢याऽ३४३ई꣢ऽ३४या꣥॥ य꣡जिष्ठो꣯अध्वराइ। दे꣯वा꣯न्दे꣯वयतेऽ᳒२᳒। हौ꣡होऽ᳒२᳒। या꣡जाऽ᳒२᳒। हो꣡ताऽ᳒२᳒मा꣡न्द्रोऽ᳒२᳒॥ वि꣡राजा꣢ऽ३सी꣢॥ आ꣡ऽ२᳐। ति꣣या꣢ऽ३४औ꣥꣯हो꣯वा॥ स्री꣣ऽ२३४धाः꣥॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/04_0100_agne_yajiShTho/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/04_0100_agne_yajiShTho/03.md">
 <details open><summary><h6>04_0100 अग्ने यजिष्ठो - 03 ...{Loading}...</h6></summary>
 
 १००-३। 
@@ -7308,7 +7308,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/05_0101_jajnAnaH_sapta/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/05_0101_jajnAnaH_sapta/01.md">
 <details open><summary><h6>05_0101 जज्ञानः सप्त - 01 ...{Loading}...</h6></summary>
 
 १०१-१। आतिथ्यम्॥ त्वष्टोष्णिगग्निरदितिर्वा॥
@@ -7376,7 +7376,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/06_0102_uta_syA/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/06_0102_uta_syA/01.md">
 <details open><summary><h6>06_0102 उत स्या - 01 ...{Loading}...</h6></summary>
 
 १०२-१। आदित्यम्॥ अदितिरुष्णिगग्निरदितिर्वा॥
@@ -7444,7 +7444,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/07_0103_IDiShvA_hi/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/07_0103_IDiShvA_hi/01.md">
 <details open><summary><h6>07_0103 ईडिष्वा हि - 01 ...{Loading}...</h6></summary>
 
 १०३-१। वार्कजम्भम्॥ वृकजम्भो उष्णिगग्निः॥
@@ -7512,7 +7512,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/08_0104_na_tasya/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/08_0104_na_tasya/01.md">
 <details open><summary><h6>08_0104 न तस्य - 01 ...{Loading}...</h6></summary>
 
 १०४-१। राक्षोघ्नम्॥ अगस्त्य उष्णिगग्निः॥
@@ -7580,7 +7580,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/09_0105_apa_tyam/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/09_0105_apa_tyam/01.md">
 <details open><summary><h6>09_0105 अप त्यम् - 01 ...{Loading}...</h6></summary>
 
 १०५-१। सौमक्रतवम् बृहदाग्नेयम् वा॥ सोमक्रतुरुष्णिगग्निः॥
@@ -7648,7 +7648,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/10_0106_shruShTyagne_navasya/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/10_0106_shruShTyagne_navasya/01.md">
 <details open><summary><h6>10_0106 श्रुष्ट्यग्ने नवस्य - 01 ...{Loading}...</h6></summary>
 
 १०६-१। राक्षोघ्नम्॥ अगस्त्य उष्णिगग्निः॥
@@ -7719,7 +7719,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/11_0107_pra_maMhiShThAya/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/11_0107_pra_maMhiShThAya/01.md">
 <details open><summary><h6>11_0107 प्र मंहिष्ठाय - 01 ...{Loading}...</h6></summary>
 
 १०७-१। प्रमꣳहिष्ठीये द्वे॥ द्वयोरिन्द्रः ककुबग्निः॥
@@ -7727,7 +7727,7 @@ title = "०१ आग्नेयं पर्व"
 प्र꣥मꣳहा꣢ऽ३इष्ठा꣤꣯यगा꣥꣯यता॥ ऋ꣢ता꣡व्नेऽ᳒२᳒। बृ꣡हते꣯शूक्रा꣢ऽ३शो꣤ऽ३। चाऽ२३४इषा꣥इ॥ उ꣢पा꣡औ꣢ऽ३हो꣢॥ स्तो꣡तासो꣢ऽ३आ꣤ऽ३। ग्ना꣢ऽ३४५योऽ६"हा꣥इ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/11_0107_pra_maMhiShThAya/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/11_0107_pra_maMhiShThAya/02.md">
 <details open><summary><h6>11_0107 प्र मंहिष्ठाय - 02 ...{Loading}...</h6></summary>
 
 १०७-२।
@@ -7735,13 +7735,13 @@ title = "०१ आग्नेयं पर्व"
 प्र꣤मꣳहि꣥ष्ठा꣯य। गा꣤ऽ५यता꣤॥ ऋ꣢ताऽ᳒२᳒१। व्नेऽ᳒२᳒। बृहा꣡ता꣢ऽ१इशूऽ᳒२᳒। क्र। शो꣡꣯चाऽ२३इषा꣢इ॥ उप। स्तु꣡तौऽ᳒२᳒॥ हु꣡वाइ। हो꣭ऽ३वा꣢ऽ३। स꣢ओ꣡ऽ२३४वा꣥॥ ग्ना꣤ऽ५योऽ६"हा꣥इ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/11_0107_pra_maMhiShThAya/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/11_0107_pra_maMhiShThAya/03.md">
 <details open><summary><h6>11_0107 प्र मंहिष्ठाय - 03 ...{Loading}...</h6></summary>
 
 १०७-३। गायत्रीसामासितम्॥ असितः ककुबग्निः॥प्र꣣मꣳहि꣤ष्ठा꣥꣯यगा꣯। इ꣢या᳐ऽ३४३ई꣢ऽ३४या꣥॥ य꣡तऋता꣯व्ने꣯बृहते꣯शुक्र꣢शौऽ᳒२᳒। हौऽ᳒२᳒। हु꣡वाऽ᳒२᳒इ। चा꣡इषाऽ᳒२᳒इ॥ उ꣡पा꣢ऽ३हो꣡इ। स्तुता꣢ऽ३हो꣡॥ सो꣢꣯अ꣡ग्नाऽ२३या꣢ऽ३४३इ। ओ꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/11_0107_pra_maMhiShThAya/04.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/11_0107_pra_maMhiShThAya/04.md">
 <details open><summary><h6>11_0107 प्र मंहिष्ठाय - 04 ...{Loading}...</h6></summary>
 
 १०७-४। प्रमꣳहिष्ठीयम्॥ इन्द्रः ककुबग्निः॥
@@ -7809,7 +7809,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/12_0108_pra_so/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/12_0108_pra_so/01.md">
 <details open><summary><h6>12_0108 प्र सो - 01 ...{Loading}...</h6></summary>
 
 १०८-१। वाजभृद्वाजाभृद्वाजाभर्मीयं वा॥ भरद्वाजः ककुबग्निः॥
@@ -7877,7 +7877,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/13_0109_taM_gUrdhayAsvarNaram/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/13_0109_taM_gUrdhayAsvarNaram/01.md">
 <details open><summary><h6>13_0109 तं गूर्धयास्वर्णरम् - 01 ...{Loading}...</h6></summary>
 
 १०९-१। सौभराणि त्रीणि॥ त्रयाणां सुभरिः ककुबग्निः॥
@@ -7885,7 +7885,7 @@ title = "०१ आग्नेयं पर्व"
 तं꣥गू꣤ऽ३र्धा꣢ऽ३या꣤सुव꣥र्णरो꣤वा꣥॥ दे꣢꣯वा꣡꣯सो꣯दे꣯वमराऽ᳒२᳒ता꣡इन्द꣪धाऽ२३। हो꣡। न्वा꣣ऽ२३४इरा꣥इ॥ दे꣢꣯वत्रा꣡꣯ह। व्यमू꣭ऽ३हा꣢ऽ३॥ हा꣡ऽ२᳐इषा꣣ऽ२३४औ꣥꣯हो꣯वा॥ ऊ꣣ऽ२३꣡४꣡५꣡॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/13_0109_taM_gUrdhayAsvarNaram/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/13_0109_taM_gUrdhayAsvarNaram/02.md">
 <details open><summary><h6>13_0109 तं गूर्धयास्वर्णरम् - 02 ...{Loading}...</h6></summary>
 
 १०९-२।
@@ -7893,7 +7893,7 @@ title = "०१ आग्नेयं पर्व"
 तं꣥गू꣯र्धया꣯सुवर्णा꣤रा꣥म्॥ दे꣢꣯वा꣡꣯सो꣢꣯दा꣡इ। व꣢म꣣र꣢ता꣡ऽ२३इम्। द꣢ध꣣न्विरा꣢उ। वाऽ३। देऽ२३४वा꣥॥ त्रा꣢꣯हा꣡ऽ२३॥ व्य꣤मोवा꣥। हा꣤ऽ५इषोऽ६"हा꣥इ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/13_0109_taM_gUrdhayAsvarNaram/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/13_0109_taM_gUrdhayAsvarNaram/03.md">
 <details open><summary><h6>13_0109 तं गूर्धयास्वर्णरम् - 03 ...{Loading}...</h6></summary>
 
 १०९-३।तं꣥गू꣯र्धया꣯स्वौ꣯हो꣤र्णारा꣥म्॥ दे꣡꣯वाऽ२᳐सो꣣ऽ२३४दे꣥। व꣡मरताऽ२इम्। दा꣣ऽ२३४धा꣥। न्वा꣣ऽ२३४इरा꣥इ। हा꣢हो꣣ऽ२३४हा꣥॥ दे꣡꣯वाऽ२त्रा꣣ऽ२३४हा꣥॥ व्य꣣मू꣢ऽ३हा꣤ऽ५इ॥ षा꣣ऽ२३꣡४꣡५꣡इ॥
@@ -7959,7 +7959,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/14_0110_mA_no/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/14_0110_mA_no/01.md">
 <details open><summary><h6>14_0110 मा नो - 01 ...{Loading}...</h6></summary>
 
 ११०-१। पक्थस्य सौभरस्य सामनी द्वे॥ द्वयोः पक्थः ककुबग्निः॥
@@ -7967,7 +7967,7 @@ title = "०१ आग्नेयं पर्व"
 मा꣤। नाः॥ हृ꣢णी꣯ऽ३था꣡अ꣪तिथी꣢ऽ᳐३म्। वा꣡सू꣢रा꣣ऽ२३४ग्नीः꣥॥ पु꣢रौ꣯हो꣯वाऽ३हा꣢इ। प्रशौ꣯हो꣯वाऽ३हा꣢ऽ३॥ स्त꣢ओ꣡ऽ२३४वा꣥। आ꣤ऽ५इषोऽ६"हा꣥इ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/14_0110_mA_no/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/14_0110_mA_no/02.md">
 <details open><summary><h6>14_0110 मा नो - 02 ...{Loading}...</h6></summary>
 
 ११०-२।
@@ -8035,7 +8035,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/15_0111_bhadro_noagnirAhuto/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/15_0111_bhadro_noagnirAhuto/01.md">
 <details open><summary><h6>15_0111 भद्रो नोअग्निराहुतो - 01 ...{Loading}...</h6></summary>
 
 १११-१। दैवनीकम्॥ देवानीकः ककुबग्निः॥
@@ -8103,7 +8103,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/16_0112_yajiShThaM_tvA/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/16_0112_yajiShThaM_tvA/01.md">
 <details open><summary><h6>16_0112 यजिष्ठं त्वा - 01 ...{Loading}...</h6></summary>
 
 ११२-१। गौतमम् साध्यं वा॥ साधिः ककुबग्निः॥
@@ -8171,7 +8171,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/17_0113_tadagne_dyumnamA/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/17_0113_tadagne_dyumnamA/01.md">
 <details open><summary><h6>17_0113 तदग्ने द्युम्नमा - 01 ...{Loading}...</h6></summary>
 
 ११३-१। संवर्गः॥ जमदग्न्युष्णिगग्निः॥त꣤दग्ने꣯द्यूऽ५म्नम्। आ꣯भरो꣤वा॥ य꣢त्सा꣡꣯साऽ२३हा꣢। स꣡दाऽ२३ना꣢इ। कञ्चि-द꣡त्राऽ२३इणा꣢म्॥ मा꣡न्युञ्जनस्यदूऽ२३हो꣡॥ ढाऽ२३४याम्। ए꣥꣯हियाऽ६हा꣥। हो꣤ऽ५इ॥ डा॥
@@ -8237,7 +8237,7 @@ title = "०१ आग्नेयं पर्व"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/18_0114_yadvA_u/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/2/1/18_0114_yadvA_u/01.md">
 <details open><summary><h6>18_0114 यद्वा उ - 01 ...{Loading}...</h6></summary>
 
 ११४-१। राक्षोघ्नम्॥ अगस्त्य उष्णिगग्निः॥

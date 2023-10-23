@@ -74,13 +74,13 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/31_0467_uchchA_te/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/31_0467_uchchA_te/01.md">
 <details open><summary><h6>31_0467 उच्चा ते - 01 ...{Loading}...</h6></summary>
 
 ४६७-१। आजिगम्॥ अजिगो प्रजापतिर्वा गायत्री सोमः॥ओ꣡म्॥ उ꣥च्चा꣤॥ ते꣢꣯जा꣯ऽ३ता꣡म꣪न्धासाऽ᳒२ः᳒। दिवि꣡सद्भू꣯म्या꣯ददाइ॥ उ꣢ग्रꣳ꣡शाऽ२३ र्मा꣢ऽ३॥ मा꣡ऽ२᳐हा꣣ऽ२३४औ꣥꣯हो꣯वा॥ उ꣢᳐प्। श्रा꣣ऽ२३४वाः꣥॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/31_0467_uchchA_te/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/31_0467_uchchA_te/02.md">
 <details open><summary><h6>31_0467 उच्चा ते - 02 ...{Loading}...</h6></summary>
 
 ४६७-२। आभीकम्॥ अङ्गिरसो गायत्री सोमः॥
@@ -88,7 +88,7 @@ title = "०३ पावमानम्"
 उ꣢च्चा꣡꣯तेऽ२३४जा꣥। त꣢म꣡न्धाऽ२३४साः꣥। दि꣢वा꣡इसाऽ२३४द्भू꣥॥ मि꣢या꣡꣯ददाइ॥ उ꣢ग्रꣳ꣡शाऽ२३र्मा꣢॥ महा꣡ये꣢ऽ३। श्रा꣡ऽ२᳐वा꣣ऽ२३४औ꣥꣯हो꣯वा॥ वा꣣ऽ२३꣡४꣡५꣡इ॥ दी-४। प-८। मा-५॥ २ (दु) ८१५॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/31_0467_uchchA_te/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/31_0467_uchchA_te/03.md">
 <details open><summary><h6>31_0467 उच्चा ते - 03 ...{Loading}...</h6></summary>
 
 ४६७-३। ऋषभः पावमानम्॥ ऋषभो गायत्री सोमः॥
@@ -96,7 +96,7 @@ title = "०३ पावमानम्"
 हा꣥꣯हा꣯उच्चा꣯ते꣯जा॥ हा꣢ऽ३। हा꣢ऽ३इ। ता꣡माऽ२᳐न्धा꣣ऽ२३४साः꣥। दि꣢वि꣡सद्भू꣯ मिया꣢ऽ१दा꣢ऽ३दे꣢॥ उग्रꣳशा꣣ऽ२३४र्मा꣥॥ ओ꣡मो꣢ऽ३। म꣤होवा꣥। श्रा꣤ऽ५वोऽ६" हा꣥इ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/31_0467_uchchA_te/04.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/31_0467_uchchA_te/04.md">
 <details open><summary><h6>31_0467 उच्चा ते - 04 ...{Loading}...</h6></summary>
 
 ४६७-४। आभीकम्॥ अङ्गिरसो गायत्री सोमः॥
@@ -104,7 +104,7 @@ title = "०३ पावमानम्"
 ऊ꣡ऽ२३४च्चा꣯ते꣯जाऽ५। तमौ꣯हो꣤न्धासाः꣥॥ दि꣢वि꣡सद्भू꣯मिया꣢ऽ१दा꣢ऽ३दे꣢॥ उग्रꣳ᳐शा꣣ऽ२३४र्मा꣥॥ मा꣡हा꣭ऽ३उवा꣢ऽ३४३। श्रा꣢ऽ३४५वोऽ६"हा꣥इ॥ दी-४। प-६। मा-३॥ ४ (ति) ८१७॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/31_0467_uchchA_te/05.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/31_0467_uchchA_te/05.md">
 <details open><summary><h6>31_0467 उच्चा ते - 05 ...{Loading}...</h6></summary>
 
 ४६७-५। बाभ्रवे द्वे॥ द्वयोः बभ्रुर्गायत्री सोमः॥
@@ -112,13 +112,13 @@ title = "०३ पावमानम्"
 उ꣥च्चा꣯ते꣯जा॥ त꣢म꣡। धासाऽ२३ः। ओ꣡꣯मो꣭ऽ३वा꣢। दि꣡विस꣢द्भू꣯। मिया꣡दा꣢ऽ१देऽ२३॥ ओ꣡꣯मो꣭ऽ३वा꣢॥ उ꣡ग्राꣳशा꣢ऽ१र्माऽ२३॥ ओ꣡꣯मो꣭ऽ३वा꣢ऽ३। मा꣡ऽ२᳐हा꣣ऽ२३४औ꣥꣯हो꣯वा॥ श्र꣢वऽ३ई꣡ऽ२३꣡४꣡५꣡॥ दी-८। प-११। मा-३॥ ५ (टि) ८१८॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/31_0467_uchchA_te/06.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/31_0467_uchchA_te/06.md">
 <details open><summary><h6>31_0467 उच्चा ते - 06 ...{Loading}...</h6></summary>
 
 ४६७-६। ग्वानिधनबाभ्रवम्॥उ꣥च्चा꣯ते꣯जा॥ त꣢म꣡न्धाऽ२३साः꣢। दि꣡विस꣢द्भू꣯। मिया꣡꣯दाऽ२३दा꣢इ॥ ऊ꣡ग्रा꣢ऽ३ꣳहा꣢इ। शा꣡र्मा꣢ऽ३हा꣢इ॥ म꣣हा꣢ऽ३हो꣡ये꣢ऽ३। श्रा꣡ऽ२᳐वा꣣ऽ२३४औ꣥꣯हो꣯वा॥ ग्वा꣣ऽ२३४भीः꣥॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/31_0467_uchchA_te/07.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/31_0467_uchchA_te/07.md">
 <details open><summary><h6>31_0467 उच्चा ते - 07 ...{Loading}...</h6></summary>
 
 ४६७-७। इन्द्राण्यास्साम॥ इन्द्राणी गायत्री सोमः॥
@@ -126,7 +126,7 @@ title = "०३ पावमानम्"
 उ꣥च्चा꣤꣯ते꣥꣯जा꣯त꣤मा। धा꣡साऽ२३ः। ओ꣡꣯मो꣭ऽ३वा꣢। दि꣡विस꣢द्भू꣯। मिया꣡दा꣢ऽ१ देऽ२३। ओ꣡꣯मो꣭ऽ३वा꣢। उ꣡ग्राꣳशा꣢ऽ१र्माऽ२३। ओ꣡꣯मो꣭ऽ३वा꣢। महा꣡ये꣢ऽ३। श्रा꣡ऽ२᳐ वा꣣ऽ२३४औ꣥꣯हो꣯वा। ऊ꣢ऽ᳐३२᳐३४पा꣥॥ दी-९। प-११। मा-२॥ ७ (त्ला) ८२०॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/31_0467_uchchA_te/08.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/31_0467_uchchA_te/08.md">
 <details open><summary><h6>31_0467 उच्चा ते - 08 ...{Loading}...</h6></summary>
 
 ४६७-८। शैशवे द्वे॥ द्वयोः शिशुर्गायत्री सोमः॥
@@ -134,7 +134,7 @@ title = "०३ पावमानम्"
 उ꣥च्चा꣯ते꣯जा꣯तमन्धा꣤साः꣥॥ दि꣢वि꣡सद्भू꣯म्या꣯ददाइ॥ उ꣢ग्रꣳ꣡शाऽ२३४र्मा꣥॥ म꣣हा꣢ऽ३इश्रा꣤ऽ५वा"ऽ६५६ः॥ दी-५। प-४। मा-४॥ ८ (भी) ८२१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/31_0467_uchchA_te/09.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/31_0467_uchchA_te/09.md">
 <details open><summary><h6>31_0467 उच्चा ते - 09 ...{Loading}...</h6></summary>
 
 ४६७-९।
@@ -217,7 +217,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/32_0468_svAdiShThayA_madiShThayA/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/32_0468_svAdiShThayA_madiShThayA/01.md">
 <details open><summary><h6>32_0468 स्वादिष्ठया मदिष्ठया - 01 ...{Loading}...</h6></summary>
 
 ४६८-१। आजिगम्॥ अजिगो गायत्री सोमेन्द्रौ॥
@@ -225,7 +225,7 @@ title = "०३ पावमानम्"
 स्वा꣡꣯दाइष्ठाया꣢। म꣡दाइष्ठाया꣢॥ प꣡वस्व꣢सो꣯। मा꣡धा꣢ऽ१राऽ२३या꣢॥ इ꣡न्द्रायापा꣢। तवा꣡इसूऽ२३ता꣢ऽ३४३ः। ओ꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/32_0468_svAdiShThayA_madiShThayA/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/32_0468_svAdiShThayA_madiShThayA/02.md">
 <details open><summary><h6>32_0468 स्वादिष्ठया मदिष्ठया - 02 ...{Loading}...</h6></summary>
 
 ४६८-२। सुरूपे द्वे॥ सुरूपर्गायत्री सोमेन्द्रौ॥
@@ -233,13 +233,13 @@ title = "०३ पावमानम्"
 स्वा꣢꣯दिष्ठ꣡याऽ᳒२᳒। इ꣡याऽ᳒२᳒इ꣡या। म꣢दिष्ठा꣡याऽ᳒२᳒॥ पवस्व꣡सोऽ᳒२᳒। इ꣡याऽ᳒२᳒इ꣡या। म꣢धा꣯रा꣡याऽ᳒२᳒॥ इन्द्रा꣯य꣡पाऽ᳒२᳒। इ꣡याऽ᳒२᳒इ꣡या॥ त꣢वा꣡इसूऽ२३ता꣢ऽ३४३ः। ओ꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/32_0468_svAdiShThayA_madiShThayA/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/32_0468_svAdiShThayA_madiShThayA/03.md">
 <details open><summary><h6>32_0468 स्वादिष्ठया मदिष्ठया - 03 ...{Loading}...</h6></summary>
 
 ४६८-३। सुरूपोत्तरम्॥स्वा꣢꣯दिष्ठ꣡यौहोऽ᳒२᳒। इ꣡या। म꣢दिष्ठा꣡याऽ᳒२᳒॥ पवस्व꣡सौहोऽ᳒२᳒। इ꣡या। म꣢धा꣯रा꣡याऽ᳒२᳒॥ इन्द्रा꣯य꣡पौहोऽ᳒२᳒। इ꣡या॥ त꣢वा꣡इसूऽ२३ता꣢ऽ३४३ः। ओ꣡ऽ२३४५ इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/32_0468_svAdiShThayA_madiShThayA/04.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/32_0468_svAdiShThayA_madiShThayA/04.md">
 <details open><summary><h6>32_0468 स्वादिष्ठया मदिष्ठया - 04 ...{Loading}...</h6></summary>
 
 ४६८-४। जमदग्नेः शिल्पे द्वे॥ द्वयोः जमदग्निर्गायत्री सोमेन्द्रौ॥
@@ -247,7 +247,7 @@ title = "०३ पावमानम्"
 ओ꣢इ᳐स्वा꣣ऽ२३४दी꣥॥ ष्ठ꣢या꣯ऽ३मा꣡दि꣪ष्ठया꣢᳐। ओ꣣ऽ२३४वा꣥। प꣡वस्व꣢सो꣯म धा꣡꣯रया꣢ऽ᳐३॥ ओ꣢᳐ई꣣ऽ२३४न्द्रा꣥॥ या꣡ऽ२᳐पा꣣ऽ२३४औ꣥꣯हो꣯वा॥ त꣢वे꣯सु꣣ता꣢ऽ१ः॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/32_0468_svAdiShThayA_madiShThayA/05.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/32_0468_svAdiShThayA_madiShThayA/05.md">
 <details open><summary><h6>32_0468 स्वादिष्ठया मदिष्ठया - 05 ...{Loading}...</h6></summary>
 
 ४६८-५।
@@ -255,7 +255,7 @@ title = "०३ पावमानम्"
 उ꣣हुवा꣢इ᳐। स्वा꣣ऽ२३४दी꣥॥ ष्ठ꣢या꣯ऽ३मा꣡दि꣪ष्ठया꣢᳐। ओ꣣ऽ२३४वा꣥। प꣡वस्व꣢ सो꣯मधा꣡꣯रया꣢ऽ᳐३॥ उहुवा꣢इ। इ꣤न्रा꣣ऽऽ५यपा॥ ता꣡ऽ२᳐वा꣣ऽ२३४औ꣥꣯हो꣯वा॥ सू꣣ऽ२३४ताः꣥॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/32_0468_svAdiShThayA_madiShThayA/06.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/32_0468_svAdiShThayA_madiShThayA/06.md">
 <details open><summary><h6>32_0468 स्वादिष्ठया मदिष्ठया - 06 ...{Loading}...</h6></summary>
 
 ४६८-६। सँहितम्॥ सँहितः साध्या देवा गायत्री सोमेन्द्रौ॥
@@ -263,7 +263,7 @@ title = "०३ पावमानम्"
 स्वा꣤꣯दाइष्ठ꣥या॥ म꣢दिष्ठयाऽ३। पा꣡वा꣢ऽ३स्वा꣤सो꣥। म꣢धा꣯रयाऽ३॥ आ꣡इन्द्रा꣢ऽ३ या꣤पा꣥ऽ६। हा꣥उ॥ त꣤वाऽ५इसुताउ॥ वा॥ दी-२। प-८। मा-५॥ १९ (जु) ८३२॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/32_0468_svAdiShThayA_madiShThayA/07.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/32_0468_svAdiShThayA_madiShThayA/07.md">
 <details open><summary><h6>32_0468 स्वादिष्ठया मदिष्ठया - 07 ...{Loading}...</h6></summary>
 
 ४६८-७। शकुलः॥ वसिष्ठो गायत्री सोमेन्द्रौ॥
@@ -271,13 +271,13 @@ title = "०३ पावमानम्"
 स्वा꣤꣯दि꣥ष्ठया꣯म꣤दि꣥ष्ठया꣯प꣤व꣥स्वसो꣯मधा꣤꣯र꣥या꣯इ꣤। द्राऽ५यपा꣤॥ त꣢वाऽ᳒२᳒इ। ऊऽ᳒२᳒। तवाऽ᳒२᳒इ। ऊ꣡ऽ२᳐॥ त꣣वा꣢ऽ३४औ꣥꣯हो꣯वा। सू꣣ऽ२३४ताः꣥॥ दी-८। प-८। मा-५॥ २० (डु) ८३३॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/32_0468_svAdiShThayA_madiShThayA/08.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/32_0468_svAdiShThayA_madiShThayA/08.md">
 <details open><summary><h6>32_0468 स्वादिष्ठया मदिष्ठया - 08 ...{Loading}...</h6></summary>
 
 ४६८-८। गङ्भीरम्॥ जमदग्निर्गायत्री सोमेन्द्रौ॥औ꣥꣯हो꣯हि꣯म्(स्थि)हा꣯ए꣤हिया꣥। हा꣢ऽ३हा꣢इ। स्वा꣡꣯दाइष्ठाया꣢᳐। मा꣣ऽ२३४दी꣥॥ ओ꣢इ᳐मा꣣ऽ२३४दी꣥॥ औ꣯हो꣯हि꣯म्(स्थि)हा꣯ए꣤हिया꣥। हा꣢ऽ३हा꣢इ। ष्ठ꣡यापाव꣢। स्वा꣣ऽ२३४सो꣥॥ ओ꣢᳐स्वा꣣ऽ२३४सो꣥॥ औ꣯हो꣯हि꣯म्(स्थि)हा꣯ए꣤हिया꣥। हा꣢ऽ३हा꣢इ। म꣡धारया꣢᳐। ई꣣ऽ२३४न्द्रा꣥। ओ꣢᳐ई꣣ऽ२३४न्द्रा꣥॥ औ꣯हो꣯हि꣯म्(स्थि)हा꣯ए꣤हिया꣥। हा꣢ऽ३हा꣢इ। य꣡पातवा꣢इ। सू꣣ऽ२३४ताः꣥। ओ꣢इ᳐सू꣣ऽ२३४ताः꣥॥ औ꣯हो꣯हि꣯म्(स्थि) हा꣯ए꣤हिया꣥। हा꣢ऽ३हा꣢ऽ३४। औ꣥꣯हो꣯वा। ई꣣ऽ२३꣡४꣡५꣡॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/32_0468_svAdiShThayA_madiShThayA/09.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/32_0468_svAdiShThayA_madiShThayA/09.md">
 <details open><summary><h6>32_0468 स्वादिष्ठया मदिष्ठया - 09 ...{Loading}...</h6></summary>
 
 ४६८-९। सँहितः॥ साध्या देवा गायत्री सोमेन्द्रौ॥
@@ -345,7 +345,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/33_0469_vRShA_pavasva/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/33_0469_vRShA_pavasva/01.md">
 <details open><summary><h6>33_0469 वृषा पवस्व - 01 ...{Loading}...</h6></summary>
 
 ४६९-१। सोम सामनी द्वे॥ द्वयोः सोमो गायत्रीन्द्र सोमौ इन्द्रो वा॥
@@ -353,7 +353,7 @@ title = "०३ पावमानम्"
 वृ꣥षा꣯पवा॥ स्व꣢धा꣯रा꣡याऽ᳒२᳒। मरु꣡त्वताइ। चमत्साऽ२३राः꣢॥ वा꣡इश्वा ऽ२३॥ दा꣡ऽ२᳐धा꣣ऽ२३४औ꣥꣯हो꣯वा॥ न꣢ओ꣡꣯जसा꣣ऽ२३꣡४꣡५꣡॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/33_0469_vRShA_pavasva/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/33_0469_vRShA_pavasva/02.md">
 <details open><summary><h6>33_0469 वृषा पवस्व - 02 ...{Loading}...</h6></summary>
 
 ४६९-२।
@@ -361,7 +361,7 @@ title = "०३ पावमानम्"
 वृ꣤षाहा꣥उ॥ पा꣣ऽ२३४वा꣥। स्वा꣢धा᳐रा꣣ऽ२३४या꣥। मा꣣ऽ२३४रू꣥। त्वा꣣ऽ२३४ ता꣥इ। चा꣢म᳐त्सा꣣ऽ२३४राः꣥॥ वा꣡इश्वा꣢꣯दधा꣡ऽ२३॥ ना꣡ऽ२᳐ओ꣣ऽ२३४औ꣥꣯हो꣯वा॥ जा꣣ऽ२३४सा꣥॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/33_0469_vRShA_pavasva/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/33_0469_vRShA_pavasva/03.md">
 <details open><summary><h6>33_0469 वृषा पवस्व - 03 ...{Loading}...</h6></summary>
 
 ४६९-३। आशुभार्गवम्॥ भृगुर्गायत्रीन्द्र सोमौ इन्द्रो वा॥
@@ -369,13 +369,13 @@ title = "०३ पावमानम्"
 वृ꣤षा꣥꣯पव꣤। स्व꣥धा꣯राऽ६या꣥॥ मा꣡रुत्वता꣢ऽ३इ। चा꣡माऽ२᳐त्सा꣣ऽ२३४राः꣥॥ वि꣡श्वादा꣢ऽ१धाऽ२᳐॥ न꣣ओ꣢ऽ३। जा꣡ऽ२३४सो꣥ऽ६"हा꣥इ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/33_0469_vRShA_pavasva/04.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/33_0469_vRShA_pavasva/04.md">
 <details open><summary><h6>33_0469 वृषा पवस्व - 04 ...{Loading}...</h6></summary>
 
 ४६९-४। वैश्वदेवे द्वे॥ द्वयोर्विश्वेदेवा गायत्रीन्द्रसोमौ इन्द्रो वा॥आ꣤इवृ꣥षा꣤॥ प꣢वा꣡। इ꣣हा꣢। औ꣭ऽ३हो꣢। स्वधा꣡꣯राऽ२३४या꣥। म꣢। रू꣡। त्वते꣢ऽ३हा꣢इ। च। मा꣡। त्स꣪राऽ२३हा꣢ऽ३४इ॥ वि꣥श्वा꣯दधा꣯हाउ। नओ꣯जसा꣯ हाउ॥ ओ꣢꣯वाऽ३४३ओ꣢ऽ३४५वाऽ६५६॥ अ꣢स्मे꣡꣯रा꣯या꣰꣯ऽ२उत꣡श्रवाऽ२३꣡४꣡५ः꣡॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/33_0469_vRShA_pavasva/05.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/33_0469_vRShA_pavasva/05.md">
 <details open><summary><h6>33_0469 वृषा पवस्व - 05 ...{Loading}...</h6></summary>
 
 ४६९-५।
@@ -383,7 +383,7 @@ title = "०३ पावमानम्"
 वृ꣥षा꣯। प꣣वा꣢ऽ३। ए꣤हिया꣥॥ स्व꣢धा꣡ऽ२᳐। र꣣या꣢ऽ३४औ꣣꣯हो꣤꣯वा꣥। मा꣡रू꣢ऽ३४। औ꣣꣯हो꣤꣯वा꣥॥ त्व꣡ते꣯चमा꣢ऽ१त्सा꣢ऽ३राः꣢॥ औ꣭ऽ३हो꣢ऽ३१ये꣢ऽ३। औ꣯होऽ२३४५ वाऽ६५६॥ वि꣡श्वा꣢꣯द꣡धा꣢꣯नओ꣡꣯जसा꣣ऽ२३꣡४꣡५꣡॥ दी-१०। प-११। मा-३॥ २७ (पिं) ८४०॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/33_0469_vRShA_pavasva/06.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/33_0469_vRShA_pavasva/06.md">
 <details open><summary><h6>33_0469 वृषा पवस्व - 06 ...{Loading}...</h6></summary>
 
 ४६९-६। इन्द्र सामनी द्वे॥ द्वयोरिन्द्रो गायत्रीन्द्रसोमौ इन्द्रो वा॥
@@ -391,7 +391,7 @@ title = "०३ पावमानम्"
 वृ꣡षापावाऽ२३। हौ꣡꣯होइ। औ꣢ऽ३होऽ२३꣡४꣡५꣡॥ स्व꣡धारायाऽ२३। हौ꣡꣯होइ। औ꣢ऽ३होऽ२३꣡४꣡५꣡। म꣡रूत्वातेऽ२३। हौ꣡꣯होइ। औ꣢ऽ३होऽ२३꣡४꣡५꣡। च꣡मात्सारा ऽ२३ः। हौ꣡꣯होइ। औ꣢ऽ३होऽ२३꣡४꣡५꣡॥ वि꣡श्वादाधाऽ२३। हौ꣡꣯होइ। औ꣢ऽ३ होऽ२३꣡४꣡५꣡। न꣡ओजासाऽ२३। हौ꣡꣯होइ। औ꣢ऽ३हो꣢ऽ३४३॥ ओ꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/33_0469_vRShA_pavasva/07.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/33_0469_vRShA_pavasva/07.md">
 <details open><summary><h6>33_0469 वृषा पवस्व - 07 ...{Loading}...</h6></summary>
 
 ४६९-७।
@@ -399,7 +399,7 @@ title = "०३ पावमानम्"
 वृ꣢षा꣡पावा꣢᳐। औ꣣꣯हौ꣯होऽ२३४वा꣥। स्व꣢धा꣡राया꣢᳐। औ꣣꣯हौ꣯होऽ२३४वा꣥॥ म꣢रू꣡त्वाता꣢᳐। औ꣣꣯हौ꣯होऽ२३४वा꣥। च꣢मा꣡त्सारा꣢᳐। औ꣣꣯हौ꣯होऽ२३४वा꣥॥ वि꣢श्वा꣡दाधा꣢᳐। औ꣣꣯हौ꣯होऽ२३४वा꣥॥ न꣢ओ꣡जासा꣢᳐। औ꣣꣯हौ꣯होऽ२३४वा꣥॥ हो꣤ऽ५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/33_0469_vRShA_pavasva/08.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/33_0469_vRShA_pavasva/08.md">
 <details open><summary><h6>33_0469 वृषा पवस्व - 08 ...{Loading}...</h6></summary>
 
 ४६९-८। यौक्ताश्वे द्वे॥ द्वयोर्युक्ताश्वो गायत्री सोमः इन्द्रो वा॥ (यौक्ताश्वाद्यम्)।
@@ -407,7 +407,7 @@ title = "०३ पावमानम्"
 औ꣥꣯हो꣤होहा꣥इ। वृ꣤षा꣥॥ प꣢वस्वऽ३धा꣡राया꣢ऽ३। मा꣡रूऽ२᳐त्वा꣣ऽ२३४ता꣥इ। ओ꣡इ। च꣪माऽ२३। च꣡माऽ२᳐त्सा꣣ऽ२३४राः꣥॥ औ꣯हो꣤होहा꣥इ। वि꣤श्वा꣥॥ द꣡धाऽ२᳐ ना꣣ऽ२३४ओ꣥। जा꣢᳐सा꣣ऽ२३४औ꣥꣯हो꣯वा॥ ओ꣢इ। ज्वर꣣आ꣢॥ दी-४। प-१३। मा-९॥ ३० (दो) ८४३॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/33_0469_vRShA_pavasva/09.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/33_0469_vRShA_pavasva/09.md">
 <details open><summary><h6>33_0469 वृषा पवस्व - 09 ...{Loading}...</h6></summary>
 
 ४६९-९। यौक्ताश्वोत्तरम्॥वृ꣥षा꣯औ꣯हो꣤होहा꣥इ॥ प꣢वऽ३स्वा꣡धा꣢ऽ१राया꣢ऽ३। मा꣡रूऽ२᳐त्वा꣣ऽ२३४ता꣥इ। च꣣मा꣢ऽ३। ओ꣡इ। च꣪माऽ२᳐त्सा꣣ऽ२३४राः꣥॥ विश्वा꣯औ꣯हो꣤होहा꣥इ॥ द꣡धाऽ२᳐ ना꣣ऽ२३४ओ꣥। जा꣡ऽ२᳐सा꣣ऽ२३४औ꣥꣯हो꣯वा॥ ओ꣢इ᳐। जू꣣ऽ२३४वा꣥॥
@@ -477,7 +477,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/34_0470_yaste_mado/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/34_0470_yaste_mado/01.md">
 <details open><summary><h6>34_0470 यस्ते मदो - 01 ...{Loading}...</h6></summary>
 
 ४७०-१। भासम्॥ अत्रिर्गायत्री सोमः॥
@@ -485,7 +485,7 @@ title = "०३ पावमानम्"
 या꣤स्ता꣥इ॥ मा꣡दो। वारा꣢᳐ओ꣣ऽ२३४वा꣥। णी꣣ऽ२३४याः꣥। ता꣤इना꣥॥ पा꣡वा।
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/34_0470_yaste_mado/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/34_0470_yaste_mado/02.md">
 <details open><summary><h6>34_0470 यस्ते मदो - 02 ...{Loading}...</h6></summary>
 
 ४७०-२। सोम साम॥ सोमो गायत्री सोमः॥
@@ -493,7 +493,7 @@ title = "०३ पावमानम्"
 य꣤स्तेम꣥दाः॥ व꣢रा᳐इणि꣣याः꣢। ता꣡इनापावा꣢ऽ३स्वा꣢ऽ३। अ꣢न्ध꣣सा꣢॥ दा꣡इवावाइरा꣢ऽ३४। हा꣥उ॥ घ꣤शाऽ५ꣳसहा। हो꣤ऽ५इ॥ डा॥ दी-नास्ति। प-९। मा-८॥ २ (लै) ८४६॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/34_0470_yaste_mado/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/34_0470_yaste_mado/03.md">
 <details open><summary><h6>34_0470 यस्ते मदो - 03 ...{Loading}...</h6></summary>
 
 ४७०-३। प्राजापत्यम्॥ प्रजापतिर्गायत्री सोमः॥
@@ -501,7 +501,7 @@ title = "०३ पावमानम्"
 य꣣स्ता꣢ऽ३२᳐इमा꣣ऽ२३४दाः꣥॥ व꣢रा꣡इणाया꣢᳐। ओ꣣ऽ२३४वा꣥। हा꣢᳐। ओ꣣ऽ२३४ वा꣥। हा꣢इ। ता꣡इना꣯प꣢व। स्वआ꣡न्धासा꣢᳐। ओ꣣ऽ२३४वा꣥। हा꣢᳐। ओ꣣ऽ२३४वा꣥। हा꣢इ॥ दा꣡इवावाइरा꣢᳐। ओ꣣ऽ२३४वा꣥। हा꣢᳐। ओ꣣ऽ२३४वा꣥। हा꣢ऽ३इ॥ घा꣡ऽ२᳐ शा꣣ऽ२३४औ꣥꣯हो꣯वा॥ स꣢हो꣯रयिऽ३ष्ठा꣡ऽ२३꣡४꣡५ः꣡॥ दी-४। प-१९। मा-१२॥ ३ (धा) ८४७॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/34_0470_yaste_mado/04.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/34_0470_yaste_mado/04.md">
 <details open><summary><h6>34_0470 यस्ते मदो - 04 ...{Loading}...</h6></summary>
 
 ४७०-४। सोमसाम॥ सोमो गायत्री सोमः॥
@@ -509,7 +509,7 @@ title = "०३ पावमानम्"
 य꣢स्ता꣡इमाऽ२३दो꣤꣯वरे꣥꣯णियाः॥ ता꣡इना꣯प꣢व। स्वआ꣡न्धा꣢ऽ१साऽ᳒२᳒॥ दा꣡इवाऽ᳒२᳒वा꣡इराऽ२३॥ घ꣢शो꣡ऽ२३४वा꣥। सा꣤ऽ५होऽ६"हा꣥इ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/34_0470_yaste_mado/05.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/34_0470_yaste_mado/05.md">
 <details open><summary><h6>34_0470 यस्ते मदो - 05 ...{Loading}...</h6></summary>
 
 ४७०-५। भासम्॥ अत्रिर्गायत्री सोमः॥
@@ -517,7 +517,7 @@ title = "०३ पावमानम्"
 य꣥स्ते꣯। मा꣢ऽ३दो꣤। वा꣥। ई꣤या꣥॥ रा꣡इणा꣢ऽ१याऽ᳒२ः᳒। ता꣡इना꣯प꣢व। स्व। औ꣭ऽ३हो꣢꣯। वा꣣꣯हा꣢। ध꣡साऽ᳒२᳒॥ दा꣡इवाऽ२३॥ वा꣡ऽ२᳐इरा꣣ऽ२३४औ꣥꣯हो꣯वा॥ घ꣢शꣳ स꣣हा꣢ऽ१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/34_0470_yaste_mado/06.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/34_0470_yaste_mado/06.md">
 <details open><summary><h6>34_0470 यस्ते मदो - 06 ...{Loading}...</h6></summary>
 
 ४७०-६। अध्यर्द्धेडँ सोम साम॥ सोमो गायत्री सोमः॥
@@ -585,7 +585,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/35_0471_tisrou_vAcha/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/35_0471_tisrou_vAcha/01.md">
 <details open><summary><h6>35_0471 तिस्रोउ वाच - 01 ...{Loading}...</h6></summary>
 
 ४७१-१। वैष्टम्भे द्वे॥ द्वयोर्विष्टम्भो गायत्री सोमः॥
@@ -593,7 +593,7 @@ title = "०३ पावमानम्"
 ति꣥स्रो꣯वा꣯चाः॥ उ꣡दाइ। उ꣢दाऽ३१उ। वाये꣢ऽ३। राऽ२३४ते꣥॥ गा꣯वो꣯ मिमा॥ ति꣢धा꣡इ। ति꣢धाऽ३१उ। वाये꣢ऽ३। नाऽ२३४वाः꣥॥ हरिरे꣯ती॥ क꣢ना꣡इ। क꣢नाऽ३१उ। वाये꣢ऽ३॥ क्राऽ२३४दा꣥त्॥ दी-५। प-१५। मा-९॥ ७ (मो) ८५१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/35_0471_tisrou_vAcha/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/35_0471_tisrou_vAcha/02.md">
 <details open><summary><h6>35_0471 तिस्रोउ वाच - 02 ...{Loading}...</h6></summary>
 
 ४७१-२।
@@ -601,7 +601,7 @@ title = "०३ पावमानम्"
 ति꣥स्रो꣯वा꣯चाः॥ उ꣡दाइरा꣢ऽ३ते꣢। गा꣡꣯वो꣯मिमन्तिधा꣢ऽ१इना꣢ऽ३वाः꣢। हरिरे꣯ तो꣣ऽ२३४हा꣥इ॥ का꣡ऽ२᳐ना꣣ऽ२३४औ꣥꣯हो꣯वा॥ क्रा꣣ऽ२३४दा꣥त्॥ दी-७। प-६। मा-७॥ ८ (चे) ८५२॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/35_0471_tisrou_vAcha/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/35_0471_tisrou_vAcha/03.md">
 <details open><summary><h6>35_0471 तिस्रोउ वाच - 03 ...{Loading}...</h6></summary>
 
 ४७१-३। पाष्ठौहे द्वे॥ द्वयोः पष्ठवाड् गायत्री सोमः॥
@@ -609,7 +609,7 @@ title = "०३ पावमानम्"
 ति꣢स्रो꣯वा꣡चोऽ२३४हा꣥इ॥ उ꣢दी꣯र꣡ताइ। गा꣢꣯वो꣯मि꣡माऽ२३४हा꣥॥ ति꣢धे꣯न꣡वाः॥ ह꣢रिरा꣡इतोऽ२३४हा꣥इ॥ क꣢ना꣡ये꣢ऽ३। क्रा꣡ऽ२᳐दा꣣ऽ२३४औ꣥꣯हो꣯वा॥ अ꣢स्म꣡भ्यं꣢गा꣯तु वि꣡त्त꣢मा꣣ऽ२३꣡४꣡५꣡म्॥ दी-८। प-८। मा-७॥ ९ (डे) ८५३॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/35_0471_tisrou_vAcha/04.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/35_0471_tisrou_vAcha/04.md">
 <details open><summary><h6>35_0471 तिस्रोउ वाच - 04 ...{Loading}...</h6></summary>
 
 ४७१-४।
@@ -617,7 +617,7 @@ title = "०३ पावमानम्"
 ति꣥स्रो꣤꣯वा꣯च꣥उ꣤दी꣥꣯रतो꣤। वाहा꣥इ॥ गा꣢꣯वो꣯मिमाऽ३। ती꣡धे꣢᳐ना꣣ऽ२३४वाः꣥॥ हा꣤री꣥रा꣤इती꣥॥ का꣡ऽ२᳐ना꣣ऽ२३४औ꣥꣯हो꣯वा॥ क्रा꣣ऽ२३४दा꣥त्॥ दी-७। प-७। मा-६॥ १० (छू) ८५४॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/35_0471_tisrou_vAcha/05.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/35_0471_tisrou_vAcha/05.md">
 <details open><summary><h6>35_0471 तिस्रोउ वाच - 05 ...{Loading}...</h6></summary>
 
 ४७१-५। क्षुल्लक वैष्टंभम्॥ विष्टंभो गायत्री सोमः॥
@@ -625,7 +625,7 @@ title = "०३ पावमानम्"
 ति꣤स्रो꣣ऽ५वा꣯। चा꣤ऽ३उ꣢दी꣣꣯र꣥ताइ॥ गा꣡वो꣯मि꣢म। तिधा꣡इना꣢ऽ१वाऽ२३ः। हो꣡वा꣢ऽ३हा꣢इ॥ ह꣡राइरा꣢ऽ१इतीऽ२३। हो꣡वा꣢ऽ३हा꣢इ॥ कना꣡ये꣢ऽ३। क्रा꣡ऽ२᳐ दा꣣ऽ२३४औ꣥꣯हो꣯वा॥ दी꣣ऽ२३४शाः꣥॥ दी-५। प-१०। मा-१०॥ ११ (मौ) ८५५॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/35_0471_tisrou_vAcha/06.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/35_0471_tisrou_vAcha/06.md">
 <details open><summary><h6>35_0471 तिस्रोउ वाच - 06 ...{Loading}...</h6></summary>
 
 ४७१-६। पाष्ठौहम्॥ पष्ठवाड्गायत्री सोमः॥
@@ -693,7 +693,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/36_0472_indrAyendo_marutvate/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/36_0472_indrAyendo_marutvate/01.md">
 <details open><summary><h6>36_0472 इन्द्रायेन्दो मरुत्वते - 01 ...{Loading}...</h6></summary>
 
 ४७२-१। इषो वृधीयम्॥ प्रजापतिर्गायत्रीन्द्र सोमौ॥
@@ -701,7 +701,7 @@ title = "०३ पावमानम्"
 इ꣥न्द्रा꣯ये꣯न्दाउ॥ म꣢रुत्व꣡ताइ। प꣢वस्वा꣡माऽ᳒२᳒। धुमत्त꣡माः॥ अ꣢र्क स्या꣡योऽ᳒२᳒॥ निमा꣡ऽ२३। सा꣡ऽ२᳐दा꣣ऽ२३४औ꣥꣯हो꣯वा॥ इ꣢षो꣡꣯वृधे꣢ऽ१॥ दी-५। प-८। मा-४॥ १३ (बी) ८५७॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/36_0472_indrAyendo_marutvate/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/36_0472_indrAyendo_marutvate/02.md">
 <details open><summary><h6>36_0472 इन्द्रायेन्दो मरुत्वते - 02 ...{Loading}...</h6></summary>
 
 ४७२-२। इन्द्रसाम॥ इन्द्रो गायत्रीन्द्रसोमौ इन्द्रो वा॥
@@ -709,7 +709,7 @@ title = "०३ पावमानम्"
 आ꣣ऽ२३४इन्द्रा꣥। या꣣ऽ२३४इन्दो꣥॥ म꣢रू꣡त्वते꣢ऽ३। पाऽ२३४वा꣥। स्वा꣣ऽ २३४मा꣥। धु꣢मा꣡त्तमा꣢ऽ३ः॥ आऽ२३४र्का꣥॥ स्या꣣ऽ२३४यो꣥॥ नि꣢मा꣡꣯स꣢दा꣣ ऽ२३꣡४꣡५꣡म्॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/36_0472_indrAyendo_marutvate/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/36_0472_indrAyendo_marutvate/03.md">
 <details open><summary><h6>36_0472 इन्द्रायेन्दो मरुत्वते - 03 ...{Loading}...</h6></summary>
 
 ४७२-३। वैश्वदेवे द्वे॥ द्वयोर्विश्वेदेवागायत्रीन्द्रासोमौ इन्द्रो वा॥
@@ -717,7 +717,7 @@ title = "०३ पावमानम्"
 इ꣢न्द्रा꣯या꣡इन्दोऽ२३। हा꣡। औ꣢ऽ३हो꣯वा꣢। मरुत्वा꣡तेऽ२३। हा꣡। औ꣢ऽ३ हो꣯वा꣢॥ पवस्वा꣡माऽ२३। हा꣡। औ꣢ऽ३हो꣯वा꣢। धुमत्ता꣡माऽ२३ः। हा꣡। औ꣢ऽ३ हो꣯वा꣢॥ अर्कस्या꣡योऽ२३। हा꣡। औ꣢ऽ३हो꣯वा꣢। निमा꣯सा꣡दाऽ२३म्। हा꣡। औ꣢ऽ३ हो꣯वा꣢ऽ३४३॥ ओ꣡ऽ२३४५इ॥ डा॥ दी-८। प-२०। मा-४॥ १५ (णी) ८५९॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/36_0472_indrAyendo_marutvate/04.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/36_0472_indrAyendo_marutvate/04.md">
 <details open><summary><h6>36_0472 इन्द्रायेन्दो मरुत्वते - 04 ...{Loading}...</h6></summary>
 
 ४७२-४।
@@ -725,7 +725,7 @@ title = "०३ पावमानम्"
 इ꣤न्द्रा꣥꣯ये꣯न्दो꣯। ए꣤ऽ५। म꣤रू॥ त्व꣡ताइ। पवस्वमधु꣢म꣡त्ताऽ२३माः꣢। हुवा꣡इ। हो꣭ऽ३वा꣢॥ अर्का꣡स्याऽ२३यो꣢। हुवा꣡इ। हो꣭ऽ३वा꣢॥ निमा꣡꣯साऽ२३ दा꣢ऽ३४३म्। ओ꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/36_0472_indrAyendo_marutvate/05.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/36_0472_indrAyendo_marutvate/05.md">
 <details open><summary><h6>36_0472 इन्द्रायेन्दो मरुत्वते - 05 ...{Loading}...</h6></summary>
 
 ४७२-५। आग्नेये द्वे॥ द्वयोरग्निर्गायत्रीन्द्रासोमौ इन्द्रो वा॥
@@ -733,7 +733,7 @@ title = "०३ पावमानम्"
 इ꣥न्द्रा꣯ये꣯न्दो꣯हाउ॥ म꣢। रू꣡। त्वते꣢ऽ३हा꣢उ। प꣡वस्व꣢मधु। मा꣡। त꣪माऽ२३ हा꣢उ। अ। का꣡। स्य꣪योऽ२३हा꣢ऽ३इ॥ नि꣡माऽ२३। होऽ२३४वा꣥। सा꣤ऽ५दोऽ६" हा꣥इ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/36_0472_indrAyendo_marutvate/06.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/36_0472_indrAyendo_marutvate/06.md">
 <details open><summary><h6>36_0472 इन्द्रायेन्दो मरुत्वते - 06 ...{Loading}...</h6></summary>
 
 ४७२-६।
@@ -741,7 +741,7 @@ title = "०३ पावमानम्"
 इ꣥न्द्रा꣯ये꣯न्दो꣤वा꣥। ओ꣤वा꣥॥ म꣢रुत्व꣡तोवा꣢। ओ꣡वा꣢। पवस्व꣡मोवा꣢। ओ꣡वा꣢। धुमत्त꣡मोवा꣢। ओ꣡वा꣢ऽ३॥ अ꣤र्काहा꣥उ। स्य꣤योहा꣥उ॥ नि꣢मो꣡वा꣢ऽ३ओ꣡ऽ२३४वा꣥। सा꣤ऽ५दोऽ६"हा꣥इ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/36_0472_indrAyendo_marutvate/07.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/36_0472_indrAyendo_marutvate/07.md">
 <details open><summary><h6>36_0472 इन्द्रायेन्दो मरुत्वते - 07 ...{Loading}...</h6></summary>
 
 ४७२-७। वैश्वदेवम्॥ विश्वेदेवा गायत्रीन्द्रासोमौ इन्द्रो वा॥
@@ -749,7 +749,7 @@ title = "०३ पावमानम्"
 इ꣤न्द्रा꣥꣯ये꣯न्दो꣯मरु꣤त्व꣥ते꣯। ओ꣤हाइ॥ प꣡वस्व꣢म꣡धु꣢मत्तमः। ओ꣭ऽ३हा꣢ऽ३४३। ओ꣢ऽ३४हा꣥॥ आ꣡र्क꣪स्यायोऽ२३॥ ना꣡ऽ२᳐इमा꣣ऽ२३४औ꣥꣯हो꣯वा॥ उ꣢प्। सा꣣ऽ२३४दा꣥म्॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/36_0472_indrAyendo_marutvate/08.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/36_0472_indrAyendo_marutvate/08.md">
 <details open><summary><h6>36_0472 इन्द्रायेन्दो मरुत्वते - 08 ...{Loading}...</h6></summary>
 
 ४७२-८। आग्नेयम्॥ अग्निर्गायत्रीन्द्रासोमौ इन्द्रो वा॥
@@ -817,7 +817,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/37_0473_asAvyaMshurmadAyApsu_daxo/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/37_0473_asAvyaMshurmadAyApsu_daxo/01.md">
 <details open><summary><h6>37_0473 असाव्यंशुर्मदायाप्सु दक्षो - 01 ...{Loading}...</h6></summary>
 
 ४७३-१। शैशवानि चत्वारि॥ शिशुर्गायत्री श्येनसोमौ॥
@@ -825,7 +825,7 @@ title = "०३ पावमानम्"
 आ꣤सा꣥॥ वि꣡यꣳशु꣢र्माऽ३१उवाऽ२३। दाऽ२३४या꣥। आ꣤प्सू꣥दा꣤क्षाः꣥। गि꣢राऽ३१उवाये꣢ऽ३। ष्ठाऽ२३꣡४꣡५ः꣡॥ श्ये꣢꣯नो꣡꣯नाऽ२३यो꣢। निमाऽ३१उवाऽ२३॥ साऽ२३४दा꣥त्॥ दी-२। प-९। मा-६॥ २१ (झू) ८६५॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/37_0473_asAvyaMshurmadAyApsu_daxo/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/37_0473_asAvyaMshurmadAyApsu_daxo/02.md">
 <details open><summary><h6>37_0473 असाव्यंशुर्मदायाप्सु दक्षो - 02 ...{Loading}...</h6></summary>
 
 ४७३-२।
@@ -833,7 +833,7 @@ title = "०३ पावमानम्"
 अ꣤सा꣥꣯विया꣤॥ शू꣡र्म꣪दाऽ᳒२᳒। य। आ꣡प्सू꣪दाक्षाऽ᳒२ः᳒। गा꣡इरिष्ठाः꣢꣯॥ श्या꣡इनो꣢ ऽ१नायोऽ२३॥ नि꣢मो꣡ऽ२३४वा꣥। सा꣤ऽ५दोऽ६"हा꣥इ॥ दी-२। प-८। मा-५॥ २२ (जु) ८६६॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/37_0473_asAvyaMshurmadAyApsu_daxo/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/37_0473_asAvyaMshurmadAyApsu_daxo/03.md">
 <details open><summary><h6>37_0473 असाव्यंशुर्मदायाप्सु दक्षो - 03 ...{Loading}...</h6></summary>
 
 ४७३-३।
@@ -841,7 +841,7 @@ title = "०३ पावमानम्"
 अ꣥सा꣯। वि꣣या꣢᳐ओ꣣ऽ२३४वा꣥॥ शू꣡र्म꣪दाया꣢᳐। ओ꣣ऽ२३४वा꣥। आ꣡प्सा꣢᳐ओ꣣ऽ २३४वा꣥॥ द꣡क्षो꣯गिराइ। ष्ठा꣢ओ꣣ऽ२३४वा꣥॥ श्ये꣢꣯नो꣡꣯नयो꣯निमा꣯स꣢दा꣣ऽ२३꣡४꣡५꣡त्॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/37_0473_asAvyaMshurmadAyApsu_daxo/04.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/37_0473_asAvyaMshurmadAyApsu_daxo/04.md">
 <details open><summary><h6>37_0473 असाव्यंशुर्मदायाप्सु दक्षो - 04 ...{Loading}...</h6></summary>
 
 ४७३-४।
@@ -849,7 +849,7 @@ title = "०३ पावमानम्"
 अ꣥सा꣯। वि꣣यौ꣢वा᳐ओ꣣ऽ२३४वा꣥॥ शु꣢र्म꣡दायौ꣢। वा᳐ओ꣣ऽ२३४वा꣥। अप्सू। द꣣क्षौ꣢वा᳐ओ꣣ऽ२३४वा꣥। गि꣡राइ। ष्ठौ꣢वा᳐ओ꣣ऽ२३४वा꣥। श्ये꣯नः। न꣣यौ꣢वा᳐ ओ꣣ऽ२३४वा꣥॥ नि꣡मा। सादौ꣢वा᳐ओ꣣ऽ२३४वा꣥॥ हो꣤ऽ५इ॥ डा॥ दी-२। प-१४। मा-९॥ २४ (झो) ८६८॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/37_0473_asAvyaMshurmadAyApsu_daxo/05.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/37_0473_asAvyaMshurmadAyApsu_daxo/05.md">
 <details open><summary><h6>37_0473 असाव्यंशुर्मदायाप्सु दक्षो - 05 ...{Loading}...</h6></summary>
 
 ४७३-५। च्यावनानि चत्वारि॥ चतुर्णां च्यवनो गायत्री श्येनसोमौ॥
@@ -857,7 +857,7 @@ title = "०३ पावमानम्"
 अ꣤सा꣥꣯। व्युहु꣤वाहा꣥इ॥ अꣳ꣢शु꣡र्मदा꣯या꣯प्सुदक्षो꣯गिरिष्ठा꣯उहुवाऽ२३हो꣡इ॥ श्याऽ२३इनो꣢ऽ३॥ ना꣡ऽ२᳐यो꣣ऽ२३४औ꣥꣯हो꣯वा॥ नि꣢मा꣡꣯स꣢दा꣣ऽ२३꣡४꣡५꣡त्॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/37_0473_asAvyaMshurmadAyApsu_daxo/06.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/37_0473_asAvyaMshurmadAyApsu_daxo/06.md">
 <details open><summary><h6>37_0473 असाव्यंशुर्मदायाप्सु दक्षो - 06 ...{Loading}...</h6></summary>
 
 ४७३-६।
@@ -865,7 +865,7 @@ title = "०३ पावमानम्"
 अ꣤सा꣥꣯व्यꣳशुः꣤। औ꣥꣯हो꣤वाहा꣥इ॥ म꣡दाऽ२३या꣢। आ꣡प्सुद꣢क्षो꣯गिरिष्ठाः꣯। श्या꣡इनोना꣢ऽ३यो꣢ऽ३॥ ना꣡ऽ२᳐इमा꣣ऽ२३४औ꣥꣯हो꣯वा॥ उ꣢प्। सा꣣ऽ२३४दा꣥त्॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/37_0473_asAvyaMshurmadAyApsu_daxo/07.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/37_0473_asAvyaMshurmadAyApsu_daxo/07.md">
 <details open><summary><h6>37_0473 असाव्यंशुर्मदायाप्सु दक्षो - 07 ...{Loading}...</h6></summary>
 
 ४७३-७।
@@ -873,7 +873,7 @@ title = "०३ पावमानम्"
 इ꣣हा꣢ऽ३१२३४। इहा꣯। सा꣥꣯व्यꣳशु꣤र्मदा꣥꣯य। इ꣤हा॥ अ꣢प्सु꣡दक्षो꣯गिरिष्ठा꣢ ऽ३४५ः। ई꣣ऽ२३४हा꣥॥ श्ये꣢꣯नो꣡꣯नयोऽ२᳐नि꣣मा꣢ऽ३४५। ई꣣ऽ२३४हा꣥॥ आ꣡ऽ२᳐स꣣दा꣢ ऽ३४५त्॥ ई꣣ऽ२३४हा꣥॥ दी-६। प-१०। मा-२॥ २७ (ङा) ८७१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/37_0473_asAvyaMshurmadAyApsu_daxo/08.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/37_0473_asAvyaMshurmadAyApsu_daxo/08.md">
 <details open><summary><h6>37_0473 असाव्यंशुर्मदायाप्सु दक्षो - 08 ...{Loading}...</h6></summary>
 
 ४७३-८।
@@ -941,7 +941,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/38_0474_pavasva_daxasAdhano/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/38_0474_pavasva_daxasAdhano/01.md">
 <details open><summary><h6>38_0474 पवस्व दक्षसाधनो - 01 ...{Loading}...</h6></summary>
 
 ४७४-१। प्राजापत्ये द्वे॥ द्वयोः प्रजापतिर्गायत्री मरुद्वायू॥
@@ -949,7 +949,7 @@ title = "०३ पावमानम्"
 प꣤व꣥स्वदौ꣯। हौ꣤꣯होवाहा꣥इ॥ क्षा꣡सा꣢꣯धना꣭ऽ३ः। औ꣢ऽ३हो꣢ऽ३४इ। औ꣯हो꣥꣯। वा꣣꣯हा꣢इ। दे꣯वे꣡꣯भ्यᳲ꣢पा꣡इ। त꣢ये꣣꣯ह꣢रा꣭ऽ३इ। औ꣢ऽ३हो꣢ऽ३४इ। औ꣯हो꣥꣯। वा꣣꣯हा꣢इ॥ मरु꣡द्भ्यो꣢꣯वा꣭ऽ३। औ꣢ऽ३हो꣢ऽ३४इ। औ꣯हो꣥꣯। वा꣣꣯हा꣢ऽ३इ॥ या꣡ऽ२᳐वा꣣ऽ२३४ औ꣥꣯हो꣯वा॥ मा꣣ऽ२३४दाः꣥॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/38_0474_pavasva_daxasAdhano/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/38_0474_pavasva_daxasAdhano/02.md">
 <details open><summary><h6>38_0474 पवस्व दक्षसाधनो - 02 ...{Loading}...</h6></summary>
 
 ४७४-२।
@@ -1017,7 +1017,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/39_0475_pari_svAno/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/39_0475_pari_svAno/01.md">
 <details open><summary><h6>39_0475 परि स्वानो - 01 ...{Loading}...</h6></summary>
 
 ४७५-१। वैदन्वतानि चत्वारि॥ चतुर्णां विदन्वान्गायत्री सोमः॥
@@ -1025,7 +1025,7 @@ title = "०३ पावमानम्"
 पा꣤री꣥॥ स्वा꣢꣯नो꣯गिरिष्ठाः꣯। पवा꣡ऽ२᳐इत्रे꣣ऽ२३४सो꣥। मो꣢꣯अक्षा꣡राऽ᳒२᳒त्॥ म꣡दाइषूसा꣢ऽ३। ई꣭ऽ३या꣢ऽ३॥ र्व꣢धो꣡ऽ२३४वा꣥। आ꣤ऽ५सोऽ६"हा꣥इ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/39_0475_pari_svAno/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/39_0475_pari_svAno/02.md">
 <details open><summary><h6>39_0475 परि स्वानो - 02 ...{Loading}...</h6></summary>
 
 ४७५-२।
@@ -1033,7 +1033,7 @@ title = "०३ पावमानम्"
 प꣤। र्येपारी꣥॥ स्वा꣢꣯नो꣯गिरिष्ठाः꣯। पवा꣡ऽ२᳐इत्रे꣣ऽ२३४सो꣥। मो꣢꣯अक्षा꣡राऽ᳒२᳒त्॥ म꣡दाइषूसा꣢ऽ३हा꣢ऽ३॥ र्वा꣡ऽ२᳐धा꣣ऽ२३४औ꣥꣯हो꣯वा॥ ए꣢ऽ᳐३। अ꣡सी꣣ऽ२३꣡४꣡५꣡॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/39_0475_pari_svAno/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/39_0475_pari_svAno/03.md">
 <details open><summary><h6>39_0475 परि स्वानो - 03 ...{Loading}...</h6></summary>
 
 ४७५-३।
@@ -1041,7 +1041,7 @@ title = "०३ पावमानम्"
 पा꣣ऽ५रि। स्वा꣯नो꣤ऽ३गा꣢ऽ३इरि꣤ष्ठाः꣥॥ प꣢वि꣡त्रे꣢꣯सो꣡। मो꣢꣯अ꣣क्ष꣢रा꣡त्। प꣢वि꣡त्रे꣢꣯। सो꣡मोऽ२३। क्षा꣤रा꣥त्। ओ꣡इ। मदौ꣢। वाऽ३४३ओ꣢ऽ३४वा꣥। षुवा꣤॥ स꣢र्वधाः꣡꣯। असाये꣢ऽ३। मा꣡ऽ२᳐दा꣣ऽ२३४औ꣥꣯हो꣯वा॥ ए꣢ऽ᳐३। षु꣢सर्वधा꣡꣯असी꣣ऽ२३꣡४꣡५꣡॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/39_0475_pari_svAno/04.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/39_0475_pari_svAno/04.md">
 <details open><summary><h6>39_0475 परि स्वानो - 04 ...{Loading}...</h6></summary>
 
 ४७५-४।
@@ -1049,7 +1049,7 @@ title = "०३ पावमानम्"
 औ꣭ऽ३हो꣢इ। इ꣡ह꣢हा꣣꣯ह꣢हा꣡इ। औऽ२᳐हो꣣ऽ२३४वा꣥। प꣢राइस्वा꣣ऽ᳐२३४नो꣥। गि꣢रा꣣ऽ२३४इष्ठाः꣥॥ पा꣢वित्रे꣣ऽ२३४सो꣥। मो꣢अक्षा꣣ऽ२३४रा꣥त्॥ म꣢दाइषू꣣ऽ२᳐३४ सा꣥। र्व꣢धाआ꣣ऽ२᳐३४सी꣥॥ औ꣭ऽ३हो꣢इ। इ꣡ह꣢हा꣣꣯ह꣢हा꣡इ। औऽ२᳐हो꣣ऽ२३४५वा ऽ६५६॥ ए꣢ऽ᳐३। उ꣡पा꣣ऽ२३꣡४꣡५꣡॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/39_0475_pari_svAno/05.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/39_0475_pari_svAno/05.md">
 <details open><summary><h6>39_0475 परि स्वानो - 05 ...{Loading}...</h6></summary>
 
 ४७५-५। आङ्गिरसस्य रजेः पदस्तोभौ द्वौ॥ द्वयोराजिर्गायत्री सोमः॥
@@ -1057,7 +1057,7 @@ title = "०३ पावमानम्"
 प꣤। र्येस्वानाः꣥॥ गा꣡ऽ᳒२᳒इ। रिष्ठाऽ᳒२᳒या꣡। हा꣣꣯हा꣢इ। उ꣡वाऽ२३हो꣡꣡इ। पावित्रेसो꣢। मो꣡अ꣪क्षाराऽ२᳐त्। हा꣣꣯हा꣢इ। उ꣡वाऽ२३हो꣡इ॥ मदाऽ२᳐इषु꣣सा꣢। हा꣣꣯हा꣢इ। उ꣡वाऽ२३हो꣡॥ र्व꣢धो꣡ऽ२३४वा꣥। आ꣤ऽ५सोऽ६"हा꣥इ॥ दी-३। प-१५। मा-११॥ ३५ (ण) ८७९॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/39_0475_pari_svAno/06.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/39_0475_pari_svAno/06.md">
 <details open><summary><h6>39_0475 परि स्वानो - 06 ...{Loading}...</h6></summary>
 
 ४७५-६।
@@ -1125,7 +1125,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/40_0476_pari_priyA/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/40_0476_pari_priyA/01.md">
 <details open><summary><h6>40_0476 परि प्रिया - 01 ...{Loading}...</h6></summary>
 
 ४७६-१। और्णायवे द्वे॥ द्वयोरूर्णायुर्गायत्री सोमः॥
@@ -1133,7 +1133,7 @@ title = "०३ पावमानम्"
 प꣥रिप्रिया꣯दिवᳲका꣤वीः꣥॥ व꣡याꣳ꣯सिनप्त्यो꣯र्हितः॥ स्वा꣯नै꣯र्याऽ२३ती꣢॥ आ꣡याऽ᳒२᳒। इ꣡याऽ᳒२᳒ई꣭ऽ३या꣢᳐॥ क꣣विक्र꣢तो꣡ऽ२᳐। या꣣ऽ२३४औ꣥꣯हो꣯वा॥ ई꣣ऽ२३꣡४꣡५꣡॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/40_0476_pari_priyA/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/40_0476_pari_priyA/02.md">
 <details open><summary><h6>40_0476 परि प्रिया - 02 ...{Loading}...</h6></summary>
 
 ४७६-२। और्णायवोत्तरम्॥
@@ -1207,7 +1207,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/41_0477_pra_somAso/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/41_0477_pra_somAso/01.md">
 <details open><summary><h6>41_0477 प्र सोमासो - 01 ...{Loading}...</h6></summary>
 
 ४७७-१। सौभरे द्वे॥ द्वयोः सुभरिर्गायत्री सोमः॥
@@ -1275,7 +1275,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/42_0478_pra_somAso/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/42_0478_pra_somAso/01.md">
 <details open><summary><h6>42_0478 प्र सोमासो - 01 ...{Loading}...</h6></summary>
 
 ४७८-१।
@@ -1343,7 +1343,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/43_0479_pavasvendo_vRShA/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/43_0479_pavasvendo_vRShA/01.md">
 <details open><summary><h6>43_0479 पवस्वेन्दो वृषा - 01 ...{Loading}...</h6></summary>
 
 ४७९-१। वृषकाणि त्रीणि॥ त्रयाणामिन्द्रो गायत्री सोमः॥
@@ -1411,7 +1411,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/44_0480_vRShA_hyasi/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/44_0480_vRShA_hyasi/01.md">
 <details open><summary><h6>44_0480 वृषा ह्यसि - 01 ...{Loading}...</h6></summary>
 
 ४८०-१।
@@ -1419,7 +1419,7 @@ title = "०३ पावमानम्"
 वृ꣤षा꣥꣯हिया꣤॥ सि꣢भा꣡꣯नूऽ२३ना꣢। द्युम꣡न्तन्त्वा꣯हावा꣢ऽ१माहाऽ२३४इ॥ प꣣वा꣢ऽ३॥ मा꣡नसु꣢वो꣡ऽ२३४वा꣥॥ दॄ꣣ऽ२३४शा꣥म्॥ दी-३। प-६। मा-२॥ ४ (टा) ८८६॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/44_0480_vRShA_hyasi/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/44_0480_vRShA_hyasi/02.md">
 <details open><summary><h6>44_0480 वृषा ह्यसि - 02 ...{Loading}...</h6></summary>
 
 ४८०-२।
@@ -1487,7 +1487,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/45_0481_induH_paviShTa/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/45_0481_induH_paviShTa/01.md">
 <details open><summary><h6>45_0481 इन्दुः पविष्ट - 01 ...{Loading}...</h6></summary>
 
 ४८१-१। बाभ्रोस्सामानि त्रीणि॥ कौम्भ्यस्य वा। त्रयाणां बभ्रुर्गायत्री सोमः॥
@@ -1495,7 +1495,7 @@ title = "०३ पावमानम्"
 इ꣣न्दु꣢रौ꣣꣯हो꣤वाहा꣥इ। पा꣤वी꣥॥ ष्ट꣢चा꣡ऽ२꣮इ। तनो꣣ऽ२३४हा꣥। हा꣢꣯हो꣡इ। हो꣭ऽ३हा꣢। प्रियाᳲ꣡क꣢वी꣯। ना꣡꣯म्म। ति꣢रो꣣ऽ२३४हा꣥। हा꣢꣯हो꣡इ। हो꣭ऽ३हा꣢॥ सृ꣡जा ऽ२꣮त्। अश्वो꣣ऽ२३४हा꣥। हा꣢꣯हो꣡इ। हो꣭ऽ३हा꣢ऽ३॥ रा꣡ऽ२᳐था꣣ऽ२३४औ꣥꣯हो꣯वा॥ ई꣣ऽ२३४वा꣥॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/45_0481_induH_paviShTa/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/45_0481_induH_paviShTa/02.md">
 <details open><summary><h6>45_0481 इन्दुः पविष्ट - 02 ...{Loading}...</h6></summary>
 
 ४८१-२।
@@ -1503,7 +1503,7 @@ title = "०३ पावमानम्"
 इ꣤न्दुᳲ꣥पविष्टचे꣤꣯त꣥नᳲप्रियᳲ꣤क꣥वा꣤इ॥ हि꣭म्ऽ३(स्थि)हि꣢म्। नाम्मा꣣ऽ२३४ तीः꣥॥ सृ꣡जादाऽ२३श्वा꣢म्॥ हि꣭म्ऽ३(स्थि)हि꣢म्ऽ३। रा꣡ऽ२᳐था꣣ऽ२३४औ꣥꣯हो꣯वा॥ ई꣣ऽ२३४वा꣥॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/45_0481_induH_paviShTa/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/45_0481_induH_paviShTa/03.md">
 <details open><summary><h6>45_0481 इन्दुः पविष्ट - 03 ...{Loading}...</h6></summary>
 
 ४८१-३।
@@ -1571,7 +1571,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/46_0482_asRxata_pra/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/46_0482_asRxata_pra/01.md">
 <details open><summary><h6>46_0482 असृक्षत प्र - 01 ...{Loading}...</h6></summary>
 
 ४८२-१। कार्तवेशस्य सामानि त्रीणि॥ त्रयाणां कृतवेशोगायत्री सोमः॥
@@ -1579,7 +1579,7 @@ title = "०३ पावमानम्"
 अ꣥सृक्षा꣢ऽ३ता꣤प्र꣥वा꣤꣯जिनाः꣥॥ गा꣡व्याऽ᳒२᳒सो꣡माऽ᳒२᳒। सो꣯अ। श्व꣡या॥ शू꣢ऽ१ क्राऽ᳒२᳒सो꣡वीऽ᳒२᳒॥ रयाऽ᳒२᳒श꣡वः꣢। ओ꣡ऽ२३४५इ॥ डा॥ दी-२। प-८। मा-४॥ ९ (जी) ८९१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/46_0482_asRxata_pra/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/46_0482_asRxata_pra/02.md">
 <details open><summary><h6>46_0482 असृक्षत प्र - 02 ...{Loading}...</h6></summary>
 
 ४८२-२।
@@ -1587,7 +1587,7 @@ title = "०३ पावमानम्"
 अ꣥सृक्षताऱप्राऽ६वा꣥꣯जिनाः॥ ग꣢व्या꣡꣯सोऱमाऱसोऱअश्वयाऽ२३हो꣡इ॥ शु꣢क्रा꣡꣯सोऱ वा꣢ऽ३१इ॥ र꣢या꣡ऽ२३। शा꣡ऽ२᳐वा꣣ऽ२३४औ꣥꣯हो꣯वा॥ ग्वा꣣ऽ२३४भीः꣥॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/46_0482_asRxata_pra/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/46_0482_asRxata_pra/03.md">
 <details open><summary><h6>46_0482 असृक्षत प्र - 03 ...{Loading}...</h6></summary>
 
 ४८२-३।
@@ -1655,7 +1655,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/47_0483_pavasva_deva/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/47_0483_pavasva_deva/01.md">
 <details open><summary><h6>47_0483 पवस्व देव - 01 ...{Loading}...</h6></summary>
 
 ४८३-१। शाम्मदे द्वे॥ द्वयोः शम्मद्गायत्रीन्द्रवायू॥
@@ -1663,7 +1663,7 @@ title = "०३ पावमानम्"
 पा꣤व꣥स्वा꣤दे꣥॥ व꣣या꣢ऽ३। वा꣡ऽ२᳐या꣣ऽ२३४औ꣥꣯हो꣯वा। यू꣣ऽ२३४षा꣥क्। आ꣤इन्द्रं꣥ ग꣤च्छा꣥। तु꣣ता꣢ऽ३इ। तू꣡ऽ२᳐ता꣣ऽ२३४औ꣥꣯हो꣯वा। मा꣣ऽ२३४दाः꣥॥ वा꣢꣯यूऽ᳒२ꣳ᳒होऽ१इ। आऽ२३रो꣢᳐। ह꣣धा꣢ऽ३। हा꣡ऽ२᳐धा꣣ऽ२३४औ꣥꣯हो꣯वा॥ मा꣣ऽ२३४णा꣥॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/47_0483_pavasva_deva/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/47_0483_pavasva_deva/02.md">
 <details open><summary><h6>47_0483 पवस्व देव - 02 ...{Loading}...</h6></summary>
 
 ४८३-२।
@@ -1731,7 +1731,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/48_0484_pavamAno_ajIjanaddivashchitram/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/48_0484_pavamAno_ajIjanaddivashchitram/01.md">
 <details open><summary><h6>48_0484 पवमानो अजीजनद्दिवश्चित्रम् - 01 ...{Loading}...</h6></summary>
 
 ४८४-१। जनित्रे द्वे॥ द्वयोर्वसिष्ठो गायत्री सोमवैश्वानरौ॥
@@ -1739,7 +1739,7 @@ title = "०३ पावमानम्"
 पा꣤वा꣥॥ मा꣡꣯नो। अ꣣जी꣢जा꣣ऽ२३४ना꣥त्। दि꣢व꣡श्चित्राम्। नतन्यतूम्॥ ज्योति꣢र्वैऱश्वा꣡ऽ२३॥ ना꣡ऽ२᳐रा꣣ऽ२३४औ꣥꣯हो꣯वा॥ बॄ꣣ऽ२३४हा꣥त्॥ दी-४। प-८। मा-५॥ १४ (दु) ८९६॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/48_0484_pavamAno_ajIjanaddivashchitram/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/48_0484_pavamAno_ajIjanaddivashchitram/02.md">
 <details open><summary><h6>48_0484 पवमानो अजीजनद्दिवश्चित्रम् - 02 ...{Loading}...</h6></summary>
 
 ४८४-२।
@@ -1807,7 +1807,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/49_0485_pari_svAnAsa/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/49_0485_pari_svAnAsa/01.md">
 <details open><summary><h6>49_0485 परि स्वानास - 01 ...{Loading}...</h6></summary>
 
 ४८५-१। प्रक्रीडास्त्रयः॥ (प्रक्रीडम्)। मरुतो गायत्री सोमः॥
@@ -1815,7 +1815,7 @@ title = "०३ पावमानम्"
 पा꣤री꣥॥ स्वा꣢꣯नाऱसइन्दवोऱमदाऱयब। ह꣡णाऽ२᳐३गिरा꣢ऽ३४। म꣣धो꣢ऽ३४ अ꣣र्षा꣢ऽ३॥ ति꣢धो꣡ऽ२३४वा꣥। रा꣤ऽ५योऽ६"हा꣥इ॥ दी-४। प-६। मा-३॥ १६ (ति) ८९८॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/49_0485_pari_svAnAsa/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/49_0485_pari_svAnAsa/02.md">
 <details open><summary><h6>49_0485 परि स्वानास - 02 ...{Loading}...</h6></summary>
 
 ४८५-२। संक्रीडम्॥
@@ -1823,7 +1823,7 @@ title = "०३ पावमानम्"
 पा꣤री꣥॥ स्वा꣢꣯ना꣡꣯सइन्दवाउवाऽ२३हो꣡वाऽ२३हाऽ᳒२᳒ई꣡या॥ मदाऱयबर्हणाऱ-गिराउवाऽ२३हो꣡वाऽ२३हाऽ᳒२᳒ई꣡या॥ मधोऱअर्षन्तिधाऱरयाउवाऽ२३हो꣡वाऽ२३ हाऽ᳒२᳒ई꣡याऽ२᳐। वा꣣ऽ२३४औ꣥꣯हो꣯वा॥ ऊ꣣ऽ२३४पा꣥॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/49_0485_pari_svAnAsa/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/49_0485_pari_svAnAsa/03.md">
 <details open><summary><h6>49_0485 परि स्वानास - 03 ...{Loading}...</h6></summary>
 
 ४८५-३। निक्रीडम्॥
@@ -1891,7 +1891,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/50_0486_pari_prAsiShyadatkaviH/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/5/2/50_0486_pari_prAsiShyadatkaviH/01.md">
 <details open><summary><h6>50_0486 परि प्रासिष्यदत्कविः - 01 ...{Loading}...</h6></summary>
 
 ४८६-१। औशनम्॥ उशना गायत्री सोमः॥
@@ -1962,13 +1962,13 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/01_0487_upo_Shu/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/01_0487_upo_Shu/01.md">
 <details open><summary><h6>01_0487 उपो षु - 01 ...{Loading}...</h6></summary>
 
 ४८७-१। यामानि त्रीणि॥ त्रयाणां यमो गायत्री देवाः॥इ꣢हाऽ᳒२᳒इहा꣡। उपो꣯षुजा꣯तमाऽ᳒२᳒प्तुरा꣡म्। इहा॥ इ꣢हाऽ᳒२᳒इहा꣡। गो꣯भिर्भङ्गं पराऽ᳒२᳒इष्कृता꣡म्। इहा॥ इ꣢हाऽ᳒२᳒इहा꣡। इन्दुन्दे꣯वा꣯अयाऽ᳒२᳒सि"षूः꣡। इहा꣢ऽ१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/01_0487_upo_Shu/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/01_0487_upo_Shu/02.md">
 <details open><summary><h6>01_0487 उपो षु - 02 ...{Loading}...</h6></summary>
 
 ४८७-२।
@@ -1976,7 +1976,7 @@ title = "०३ पावमानम्"
 ऊ꣡पो꣯षुजा꣯तमाऽ᳒२᳒प्तुरा꣡म्। उपा॥ गो꣯भाऽ२३इर्हो꣡इ। भङ्गंपराऽ᳒२᳒इष्कृ ता꣡म्। उपा॥ इन्दूऽ२३ꣳहो꣡इ। दे꣯वा꣯अयाऽ᳒२᳒। सि꣡षु꣢राऽ३१उवाऽ२३। ऊ꣢ऽ᳐३२᳐३४पा꣥॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/01_0487_upo_Shu/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/01_0487_upo_Shu/03.md">
 <details open><summary><h6>01_0487 उपो षु - 03 ...{Loading}...</h6></summary>
 
 ४८७-३।
@@ -2044,7 +2044,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/02_0488_punAno_akramIdabhi/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/02_0488_punAno_akramIdabhi/01.md">
 <details open><summary><h6>02_0488 पुनानो अक्रमीदभि - 01 ...{Loading}...</h6></summary>
 
 ४८८-१। (अंकतेः साम) वैरूपम्॥ अङ्कतिर्गायत्री सोमः॥
@@ -2102,7 +2102,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/03_0489_AvishankalashaM_suto/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/03_0489_AvishankalashaM_suto/01.md">
 <details open><summary><h6>03_0489 आविशन्कलशं सुतो - 01 ...{Loading}...</h6></summary>
 
 ४८९-१। औशने द्वे॥ द्वयोरुशना गायत्री सोमेन्द्रौ॥
@@ -2110,7 +2110,7 @@ title = "०३ पावमानम्"
 आ꣥꣯विशन्काऱलाऽ६शꣳ꣥सुताः॥ वा꣡इश्वा꣢꣯अ꣡र्ष꣢न्। अभा꣡इश्राया꣢ऽ३ः। ओ꣭ऽ३ हा꣢ऽ३। ओ꣡वा꣢᳐। ओ꣣ऽ२३४हा꣥इ॥ इ꣡न्दूऽ२३ः॥ आ꣡ऽ२᳐इन्द्रा꣣ऽ२३४औ꣥꣯हो꣯वा॥ य꣢धीऱयते꣣ऽ२३꣡४꣡५꣡॥ दी-६। प-९। मा-१०॥ २४ (घौ) ९०६॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/03_0489_AvishankalashaM_suto/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/03_0489_AvishankalashaM_suto/02.md">
 <details open><summary><h6>03_0489 आविशन्कलशं सुतो - 02 ...{Loading}...</h6></summary>
 
 ४८९-२।आ꣤꣯विश꣣न्क꣤लश꣥म्। सु꣣ता꣢ऽ३ः। वा꣤इश्वाः꣥॥ अ꣡र्ष꣢न्। अभा꣡इश्राया꣢᳐। औ꣣꣯हौऱहोऽ२३४वा꣥॥ औ꣡हौ꣢꣯होऽ१इ। इन्दूरा꣢ऽ१इन्द्राऽ᳒२᳒। य। धी꣡꣯याऽ२᳐ता꣣ऽ२३४ औ꣥꣯हो꣯वा॥ ऊ꣣ऽ२३४पा꣥॥ दी-७। प-११। मा-९॥ २५ (च्चो) ९०७॥
@@ -2176,7 +2176,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/04_0490_asarji_rathyo/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/04_0490_asarji_rathyo/01.md">
 <details open><summary><h6>04_0490 असर्जि रथ्यो - 01 ...{Loading}...</h6></summary>
 
 ४९०-१। सोमसाम॥ सोमो गायत्री सोमः॥
@@ -2244,7 +2244,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/05_0491_pra_yadgAvo/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/05_0491_pra_yadgAvo/01.md">
 <details open><summary><h6>05_0491 प्र यद्गावो - 01 ...{Loading}...</h6></summary>
 
 ४९१-१। कार्ष्णे द्वे॥ द्वयोः कृष्णो गायत्री सोमः॥
@@ -2252,7 +2252,7 @@ title = "०३ पावमानम्"
 प्र꣤यद्धा꣥उ। गा꣢꣯वोऱनऽ३भू꣡र्णा꣢ऽ१याऽ२३४ः। त्वे꣣꣯षा꣢ऽ३ः। आ꣡या꣰꣯ऽ२सोऱ अक्रमुः॥ घ्नन्ताᳲ꣡काऽ२३र्ष्णा꣢म्। अपा꣡त्वच꣢म्। औऱहो꣡ऽ२᳐हा꣣ऽ२३४औ꣥꣯हो꣯वा॥ ऊ꣢ऽ᳐३२᳐३४पा꣥॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/05_0491_pra_yadgAvo/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/05_0491_pra_yadgAvo/02.md">
 <details open><summary><h6>05_0491 प्र यद्गावो - 02 ...{Loading}...</h6></summary>
 
 ४९१-२।
@@ -2320,7 +2320,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/06_0492_apaghnanpavase_mRdhaH/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/06_0492_apaghnanpavase_mRdhaH/01.md">
 <details open><summary><h6>06_0492 अपघ्नन्पवसे मृधः - 01 ...{Loading}...</h6></summary>
 
 ४९२-१। सोमसाम॥ (वैश्वदेवम्)। सोमो गायत्री सोमः॥
@@ -2388,7 +2388,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/07_0493_ayA_pavasva/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/07_0493_ayA_pavasva/01.md">
 <details open><summary><h6>07_0493 अया पवस्व - 01 ...{Loading}...</h6></summary>
 
 ४९३-१। सूर्यसाम॥ (वैश्वदेवम्)। सूर्यो गायत्री सोमः॥ए꣥꣯अयाऱपवा॥ स्व꣢धाऽ᳒२᳒। र꣡या꣢ऽ३१उवाऽ२३। ऊ꣢ऽ३४पा꣥। य꣡याऱसूऱर्य मरोऽ᳒२᳒। च꣡या꣢ऽ३१उवाऽ२३। ऊ꣢ऽ३४पा꣥॥ हि꣡न्वाऱनोऱमाऱनुषाऽ२३इर्हो꣡इ॥ आप꣢ आऽ३१उवाऽ२३॥ ऊ꣢ऽ᳐३२᳐३४पा꣥॥ दी-७। प-१०। मा-७॥ ३० (ञ्ले) ९१२॥
@@ -2454,7 +2454,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/08_0494_sa_pavasva/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/08_0494_sa_pavasva/01.md">
 <details open><summary><h6>08_0494 स पवस्व - 01 ...{Loading}...</h6></summary>
 
 ४९४-१। वार्त्रघ्नम्॥ इन्द्रो गायत्रीन्द्रो वृत्रहा॥
@@ -2522,7 +2522,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/09_0495_ayA_vItI/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/09_0495_ayA_vItI/01.md">
 <details open><summary><h6>09_0495 अया वीती - 01 ...{Loading}...</h6></summary>
 
 ४९५-१। सोम सामानि त्रीणि॥ त्रयाणां सोमो गायत्री सोमः॥
@@ -2530,7 +2530,7 @@ title = "०३ पावमानम्"
 अ꣥या꣯वी꣯ती॥ पा꣢꣯रि꣡स्रवा। य꣢स्तइ꣡न्दाउ। मा꣢꣯दा꣡इषुवा॥ अवाहा꣢ऽ३ न्ना꣢ऽ३॥ व꣢तो꣡ऽ२३४वा꣥। ना꣤ऽ५वोऽ६"हा꣥इ॥ दी-४। प-७। मा-४॥ ३२ (थी) ९१४॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/09_0495_ayA_vItI/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/09_0495_ayA_vItI/02.md">
 <details open><summary><h6>09_0495 अया वीती - 02 ...{Loading}...</h6></summary>
 
 ४९५-२।
@@ -2538,7 +2538,7 @@ title = "०३ पावमानम्"
 अ꣢या꣡꣯वी꣯ता꣢᳐॥ औ꣣꣯हो꣡वा꣢᳐। औ꣣꣯हो꣢ऽ३४इ। औ꣢꣯। हो꣡ऽ२᳐। वा꣣ऽ२३४। औ꣥꣯हो꣯वा॥ प꣡रिस्र꣢व॥ यस्त꣡इन्दा꣢॥ औ꣣꣯हो꣡वा꣢᳐। औ꣣꣯हो꣢ऽ३४इ। औ꣢꣯। हो꣡ऽ२᳐। वा꣣ऽ२३४। औ꣥꣯हो꣯वा॥ म꣡दे꣰꣯ऽ२षुवा꣡꣯॥ अवा꣯हन्ना꣢᳐॥ औ꣣꣯हो꣡वा꣢᳐। औ꣣꣯हो꣢ऽ३४इ। औ꣢꣯। हो꣡ऽ२᳐। वा꣣ऽ२३४। औ꣥꣯हो꣯वा॥ व꣢ती꣡꣯र्नवाऽ२३꣡४꣡५꣡॥ दी-२१। प-२४। मा-४॥ ३३ (घी) ९१५॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/09_0495_ayA_vItI/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/09_0495_ayA_vItI/03.md">
 <details open><summary><h6>09_0495 अया वीती - 03 ...{Loading}...</h6></summary>
 
 ४९५-३।
@@ -2606,7 +2606,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/10_0496_pari_dyuxam/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/10_0496_pari_dyuxam/01.md">
 <details open><summary><h6>10_0496 परि द्युक्षम् - 01 ...{Loading}...</h6></summary>
 
 ४९६-१। भारद्वाजम्॥ भरद्वाजो गायत्री सोमः॥प꣥रिद्युक्षाम्॥ ओ꣡इ। सनद्रायीऽ᳒२᳒म्। ओ꣡इ। भरद्वाजाऽ᳒२᳒म्। ओ꣡इ। नो꣯अन्धासाऽ२३४॥ स्वा꣣꣯नो꣢ऽ३४अ꣣र्षा꣢ऽ३॥ प꣤वोवा꣥। त्रा꣤ऽ५योऽ६"हा꣥इ॥
@@ -2678,7 +2678,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/11_0497_achikradadvRShA_harirmahAnmitro/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/11_0497_achikradadvRShA_harirmahAnmitro/01.md">
 <details open><summary><h6>11_0497 अचिक्रदद्वृषा हरिर्महान्मित्रो - 01 ...{Loading}...</h6></summary>
 
 ४९७-१। वार्षाहरम्॥ वृषाहरिर्गायत्री सूर्यः॥
@@ -2746,7 +2746,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/12_0498_A_te/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/12_0498_A_te/01.md">
 <details open><summary><h6>12_0498 आ ते - 01 ...{Loading}...</h6></summary>
 
 ४९८-१। वार्शाणि त्रीणि॥ त्रयाणां वृशोगायत्री सोमः॥
@@ -2754,7 +2754,7 @@ title = "०३ पावमानम्"
 आ꣥꣯ते꣯दक्षाम्॥ म꣢यो꣡भू꣢ऽ३वा꣢म्। व꣡ह्नि꣢म। द्या꣡। वृ꣪णीऽ२᳐मा꣣ऽ२३४हा꣥इ॥ पा꣡न्तमा꣢ऽ३। ई꣭ऽ३या꣢॥ पुरू꣡ऽ२३। स्पॄ꣡ऽ२᳐हा꣣ऽ२३४औ꣥꣯हो꣯वा॥ ऊ꣢ऽ᳐३२᳐३४पा꣥॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/12_0498_A_te/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/12_0498_A_te/02.md">
 <details open><summary><h6>12_0498 आ ते - 02 ...{Loading}...</h6></summary>
 
 ४९८-२।
@@ -2762,7 +2762,7 @@ title = "०३ पावमानम्"
 आ꣢ते᳐दा꣣ऽ२३४क्षा꣥म्। मा꣢यो᳐भू꣣ऽ२३४वा꣥म्॥ व꣣ह्नि꣤मद्या꣣꣯वृ꣤णी꣥꣯। म꣣होऽ २३४हा꣥इ॥ पा꣡न्ता꣢ऽ३मा꣢ऽ३। ई꣭ऽ३या꣢ऽ३॥ पू꣡ऽ२᳐रू꣣ऽ२३४औ꣥꣯हो꣯वा॥ स्पॄ꣣ऽ २३४हा꣥म्॥ दी-४। प-८। मा-५॥ ३ (दु) ९२०॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/12_0498_A_te/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/12_0498_A_te/03.md">
 <details open><summary><h6>12_0498 आ ते - 03 ...{Loading}...</h6></summary>
 
 ४९८-३।आ꣣꣯ते꣤꣯द꣣क्ष꣤म्म꣥यः। भु꣣वोऽ२३४हा꣥इ॥ व꣣ह्नि꣤मद्या꣣꣯वृ꣤णी꣥꣯। म꣣होऽ२३४हा꣥इ॥ पा꣡न्ता꣢ऽ१माऽ᳒२᳒॥ पू꣡रुस्पृ꣢हम्। इ꣡डाऽ२३भा꣢ऽ३४३। ओ꣡ऽ२३४५इ॥ डा॥
@@ -2828,7 +2828,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/13_0499_adhvaryo_adribhiH/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/13_0499_adhvaryo_adribhiH/01.md">
 <details open><summary><h6>13_0499 अध्वर्यो अद्रिभिः - 01 ...{Loading}...</h6></summary>
 
 ४९९-१। वैरूपे द्वे॥ द्वयोरिन्द्रो गायत्री सोमः॥
@@ -2836,7 +2836,7 @@ title = "०३ पावमानम्"
 अ꣢ध्व꣡र्योऽ२३४आ꣥॥ द्रि꣢भा꣡इस्सू꣢ऽ३ता꣢ऽ३म्। सो꣡꣯माऽ२᳐म्पा꣣ऽ२३४वी꣥। त्रा꣡आ꣢ऽ१नायाऽ᳒२᳒॥ पु꣡नाऽ२३॥ ही꣯न्द्रा꣢ऽ३४औ꣥꣯हो꣯वा॥ य꣢पा꣡꣯त꣢वे꣣ऽ२३꣡४꣡५꣡॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/13_0499_adhvaryo_adribhiH/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/13_0499_adhvaryo_adribhiH/02.md">
 <details open><summary><h6>13_0499 अध्वर्यो अद्रिभिः - 02 ...{Loading}...</h6></summary>
 
 ४९९-२।
@@ -2904,7 +2904,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/14_0500_taratsa_mandI/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/14_0500_taratsa_mandI/01.md">
 <details open><summary><h6>14_0500 तरत्स मन्दी - 01 ...{Loading}...</h6></summary>
 
 ५००-१। तरन्तस्य साम॥ तरन्तो गायत्री सोमः॥
@@ -2972,7 +2972,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/15_0501_A_pavasva/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/15_0501_A_pavasva/01.md">
 <details open><summary><h6>15_0501 आ पवस्व - 01 ...{Loading}...</h6></summary>
 
 ५०१-१। सोमसाम॥ सोमा गायत्री सोमः॥
@@ -3040,7 +3040,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/16_0502_anu_pratnAsa/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/16_0502_anu_pratnAsa/01.md">
 <details open><summary><h6>16_0502 अनु प्रत्नास - 01 ...{Loading}...</h6></summary>
 
 ५०२-१। सूर्यसाम॥ सूर्यो गायत्री सोमः॥अ꣥नुप्रत्ना꣯सआ꣯याऽ६वाः꣥॥ प꣢द꣡न्नवी꣯यो꣯अक्रमूः॥ रुचाइज꣪ना॥ ता꣢ऽ३ सू꣢। हि꣡म्माये꣢ऽ३॥ रीऽ२३४या꣥म्॥ दी-४। प-६। मा-६॥ ९ (तू) ९२६॥
@@ -3106,7 +3106,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/17_0503_arShA_soma/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/17_0503_arShA_soma/01.md">
 <details open><summary><h6>17_0503 अर्षा सोम - 01 ...{Loading}...</h6></summary>
 
 ५०३-१। दार्ढच्युतानि त्रीणि॥ त्रयाणां दृढच्युतिर्गायत्री सोमः॥
@@ -3114,7 +3114,7 @@ title = "०३ पावमानम्"
 अ꣢र्षा꣡॥ इहा। सो꣯मद्युमाऽ᳒२᳒त्तमा꣡। इहा॥ अ꣢भा꣡इ॥ इहा। द्रो꣯णा꣯निरोऽ᳒२᳒ रुवा꣡। इहा॥ सी꣢꣯दा꣡॥ इहा॥ यो꣯नौ꣯वनाऽ᳒२᳒इषुवा꣡॥ इहा꣢ऽ१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/17_0503_arShA_soma/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/17_0503_arShA_soma/02.md">
 <details open><summary><h6>17_0503 अर्षा सोम - 02 ...{Loading}...</h6></summary>
 
 ५०३-२।
@@ -3122,7 +3122,7 @@ title = "०३ पावमानम्"
 अ꣤र्षाहा꣥उ॥ सो꣡꣯मद्युमत्तमो꣯। भिद्रोऽ२३णा꣢। निरा꣡औ꣢ऽ३हो꣢। रू꣡वाऽ२३त्॥ सी꣯दा꣢उवा॥ यो꣡꣯नौवा꣢ऽ३ने꣢। हि꣡म्माये꣢ऽ३॥ षूऽ२३४वा꣥॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/17_0503_arShA_soma/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/17_0503_arShA_soma/03.md">
 <details open><summary><h6>17_0503 अर्षा सोम - 03 ...{Loading}...</h6></summary>
 
 ५०३-३।
@@ -3190,7 +3190,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/18_0504_vRShA_soma/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/18_0504_vRShA_soma/01.md">
 <details open><summary><h6>18_0504 वृषा सोम - 01 ...{Loading}...</h6></summary>
 
 ५०४-१। वृषकम्॥ इन्द्रो गायत्री सोमः॥
@@ -3258,7 +3258,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/19_0505_iShe_pavasva/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/19_0505_iShe_pavasva/01.md">
 <details open><summary><h6>19_0505 इषे पवस्व - 01 ...{Loading}...</h6></summary>
 
 ५०५-१। ऐषम्॥ इषो गायत्री सोमः॥इ꣥षे꣯पवा॥ स्व꣢धा꣯रयौ꣯हो꣯वाऽ३हा꣢ऽ३४। औ꣥꣯हो꣯वा। मृ꣢ज्य꣡मा꣰꣯ऽ२नो꣯मनी꣯ षि꣡भिः꣢᳐॥ इ꣣न्दो꣢꣯रु꣣चा꣥꣯॥ अ꣢भिगौ꣯हो꣯वाऽ३हा꣢ऽ३४। औ꣥꣯हो꣯वा॥ उ꣡प्। इ꣢ही꣣ ऽ२३꣡४꣡५꣡॥
@@ -3324,7 +3324,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/20_0506_mandrayA_soma/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/20_0506_mandrayA_soma/01.md">
 <details open><summary><h6>20_0506 मन्द्रया सोम - 01 ...{Loading}...</h6></summary>
 
 ५०६-१। श्यावाश्वम्॥ श्यावाश्वो गायत्री सोमः॥
@@ -3384,7 +3384,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/21_0507_ayA_soma/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/21_0507_ayA_soma/01.md">
 <details open><summary><h6>21_0507 अया सोम - 01 ...{Loading}...</h6></summary>
 
 ५०७-१। अयासोमीयम्॥ अयासोमो गायत्री सोमः॥
@@ -3452,7 +3452,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/22_0508_ayaM_vicharShaNirhitaH/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/22_0508_ayaM_vicharShaNirhitaH/01.md">
 <details open><summary><h6>22_0508 अयं विचर्षणिर्हितः - 01 ...{Loading}...</h6></summary>
 
 ५०८-१। आग्नेयम्॥ अग्निर्गायत्री सोमः॥
@@ -3520,7 +3520,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/23_0509_pra_na/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/23_0509_pra_na/01.md">
 <details open><summary><h6>23_0509 प्र न - 01 ...{Loading}...</h6></summary>
 
 ५०९-१। आयास्ये द्वे॥ द्वयोरयास्यो गायत्री सोमः॥
@@ -3528,7 +3528,7 @@ title = "०३ पावमानम्"
 प्र꣣न꣤इ꣥न्दो꣯ऐ꣯। ही꣢ऐ᳐ही꣣ऽ२३४या꣥॥ म꣢हे꣡꣯तुनऐऽ᳒२᳒ही꣡ऐऽ᳒२᳒ही꣭ऽ३या꣢। ऊ꣯र्मि꣡न्न बिभ्रदर्षसऐऽ᳒२᳒ही꣡ऐऽ᳒२᳒ही꣭ऽ३या꣢॥ अ꣡भाये꣢ऽ३॥ दा꣡ऽ२᳐इवा꣣ऽ२३४औ꣥꣯हो꣯वा॥ अ꣢या꣡꣯सि꣢या꣣ऽ२३꣡४꣡५ः꣡॥ दी-७। प-७। मा-१०॥ १८ (छौ) ९३५॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/23_0509_pra_na/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/23_0509_pra_na/02.md">
 <details open><summary><h6>23_0509 प्र न - 02 ...{Loading}...</h6></summary>
 
 ५०९-२।प्र꣣न꣤इ꣥न्दो꣯। इ꣢याऽ३४३ई꣢ऽ३४या꣥। म꣢हे꣡꣯तुनइयाऽ᳒२᳒ई꣭ऽ३या꣢। ऊ꣯र्मि꣡न्नबिभ्र दर्षसइयाऽ᳒२᳒ई꣭ऽ३या꣢। अ꣡भाये꣢ऽ३॥ दा꣡ऽ२᳐इवा꣣ऽ२३४औ꣥꣯हो꣯वा॥ ए꣢ऽ᳐३। अ꣢या꣡꣯ सि꣢या꣣ऽ२३꣡४꣡५ः꣡॥ दी-६। प-८। मा-९॥ १९ (गो) ९३६॥
@@ -3594,7 +3594,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/24_0510_apaghnanpavate_mRdho-pa/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/24_0510_apaghnanpavate_mRdho-pa/01.md">
 <details open><summary><h6>24_0510 अपघ्नन्पवते मृधोऽप - 01 ...{Loading}...</h6></summary>
 
 ५१०-१। भारद्वाजम्॥ भरद्वाजो गायत्री सोमेन्द्रौ॥
@@ -3667,7 +3667,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/25_0511_punAnaH_soma/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/25_0511_punAnaH_soma/01.md">
 <details open><summary><h6>25_0511 पुनानः सोम - 01 ...{Loading}...</h6></summary>
 
 ५११-१। आयास्यम्॥ अयास्यो बृहती सोमः॥
@@ -3675,7 +3675,7 @@ title = "०३ पावमानम्"
 पु꣥ना꣯नस्सो॥ मा꣡ऽ२᳐धा꣣ऽ२३४औ꣥꣯हो꣯वा। रा꣣ऽ२३४या꣥। अ꣢पो꣡꣯वसो꣢꣯नो꣯ अर्षसि॥ आ꣡꣯रात्ना꣢ऽ३धाः꣢। यो꣡꣯नाइमा꣢ऽ३र्त्ता꣢ऽ३। स्या꣡ऽ२᳐सा꣣ऽ२३४औ꣥꣯हो꣯वा। दा꣣ऽ२३४सी꣥॥ उ꣡त्सोदे꣢ऽ३वो꣢ऽ३॥ हा꣡ऽ२᳐इरा꣣ऽ२३४औ꣥꣯हो꣯वा॥ ण्या꣣ऽ२३४ याः꣥॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/25_0511_punAnaH_soma/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/25_0511_punAnaH_soma/02.md">
 <details open><summary><h6>25_0511 पुनानः सोम - 02 ...{Loading}...</h6></summary>
 
 ५११-२। माण्डवम्॥ मण्डुर्बृहती सोमः॥
@@ -3683,7 +3683,7 @@ title = "०३ पावमानम्"
 इ꣡याऽ᳒२᳒ई꣭ऽ३या꣢। पु꣡ना꣯नस्सोऽ२᳐। म꣣धा꣢᳐रा꣣ऽ२३४या꣥॥ अ꣢पो꣡꣯वसा꣯नो꣢꣯ अ꣡र्षाऽ२३सी꣢। आ꣡꣯रत्नधा꣯यो꣯निमृतस्य꣢सी꣡꣯दाऽ२३सी꣢॥ उ꣣त्सो꣯दे꣢꣯वो꣡ऽ२३॥ हा꣡ऽ२᳐ इरा꣣ऽ२३४औ꣥꣯हो꣯वा॥ ण्या꣢ऽ᳐३या꣡ऽ२३꣡४꣡५ः꣡॥ दी-१२। प-८। मा-५॥ २२ (जु) ९३९॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/25_0511_punAnaH_soma/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/25_0511_punAnaH_soma/03.md">
 <details open><summary><h6>25_0511 पुनानः सोम - 03 ...{Loading}...</h6></summary>
 
 ५११-३। अपदासम्॥ वसिष्ठो बृहती सोमः॥
@@ -3691,7 +3691,7 @@ title = "०३ पावमानम्"
 पु꣥ना꣯न꣤स्सो꣥꣯मधा꣤꣯र꣥या꣤॥ अ꣢पो꣡꣯वसा꣢꣯नो꣯अर्ष। स्यो꣭ऽ३हा꣢। ओ꣭ऽ३हा꣢। आ꣡꣯रत्न꣢ धा꣡꣯यो꣯निमृ꣢त꣡स्य꣢सी꣯द। स्यो꣭ऽ३हा꣢। ओ꣭ऽ३हा꣢॥ उ꣡त्सोदा꣢ऽ१इवाऽ᳒२ः᳒। ओ꣭ऽ३हा꣢। ओ꣭ऽ३हा꣢॥ हिर꣡ण्याऽ२᳐३या꣢ऽ३४३ः। ओ꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/25_0511_punAnaH_soma/04.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/25_0511_punAnaH_soma/04.md">
 <details open><summary><h6>25_0511 पुनानः सोम - 04 ...{Loading}...</h6></summary>
 
 ५११-४। सोमसाम॥ सोमो बृहती सोमः॥
@@ -3699,7 +3699,7 @@ title = "०३ पावमानम्"
 पु꣤ना꣯नस्सोऽ५मधा꣯र꣤या॥ आ꣡पोऽ᳒२᳒वा꣡साऽ᳒२᳒। नो꣯अ꣡र्षसी। आराऽ᳒२᳒त्ना꣡धाऽ᳒२ः᳒। यो꣯निमा꣡र्त्ताऽ᳒२᳒। स्यसी꣡꣯दसी॥ ऊत्सोऽ᳒२᳒दा꣡इवाऽ᳒२ः᳒॥ हिर꣡ण्याऽ२᳐३या꣢ऽ३४३ः। ओ꣡ऽ२३४५इ॥ डा॥ दी-५। प-१०। मा-६॥ २४ (मू) ९४१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/25_0511_punAnaH_soma/05.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/25_0511_punAnaH_soma/05.md">
 <details open><summary><h6>25_0511 पुनानः सोम - 05 ...{Loading}...</h6></summary>
 
 ५११-५। ऐडमायास्यम्॥ अयास्यो बृहती सोमः॥
@@ -3707,7 +3707,7 @@ title = "०३ पावमानम्"
 आ꣤इपु꣥ना꣤॥ ना꣡स्सो। म꣢धा꣡꣯रया। आपो꣯वसा꣢ऽ३१। नो꣢꣯अ꣡र्षसी। आरत्नधा꣢ऽ३१ः। यो꣯निमृता। स्य꣢सी꣡꣯दसी॥ ऊत्सोदेवा꣢ऽ३१ः। हि꣢र꣡ण्याऽ२᳐३ या꣢ऽ३४३ः। ओ꣡ऽ२३४५इ॥ डा॥ दी-५। प-१२। मा-६॥ २५ (फु) ९४२॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/25_0511_punAnaH_soma/06.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/25_0511_punAnaH_soma/06.md">
 <details open><summary><h6>25_0511 पुनानः सोम - 06 ...{Loading}...</h6></summary>
 
 ५११-६। माण्डवम्॥ मण्डुर्बृहती सोमः॥
@@ -3715,7 +3715,7 @@ title = "०३ पावमानम्"
 पु꣥ना꣯न꣤स्सो꣥꣯मधा꣤꣯र꣥या꣯। पो꣯वसो꣤वा꣥॥ नो꣡꣯अर्ष꣢सि। आ꣡꣯रत्न꣢। धा꣡उवाऽ२३। हो꣡वा꣢ऽ३हा꣢इ। यो꣡꣯निमृ꣢त꣡स्य꣢सी꣯दसि॥ उ꣡त्सो꣢꣯देऱ। वा꣡उवाऽ२३। हो꣡वा꣢ऽ३हा꣢इ॥ हिर꣡ण्याऽ२᳐३या꣢ऽ३४३ः। ओ꣡ऽ२३४५इ॥ डा॥ दी-११। प-१३। मा-७॥ २६ (गे) ९४३॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/25_0511_punAnaH_soma/07.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/25_0511_punAnaH_soma/07.md">
 <details open><summary><h6>25_0511 पुनानः सोम - 07 ...{Loading}...</h6></summary>
 
 ५११-७। उद्वत्प्राजापत्यम्॥ प्रजापतिर्बृहती सोमः॥
@@ -3723,7 +3723,7 @@ title = "०३ पावमानम्"
 पु꣥ना꣯न꣤स्सो꣥꣯मधा꣤꣯। होऽ५रया꣤॥ अ꣢पो꣡꣯वसा꣯न꣢आ꣡होऽ᳒२᳒। षा꣡सीऽ᳒२᳒। आ꣡꣯रत्न धा꣯यो꣯निमृतस्य꣢सा꣡होऽ᳒२᳒इ। दा꣡सीऽ᳒२᳒। उ꣡त्साऽ᳒२᳒होऽ१इ। दाऽ२३इवो꣢ऽ३। हि꣢रो꣡ऽ २३४वा꣥। ण्या꣤ऽ५योऽ६"हा꣥इ॥ दी-८। प-१०। मा-५॥ २७ (णु) ९४४॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/25_0511_punAnaH_soma/08.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/25_0511_punAnaH_soma/08.md">
 <details open><summary><h6>25_0511 पुनानः सोम - 08 ...{Loading}...</h6></summary>
 
 ५११-८। त्रिणिधनमायास्यम्॥ अयास्यो बृहती सोमः॥
@@ -3731,7 +3731,7 @@ title = "०३ पावमानम्"
 पु꣥ना꣯नस्सो꣯मधा꣯हा꣯उहो꣤वा꣥॥ रा꣡या꣢᳐आ꣣ऽ२३४पो꣥। व꣡साऽ२᳐। न꣣आ꣢ऽ३४५। षा꣣ऽ२३४सी꣥॥ आ꣡꣯रा꣢ऽ᳐३४। औ꣣꣯हो꣤꣯वा꣥॥ त्न꣡धा꣯यो꣯निमृताऽ२᳐। स्य꣣सा꣢ऽ३४५इ। दा꣣ऽ२३४सी꣥॥ उ꣡त्सा꣢ऽ३४। औ꣣꣯हो꣤꣯वा꣥॥ दा꣡इवोऽ२᳐। हि꣣रा꣢ऽ३४५॥ ण्या꣣ऽ २३४याः꣥॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/25_0511_punAnaH_soma/09.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/25_0511_punAnaH_soma/09.md">
 <details open><summary><h6>25_0511 पुनानः सोम - 09 ...{Loading}...</h6></summary>
 
 ५११-९। कण्वरथन्तम्॥ कण्वो बृहती सोमः॥
@@ -3831,7 +3831,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/26_0512_parIto_ShinchatA/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/26_0512_parIto_ShinchatA/01.md">
 <details open><summary><h6>26_0512 परीतो षिञ्चता - 01 ...{Loading}...</h6></summary>
 
 ५१२-१। अच्छिद्रम्॥ विश्वामित्रो बृहती सोमः॥
@@ -3839,13 +3839,13 @@ title = "०३ पावमानम्"
 प꣥री꣯तो꣯षी॥ च꣢ताऽ३᳐१उवाऽ२३। सूऽ२३४ता꣥म्। सो꣡꣯मो꣰꣯ऽ२य꣡उत्त꣢मꣳ꣡ ह꣢वीः꣡॥ सो꣥꣯मो꣯यऊ। त꣢माऽ३१उवाऽ२३। हाऽ२३४वीः꣥। द꣢धन्वाꣳ꣡꣯यो꣯नर्यो꣰꣯ऽ२प्सु꣡वन्त꣢रा꣡꣯॥ द꣥धन्वाꣳ꣯याः॥ न꣡र्यो꣰꣯ऽ२। आ꣡। प्सु꣢वाऽ३१उवाऽ२३। ताऽ२३४ रा꣥। सु꣢षा꣡꣯वसो꣯ममद्रिभी꣣ऽ२३४ः॥ सु꣥षा꣯वसो॥ म꣢माऽ३१उवाऽ२३॥ द्राऽ२३४ इभीः꣥॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/26_0512_parIto_ShinchatA/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/26_0512_parIto_ShinchatA/02.md">
 <details open><summary><h6>26_0512 परीतो षिञ्चता - 02 ...{Loading}...</h6></summary>
 
 ५१२-२। रयिष्ठम्॥ इन्द्रो बृहती सोमः॥प꣥री꣯तो꣯षी॥ च꣢ता꣡सू꣢ऽ३ता꣢म्। औ꣭ऽ३हो꣢ऽ३वा꣢। औ꣭ऽ३हो꣢ऽ३वा꣢। ई꣭ऽ३या꣢। ई꣭ऽ३या꣢ऽ३४। हा꣥। हा꣢उवा। सो꣡꣯मो꣰꣯ऽ२य꣡उत्त꣢मꣳ꣡ह꣢वीः꣡॥ सो꣥꣯मो꣯यऊ॥ त꣢माꣳ꣡ हा꣢ऽ३वीः꣢। औ꣭ऽ३हो꣢ऽ३वा꣢। औ꣭ऽ३हो꣢ऽ३वा꣢। ई꣭ऽ३या꣢। ई꣭ऽ३या꣢ऽ३४। हा꣥। हा꣢उवा। दधन्वाꣳ꣡꣯यो꣯नर्यो꣰꣯ऽ२प्सु꣡वन्त꣢रा꣡꣯॥ द꣥धन्वाꣳ꣯याः॥ न꣡र्यो꣰꣯ऽ२᳐। आ꣡। प्सू꣢ऽ३आ꣡न्ता꣢ऽ३रा꣢। औ꣭ऽ३हो꣢ऽ३वा꣢। औ꣭ऽ३हो꣢ऽ३वा꣢। ई꣭ऽ३या꣢। ई꣭ऽ३या꣢ऽ३४। हा꣥। हा꣢उवा। सुषा꣡꣯वसो꣯ममद्रिभी꣣ऽ२३४ः॥ सु꣥षा꣯वसो॥ म꣢मा꣡द्री꣢ऽ३भा꣢इ। औ꣭ऽ३हो꣢ऽ३वा꣢। औ꣭ऽ३हो꣢ऽ३वा꣢। ई꣭ऽ३या꣢। ई꣭ऽ३या꣢ऽ३४। हा꣥। हा꣢उवाऽ३॥ ऊ꣢ऽ᳐३२᳐३४पा꣥॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/26_0512_parIto_ShinchatA/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/26_0512_parIto_ShinchatA/03.md">
 <details open><summary><h6>26_0512 परीतो षिञ्चता - 03 ...{Loading}...</h6></summary>
 
 ५१२-३। भारद्वाजे द्वे॥ द्वयोर्भरद्वाजो बृहती सोमः॥
@@ -3853,7 +3853,7 @@ title = "०३ पावमानम्"
 औ꣥꣯हो꣯इपरी꣯तो꣯षी॥ च꣢ता꣯सुत꣡म्। औ꣭ऽ३हो꣢इ। औ꣣꣯हो꣢इ᳐। आ꣭ऽ३। औ꣢꣯हो ऽ३वा꣢। सो꣡꣯मो꣰꣯ऽ२य꣡उत्त꣢मꣳ꣡ह꣢विः꣡। औ꣭ऽ३हो꣢इ। औ꣣꣯हो꣢इ। आ꣭ऽ३। औ꣢꣯होऽ३वा꣢॥ दधन्वाꣳ꣡꣯यो꣯नर्यो꣰꣯ऽ२प्सु꣡वन्त꣢रा꣡꣯॥ औ꣭ऽ३हो꣢इ। औ꣣꣯हो꣢इ। आ꣭ऽ३। औ꣢꣯होऽ३वा꣢॥ सुषा꣡꣯वसो꣯ममद्रिभिः꣢। औ꣭ऽ३हो꣢इ। औ꣣꣯हो꣢इ। आ꣡ऽ२३४। उ꣥हुवाऽ६हा꣥उ॥ वा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/26_0512_parIto_ShinchatA/04.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/26_0512_parIto_ShinchatA/04.md">
 <details open><summary><h6>26_0512 परीतो षिञ्चता - 04 ...{Loading}...</h6></summary>
 
 ५१२-४।
@@ -3861,7 +3861,7 @@ title = "०३ पावमानम्"
 प꣤। र्येपारी꣥॥ तो꣢꣯षि꣡ञ्चता꣰꣯ऽ२सुत꣡म्। आउवाऽ२३। हा꣢꣯उ꣣हा꣢꣯उ꣣। हो꣭ऽ३वा꣢। सो꣡꣯मो꣰꣯ऽ२य꣡उत्त꣢मꣳ꣡ह꣢विः꣡। आउवाऽ२३। हा꣢꣯उ꣣हा꣢꣯उ꣣। हो꣭ऽ३वा꣢। दधन्वाꣳ꣡꣯यो꣯नर्यो꣰꣯ऽ२प्सु꣡वन्त꣢रा꣡उ। वाऽ२३। हा꣢꣯उ꣣हा꣢꣯उ꣣। हो꣭ऽ३वा꣢॥ सुषा꣡꣯वाऽ२३ सो꣢ऽ३। हा꣢꣯उ꣣हा꣢꣯उ꣣। हो꣭ऽ३वा꣢॥ म꣣म꣢। द्रा꣡ऽ२३४इभाइ। उ꣥हुवाऽ६"हा꣥उ॥ वा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/26_0512_parIto_ShinchatA/05.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/26_0512_parIto_ShinchatA/05.md">
 <details open><summary><h6>26_0512 परीतो षिञ्चता - 05 ...{Loading}...</h6></summary>
 
 ५१२-५। आभीशवे द्वे॥ द्वयोरभीशुर्बहती सोमः॥
@@ -3869,7 +3869,7 @@ title = "०३ पावमानम्"
 प꣥री꣯तो꣯षिञ्चता꣯सुतम्। ए॥ सो꣢꣯मो꣯यउऽ३त्ता꣡म꣪ꣳहाविः꣢᳐॥ दा꣣ऽ२३४धा꣥। हा꣢इ। न्वाꣳ꣡꣯यो꣯नर्यो꣯अप्सूअ꣪न्तारा꣢᳐॥ सू꣣ऽ२३४षा꣥। हा꣢इ॥ वा꣡सो꣯म꣢मो꣡ऽ२३४वा꣥। द्रा꣤ऽ५इभोऽ६"हा꣥इ॥ दी-९। प-१०। मा-९॥ ५ (नो) ९५८॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/26_0512_parIto_ShinchatA/06.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/26_0512_parIto_ShinchatA/06.md">
 <details open><summary><h6>26_0512 परीतो षिञ्चता - 06 ...{Loading}...</h6></summary>
 
 ५१२-६। आभीशवोत्तरम्॥
@@ -3877,13 +3877,13 @@ title = "०३ पावमानम्"
 प꣥री꣯तो꣯षिञ्चता꣯सुतम्। ए। ए। सो꣢꣯मो꣯यउऽ३त्ता꣡म꣪ꣳहाविः꣢᳐॥ दा꣣ऽ२३४ धा꣥। हा꣢ऽ३हा꣢इ॥ न्वाꣳ꣡꣯यो꣯नर्यो꣯अप्सूअ꣪न्तारा꣢᳐॥ सू꣣ऽ२३४षा꣥। हा꣢ऽ३हा꣢इ॥ वा꣡सो꣯म꣢मो꣡ऽ२३४वा꣥। द्रा꣤ऽ५इभोऽ६"हा꣥इ॥ दी-९। प-११। मा-९॥ ६ (तो) ९५९॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/26_0512_parIto_ShinchatA/07.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/26_0512_parIto_ShinchatA/07.md">
 <details open><summary><h6>26_0512 परीतो षिञ्चता - 07 ...{Loading}...</h6></summary>
 
 ५१२-७। माण्डवे द्वे॥ द्वयोर्मण्डुर्बृहती सोमः॥प꣤री꣥꣯तो꣤꣯षि꣥ञ्चता꣯सुत꣤म्। इहा॥ सो꣡꣯मो꣯यउत्त꣢मꣳ꣡हाऽ२३वीः꣢। इ꣡हा꣢। दध न्वाꣳ꣡꣯यो꣯नर्यो꣯अप्सु꣢व꣡न्ताऽ२३रा꣢। इ꣡हा꣢॥ सुषा꣡꣯वाऽ२३सो꣢। इ꣡हा꣢॥ ममा꣡ऽ२३। द्रा꣡ऽ२᳐इभा꣣ऽ२३४औ꣥꣯हो꣯वा॥ ई꣣ऽ२३४हा꣥॥ दी-११। प-११। मा-६॥ ७ (कू) ९६०॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/26_0512_parIto_ShinchatA/08.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/26_0512_parIto_ShinchatA/08.md">
 <details open><summary><h6>26_0512 परीतो षिञ्चता - 08 ...{Loading}...</h6></summary>
 
 ५१२-८।
@@ -3891,7 +3891,7 @@ title = "०३ पावमानम्"
 इ꣤हा। परी꣥꣯तो꣤꣯षि꣥ञ्चता꣯सुत꣤म्। इहा॥ सो꣡꣯मो꣯यउत्त꣢मꣳ꣡हाऽ२३वीः꣢। इ꣡हा꣢उवाऽ३। ऊ꣢ऽ३४पा꣥। द꣢धन्वाꣳ꣡꣯यो꣯नर्यो꣯अप्सु꣢व꣡न्ताऽ२३रा꣢। इ꣡हा꣢उवाऽ३। ऊ꣢ऽ३४पा꣥॥ सु꣢षा꣡꣯वाऽ२३सो꣢। इ꣡हा꣢उवाऽ३। ऊ꣢ऽ३४पा꣥। म꣢म꣡द्राऽ२३इभीः꣢। इ꣡हा꣢उवाऽ३॥ ऊ꣢ऽ᳐३२᳐३४पा꣥॥ दी-९। प-१५। मा-१०॥ ८ (न्लौ) ९६१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/26_0512_parIto_ShinchatA/09.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/26_0512_parIto_ShinchatA/09.md">
 <details open><summary><h6>26_0512 परीतो षिञ्चता - 09 ...{Loading}...</h6></summary>
 
 ५१२-९। अभिवाससाम॥ अङ्गिरसो बृहती सोमः॥
@@ -3992,7 +3992,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/27_0513_A_soma/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/27_0513_A_soma/01.md">
 <details open><summary><h6>27_0513 आ सोम - 01 ...{Loading}...</h6></summary>
 
 ५१३-१। आश्वानि चत्वारि॥ चतुर्णामश्वो बृहत्यश्वः ईश्वरो वा॥
@@ -4000,7 +4000,7 @@ title = "०३ पावमानम्"
 आ꣣ऽ२३४सो꣥॥ म꣢स्वा꣯नो꣯ऽ३आ꣡। द्राइभा꣢᳐ओ꣣ऽ२३४वा꣥। ति꣢रो꣡꣯वा꣯रा꣰꣯ऽ२ णिअव्य꣡याऽ२३। जा꣡ना꣢᳐ओ꣣ऽ२३४वा꣥। ना꣡पा꣢᳐ओ꣣ऽ२३४वा꣥। रि꣡चमुवो꣰꣯ऽ२र्विश द्ध꣡रीऽ२३ः॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/27_0513_A_soma/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/27_0513_A_soma/02.md">
 <details open><summary><h6>27_0513 आ सोम - 02 ...{Loading}...</h6></summary>
 
 ५१३-२। सोम साम॥
@@ -4008,7 +4008,7 @@ title = "०३ पावमानम्"
 हा꣥꣯वा꣯सो꣯मस्वा॥ नो꣢अ᳐द्रा꣣ऽ२३४इभीः꣥। ति꣢रो᳐वा꣣ऽ२३४रा꣥। णि꣢या᳐ऽ३१ उवाऽ२३। व्याऽ२३४या꣥॥ ज꣢नो᳐ना꣣ऽ२३४पू꣥॥ रा꣢इचा᳐मू꣣ऽ२३४वोः꣥। वि꣢शा᳐ ऽ३१उवाऽ२३। हाऽ२३४रीः꣥॥ स꣢दो᳐वा꣣ऽ२३४ने꣥॥ षु꣢दा᳐ऽ३१उवाऽ२३॥ ध्रीऽ २३४षे꣥॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/27_0513_A_soma/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/27_0513_A_soma/03.md">
 <details open><summary><h6>27_0513 आ सोम - 03 ...{Loading}...</h6></summary>
 
 ५१३-३।
@@ -4016,7 +4016,7 @@ title = "०३ पावमानम्"
 आ꣤꣯सो꣥꣯मस्वा꣯नो꣤꣯अद्रि꣥भा꣤इः॥ ति꣢रो꣡꣯वा꣯रा꣯णिआव्या꣢ऽ१याऽ᳒२᳒। ज꣡नो꣯नपुरि चामू꣢ऽ१वोऽ᳒२ः᳒। विशा꣡द्धा꣢ऽ१रीऽ२ः᳐॥ स꣣दो꣯व꣢ना꣡इ॥ षूऽ२᳐द꣣ध्रि꣢षो꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/27_0513_A_soma/04.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/27_0513_A_soma/04.md">
 <details open><summary><h6>27_0513 आ सोम - 04 ...{Loading}...</h6></summary>
 
 ५१३-४।आ꣣꣯सो꣤꣯मस्वा꣯नो꣣꣯अद्रि꣤भिः꣥। तिरो꣯वा꣢ऽ᳐३रा꣤꣯णि꣥अ꣤व्यया꣥॥ ज꣡नो꣯नपुरिचमुवो꣯ र्वि꣢श꣡द्धरिः। औऽ᳒२᳒। हु꣡वाइ। हो꣭ऽ३वा꣢॥ स꣡दो꣯वने꣯षु꣢दौऽ᳒२᳒। हु꣡वाइ। हो꣭ऽ३वा꣢॥ ध्रिषा꣡। औ꣢ऽ३हो꣤वा꣥। हो꣤ऽ५इ॥ डा॥ दी-१०। प-१३। मा-७॥ १९ (वे) ९७२॥
@@ -4082,7 +4082,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/28_0514_pra_soma/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/28_0514_pra_soma/01.md">
 <details open><summary><h6>28_0514 प्र सोम - 01 ...{Loading}...</h6></summary>
 
 ५१४-१। त्रिणिधनमाग्नेयम्॥ अग्निर्बृहती सोमः॥
@@ -4090,7 +4090,7 @@ title = "०३ पावमानम्"
 प्र꣥सो꣯मदा। वा꣢वी᳐ता꣣ऽ२३४या꣥इ। सि꣢न्धू꣡र्नापाइप्य꣢आ᳐ऽ३१उवाऽ२३। णाऽ २३४सा꣥। आꣳ꣢शोᳲ᳐पा꣣ऽ२३४या꣥॥ सा꣢꣯म꣡दाइरो꣯न꣢जा᳐ऽ३१उवाऽ२३। गॄऽ२३४ वीः꣥॥ आ꣢च्छा᳐को꣣ऽ२३४शा꣥म्॥ म꣢धा᳐ऽ३१उवाऽ२३॥ श्चूऽ२३४ता꣥म्॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/28_0514_pra_soma/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/28_0514_pra_soma/02.md">
 <details open><summary><h6>28_0514 प्र सोम - 02 ...{Loading}...</h6></summary>
 
 ५१४-२।
@@ -4098,7 +4098,7 @@ title = "०३ पावमानम्"
 प्र꣣सो꣤꣯म꣥दे꣯व꣤वी꣥꣯। त꣣योऽ२३४हा꣥इ॥ सि꣣न्धु꣤र्न꣣पि꣤प्ये꣥꣯अ। ण꣣सोऽ२३४हा꣥इ॥ आꣳ꣡शा꣢᳐ओ꣣ऽ२३४वा꣥। पा꣡या꣢᳐ओ꣣ऽ२३४वा꣥॥ सा꣤꣯मदिरो꣣꣯न꣤जा꣥꣯। गॄ꣣ऽ२३४। वी꣥ऽ६ र्हा꣥इ॥ आ꣡च्छा꣢᳐ओ꣣ऽ२३४वा꣥। को꣡शा꣢᳐ओ꣣ऽ२३४वा꣥॥ म꣤धूऽ५श्चुताम्। हो꣤ऽ५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/28_0514_pra_soma/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/28_0514_pra_soma/03.md">
 <details open><summary><h6>28_0514 प्र सोम - 03 ...{Loading}...</h6></summary>
 
 ५१४-३। द्विहिङ्कारं वामदेव्यम्॥ वामदेवो बृहती सोमः॥
@@ -4106,7 +4106,7 @@ title = "०३ पावमानम्"
 प्र꣢सो꣡꣯माऽ२३दे꣤꣯ववी꣥꣯तयाइ॥ सा꣡इन्धुर्नपिप्ये꣯अर्णसाꣳ꣯शोᳲ꣯पयसा꣯मदिरो न꣢जौ꣣꣯हो꣢ऽ३᳐। हि꣡म्माऽ᳒२᳒। गॄ꣡ऽ२३वीः꣢॥ अ꣡च्छा꣯को꣯शाम्म꣢धौ꣣꣯हो꣢ऽ३᳐। हि꣡म्माऽ᳒२᳒॥ श्चुता꣡म्। औऽ२३हो꣤वा꣥। हो꣤ऽ५इ॥ डा॥ दी-११। प-१०। मा-६॥ २२ (ङू) ९७५॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/28_0514_pra_soma/04.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/28_0514_pra_soma/04.md">
 <details open><summary><h6>28_0514 प्र सोम - 04 ...{Loading}...</h6></summary>
 
 ५१४-४। उत्सेधः॥ अङ्गिरसो बृहती सोमः॥
@@ -4114,7 +4114,7 @@ title = "०३ पावमानम्"
 प्र꣣सो꣤꣯मदे꣯व꣣वी꣤꣯त꣥ये꣯। सिन्धुः। न꣣पा꣢ऽ३४औ꣣꣯हो꣤꣯वा꣥॥ प्ये꣢꣯अ꣡र्णसाऽ२꣮। हा᳐ऽ३१उवाऽ२३। ऊ꣢ऽ᳐३४पा꣥॥ अꣳ꣣शो꣢ऽ३ᳲप꣤या। औ꣥꣯हो꣤वाहा꣥इ॥ सा꣡मदि꣢रो꣡। न꣢जा꣯गॄ꣡विः꣢। हा᳐ऽ३१उवाऽ२३। ऊ꣢ऽ᳐३४पा꣥॥ अ꣣च्छा꣢ऽ३को꣤꣯शम्। औ꣥꣯हो꣤वाहा꣥इ॥ म꣣धू꣢ऽ३᳐श्चू꣤ऽ५ताऽ६५६म्॥ ऊ꣣ऽ२३꣡४꣡५꣡॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/28_0514_pra_soma/05.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/28_0514_pra_soma/05.md">
 <details open><summary><h6>28_0514 प्र सोम - 05 ...{Loading}...</h6></summary>
 
 ५१४-५। निषेधः॥ अङ्गिरसो बृहती सोमः॥प्र꣥सो꣯मदा꣯इवाऽ६वी꣥꣯तयाइ॥ सि꣢न्धू꣡र्न꣢पा꣡इ। प्ये꣢꣯अर्ण꣡साऽ᳒२᳒। इ꣡हा꣢ऽ᳐३॥ आꣳ꣡शो꣢ऽ᳐३ᳲपा꣤या꣥। हा꣢᳐हो꣣ऽ२३४हा꣥॥ सा꣡मदि꣢रो꣡। न꣢जा꣯गॄ꣡ऽ२३वीः꣢। इ꣡हा꣢ऽ᳐३॥
@@ -4180,7 +4180,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/29_0515_soma_u/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/29_0515_soma_u/01.md">
 <details open><summary><h6>29_0515 सोम उ - 01 ...{Loading}...</h6></summary>
 
 ५१५-१। सोम सामानि षट्॥ षण्णां सोमो बृहती सोमः॥
@@ -4188,7 +4188,7 @@ title = "०३ पावमानम्"
 हा꣤उसोमाः꣥॥ उ꣢ष्वा꣯णऽ᳐३स्सो꣡तॄ꣢ऽ१भीऽ᳒२ः᳒। आ꣡धि꣢ष्णु꣡भि꣢र꣡वी꣰꣯ऽ२ना꣯म्। आ꣡श्वौ꣭ऽ३हो꣢॥ ये꣡꣯वहरिता꣯या꣯ता᳐इधा꣢ऽ१रायाऽ᳒२᳒॥ म꣡न्द्राया꣢ऽ᳐३या꣢ऽ३४। हा꣥꣯ओ꣤वा꣥॥ ति꣢धा꣡꣯रया꣣ऽ२३꣡४꣡५꣡॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/29_0515_soma_u/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/29_0515_soma_u/02.md">
 <details open><summary><h6>29_0515 सोम उ - 02 ...{Loading}...</h6></summary>
 
 ५१५-२।
@@ -4196,7 +4196,7 @@ title = "०३ पावमानम्"
 सो꣥꣯मऊ꣢ऽ᳐३ष्वा꣤꣯ण꣥स्सो꣤꣯तृभा꣥इः॥ आ꣡धिष्णु꣢भिरवी꣯ना꣯म्। आ꣡श्व꣪येऽ२३४वा꣥। ह꣢रि꣡ता꣯या꣯तिधा꣢ऽ१रा꣢ऽ३या꣢॥ मन्द्रा᳐या꣣ऽ२३४या꣥॥ ता꣣ऽ२३४इधा꣥। र꣢या꣡। औ꣢ऽ᳐३हो꣤वा꣥। हो꣤ऽ५इ॥ डा॥ दी-७। प-१०। मा-६॥ २६ (ञू) ९७९॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/29_0515_soma_u/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/29_0515_soma_u/03.md">
 <details open><summary><h6>29_0515 सोम उ - 03 ...{Loading}...</h6></summary>
 
 ५१५-३।
@@ -4204,7 +4204,7 @@ title = "०३ पावमानम्"
 सो꣤꣯म꣥उष्वा꣯ण꣤स्सो꣥꣯तृ꣤भिः꣥। ए꣤ऽ५। अ꣤धी॥ ष्णु꣡भि꣢राऽ᳐३१उवाऽ२३। वीऽ२३४ ना꣥म्॥ आ꣡ऽ२३श्वा꣢॥ ये꣡꣯वहरिता꣯या꣯ति꣢धाऽ३᳐१उवाऽ२३। राऽ२३४या꣥॥ मा꣡ऽ २३न्द्रा꣢॥ या꣡या꣯ति꣢धाऽ᳐३१उवाऽ२३॥ राऽ२३४या꣥॥ दी-७। प-११। मा-६॥ २७ (चू) ९८०॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/29_0515_soma_u/04.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/29_0515_soma_u/04.md">
 <details open><summary><h6>29_0515 सोम उ - 04 ...{Loading}...</h6></summary>
 
 ५१५-४।
@@ -4212,13 +4212,13 @@ title = "०३ पावमानम्"
 सो꣤꣯म꣥उष्वा꣯ण꣤स्सो꣥꣯तृ꣤भिः꣥। ए꣤ऽ५। अ꣤धी॥ ष्णु꣡भि꣢र꣡वी꣰꣯ऽ२। ना꣡म्। आश्वये꣢꣯व। हा꣡रि꣪तायाऽ᳒२᳒। ता꣡इधा꣯र꣢या꣯। मा꣡न्द्रयायौ꣢वा᳐॥ ती꣣ऽ२३४धा꣥। र꣢या꣡। औ꣢ऽ᳐३हो꣤वा꣥। हो꣤ऽ५इ॥ डा॥ दी-७। प-१४। मा-५॥ २८ (झु) ९८१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/29_0515_soma_u/05.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/29_0515_soma_u/05.md">
 <details open><summary><h6>29_0515 सोम उ - 05 ...{Loading}...</h6></summary>
 
 ५१५-५।सो꣤꣯म꣥उष्वा꣯ण꣤स्सो꣥꣯तृ꣤। भाइ। अधि꣥ष्णु꣤भि꣥र꣤वी꣥꣯। नाम्॥ अ꣡धि꣢ष्णु꣡भि꣢ र꣡वी꣰꣯ऽ२। ना꣡म्। अश्वये꣯वा। ह꣢रि꣡ता꣯या꣯ताऽ२३इधा꣢। रयाऽ३१उवाऽ२३॥ माऽ २३४न्द्रा꣥॥ या꣢या᳐ती꣣ऽ२३४धा꣥॥ र꣣या꣢᳐औ꣣꣯हो꣤वा꣥। हो꣤ऽ५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/29_0515_soma_u/06.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/29_0515_soma_u/06.md">
 <details open><summary><h6>29_0515 सोम उ - 06 ...{Loading}...</h6></summary>
 
 ५१५-६।
@@ -4296,7 +4296,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/30_0516_tavAhaM_soma/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/30_0516_tavAhaM_soma/01.md">
 <details open><summary><h6>30_0516 तवाहं सोम - 01 ...{Loading}...</h6></summary>
 
 ५१६-१। वैष्णवे द्वे॥ द्वयोर्विष्णुर्बृहती सोमः॥ (वैष्णवाद्यम्)।
@@ -4304,7 +4304,7 @@ title = "०३ पावमानम्"
 त꣥वा꣯हꣳसो॥ म꣢राऽ᳒२᳒रणा꣡। रण। सख्यइन्दो꣯दिवाऽ᳒२᳒इदिवा꣡इ। दिवे꣯। पुरू꣯णिबभ्रो꣯निचरन्तिमाऽ᳒२᳒मवा꣡। अव॥ परिधीꣳ꣯रतिताऽ᳒२ꣳ᳒इहा꣡ऽ२३इ। आ꣡ऽ२᳐इ। हा꣣ऽ२३४। औ꣥꣯हो꣯वा॥ ऊ꣢ऽ᳐३२᳐३४पा꣥॥ दी-८। प-१२। मा-६॥ १ (ठ्लू) ९८४॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/30_0516_tavAhaM_soma/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/30_0516_tavAhaM_soma/02.md">
 <details open><summary><h6>30_0516 तवाहं सोम - 02 ...{Loading}...</h6></summary>
 
 ५१६-२। वैष्णवोत्तरम्॥
@@ -4312,7 +4312,7 @@ title = "०३ पावमानम्"
 त꣤वा꣥꣯। तवा꣤॥ अ꣢हꣳ꣡सो꣯मरा꣯रण। सख्याई꣢ऽ᳐३न्दो꣢। दिवा꣡औ꣢ऽ᳐३हो꣢। दा꣡इवेऽ᳒२᳒। पुरू꣡꣯णिबभ्रो꣯निचरन्तिमा꣢ऽ१मा꣢ऽ᳐३वा꣢॥ परा꣡औ꣢ऽ᳐३हो꣢॥ धा꣡इꣳरति꣢तो꣡ऽ२३४वा꣥।
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/30_0516_tavAhaM_soma/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/30_0516_tavAhaM_soma/03.md">
 <details open><summary><h6>30_0516 तवाहं सोम - 03 ...{Loading}...</h6></summary>
 
 ५१६-३। आङ्गिरसानि त्रीणि॥ त्रयाणामङ्गिरसो बृहती सोमः॥
@@ -4320,7 +4320,7 @@ title = "०३ पावमानम्"
 त꣥वा꣯हꣳसो꣯माऽ६रा꣥꣯रणा॥ सा꣢ख्या᳐ई꣣ऽ२३४न्दो꣥। दि꣢वे᳐दा꣣ऽ२३४इवे꣥। पु꣤रू꣣꣯णि꣤ बभ्रो꣯नि꣣च꣤र꣥न्तिमा꣯म्। आ꣡वाऽ२३४हा꣥इ॥ पा꣤री꣥धा꣤इꣳरा꣥। ति꣢तो꣡ऽ२३४वा꣥। आ꣤ऽ५इहोऽ६"हा꣥इ॥ दी-६। प-८। मा-७॥ ३ (गे) ९८६॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/30_0516_tavAhaM_soma/04.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/30_0516_tavAhaM_soma/04.md">
 <details open><summary><h6>30_0516 तवाहं सोम - 04 ...{Loading}...</h6></summary>
 
 ५१६-४।
@@ -4328,7 +4328,7 @@ title = "०३ पावमानम्"
 त꣤वा꣥꣯हꣳ꣤सो꣥꣯मरौ꣯। हो꣤ऽ५रणा꣤॥ सा꣡ख्य꣢इ꣡न्दोऽ२᳐॥ दि꣣वा꣢ऽ३४५इ। दी꣣ऽ२३४वे꣥। पू꣡रूऽ᳒२᳒णा꣡इबाऽ᳒२᳒। भ्रो꣡꣯निचराऽ२᳐। ति꣣मा꣢ऽ३४५म्। आ꣣ऽ२३४वा꣥॥ पा꣡रीऽ᳒२᳒धा꣡इꣳराऽ२᳐॥ ति꣣ताꣳ꣢ऽ३४५॥ ई꣣ऽ२३४ही꣥॥ दी-४। प-१२। मा-५॥ ४ (थु) ९८७॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/30_0516_tavAhaM_soma/05.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/30_0516_tavAhaM_soma/05.md">
 <details open><summary><h6>30_0516 तवाहं सोम - 05 ...{Loading}...</h6></summary>
 
 ५१६-५।
@@ -4396,7 +4396,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/31_0517_mRjyamAnaH_suhastyA/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/31_0517_mRjyamAnaH_suhastyA/01.md">
 <details open><summary><h6>31_0517 मृज्यमानः सुहस्त्या - 01 ...{Loading}...</h6></summary>
 
 ५१७-१। औक्ष्णोरंध्राणि त्रीणि॥ (स्वारम्)। त्रयाणामुक्ष्णोरन्ध्रो बृहती सोमः॥
@@ -4404,7 +4404,7 @@ title = "०३ पावमानम्"
 मृ꣥ज्यमा꣯नाः॥ सु꣢हस्तियाऽ᳐३। सा꣡मू꣢ऽ᳐३द्रा꣤इवा꣥। च꣢मिन्वसाऽ᳐३इ। रा꣡यी꣢ऽ३᳐म्पा꣤इशा꣥। गं꣢बहुलाऽ᳐३म्। पू꣡रूऽ२᳐स्पॄ꣣ऽ२३४हा꣥म्॥ प꣡वमा꣢꣯। ना꣡। औ꣢ऽ᳐३हो꣢॥ भियो꣡ऽ२३४वा꣥। षा꣤ऽ५सोऽ६"हा꣥इ॥ दी-२। प-१२। मा-७॥ ६ (छे) ९८९॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/31_0517_mRjyamAnaH_suhastyA/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/31_0517_mRjyamAnaH_suhastyA/02.md">
 <details open><summary><h6>31_0517 मृज्यमानः सुहस्त्या - 02 ...{Loading}...</h6></summary>
 
 ५१७-२।
@@ -4412,7 +4412,7 @@ title = "०३ पावमानम्"
 मृ꣥ज्यमा꣯नाः॥ सु꣢हस्ता꣡याऽ᳒२᳒। स꣡मुद्रे꣢꣯वा꣯। चा꣡मि꣪न्वासाऽ२३४इ॥ र꣣या꣢᳐ ऽ᳐३४इम्पि꣣शा꣢। गं꣡बहुलंपूरु꣪स्पृहाऽ᳒२᳒म्॥ प꣡वाऽ२३। मा꣡ऽ२᳐ना꣣ऽ२३४औ꣥꣯हो꣯वा॥ भि꣡या꣰꣯ऽ२र्षसी꣣ऽ२३꣡४꣡५꣡॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/31_0517_mRjyamAnaH_suhastyA/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/31_0517_mRjyamAnaH_suhastyA/03.md">
 <details open><summary><h6>31_0517 मृज्यमानः सुहस्त्या - 03 ...{Loading}...</h6></summary>
 
 ५१७-३।
@@ -4420,7 +4420,7 @@ title = "०३ पावमानम्"
 मृ꣥ज्यमा꣯नाः॥ सु꣢ह। स्ति꣡या। सा꣢ऽ१मूऽ᳒२᳒द्रा꣡इवाऽ᳒२᳒। चमि। न्व꣡साइ। रा꣢ऽ१यीऽ᳒२᳒म्पा꣡इशाऽ᳒२᳒। गं꣡बहु꣢लं꣡पुरु꣢। स्पृ꣡हाम्॥ पा꣢ऽ१वाऽ᳒२᳒मा꣡नाऽ२३॥ भा꣡ऽ२᳐या꣣ऽ२३४औ꣥꣯हो꣯वा॥ षा꣣ऽ२३४सी꣥॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/31_0517_mRjyamAnaH_suhastyA/04.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/31_0517_mRjyamAnaH_suhastyA/04.md">
 <details open><summary><h6>31_0517 मृज्यमानः सुहस्त्या - 04 ...{Loading}...</h6></summary>
 
 ५१७-४। आग्नेयानि त्रीणि॥ त्रयाणामग्निर्बृहती सोमः॥
@@ -4428,7 +4428,7 @@ title = "०३ पावमानम्"
 मृ꣥ज्याऽ६ए꣥॥ मा꣡꣯नस्सुहस्तियाऔ꣢ऽ᳐३हो꣢। समुद्रे꣡꣯वा꣯चमिन्वसाऔ꣢ऽ᳐३हो꣢। रयिं꣡पिशङ्गंबहुलंपुरुस्पृहाऔ꣢ऽ᳐३हो꣢॥ पव꣡माऽ२३ना꣢ऽ᳐३॥ भि꣢यो꣡ऽ२३४वा꣥। षा꣤ऽ५सोऽ६"हा꣥इ॥ दी-३। प-७। मा-५॥ ९ (ठु) ९९२॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/31_0517_mRjyamAnaH_suhastyA/05.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/31_0517_mRjyamAnaH_suhastyA/05.md">
 <details open><summary><h6>31_0517 मृज्यमानः सुहस्त्या - 05 ...{Loading}...</h6></summary>
 
 ५१७-५।
@@ -4436,7 +4436,7 @@ title = "०३ पावमानम्"
 मृ꣥ज्य꣤मा꣥꣯नस्सुहस्त्यो꣤। वाहा꣥इ॥ स꣢मुद्रा꣡इवा। च꣪मीऽ२᳐न्वा꣣ऽ२३४सी꣥। र꣣या꣢ऽ᳐३४इम्पि꣣शा꣢। गं꣡बहु꣢लम्। पू꣡रु꣪स्पृहाऽ२३४म्॥ प꣣वा꣢ऽ३४मा꣣꣯ना꣢ऽ᳐३॥ भि꣢यो꣡ऽ२३४वा꣥। षा꣤ऽ५सोऽ६"हा꣥इ॥ दी-२। प-१०। मा-६॥ १० (ञू) ९९३॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/31_0517_mRjyamAnaH_suhastyA/06.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/31_0517_mRjyamAnaH_suhastyA/06.md">
 <details open><summary><h6>31_0517 मृज्यमानः सुहस्त्या - 06 ...{Loading}...</h6></summary>
 
 ५१७-६।
@@ -4444,7 +4444,7 @@ title = "०३ पावमानम्"
 मृ꣤ज्यमा꣯नाऽ५स्सुहस्ति꣤या॥ स꣡मूऽ᳒२᳒द्रा꣡इवाऽ᳒२᳒। च꣡माऽ᳒२᳒इन्वा꣡सीऽ᳒२᳒। रयिं꣡पिशङ्गंबहुलं
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/31_0517_mRjyamAnaH_suhastyA/07.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/31_0517_mRjyamAnaH_suhastyA/07.md">
 <details open><summary><h6>31_0517 मृज्यमानः सुहस्त्या - 07 ...{Loading}...</h6></summary>
 
 ५१७-७। ऐडमौक्ष्णोरन्ध्रम्॥ उक्ष्णोरन्ध्रो बृहती सोमः॥
@@ -4452,7 +4452,7 @@ title = "०३ पावमानम्"
 मृ꣥ज्य꣤मा꣥꣯नस्सुहस्त्या꣯। समुद्रे꣯वो꣤वा꣥॥ चा꣡मिन्व꣢सि। रा꣡यिं꣪पिशा꣢ऽ᳐३। हा꣢ऽ३हा꣢॥ गं꣡बहु꣢लं꣡पुरु꣢स्पृ꣡ह꣢म्। प꣡वमाना꣢ऽ३। हा꣢ऽ᳐३हा꣢॥ भिय꣡र्षाऽ२३ सा꣢ऽ᳐३४३इ। ओ꣡ऽ२३४५इ॥ डा॥ दी-३। प-११। मा-३॥ १२ (टि) ९९५॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/31_0517_mRjyamAnaH_suhastyA/08.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/31_0517_mRjyamAnaH_suhastyA/08.md">
 <details open><summary><h6>31_0517 मृज्यमानः सुहस्त्या - 08 ...{Loading}...</h6></summary>
 
 ५१७-८। वाजजित्॥ प्रजापतिर्बृहती सोमः॥
@@ -4520,7 +4520,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/32_0518_abhi_somAsa/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/32_0518_abhi_somAsa/01.md">
 <details open><summary><h6>32_0518 अभि सोमास - 01 ...{Loading}...</h6></summary>
 
 ५१८-१। वैश्वदेवे द्वे॥ द्वयोर्विश्वेदेवा गायत्री सोमः॥
@@ -4528,7 +4528,7 @@ title = "०३ पावमानम्"
 हा꣢ऽ३᳐हा꣢इ। अभिसो꣯मा꣯सऽ३᳐आ꣡या꣢ऽ१वाऽ२३ः॥ हा꣢ऽ३᳐हा꣢इ। पवन्ते꣯ मदिऽ३᳐या꣡म्मा꣢ऽ१दाऽ२३म्॥ हा꣢ऽ३᳐हा꣢इ। समुद्रस्या꣯धिविष्टपे꣯मऽ३᳐ना꣡इषा꣢ऽ१ इणाऽ२३ः॥ हा꣢ऽ३᳐हा꣢इ। मत्सरा꣯सो꣯मऽ३दा꣡च्यू꣢ऽ१ताऽ२३ः। हा꣢ऽ३᳐हा꣢ऽ ३४३इ। ओ꣡ऽ२३४५इ॥ डा॥ दी-७। प-११। मा-१३॥ १४ (चि) ९९७॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/32_0518_abhi_somAsa/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/32_0518_abhi_somAsa/02.md">
 <details open><summary><h6>32_0518 अभि सोमास - 02 ...{Loading}...</h6></summary>
 
 ५१८-२।
@@ -4536,7 +4536,7 @@ title = "०३ पावमानम्"
 आ꣤भी꣥सो꣤मा꣥॥ स꣢आऽ३१उवाऽ२३। याऽ२३४वाः꣥। पा꣤व꣥न्ता꣤इमा꣥। दि꣢याऽ३१उवाऽ२३। माऽ२३४दा꣥म्। सा꣤मु꣥द्र꣤स्या꣥॥ धि꣢वि꣡ष्टापे꣯म꣢नाऽ᳐३१ उवाये꣢ऽ᳐३। षीऽ२३४णाः꣥। मा꣤त्सा꣥रा꣤साः꣥॥ म꣢दाऽ३१उवाऽ᳐२३॥ च्यूऽ२३४ ताः꣥॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/32_0518_abhi_somAsa/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/32_0518_abhi_somAsa/03.md">
 <details open><summary><h6>32_0518 अभि सोमास - 03 ...{Loading}...</h6></summary>
 
 ५१८-३। इन्द्रसामनी द्वे॥ द्वयोरिन्द्रो बृहती सोमः॥
@@ -4544,7 +4544,7 @@ title = "०३ पावमानम्"
 अ꣢भि꣡सो꣢ऽ᳐३मा꣤꣯सआ꣥꣯यवाः॥ प꣡वन्ते꣢꣯म꣡दिय꣢म्म꣡। दा। औ꣢ऽ᳐३हो꣢। आ꣡औ꣢ऽ३हो꣢॥ समुद्र꣡स्या꣯धिवि꣢ष्ट꣡पे꣯म꣢नी꣯षि꣡। णा। औ꣢ऽ᳐३हो꣢। आ꣡औ꣢ऽ३हो꣢। मत्सरा꣡꣯सो꣯म꣢दच्यु꣡। ता। औ꣢ऽ᳐३हो꣢॥ आ꣡औ꣢ऽ३हो꣢ऽ३४३। ओ꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/32_0518_abhi_somAsa/04.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/32_0518_abhi_somAsa/04.md">
 <details open><summary><h6>32_0518 अभि सोमास - 04 ...{Loading}...</h6></summary>
 
 ५१८-४।
@@ -4552,7 +4552,7 @@ title = "०३ पावमानम्"
 अ꣥भि꣤सो꣯मा꣥꣯सआ꣯। हो꣤ऽ५यवाः꣤॥ प꣡वन्ते꣯मद्यम्मदम्पवन्ते꣯म। दि꣢याꣳ꣡ होइ। माऽ२३दा꣢म्॥ समुद्र꣡स्या꣯धिविष्टपे꣯मनी꣯षिणाः। म꣢ना꣡होइ। षाऽ२३ इणाः꣢। मत्सरा꣡꣯सो꣯मदच्युताः। म꣢दा꣡होइ। च्यूऽ२३ता꣢ऽ᳐३४३ः। ओ꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/32_0518_abhi_somAsa/05.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/32_0518_abhi_somAsa/05.md">
 <details open><summary><h6>32_0518 अभि सोमास - 05 ...{Loading}...</h6></summary>
 
 ५१८-५। स्वः पृष्ठमाङ्गिरसम्॥ अङ्गिरसो बृहती सोमः॥
@@ -4560,7 +4560,7 @@ title = "०३ पावमानम्"
 अ꣡भाऽ२᳐इसो꣣꣯मा꣢ऽ३४। औ꣣꣯हो꣤ऽ५सआ꣯य꣤वाः॥ प꣡वाऽ२᳐न्ते꣣꣯मा꣢ऽ३४। औ꣣꣯हो꣤ऽ५दियम्म꣤दाम्। स꣡मूऽ२᳐द्र꣣स्या꣢ऽ३४। औ꣣꣯हो꣤ऽ५धिविष्ट꣤पाइ। ओ꣡ये꣢ऽ᳐३। मा꣡ऽ२᳐ना꣣ऽ२३४औ꣥꣯हो꣯वा। षी꣣ऽ२३४णाः꣥। ऊ꣣ऽ२३४पा꣥। ऊ꣣ऽ२३४पा꣥॥ म꣣त्स रा꣢꣯सो꣡ऽ२३॥ मा꣡ऽ२᳐दा꣣ऽ२३४औ꣥꣯हो꣯वा॥ च्यू꣣ऽ२३४ताः꣥॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/32_0518_abhi_somAsa/06.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/32_0518_abhi_somAsa/06.md">
 <details open><summary><h6>32_0518 अभि सोमास - 06 ...{Loading}...</h6></summary>
 
 ५१८-६। इन्द्रसामानि त्रीणि॥ त्रयाणामिन्द्रो बृहती सोमः॥
@@ -4568,7 +4568,7 @@ title = "०३ पावमानम्"
 औ꣤꣯हो꣥꣯वा꣤। अ꣥भि꣤सो꣯मा꣥꣯सआ꣯य꣤वः꣥। औ꣤꣯हो꣥꣯वा꣤। प꣡वाऽ२᳐। ते꣣꣯मा꣢ऽ३ओ꣤ऽ५ वाऽ६५६।
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/32_0518_abhi_somAsa/07.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/32_0518_abhi_somAsa/07.md">
 <details open><summary><h6>32_0518 अभि सोमास - 07 ...{Loading}...</h6></summary>
 
 ५१८-७।
@@ -4576,7 +4576,7 @@ title = "०३ पावमानम्"
 अ꣥भिसो꣯मा꣯सआ꣯याऽ६वाः꣥। प꣡वाऽ२᳐। ते꣣꣯मा꣢ऽ᳐३ओ꣤ऽ५वाऽ६५६। दि꣢यं-म꣡द꣢म्। स꣡मूऽ२᳐। द्र꣣स्या꣢ऽ३ओ꣤ऽ५वाऽ६५६। धि꣢विष्ट꣡पे꣰꣯ऽ२मनी꣯षि꣡णा꣰꣯ऽ२ः᳐॥ म꣡त्साऽ२᳐॥ रा꣣꣯सा꣢ऽ᳐३ओ꣤ऽ५वाऽ६५६। म꣢दच्यु꣡ता꣣ऽ२३꣡४꣡५ः꣡॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/32_0518_abhi_somAsa/08.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/32_0518_abhi_somAsa/08.md">
 <details open><summary><h6>32_0518 अभि सोमास - 08 ...{Loading}...</h6></summary>
 
 ५१८-८।
@@ -4644,7 +4644,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/33_0519_punAnaH_soma/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/33_0519_punAnaH_soma/01.md">
 <details open><summary><h6>33_0519 पुनानः सोम - 01 ...{Loading}...</h6></summary>
 
 ५१९-१। सोमसाम॥ सोमो बृहती सोमः॥
@@ -4712,7 +4712,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/34_0520_indrAya_pavate/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/34_0520_indrAya_pavate/01.md">
 <details open><summary><h6>34_0520 इन्द्राय पवते - 01 ...{Loading}...</h6></summary>
 
 ५२०-१। सोमसाम॥ सोमो बृहतीन्द्रो मरुत्वान्॥
@@ -4720,7 +4720,7 @@ title = "०३ पावमानम्"
 इ꣥न्द्रा꣯यपा॥ व꣢ताऽ᳒२᳒इमा꣡दाऽ᳒२ः᳒। सो꣡꣯मो꣯मरुत्वताऽ᳒२᳒इसू꣡ताऽ᳒२ः᳒। स। हा꣡स्रधा꣢꣯रः।
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/34_0520_indrAya_pavate/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/34_0520_indrAya_pavate/02.md">
 <details open><summary><h6>34_0520 इन्द्राय पवते - 02 ...{Loading}...</h6></summary>
 
 ५२०-२। स्वᳲपृष्ठमाङ्गिरसम्॥ अङ्गिरसो बृहतीन्द्रो मरुत्वान्॥
@@ -4728,7 +4728,7 @@ title = "०३ पावमानम्"
 इ꣥न्द्रा꣯यपा॥ व꣢ते꣯म꣡दाः। सो꣢꣯मो꣯मा꣡रूऽ᳒२᳒। त्व꣡तेहोऽ᳒२᳒इ। सू꣡ताऽ᳒२ः᳒। स। हा꣡स्रधा꣢꣯रः। अ꣡तिअव्यमा। षाता꣢᳐ओ꣣ऽ२३४वा꣥। ऊ꣣ऽ२३४पा꣥॥ त꣡मीहोऽ᳒२᳒इ। मा꣡र्जाऽ᳒२᳒॥ तिआ꣡꣯याऽ२३वा꣢ऽ᳐३४३ः। ओ꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/34_0520_indrAya_pavate/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/34_0520_indrAya_pavate/03.md">
 <details open><summary><h6>34_0520 इन्द्राय पवते - 03 ...{Loading}...</h6></summary>
 
 ५२०-३। सोमसाम॥ सोमो बृहतीन्द्रो मरुत्वान्॥
@@ -4796,7 +4796,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/35_0521_pavasva_vAjasAtamo-bhi/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/35_0521_pavasva_vAjasAtamo-bhi/01.md">
 <details open><summary><h6>35_0521 पवस्व वाजसातमोऽभि - 01 ...{Loading}...</h6></summary>
 
 ५२१-१। सोमसाम॥ देवाः देवताः सोमश्च॥
@@ -4864,7 +4864,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/36_0522_pavamAnA_asRxata/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/36_0522_pavamAnA_asRxata/01.md">
 <details open><summary><h6>36_0522 पवमाना असृक्षत - 01 ...{Loading}...</h6></summary>
 
 ५२२-१। पवित्रम्॥ आदित्योबृहतीमरुत्वान्त्सोमः॥
@@ -4935,13 +4935,13 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/37_0523_pra_tu/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/37_0523_pra_tu/01.md">
 <details open><summary><h6>37_0523 प्र तु - 01 ...{Loading}...</h6></summary>
 
 ५२३-१। औशनानि पञ्च॥ उशनास्त्रिष्टुबश्वः अग्निर्वा॥ओ꣢इ᳐प्र꣣तु꣥। इ꣣हा꣢ऽ३१। द्र꣢वा꣡। परिको꣢ऽ᳐३। श꣢न्नि꣣षी꣤दा꣥॥ ओ꣢इ᳐नृ꣣भिः꣥। इ꣣हा꣢ऽ३१। पु꣢ना꣡। नो꣢ऽ᳐३अ꣡भि। वा꣢᳐ज꣣म꣤र्षा꣥॥ ओ꣢᳐अ꣣श्व꣥म्। इ꣣हा꣢ऽ३१। न꣢त्वा꣡। वा꣢ऽ३जि꣡नम्। म꣢र्ज꣣य꣤न्ताः꣥॥ ओ꣢᳐अ꣣च्छ꣥। इ꣣हा꣢ऽ३१। ब꣢र्हा꣡इः। र꣢श꣡ना꣯। भा꣢ऽ३४३इः। ना꣢ऽ᳐३या꣤ऽ५न्ताऽ६"५६इ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/37_0523_pra_tu/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/37_0523_pra_tu/02.md">
 <details open><summary><h6>37_0523 प्र तु - 02 ...{Loading}...</h6></summary>
 
 ५२३-२। वृषौशनंसाम॥
@@ -4949,7 +4949,7 @@ title = "०३ पावमानम्"
 प्र꣤तु꣥। ए꣤प्रतू꣥। द्र꣢वा꣡।(द्विः)। परिको꣢ऽ᳐३। श꣢न्नि꣣षी꣤दा꣥॥ नृ꣤भिः꣥। ए꣤नृभीः꣥। पु꣢ना꣡।(द्विः)। नो꣢ऽ᳐३अ꣡भि। वा꣢᳐ज꣣म꣤र्षा꣥॥ अ꣤श्व꣥म्। ए꣤अश्वा꣥म्। न꣢त्वा꣡।(द्विः)। वा꣢ऽ᳐३जि꣡नम्। म꣢र्ज꣣य꣤न्ताः꣥। अ꣤च्छ꣥। ए꣤अच्छा꣥। ब꣢र्हा꣡इ। ब꣢र्हा꣡इः। र꣢शना꣡꣯भिः꣢᳐। न꣣ये꣢ऽ३४। हि꣥याऽ६हा꣥उवा॥ ता꣣ऽ२३꣡४꣡५꣡इ॥ दी-१। प-२६। मा-१५॥ २९ (कु) १०१२॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/37_0523_pra_tu/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/37_0523_pra_tu/03.md">
 <details open><summary><h6>37_0523 प्र तु - 03 ...{Loading}...</h6></summary>
 
 ५२३-३। जानस्याभीवर्तौ द्वौ॥
@@ -4957,7 +4957,7 @@ title = "०३ पावमानम्"
 प्र꣤तु꣥द्रा꣤॥ वा꣡परिको꣯शाम्। निषी꣢ऽ᳐३दा꣢। सा꣡इदा꣢᳐। औ꣣꣯हो꣢इ। औ꣣꣯हो꣭ऽ३वा꣢। नृ꣡भिᳲपुना꣯नो꣯अभिवा। ज꣪माऽ२३र्षा꣢। आ꣡र्षा꣢। औ꣣꣯हो꣢इ। औ꣣꣯हो꣭ऽ३वा꣢। अ꣡श्व न्नत्वा꣯वा꣯जिनम्मा। ज꣪याऽ२३न्ताः꣢। या꣡न्ता꣢। औ꣣꣯हो꣢इ। औ꣣꣯हो꣭ऽ३वा꣢॥ अच्छा꣡꣯ब꣢र्हा꣡इः॥ र꣢शना꣡꣯भिः꣢। न꣣ये꣢ऽ३४। हि꣥याऽ६हा꣥उवा॥ ता꣣ऽ२३꣡४꣡५꣡इ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/37_0523_pra_tu/04.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/37_0523_pra_tu/04.md">
 <details open><summary><h6>37_0523 प्र तु - 04 ...{Loading}...</h6></summary>
 
 ५२३-४।
@@ -4965,7 +4965,7 @@ title = "०३ पावमानम्"
 हा꣥꣯ओऽ६हा꣥। उ꣣हुवा꣢ऽ३४। ओ꣥ऽ६हा꣥। प्र꣢तु꣡द्रवा। परिको꣢ऽ᳐३। श꣢न्नि꣣ षी꣤दा꣥॥नृ꣢भा꣡इᳲपु꣢ना꣡। नो꣢ऽ३अ꣡भि। वा꣢᳐ज꣣म꣤र्षा꣥॥ अ꣢श्व꣡न्नत्वा। वा꣢ऽ᳐३जि꣡नम्। म꣢र्ज꣣य꣤न्ताः꣥॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/37_0523_pra_tu/05.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/37_0523_pra_tu/05.md">
 <details open><summary><h6>37_0523 प्र तु - 05 ...{Loading}...</h6></summary>
 
 ५२३-५। त्रिष्टुबौशनम्॥
@@ -5033,13 +5033,13 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/38_0524_pra_kAvyamushaneva/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/38_0524_pra_kAvyamushaneva/01.md">
 <details open><summary><h6>38_0524 प्र काव्यमुशनेव - 01 ...{Loading}...</h6></summary>
 
 ५२४-१। वाराहाणि चत्वारि॥ चतुर्णां वराहस्त्रिष्टुब्देववराहौ॥प्रा꣤॥ का꣡꣯वियाऽ᳒२᳒म्। उ꣡शनेवाऽ᳒२᳒। ब्रुवा꣡ऽ२३णाः꣢। दे꣡꣯वो꣯देवाऽ᳒२᳒। ना꣡꣯ञ्जनिमाऽ᳒२᳒। विवा꣡ऽ२३क्ती꣢॥ म꣡हिव्राताऽ᳒२ः᳒। शु꣡चिबन्धूऽ᳒२ः᳒। पवा꣡ऽ२३ काः꣢॥ प꣡दा꣯वाराऽ᳒२᳒। हो꣡꣯अभियाऽ२᳐इ। ति꣣रा꣢ऽ३४औ꣥꣯हो꣯वा॥ भा꣣ऽ२३꣡४꣡५꣡न्॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/38_0524_pra_kAvyamushaneva/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/38_0524_pra_kAvyamushaneva/02.md">
 <details open><summary><h6>38_0524 प्र काव्यमुशनेव - 02 ...{Loading}...</h6></summary>
 
 ५२४-२।
@@ -5047,7 +5047,7 @@ title = "०३ पावमानम्"
 प्र꣡का꣯वियाऽ᳒२᳒म्। उ꣡शनेवाऽ᳒२᳒। ब्रुवा꣡णाऽ᳒२ः᳒॥ दे꣡꣯वो꣯देवाऽ᳒२᳒। ना꣡꣯ञ्ज निमाऽ᳒२᳒। विवा꣡क्तीऽ᳒२᳒॥ म꣡हिव्राताऽ᳒२ः᳒। शु꣡चिबन्धूऽ᳒२ः᳒। पवा꣡काऽ᳒२ः᳒॥ प꣡दा꣯ वाराऽ᳒२᳒। हो꣡ऽ२᳐। भि꣣या꣢ऽ३४औ꣥꣯हो꣯वा॥ ति꣢रे꣡꣯भा꣣ऽ२३꣡४꣡५꣡न्॥ दी-८। प-१३। मा-७॥ ३४ (डे) १०१७॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/38_0524_pra_kAvyamushaneva/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/38_0524_pra_kAvyamushaneva/03.md">
 <details open><summary><h6>38_0524 प्र काव्यमुशनेव - 03 ...{Loading}...</h6></summary>
 
 ५२४-३।
@@ -5055,7 +5055,7 @@ title = "०३ पावमानम्"
 प्र꣢का꣯व्यमुशने꣯वब्रूऽ᳐३वा꣡णो꣢᳐। दे꣣ऽ२३४वाः꣥॥ दे꣢꣯वा꣯ना꣯ञ्जनिमा꣯विऽ᳐३ वा꣡क्ती꣢᳐। मा꣣ऽ२३४ही꣥॥ व्र꣢तश्शुचिबन्धुᳲपऽ३वा꣡कः꣢। पा꣣ऽ२३४दा꣥॥ व꣢रा꣯हो꣯ अभ्ये꣯ति꣡राऽ२३। हा꣢उवाऽ३॥ भाऽ२३꣡४꣡५꣡न्॥ दी-९। प-९। मा-५॥ ३५ (धु) १०१८॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/38_0524_pra_kAvyamushaneva/04.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/38_0524_pra_kAvyamushaneva/04.md">
 <details open><summary><h6>38_0524 प्र काव्यमुशनेव - 04 ...{Loading}...</h6></summary>
 
 ५२४-४। वाराहम्॥
@@ -5127,7 +5127,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/39_0525_tisro_vAcha/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/39_0525_tisro_vAcha/01.md">
 <details open><summary><h6>39_0525 तिस्रो वाच - 01 ...{Loading}...</h6></summary>
 
 ५२५-१। संक्रोशास्त्रयः॥ त्रयाणामङ्गिरसत्रिष्टुप्सोमः सूर्यो वा॥
@@ -5137,7 +5137,7 @@ title = "०३ पावमानम्"
 हो꣡इहा। इ꣢हो꣡इहा। औ꣭ऽ३हो꣢ऽ᳐३१इ। इहा। ति꣢स्रो꣡꣯वा꣯चाः। ई꣢ऽ᳐३र꣡य। ति꣢प्र꣣व꣤ह्नीः꣥॥४॥ हो꣡इया। इ꣢यो꣡इया। औ꣭ऽ३हो꣢ऽ᳐३१इ। इया। ति꣢स्रो꣡꣯वा꣯चाः। ई꣢ऽ᳐३र꣡य। ति꣢प्र꣣व꣤ह्नीः꣥॥५॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/39_0525_tisro_vAcha/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/39_0525_tisro_vAcha/02.md">
 <details open><summary><h6>39_0525 तिस्रो वाच - 02 ...{Loading}...</h6></summary>
 
 ५२५-२। वेणोर्विशाले द्वे॥ वेणुस्त्रिष्टुप्सोमः सूर्यो वा॥
@@ -5153,7 +5153,7 @@ title = "०३ पावमानम्"
 आ꣡। औ꣢ऽ᳐३हो꣯वा꣯हा꣢ऽ३४। औ꣣꣯हो꣤꣯वा꣥। ति꣢स्रो꣡꣯वा꣯चाः। ई꣢ऽ᳐३र꣡य। ति꣢प्र꣣व꣤ह्नीः꣥॥१०॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/39_0525_tisro_vAcha/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/39_0525_tisro_vAcha/03.md">
 <details open><summary><h6>39_0525 तिस्रो वाच - 03 ...{Loading}...</h6></summary>
 
 ५२५-३।
@@ -5223,7 +5223,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/40_0526_asya_preShA/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/40_0526_asya_preShA/01.md">
 <details open><summary><h6>40_0526 अस्य प्रेषा - 01 ...{Loading}...</h6></summary>
 
 ५२६-१। अष्टौ वासिष्ठानि॥ षण्णां वसिष्ठस्त्रिष्टुब्देवाः उत्तरयोर्विश्वेदेवाः॥
@@ -5231,7 +5231,7 @@ title = "०३ पावमानम्"
 अ꣣स्या꣢ऽ३४औ꣣꣯हो꣤꣯वा꣥। प्रे꣡꣯षा। हे꣢ऽ᳐३म꣡ना꣯। पू꣢᳐य꣣मा꣤नाः꣥॥१॥ उ꣣हुवा꣢इ᳐। अ꣣स्या꣢ऽ३४औ꣣꣯हो꣤꣯वा꣥। प्रे꣡꣯षा। हे꣢ऽ᳐३म꣡ना꣯। पू꣢᳐य꣣मा꣤नाः꣥॥२॥ हा꣢इ। उहुवा᳐। दे꣣꣯वा꣢ऽ ३४औ꣣꣯हो꣤꣯वा꣥। दे꣡꣯वाइ। भी꣢ऽ३᳐स्स꣡म। पृ꣢क्त꣣र꣤सा꣥म्॥३॥ हा꣢उ। हो᳐इ। सु꣣ता꣢ऽ३४ औ꣣꣯हो꣤꣯वा꣥। प꣡वाइ। त्रा꣢ऽ३म्प꣡रि। ए꣢᳐ति꣣रे꣤भा꣥न्॥४॥ हा। हा꣢औ꣯हो᳐इ। मि꣣ता꣢ऽ᳐३४ औ꣣꣯हो꣤꣯वा꣥। व꣡सा। द्मा꣢ऽ᳐३प꣡शु। म꣢न्ति꣣हो꣤ता꣥। प꣡शु। मा꣢ऽ३४३। ती꣢ऽ᳐३हो꣤ऽ५ ता"ऽ६५६॥५॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/40_0526_asya_preShA/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/40_0526_asya_preShA/02.md">
 <details open><summary><h6>40_0526 अस्य प्रेषा - 02 ...{Loading}...</h6></summary>
 
 ५२६-२। वासिष्ठम्॥
@@ -5303,7 +5303,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/41_0527_somaH_pavate/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/41_0527_somaH_pavate/01.md">
 <details open><summary><h6>41_0527 सोमः पवते - 01 ...{Loading}...</h6></summary>
 
 ५२७-१। कालकाक्रन्दौ द्वौ॥
@@ -5311,7 +5311,7 @@ title = "०३ पावमानम्"
 सो꣢꣯मᳲपवते꣯जनिता꣯मऽ᳐३ता꣡इनाऽ᳒२᳒म्॥ जनिता꣯दिवो꣯जनिता꣯पृऽ᳐३था꣡इ व्याऽ᳒२ः᳒॥ जनिता꣡꣯ग्ने꣯र्जनिता꣯सू। रि꣪याऽ२३स्या꣢॥ जनिते꣡꣯न्द्रा। स्या꣢ऽ᳐३ ज꣡नि। तो꣢ऽ᳐३४३। ता꣢ऽ᳐३वा꣤ऽ५इष्णो"ऽ६५६ः॥७॥ दी-१०। प-८। मा-६॥ ६ (बू) १०२५॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/41_0527_somaH_pavate/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/41_0527_somaH_pavate/02.md">
 <details open><summary><h6>41_0527 सोमः पवते - 02 ...{Loading}...</h6></summary>
 
 ५२७-२।
@@ -5319,7 +5319,7 @@ title = "०३ पावमानम्"
 सो꣣꣯मᳲ꣤प꣥वते꣯जनिता꣯। ए꣢ऽ᳐३। औ꣢ऽ᳐३हो꣤ऽ५वा॥ मा꣡ताऽ२३४५इनाऽ६५६म्। ज꣢निता꣡꣯दि꣢वो꣡꣯जनि꣢ता꣡꣯पृथि꣢व्याः꣡꣯॥ जनाऽ२᳐इता꣣ऽ२३४ग्नेः꣥। ज꣢निता꣯। सूऽ३४३। री꣢ऽ᳐३या꣤ऽ५स्याऽ६५६॥ ज꣢निते꣡꣯न्द्रस्य꣢जनितो꣡꣯तविष्णो꣣ऽ२३꣡४꣡५ः꣡॥८॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/41_0527_somaH_pavate/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/41_0527_somaH_pavate/03.md">
 <details open><summary><h6>41_0527 सोमः पवते - 03 ...{Loading}...</h6></summary>
 
 ५२७-३। जनित्रे द्वे॥ द्वयोर्वसिष्ठस्त्रिष्टुब्विश्वेदेवाः॥
@@ -5327,7 +5327,7 @@ title = "०३ पावमानम्"
 हा꣥꣯उज꣤नत्।(त्रिः)। जनद्धा꣥उ।(त्रिः)। हो꣡इ। जनत्।(द्वे-द्विः)। होइ। जनात्। सो꣢꣯मᳲ꣡पवा। ते꣢ऽ᳐३ज꣡नि। ता꣢᳐म꣣ती꣤ना꣥म्॥ ज꣢निता꣡꣯दाइ। वो꣢ऽ᳐३ज꣡नि। ता꣢᳐पृ꣣थि꣤व्याः꣥॥ ज꣢निता꣡꣯ग्नाइः। ज꣢नि꣡ता꣯। सू꣢᳐रि꣣य꣤स्या꣥॥ हा꣯उज꣤नत्।(त्रिः)। जनद्धा꣥उ।(त्रिः)। हो꣡इ। जनत्।(द्वे-द्विः)। होइ। जनात्। ज꣢निते꣡꣯न्द्रा। स्या꣢ऽ᳐३ज꣡नि। तो꣢ऽ᳐३४३। ता꣢ऽ᳐३वा꣤ऽ५इष्णो"ऽ६५६ः॥ दी-११। प-३७। मा-३७॥ ८ (खे) १०२७॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/41_0527_somaH_pavate/04.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/41_0527_somaH_pavate/04.md">
 <details open><summary><h6>41_0527 सोमः पवते - 04 ...{Loading}...</h6></summary>
 
 ५२७-४।
@@ -5397,7 +5397,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/42_0528_abhi_tripRShTham/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/42_0528_abhi_tripRShTham/01.md">
 <details open><summary><h6>42_0528 अभि त्रिपृष्ठम् - 01 ...{Loading}...</h6></summary>
 
 ५२८-१। अङ्गिरसां व्रतोपोहः॥ (सम्पा)। वसिष्ठस्त्रिष्टुब्वरुणः॥
@@ -5471,7 +5471,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/43_0529_akrAntsamudraH_prathame/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/43_0529_akrAntsamudraH_prathame/01.md">
 <details open><summary><h6>43_0529 अक्रान्त्समुद्रः प्रथमे - 01 ...{Loading}...</h6></summary>
 
 ५२९-१। वैयश्वम्॥ व्यश्वस्त्रिष्टुप्सूर्यः॥
@@ -5539,7 +5539,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/44_0530_kanikranti_harirA/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/44_0530_kanikranti_harirA/01.md">
 <details open><summary><h6>44_0530 कनिक्रन्ति हरिरा - 01 ...{Loading}...</h6></summary>
 
 ५३०-१। सोम सामनी द्वे॥ द्वयोस्सोमस्त्रिष्टुप्सोमः॥
@@ -5547,7 +5547,7 @@ title = "०३ पावमानम्"
 का꣤नी꣥॥ क्रा꣡न्तीऽ᳒२᳒क्रा꣡न्तीऽ᳒२᳒। हरिरा꣯सृज्य꣡माऽ२३ना꣢ऽ३ः॥ सा꣤इदा꣥न्। वा꣡नाऽ᳒२᳒वा꣡नाऽ᳒२᳒। स्यजठरे꣯पु꣡नाऽ२३ना꣢ऽ३ः॥ नॄ꣤भीः꣥। या꣡ताऽ᳒२᳒या꣡ताऽ᳒२ः᳒। कृणुते꣯निर्णि꣡जाऽ२३ङ्गा꣢ऽ३म्॥ आ꣤ताः꣥। मा꣡तीऽ᳒२᳒म्मा꣡तीऽ᳒२᳒म्। ज꣡नयताऽ२३। स्वा꣡ऽ२᳐धा꣣ऽ२३४औ꣥꣯हो꣯वा॥ भी꣣ऽ२३꣡४꣡५ः꣡॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/44_0530_kanikranti_harirA/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/44_0530_kanikranti_harirA/02.md">
 <details open><summary><h6>44_0530 कनिक्रन्ति हरिरा - 02 ...{Loading}...</h6></summary>
 
 ५३०-२।
@@ -5615,7 +5615,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/45_0531_eSha_sya/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/45_0531_eSha_sya/01.md">
 <details open><summary><h6>45_0531 एष स्य - 01 ...{Loading}...</h6></summary>
 
 ५३१-१। ऐषम्॥ इषस्त्रिष्टुबिन्द्रसोमौ॥
@@ -5684,7 +5684,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/46_0532_pavasva_soma/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/46_0532_pavasva_soma/01.md">
 <details open><summary><h6>46_0532 पवस्व सोम - 01 ...{Loading}...</h6></summary>
 
 ५३२-१। माधुच्छन्दसम्॥ मधुच्छन्दास्त्रिष्टुप्सोमः॥
@@ -5752,7 +5752,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/47_0533_pra_senAnIH/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/47_0533_pra_senAnIH/01.md">
 <details open><summary><h6>47_0533 प्र सेनानीः - 01 ...{Loading}...</h6></summary>
 
 ५३३-१। कुत्सस्याधिरथीयानि त्रीणि॥ त्रयाणां कुत्सस्त्रिष्टुप्सोमः॥
@@ -5760,7 +5760,7 @@ title = "०३ पावमानम्"
 हो꣣ऽ४वा꣥। उ꣣हुवा꣢ऽ३। हो꣤वा꣥। प्र꣢से꣡꣯ना꣢꣯ना꣡इः। शू꣯रो꣯आ꣢ऽ᳐३। ग्रा꣢इ᳐र꣣था꣤ना꣥म्॥ ग꣢व्य꣡न्ने꣢꣯ता꣡इ। हर्षता꣢ऽ᳐३इ। अ꣢स्य꣣से꣤ना꣥॥ भ꣢द्रा꣡꣯न्कृ꣢ण्वा꣡न्। इन्द्रहा꣢ऽ᳐३। वा꣢᳐न्त्स꣣खि꣤भ्याः꣥॥ आ꣢꣯सो꣡꣯मो꣢꣯वा꣡। स्त्रा꣢ऽ३र꣡भ। सा꣢᳐नि꣣द꣤त्ता꣥इ। हो꣣ऽ४वा꣥। उ꣣हुवा꣢ ऽ᳐३। हो꣤वा꣥ऽ६॥ हा꣥उवा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/47_0533_pra_senAnIH/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/47_0533_pra_senAnIH/02.md">
 <details open><summary><h6>47_0533 प्र सेनानीः - 02 ...{Loading}...</h6></summary>
 
 ५३३-२।
@@ -5768,7 +5768,7 @@ title = "०३ पावमानम्"
 औ꣥꣯हो꣤ऽ३वा꣢ऽ३꣡४꣡५꣡। प्र꣢से꣡꣯ना꣢꣯ना꣡इः। शू꣯रो꣯आ꣢ऽ᳐३। ग्रा꣢इ᳐र꣣था꣤ना꣥म्॥ ग꣢व्य꣡ न्ने꣢꣯ता꣡इ। हर्षता꣢ऽ᳐३इ। अ꣢स्य꣣से꣤ना꣥॥ भ꣢द्रा꣡꣯न्कृ꣢ण्वा꣡न्। इन्द्रहा꣢ऽ᳐३। वा꣢᳐न्त्स꣣ खि꣤भ्याः꣥॥ औ꣯हो꣤ऽ३वा꣢ऽ३꣡४꣡५꣡। आ꣢꣯सो꣡꣯मो꣢꣯वा꣡। स्त्रा꣢ऽ᳐३र꣡भ। सा꣢ऽ᳐३४३। नी꣢ऽ᳐३ दा꣤ऽ५त्ता"ऽ६५६इ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/47_0533_pra_senAnIH/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/47_0533_pra_senAnIH/03.md">
 <details open><summary><h6>47_0533 प्र सेनानीः - 03 ...{Loading}...</h6></summary>
 
 ५३३-३।
@@ -5836,7 +5836,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/48_0534_pra_te/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/48_0534_pra_te/01.md">
 <details open><summary><h6>48_0534 प्र ते - 01 ...{Loading}...</h6></summary>
 
 ५३४-१। वैश्वज्योतिषाणि त्रीणि॥ त्रयाणां विश्वज्योतिस्त्रिष्टुप्सूर्यः॥
@@ -5904,7 +5904,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/49_0535_pra_gAyatAbhyarchAma/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/49_0535_pra_gAyatAbhyarchAma/01.md">
 <details open><summary><h6>49_0535 प्र गायताभ्यर्चाम - 01 ...{Loading}...</h6></summary>
 
 ५३५-१। अस्य देवा देवता॥
@@ -5972,7 +5972,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/50_0536_pra_hinvAno/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/50_0536_pra_hinvAno/01.md">
 <details open><summary><h6>50_0536 प्र हिन्वानो - 01 ...{Loading}...</h6></summary>
 
 ५३६-१। इन्द्रोऽस्य देवता॥
@@ -6040,7 +6040,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/51_0537_taxadyadI_manaso/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/51_0537_taxadyadI_manaso/01.md">
 <details open><summary><h6>51_0537 तक्षद्यदी मनसो - 01 ...{Loading}...</h6></summary>
 
 ५३७-१। वाचस्सामनी द्वे॥ द्वयोः वाक्त्रिष्टुप्वाक्सोमौ॥
@@ -6048,7 +6048,7 @@ title = "०३ पावमानम्"
 त꣣क्ष꣤द्यदी꣥꣯। हो꣣ऽ२३꣡४꣡५꣡इ॥ म꣣न꣤सो꣯वे꣣꣯न꣤तः꣥। वा꣣ऽ२३꣡४꣡५꣡क्॥ ज्ये꣣꣯ष्ठ꣤ स्य꣥धा। हो꣣ऽ२३꣡४꣡५꣡॥ म꣤न्द्युक्षो꣣꣯र꣤नी꣥꣯। का꣣ऽ२३꣡४꣡५꣡इ॥ आ꣣꣯दी꣤꣯मा꣥꣯यन्। हो꣣ऽ २३꣡४꣡५꣡इ॥ व꣣र꣤मा꣣꣯वा꣤꣯व꣥शा꣯। ना꣣ऽ२३꣡४꣡५ः꣡॥ जु꣣ष्ट꣤म्पति꣥म्। हो꣣ऽ२३꣡४꣡५꣡इ॥ क꣤लशे꣯गाऽ५वः। इ। दाउ॥ वा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/51_0537_taxadyadI_manaso/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/51_0537_taxadyadI_manaso/02.md">
 <details open><summary><h6>51_0537 तक्षद्यदी मनसो - 02 ...{Loading}...</h6></summary>
 
 ५३७-२।
@@ -6116,7 +6116,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/52_0538_sAkamuxo_marjayanta/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/52_0538_sAkamuxo_marjayanta/01.md">
 <details open><summary><h6>52_0538 साकमुक्षो मर्जयन्त - 01 ...{Loading}...</h6></summary>
 
 ५३८-१। दाशस्पत्ये द्वे॥ द्वयोर्दशस्पतिस्त्रिष्टुप्सूर्यः॥
@@ -6124,7 +6124,7 @@ title = "०३ पावमानम्"
 सा꣤का꣥म्॥ उ꣡क्षो꣯मर्जयन्तस्व꣢सा꣡ऽ२३राः꣢। दा꣡शाऽ᳒२᳒। धी꣡꣯रस्यधी꣯तयो꣯ ध꣢नू꣡ऽ२३त्रीः꣢। हा꣡रीऽ᳒२ः᳒। प꣡र्यद्रवज्जा꣯स्सूरि꣪याऽ२३स्या꣢। द्रो꣡णाऽ᳒२᳒म्। न꣡नक्षे꣯ अत्यो꣯नवाऽ२३। हा꣢उवाऽ᳐३। जीऽ२३꣡४꣡५꣡॥ दी-११। प-१४। मा-७॥ २४ (ञे) १०४३॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/52_0538_sAkamuxo_marjayanta/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/52_0538_sAkamuxo_marjayanta/02.md">
 <details open><summary><h6>52_0538 साकमुक्षो मर्जयन्त - 02 ...{Loading}...</h6></summary>
 
 ५३८-२।
@@ -6192,7 +6192,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/53_0539_adhi_yadasminvAjinIva/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/53_0539_adhi_yadasminvAjinIva/01.md">
 <details open><summary><h6>53_0539 अधि यदस्मिन्वाजिनीव - 01 ...{Loading}...</h6></summary>
 
 ५३९-१। कश्यपस्य शोभनम्॥ कश्यपस्त्रिटुप्सूर्यः॥
@@ -6260,7 +6260,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/54_0540_indurvAjI_pavate/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/54_0540_indurvAjI_pavate/01.md">
 <details open><summary><h6>54_0540 इन्दुर्वाजी पवते - 01 ...{Loading}...</h6></summary>
 
 ५४०-१। दाशस्पत्यानि चत्वारि॥ चतुर्णां दशस्पतिस्त्रिष्टुप्सूर्यसोमेन्द्राः सोमेन्द्रौ वा॥
@@ -6268,7 +6268,7 @@ title = "०३ पावमानम्"
 इ꣢न्दुऽ३र्वा꣡जीऽ᳒२᳒। प꣡वते꣯गो꣯नियोघाः꣢॥ इन्द्रा꣡इसोऽ२३४माः꣥। सा꣡हइन्व न्मदाया꣢॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/54_0540_indurvAjI_pavate/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/54_0540_indurvAjI_pavate/02.md">
 <details open><summary><h6>54_0540 इन्दुर्वाजी पवते - 02 ...{Loading}...</h6></summary>
 
 ५४०-२।
@@ -6276,7 +6276,7 @@ title = "०३ पावमानम्"
 इ꣤न्दु꣥र्वा꣯जी꣤꣯प꣥वतौ꣯। हौ꣤꣯होवाहा꣥इ॥ गो꣡नि꣪योघौ꣢। वा᳐ओ꣣ऽ२३४वा꣥। इ꣡न्द्रे꣰꣯ ऽ२सो꣡꣯मा꣰꣯ऽ२स्स꣡ह꣢इ꣡। न्वान्म꣪दायौ꣢। वा᳐ओ꣣ऽ२३४वा꣥॥ ह꣡न्ति꣢र꣡क्षो꣢꣯बा꣡꣯ध꣢ते꣯। पा꣡र्य꣪ रातौ꣢। वा᳐ओ꣣ऽ२३४वा꣥॥ व꣡रिव꣢स्कृण्व꣡न्वृजना꣢ऽ᳐३। स्या꣡। रा꣭ऽ३जौ꣢वा᳐ ओ꣣ऽ२३४वा꣥। हो꣤ऽ५इ॥ डा॥ दी-१०। प-१५। मा-७॥ २८ (मे) १०४७॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/54_0540_indurvAjI_pavate/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/54_0540_indurvAjI_pavate/03.md">
 <details open><summary><h6>54_0540 इन्दुर्वाजी पवते - 03 ...{Loading}...</h6></summary>
 
 ५४०-३। दाशस्पत्यम्॥
@@ -6284,7 +6284,7 @@ title = "०३ पावमानम्"
 इ꣥न्दुरौ꣯हो꣯वा꣯हा꣯ई꣤या꣥॥ वा꣢꣯जाउ। वाऽ᳐३। हा꣢उवा। पवते꣯गो꣯नि꣡योघा꣢उ। वाऽ᳐३। हा꣢उवा। इन्द्रा꣡इसोमः꣢। सह꣡इन्वा꣢उ। वाऽ᳐३। हा꣢उवा᳐ऽ३। मा꣡ऽ२᳐ दा꣣ऽ२३४औ꣥꣯हो꣯वा। या꣣ऽ२३꣡४꣡५꣡॥ ह꣢न्ता꣡इरक्षो꣢। बा꣯धा꣡ताइपा꣢उ। वाऽ᳐३। हा꣢उवा᳐ऽ३। र्या꣡ऽ२᳐रा꣣ऽ२३४औ꣥꣯हो꣯वा। ती꣣ऽ२३꣡४꣡५꣡म्॥ व꣢रा꣡इवस्कृ꣢। ण्व꣡न्वृज ना꣢उ। वाऽ᳐३। हा꣢उवा᳐ऽ३॥ स्या꣡ऽ२᳐रा꣣ऽ२३४औ꣥꣯हो꣯वा॥ जा꣣ऽ२३꣡४꣡५꣡॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/54_0540_indurvAjI_pavate/04.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/54_0540_indurvAjI_pavate/04.md">
 <details open><summary><h6>54_0540 इन्दुर्वाजी पवते - 04 ...{Loading}...</h6></summary>
 
 ५४०-४।
@@ -6357,7 +6357,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/55_0541_ayA_pavA/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/55_0541_ayA_pavA/01.md">
 <details open><summary><h6>55_0541 अया पवा - 01 ...{Loading}...</h6></summary>
 
 ५४१-१। श्नौष्टानि त्रीणि॥ त्रयाणां श्नुष्टिस्त्रिष्टुप्सोमः॥
@@ -6365,13 +6365,13 @@ title = "०३ पावमानम्"
 औ꣥꣯हो꣤हा꣥इ। अयो꣤हा꣥इ॥ प꣡वाऱपवस्वैऱनाऱव꣢सू꣡ऽ२३नी꣢। औ꣭ऽ३हो꣢इ᳐। इ꣣हा꣢। ई꣭ऽ३या꣢। माऱꣳश्चत्व꣡इन्दोऱसरसिप्र꣢धा꣡ऽ२३न्वा꣢। औ꣭ऽ३हो꣢इ᳐। इ꣣हा꣢। ई꣭ऽ३या꣢। ब्रध्न꣡श्चिद्यस्यवाऱतोऱन꣢जू꣡ऽ२३ती꣢म्॥ औ꣭ऽ३हो꣢इ᳐। इ꣣हा꣢। ई꣭ऽ३या꣢। पुरुमे꣡꣯धाऱ श्चित्तकवेऱन꣢रा꣡ऽ२३न्धा꣢त्॥ औ꣭ऽ३हो꣢इ᳐। इ꣣हा꣢। ई꣡ऽ२᳐। या꣣ऽ२३४। औ꣥꣯होऱवा॥ ए꣢ऽ᳐३। दी꣢꣯दि꣣ही꣢ऽ१॥ दी-१४। प-२२। मा-९॥ १ (थो) १०५०॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/55_0541_ayA_pavA/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/55_0541_ayA_pavA/02.md">
 <details open><summary><h6>55_0541 अया पवा - 02 ...{Loading}...</h6></summary>
 
 ५४१-२।अ꣥यो꣤हा꣥इ। पवो꣤हा꣥इ॥ प꣡वस्वैऱनाऱव꣢सू꣡ऽ२३नी꣢। इहोऱइयाऽ᳐३। ई꣭ऽ३या꣢॥ माऱꣳश्चत्व꣡इन्दोऱसरसिप्र꣢धा꣡ऽ२३न्वा꣢। इहोऱइयाऽ᳐३। ई꣭ऽ३या꣢॥ ब्रध्न꣡श्चिद्यस्य वाऱतोऱन꣢जू꣡ऽ२३ती꣢म्। इहोऱइयाऽ᳐३। ई꣭ऽ३या꣢॥ पुरुमे꣡꣯धाऱश्चित्तकवेऱन꣢रा꣡ऽ२३ न्धा꣢त्। इहोऱइयाऽ᳐३। ई꣡ऽ२᳐। या꣣ऽ२३४। औ꣥꣯होऱवा॥ ए꣢ऽ᳐३। दी꣢꣯द꣡या ऽ२३꣡४꣡५꣡त्॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/55_0541_ayA_pavA/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/55_0541_ayA_pavA/03.md">
 <details open><summary><h6>55_0541 अया पवा - 03 ...{Loading}...</h6></summary>
 
 ५४१-३।
@@ -6440,7 +6440,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/56_0542_mahattatsomo_mahiShashchakArApAm/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/56_0542_mahattatsomo_mahiShashchakArApAm/01.md">
 <details open><summary><h6>56_0542 महत्तत्सोमो महिषश्चकारापाम् - 01 ...{Loading}...</h6></summary>
 
 ५४२-१। आत्रम्॥ अत्रिस्त्रिष्टुप्सूर्यो विश्वेदेवा वा॥
@@ -6508,7 +6508,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/57_0543_asarji_vakvA/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/57_0543_asarji_vakvA/01.md">
 <details open><summary><h6>57_0543 असर्जि वक्वा - 01 ...{Loading}...</h6></summary>
 
 ५४३-१। वासिष्ठम्॥ वसिष्ठस्त्रिष्टुप्सोमः॥
@@ -6576,7 +6576,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/58_0544_apAmivedUrmayastartturANAH_pra/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/1/58_0544_apAmivedUrmayastartturANAH_pra/01.md">
 <details open><summary><h6>58_0544 अपामिवेदूर्मयस्तर्त्तुराणाः प्र - 01 ...{Loading}...</h6></summary>
 
 ५४४-१। अपां साम॥ आपस्त्रिष्टुप्सोमः॥
@@ -6647,7 +6647,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/01_0545_purojitI_vo/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/01_0545_purojitI_vo/01.md">
 <details open><summary><h6>01_0545 पुरोजिती वो - 01 ...{Loading}...</h6></summary>
 
 ५४५-१। प्रेङ्खौ द्वौ॥ नकुलोऽनुष्टुप्सोमः॥
@@ -6655,7 +6655,7 @@ title = "०३ पावमानम्"
 पु꣥रोऱजिती॥ वो꣢अ᳐न्धा꣣ऽ२३४साः꣥। सु꣢ता꣡꣯यामा꣮ऽ२दयाऽ᳐३१उवाये꣢ऽ३। त्नाऽ२३४वे꣥॥ अ꣡पश्वाना꣮ऽ२ꣳश्नथाऽ३१उवाये꣢ऽ३। ष्टाऽ२३४ना꣥॥ स꣡खाऱयोदी꣮ ऽ२र्घजा᳐ऽ३१उवाये꣢ऽ३॥ ह्वीऽ२३४या꣥म्॥ दी-३। प-८। मा-६॥ ७ (डू) १०५६॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/01_0545_purojitI_vo/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/01_0545_purojitI_vo/02.md">
 <details open><summary><h6>01_0545 पुरोजिती वो - 02 ...{Loading}...</h6></summary>
 
 ५४५-२। वामदेवोऽनुष्टुप्सोमः॥
@@ -6663,7 +6663,7 @@ title = "०३ पावमानम्"
 पु꣥रोऱजिती॥ वो꣢ऽ᳐३ओ꣡न्धा꣢ऽ३साः꣢। सू꣡ता꣢꣯यमाऽ᳒२᳒। ऊऽ᳒२᳒। हाऽ᳒२᳒इ। ऊ꣡ऽ२꣮। दाऽ३या꣡इत्ना꣢ऽ३वे꣢। आ꣡पश्वा꣢꣯नाऽ᳒२᳒म्। ऊऽ᳒२᳒। हाऽ᳒२᳒इ। ऊ꣡ऽ२꣮। श्नाऽ३ था꣡इष्टा꣢ऽ३ना꣢॥ सा꣡खा꣢꣯योऱदाऽ᳒२᳒इ। ऊऽ᳒२᳒। हाऽ᳒२᳒इ। ऊ꣡ऽ२३॥ घा꣡ऽ२᳐जा꣣ऽ२३४ औ꣥꣯हो꣯वा॥ ए꣢ऽ᳐३। ह्वि꣡याऽ२३꣡४꣡५꣡म्॥ दी-७। प-१९। मा-११॥ ८ (झे) १०५७॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/01_0545_purojitI_vo/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/01_0545_purojitI_vo/03.md">
 <details open><summary><h6>01_0545 पुरोजिती वो - 03 ...{Loading}...</h6></summary>
 
 ५४५-३। कार्तयशम्॥ कृतयशाऽनुष्टुप्सोमः॥
@@ -6671,7 +6671,7 @@ title = "०३ पावमानम्"
 पु꣥रोऱहाऱहाउ॥ जा꣣ऽ२३४इती꣥। वो꣢꣯आ꣡औ꣢ऽ३हो꣢ऽ३। धा꣤साः꣥। सु꣢ता꣡औ꣢ऽ३ हो꣢ऽ३। या꣤मा꣥ऽ६। हा꣥उवा। द꣢यित्न꣡वे꣰꣯ऽ२। उ꣡पा꣢॥ अ꣡पश्वाऱनꣳश्नथा꣢ऽ१इ ष्टा꣢ऽ३ना꣢॥ सखा꣡औ꣢ऽ३हो꣢ऽ३। यो꣤दा꣥ऽ६। हा꣥उवा। घ꣢जिह्वि꣡यम्॥ उपा꣣ ऽ२३꣡४꣡५꣡॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/01_0545_purojitI_vo/04.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/01_0545_purojitI_vo/04.md">
 <details open><summary><h6>01_0545 पुरोजिती वो - 04 ...{Loading}...</h6></summary>
 
 ५४५-४। और्ध्वसद्मनम्॥ ऊर्ध्वसद्मानुष्टुप्सोमः॥
@@ -6679,7 +6679,7 @@ title = "०३ पावमानम्"
 पु꣥रो꣤꣯जि꣥तीऱवोऱअ꣤न्ध꣥सः। उ꣤वाहा꣥इ॥ सु꣢ता꣡꣯यमा꣯दयित्नवउवाऽ२३हो꣡इ। अपश्वाऱनꣳश्नथिष्टनउवाऽ२३हो꣡इ॥ साखा꣢꣯योऱदा꣡इ॥ घाजि꣢ह्वा꣣ऽ२३४५याऽ६ ५६म्॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/01_0545_purojitI_vo/05.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/01_0545_purojitI_vo/05.md">
 <details open><summary><h6>01_0545 पुरोजिती वो - 05 ...{Loading}...</h6></summary>
 
 ५४५-५। श्यावाश्वम्॥ श्यावाश्वोऽनुष्टुप्सोमः॥
@@ -6687,7 +6687,7 @@ title = "०३ पावमानम्"
 पु꣣रो꣢ऽ३१। जी꣢ऽ᳐३ती꣤। वोऱअ꣥। धा꣢ऽ᳐३सः꣤। एहिया꣥॥ सू꣡। ताऱयमाऱदा। यि꣢। त्न꣡वाऽ᳒२᳒इ। ए꣡꣯हियाऽ᳒२᳒। अपश्वा꣡꣯नाꣳश्ना꣢ऽ३थी꣤ऽ३॥ ष्टाऽ२३४ना꣥॥ ऐ꣢꣯हाऽ᳒२᳒इ। ए꣡꣯हियाऽ᳒२᳒। सखाऱयो꣡꣯दाइर्घा꣢ऽ३जी꣤ऽ३। ह्वा꣢ऽ३४५योऽ६"हा꣥इ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/01_0545_purojitI_vo/06.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/01_0545_purojitI_vo/06.md">
 <details open><summary><h6>01_0545 पुरोजिती वो - 06 ...{Loading}...</h6></summary>
 
 ५४५-६। आन्धीगवम्॥ अन्धीगुरनुष्टुप्सोमः॥
@@ -6755,7 +6755,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/02_0546_ayaM_pUShA/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/02_0546_ayaM_pUShA/01.md">
 <details open><summary><h6>02_0546 अयं पूषा - 01 ...{Loading}...</h6></summary>
 
 ५४६-१। क्रौञ्चानि त्रीणि॥ त्रयाणां क्रुङनुष्टुप्पूषा भगोद्यावापृथिवी॥
@@ -6763,7 +6763,7 @@ title = "०३ पावमानम्"
 अ꣢यंपू꣡꣯षौऱहो। रा꣢꣯यि꣡र्भगाः॥ सो꣢꣯मᳲपुनाऽ᳐३। नो꣡आ꣢ऽ३र्षा꣤ऽ५ताऽ६५६इ॥ प꣢तिर्वि꣡श्वौऱहो। स्या꣢꣯भू꣡꣯मनाः॥ वि꣢यख्यद्रोऽ᳐३। दा꣡सी꣢ऽ᳐३ऊ꣤ऽ५भा"ऽ६५६इ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/02_0546_ayaM_pUShA/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/02_0546_ayaM_pUShA/02.md">
 <details open><summary><h6>02_0546 अयं पूषा - 02 ...{Loading}...</h6></summary>
 
 ५४६-२।
@@ -6771,7 +6771,7 @@ title = "०३ पावमानम्"
 अ꣥यंपू꣯षा। अयंपूऱषा॥ र꣢यिर्भ꣡गाः। सो꣢꣯मᳲपू꣡नाऽ᳒२᳒। नो꣯अर्ष꣡ताइ। प꣢तिर्वा꣡इश्वाऽ᳒२᳒। ओ꣡स्याभू꣢ऽ१मानाऽ᳒२ः᳒॥ ओ꣡इवियख्याऽ२३द्रो꣢॥ दा꣡सीऱउ꣢भ। इ꣡डाऽ२३भा꣢ऽ३४३। ओ꣡ऽ२३४५इ॥ डा॥ दी-५। प-१२। मा-८॥ १४ (फै) १०६३॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/02_0546_ayaM_pUShA/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/02_0546_ayaM_pUShA/03.md">
 <details open><summary><h6>02_0546 अयं पूषा - 03 ...{Loading}...</h6></summary>
 
 ५४६-३। तृतीयं क्रौञ्चम्॥
@@ -6839,7 +6839,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/03_0547_sutAso_madhumattamAH/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/03_0547_sutAso_madhumattamAH/01.md">
 <details open><summary><h6>03_0547 सुतासो मधुमत्तमाः - 01 ...{Loading}...</h6></summary>
 
 ५४७-१। त्वाष्ट्री सामनी द्वे॥ द्वयोस्त्वाष्ट्र्योऽनुष्टुप्सोमेन्द्रौ॥
@@ -6847,7 +6847,7 @@ title = "०३ पावमानम्"
 सु꣥ताऱसोऱमा॥ धु꣢माऽ᳐३त्त꣢माः। सो꣡꣯माइ꣢न्द्रा᳐ऽ३य꣢माऽ३। ए꣢ऽ᳐३। दि꣢न꣣आ꣢। प꣡वाइत्र꣢वऽ३न्तो꣢ऽ३। ए꣢ऽ᳐३। क्ष꣢र꣣न्ना꣢। दा꣡इवान्ग꣢च्छाऽ३न्तु꣢वऽ३ः। ए꣢ऽ᳐३॥ म꣢दा꣣꣯आ꣢॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/03_0547_sutAso_madhumattamAH/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/03_0547_sutAso_madhumattamAH/02.md">
 <details open><summary><h6>03_0547 सुतासो मधुमत्तमाः - 02 ...{Loading}...</h6></summary>
 
 ५४७-२। ऊर्ध्वेडंत्वाष्टी साम॥
@@ -6855,7 +6855,7 @@ title = "०३ पावमानम्"
 सु꣥ता꣤꣯सो꣥꣯म꣤धु꣥मत्तमाः꣤॥ सो꣡माऽ᳒२᳒इ꣡न्द्राऽ२᳐। य꣣मा꣢ऽ३४५। दी꣣ऽ२३४नाः꣥। प꣢वि꣡त्रव꣢न्तोऱअक्षरन्॥ दे꣣꣯वाऱन्ग꣢च्छा꣡॥ तु꣢वो꣡꣯माऽ२३दा꣢ऽ३४३ः। ओ꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/03_0547_sutAso_madhumattamAH/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/03_0547_sutAso_madhumattamAH/03.md">
 <details open><summary><h6>03_0547 सुतासो मधुमत्तमाः - 03 ...{Loading}...</h6></summary>
 
 ५४७-३। वासिष्ठम्॥ वसिष्ठोऽनुष्टुप्सोमेन्द्रौ॥
@@ -6863,7 +6863,7 @@ title = "०३ पावमानम्"
 सु꣥ता꣤꣯सो꣥꣯म꣤धु꣥मत्तमाऱः। सो꣤꣯माइ꣥न्द्रा॥ य꣢मन्दि꣡नः। पावि꣪त्रावाऽ᳒२᳒। तो꣡꣯अक्ष꣢रन्॥ दा꣡इवाऱन्गच्छौ꣢वा᳐॥ तू꣣ऽ२३४वाः꣥। म꣢दा꣡। औ꣢ऽ३हो꣤वा꣥। हो꣤ऽ५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/03_0547_sutAso_madhumattamAH/04.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/03_0547_sutAso_madhumattamAH/04.md">
 <details open><summary><h6>03_0547 सुतासो मधुमत्तमाः - 04 ...{Loading}...</h6></summary>
 
 ५४७-४। आनिधनं त्वाष्ट्री साम॥ त्वाष्ट्र्योऽनुष्टुप्सोमेन्द्रौ॥
@@ -6871,7 +6871,7 @@ title = "०३ पावमानम्"
 सु꣥ता꣤꣯सो꣥꣯म꣤धु꣥मत्तमाऱः। सो꣤꣯माहा꣥उ॥ इ꣢न्द्राऱऽ३या꣡म꣪न्दिनाऽ२ः᳐। इ꣣न्द्रा꣢ऽ३ हो꣡।
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/03_0547_sutAso_madhumattamAH/05.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/03_0547_sutAso_madhumattamAH/05.md">
 <details open><summary><h6>03_0547 सुतासो मधुमत्तमाः - 05 ...{Loading}...</h6></summary>
 
 ५४७-५। वासिष्ठम्॥ वसिष्ठोऽनुष्टोप्सोमेन्द्रौ॥
@@ -6879,7 +6879,7 @@ title = "०३ पावमानम्"
 सु꣥ताऱसोऱमधुमत्तमाऽ६ए꣥॥ सो꣢꣯माऱइन्द्राऱऽ३या꣡म꣪न्दिनाऽ᳒२ः᳒। दा꣡इनाऽ᳒२ः᳒। पवित्रवऽ३न्तो꣡अ꣪क्षाराऽ᳒२᳒न्। क्षा꣡राऽ᳒२᳒न्। देऱवाऱन्गच्छऽ३न्तू꣡वो꣢ऽ१मादाऽ᳒२ः᳒। मा꣡दाऽ२ः᳐। दे꣣꣯वा꣢ऽ᳐३न्हो꣡इ। गच्छो꣣ऽ२३४हा꣥॥ तू꣡ऽ२᳐वा꣣ऽ२३४औ꣥꣯हो꣯वा॥ म꣢दा ऽ᳐३ई꣡ऽ२३꣡४꣡५꣡॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/03_0547_sutAso_madhumattamAH/06.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/03_0547_sutAso_madhumattamAH/06.md">
 <details open><summary><h6>03_0547 सुतासो मधुमत्तमाः - 06 ...{Loading}...</h6></summary>
 
 ५४७-६। त्वाष्ट्री सामनी द्वे॥ द्वयोस्त्वाष्ट्र्योऽनुष्टुप्सोमेन्द्रौ॥
@@ -6887,7 +6887,7 @@ title = "०३ पावमानम्"
 सु꣡ताऱसोऱमा꣢ऽ३हा꣢᳐। धु꣣म꣢त्ता꣡माऽ᳒२ः᳒॥ सो꣡꣯माऱइन्द्रा꣢ऽ᳐३हा꣢᳐। य꣣म꣢न्दा꣡इनाऽ᳒२ः᳒॥ प꣡वित्रवा꣢ऽ३हा꣢᳐। तो꣣꣯अ꣢क्षा꣡राऽ᳒२᳒न्॥ दे꣡꣯वाऱन्गच्छा꣢ऽ३हा꣢᳐। तु꣣वो꣢ऽ३हो꣡ऽ२३४। वा꣥। मा꣤ऽ५दोऽ६"हा꣥इ॥ दी-७। प-१०। मा-७॥ २१ (ञे) १०७०॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/03_0547_sutAso_madhumattamAH/07.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/03_0547_sutAso_madhumattamAH/07.md">
 <details open><summary><h6>03_0547 सुतासो मधुमत्तमाः - 07 ...{Loading}...</h6></summary>
 
 ५४७-७। द्विरभ्यासं त्वाष्ट्री साम॥
@@ -6895,7 +6895,7 @@ title = "०३ पावमानम्"
 सु꣥ताऱ। सो꣣꣯मा꣢ऽ᳐३। हा꣢ऽ᳐३हा꣢। धु꣣म꣢त्ता꣡माऽ२३४ः॥ सो꣯माः꣥꣯। इ꣣न्द्रा꣢ऽ᳐३। हा꣢ऽ᳐३हा꣢। य꣣म꣢न्दा꣡इनाऽ२३४ः॥ पवि꣥। त्र꣣वा꣢ऽ३। हा꣢ऽ᳐३हा꣢। तो꣣꣯अ꣢क्षा꣡रा ऽ२३४न्॥ देऱवा꣥꣯न्। ग꣣च्छा꣢ऽ᳐३। हा꣢ऽ᳐३हा꣢। तु꣣वो꣢ऽ᳐३हो꣡ऽ२३४॥ वा꣥। मा꣤ऽ५ दोऽ६"हा꣥इ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/03_0547_sutAso_madhumattamAH/08.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/03_0547_sutAso_madhumattamAH/08.md">
 <details open><summary><h6>03_0547 सुतासो मधुमत्तमाः - 08 ...{Loading}...</h6></summary>
 
 ५४७-८। वासिष्ठम्॥ वसिष्ठोऽनुष्टुप्सोमेन्द्रौ॥
@@ -6963,7 +6963,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/04_0548_somAH_pavanta/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/04_0548_somAH_pavanta/01.md">
 <details open><summary><h6>04_0548 सोमाः पवन्त - 01 ...{Loading}...</h6></summary>
 
 ५४८-१। क्रौञ्चे द्वे॥ द्वयोः क्रुङनुष्टुप्सोमः॥
@@ -6971,7 +6971,7 @@ title = "०३ पावमानम्"
 हा꣤उसोमाः꣥॥ प꣢वाऽ᳐३न्ता꣡इ꣪न्दावा꣢उ। वाऽ᳐३। हा꣢उवा। अस्म꣡भ्यङ्गाऱतूवि꣪त्तामा꣢उ। वाऽ᳐३। हा꣢उवा। मित्रा꣡꣯स्स्वाऱनाऱआरे꣢ऽ१पासा꣢उ। वाऽ᳐३। हा꣢उवाऽ३४॥ सुवा꣥꣯। धि꣣या꣢ऽ᳐३ः॥ सू꣡ऽ२३वा꣤ऽ३ः। वा꣢ऽ३४५इदोऽ६"हा꣥इ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/04_0548_somAH_pavanta/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/04_0548_somAH_pavanta/02.md">
 <details open><summary><h6>04_0548 सोमाः पवन्त - 02 ...{Loading}...</h6></summary>
 
 ५४८-२।
@@ -7039,7 +7039,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/05_0549_abhI_no/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/05_0549_abhI_no/01.md">
 <details open><summary><h6>05_0549 अभी नो - 01 ...{Loading}...</h6></summary>
 
 ५४९-१। सोम सामानि त्रीणि॥ त्रयाणां सोमोऽनुष्टुप्सोमः॥
@@ -7047,7 +7047,7 @@ title = "०३ पावमानम्"
 अ꣥भीऱनोऱवा॥ जा꣡ऽ२᳐सा꣣ऽ२३४औ꣥꣯हो꣯वा। ता꣣ऽ२३४मा꣥म्। र꣢यि꣡मर्ष꣢शत स्पृ꣡ह꣢म्॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/05_0549_abhI_no/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/05_0549_abhI_no/02.md">
 <details open><summary><h6>05_0549 अभी नो - 02 ...{Loading}...</h6></summary>
 
 ५४९-२।
@@ -7055,7 +7055,7 @@ title = "०३ पावमानम्"
 अ꣥भीऱनोऱवा॥ जा꣡सा꣯त꣢मम्। रयि꣡म। षाउवाऽ२३। हो꣡वा꣢ऽ३हा꣢इ। शतस्पृ꣡ह꣢म्। इ꣡न्दो꣰꣯ऽ२स। हा꣡उवाऽ२३। हो꣡वा꣢ऽ᳐३हा꣢। स्र꣡भर्णसम्॥ तुवाये꣢ऽ३॥ द्यू꣡ऽ२᳐म्ना꣣ऽ२३४औ꣥꣯हो꣯वा॥ वि꣢भाऱस꣡हा꣣ऽ२३꣡४꣡५꣡म्॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/05_0549_abhI_no/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/05_0549_abhI_no/03.md">
 <details open><summary><h6>05_0549 अभी नो - 03 ...{Loading}...</h6></summary>
 
 ५४९-३।
@@ -7063,7 +7063,7 @@ title = "०३ पावमानम्"
 अ꣢भीऽ᳒२᳒हो꣡इ। नो꣢꣯वाऱजाऽ᳐३सा꣤ऽ३। हा꣢᳐ता꣣ऽ२३४मा꣥म्॥ र꣢यीऽ᳒२ꣳ᳒हो꣡इ। अ꣢र्षशाऽ᳐३ता꣤ऽ३। हा꣢᳐स्पॄ꣣ऽ२३४हा꣥म्॥ इ꣢न्दोऽ᳒२᳒हो꣡इ। स꣢हस्राऽ᳐३भा꣤ऽ३। हा꣢᳐र्णा꣣ ऽ२३४सा꣥म्॥ तु꣢वाऽ᳒२᳒हो꣡इ। द्यु꣢म्नंवीऽ३भा꣤ऽ३। हा꣢ऽ᳐३सा꣤ऽ५हा"ऽ६५६म्॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/05_0549_abhI_no/04.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/05_0549_abhI_no/04.md">
 <details open><summary><h6>05_0549 अभी नो - 04 ...{Loading}...</h6></summary>
 
 ५४९-४। क्रौञ्चम्॥ क्रुङनुष्टुप्सोमः॥
@@ -7071,7 +7071,7 @@ title = "०३ पावमानम्"
 अ꣢भी꣡नोवा꣢ऽ३१२३४। जसा꣥꣯। त꣣मा꣢ऽ᳐३म्॥ र꣢यि꣡मर्षा꣢ऽ᳐३१२३४। शत꣥। स्पृ꣣हा꣢ऽ३म्॥ इ꣢न्दो꣡साहा꣢ऽ३१२३४। स्रभ꣥। ण꣣सा꣢ऽ३म्॥ तु꣢वा꣡इद्यूम्ना꣢ ऽ᳐३१२᳐३म्। वि꣤भाऽ५सहाउ॥ वा॥ दी-१। प-१२। मा-६॥ २९ (खू) १०७८॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/05_0549_abhI_no/05.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/05_0549_abhI_no/05.md">
 <details open><summary><h6>05_0549 अभी नो - 05 ...{Loading}...</h6></summary>
 
 ५४९-५। सोमसाम॥ सोमोऽनुष्टुप्सोमः॥
@@ -7139,7 +7139,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/06_0550_abhI_navante/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/06_0550_abhI_navante/01.md">
 <details open><summary><h6>06_0550 अभी नवन्ते - 01 ...{Loading}...</h6></summary>
 
 ५५०-१। आङ्गिरसानि त्रीणि॥ त्रयाणामङ्गिरसोऽनुष्टुबिन्द्रः॥
@@ -7147,7 +7147,7 @@ title = "०३ पावमानम्"
 आ꣣ऽ२३४भी꣥॥ ओ꣡इनवन्तआद्रू꣢ऽ१हाऽ᳒२ः᳒। ओ꣡इप्रियमिन्द्रस्यकामा꣢ऽ१ याऽ᳒२᳒म्॥ ओ꣡इवत्सन्नपूऱर्वआयू꣢ऽ१नीऽ᳒२᳒॥ ओ꣡इ। जाऱतꣳरिहन्तिमो꣢ऽ१२३४। वा꣥। ता꣤ऽ५रोऽ६"हा꣥इ॥ दी-२। प-८। मा-९॥ ३१ (जो) १०८०॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/06_0550_abhI_navante/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/06_0550_abhI_navante/02.md">
 <details open><summary><h6>06_0550 अभी नवन्ते - 02 ...{Loading}...</h6></summary>
 
 ५५०-२।
@@ -7155,7 +7155,7 @@ title = "०३ पावमानम्"
 अ꣥भीऱ। न꣣वा꣢ऽ३२। त꣤आऽ५द्रुहाः॥ प्रि꣢यामिन्द्रा᳐ऽ३। स्या꣡का꣢᳐मा꣣ऽ२३४ या꣥म्। व꣢त्सन्नपूऽ᳐३। र्वा꣡आ꣢᳐यू꣣ऽ२३४नी꣥॥ जा꣡꣯ता꣢ऽ३ꣳहो꣡इ। रिहा꣢ऽ३हो꣡॥ ति꣢मा꣡꣯ताऽ२३रा꣢ऽ᳐३४३ः। ओ꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/06_0550_abhI_navante/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/06_0550_abhI_navante/03.md">
 <details open><summary><h6>06_0550 अभी नवन्ते - 03 ...{Loading}...</h6></summary>
 
 ५५०-३।
@@ -7223,7 +7223,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/07_0551_A_haryatAya/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/07_0551_A_haryatAya/01.md">
 <details open><summary><h6>07_0551 आ हर्यताय - 01 ...{Loading}...</h6></summary>
 
 ५५१-१। गृत्समदस्य सूक्तानि चत्वारि॥ चतुर्णां गृत्समदो बृहती सोमः॥
@@ -7231,7 +7231,7 @@ title = "०३ पावमानम्"
 आ꣣꣯हा꣢ऽ᳐३। ओ꣡ऽ२३४वा꣥॥ र्य꣢ता꣡꣯यधृ꣢ष्ण꣡वे꣰꣯ऽ२। ध꣣नू꣢ऽ३ः। ओ꣡ऽ२३४वा꣥॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/07_0551_A_haryatAya/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/07_0551_A_haryatAya/02.md">
 <details open><summary><h6>07_0551 आ हर्यताय - 02 ...{Loading}...</h6></summary>
 
 ५५१-२।
@@ -7239,7 +7239,7 @@ title = "०३ पावमानम्"
 हा꣢ऽ३᳐हा꣢इ। आ꣡ह꣪र्यता꣢᳐। या꣣ऽ२३४धॄ꣥। हा꣢ऽ᳐३हा꣢ऽ३४। औ꣥꣯होऱवा। ष्णा꣣ऽ२३४वे꣥॥ हा꣢ऽ३᳐हा꣢इ। ध꣡नूष्टान्वा꣢᳐। ती꣣ऽ२३४पौ꣥। हा꣢ऽ᳐३हा꣢ऽ३४। औ꣥꣯होऱवा। सी꣣ऽ२३४या꣥म्॥ हा꣢ऽ३᳐हा꣢इ। शु꣡क्राऱवि꣢य। ता꣡अ꣪सुरा꣢᳐। या꣣ऽ२३४नी꣥। हा꣢ऽ᳐३हा꣢ऽ३४। औ꣥꣯होऱवा। णी꣣ऽ२३४जे꣥॥ हा꣢ऽ३᳐हा꣢इ। वि꣡पामाग्रा꣢इ᳐। मा꣣ऽ२३४ ही꣥। हा꣢ऽ᳐३हा꣢ऽ३४। औ꣥꣯होऱवा॥ यू꣣ऽ२३४वाः꣥॥ दी-९। प-२५। मा-८॥ ३५ (नै) १०८४॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/07_0551_A_haryatAya/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/07_0551_A_haryatAya/03.md">
 <details open><summary><h6>07_0551 आ हर्यताय - 03 ...{Loading}...</h6></summary>
 
 ५५१-३।
@@ -7247,7 +7247,7 @@ title = "०३ पावमानम्"
 आ꣤꣯ह꣥र्यता꣤꣯य꣥धृष्ण꣤व꣥आ꣤॥ ध꣡नूष्टा꣢ऽ१न्वाऽ᳒२᳒। ति꣡पौꣳसा꣢ऽ१याऽ᳒२᳒म्। शु꣡क्राऱवि꣢य। ता꣡अ꣪सुरा꣢ऽ३। या꣡नीऽ२᳐र्णा꣣ऽ२३४इजा꣥इ॥ वि꣡पामा꣢ऽ१ग्राऽ᳒२᳒इ॥ ओ꣡इ। माऽ२३ही꣤ऽ३। यू꣢ऽ᳐३४५वोऽ६"हा꣥इ॥ दी-३। प-१०। मा-८॥ ३६ (णै) १०८५॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/07_0551_A_haryatAya/04.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/07_0551_A_haryatAya/04.md">
 <details open><summary><h6>07_0551 आ हर्यताय - 04 ...{Loading}...</h6></summary>
 
 ५५१-४।
@@ -7315,7 +7315,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/08_0552_pari_tyaMharyataMharim/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/08_0552_pari_tyaMharyataMharim/01.md">
 <details open><summary><h6>08_0552 परि त्यंहर्यतंहरिम् - 01 ...{Loading}...</h6></summary>
 
 ५५२-१। द्विरभ्यस्तमाकूपारम्॥ अकूपारोऽनुष्टुब्देवाः॥
@@ -7383,7 +7383,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/09_0553_pra_sunvAnAsyAndhaso/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/09_0553_pra_sunvAnAsyAndhaso/01.md">
 <details open><summary><h6>09_0553 प्र सुन्वानास्यान्धसो - 01 ...{Loading}...</h6></summary>
 
 ५५३-१। वैरूपम्॥ विरूपोऽनुष्टुप्सोमः॥
@@ -7458,7 +7458,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/10_0554_abhi_priyANi/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/10_0554_abhi_priyANi/01.md">
 <details open><summary><h6>10_0554 अभि प्रियाणि - 01 ...{Loading}...</h6></summary>
 
 ५५४-१। कावम्॥ (कुत्सो)। कविः जगती सोमसूर्यौ॥
@@ -7466,7 +7466,7 @@ title = "०३ पावमानम्"
 आ꣢भि᳐प्री꣣ऽ२३४या꣥। णी꣢पा᳐वा꣣ऽ२३४ता꣥इ। चा꣢꣯नो꣡꣯हिताऽ२३ः॥ ना꣢मा᳐नी꣣ ऽ२३४या꣥। ह्वो꣢अ᳐धी꣣ऽ२३४ये꣥। षू꣢꣯व꣡र्द्धताये꣢ऽ३॥ आ꣢सू᳐री꣣ऽ२३४या꣥। स्या꣢बॄ᳐हा꣣ ऽ२३४ताः꣥। बॄ꣢꣯ह꣡न्नधाये꣢ऽ३॥ रा꣢थं᳐वा꣣ऽ२३४इश्वा꣥। चा꣢मा᳐रू꣣ऽ२३४हा꣥त्। वि꣢चा᳐ ऽ३१उवाऽ२३॥ क्षाऽ२३४णाः꣥॥ दी-४। प-१३। मा-८॥ १ (दै) १०८९॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/10_0554_abhi_priyANi/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/10_0554_abhi_priyANi/02.md">
 <details open><summary><h6>10_0554 अभि प्रियाणि - 02 ...{Loading}...</h6></summary>
 
 ५५४-२। ऐडंकावम्॥ कविर्जगती सोमसूर्यौ॥
@@ -7474,7 +7474,7 @@ title = "०३ पावमानम्"
 ए꣤ऽ५। अ꣤भिप्रि꣥याऽ२᳐। णि꣣प꣤वता꣥इ। ए꣤ऽ५। च꣤नो꣯हि꣥ताः॥ ए꣤ऽ५। ना꣤꣯मा꣯नि꣥याऽ२᳐। ह्वो꣣꣯अ꣤धिया꣥इ। ए꣤ऽ५। षु꣤वर्द्ध꣥ताइ॥ ए꣤ऽ५। आ꣤꣯सू꣯रि꣥याऽ२᳐। स्य꣣बृ꣤हताः꣥। ए꣤ऽ५। बृ꣤हन्न꣥धी॥ ए꣤ऽ५। र꣤थंवि꣥श्वाऽ२᳐। च꣣म꣤रुहा꣥त्। ए꣤ऽ५। वि꣤चक्ष꣥णाः। हो꣤ऽ५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/10_0554_abhi_priyANi/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/10_0554_abhi_priyANi/03.md">
 <details open><summary><h6>10_0554 अभि प्रियाणि - 03 ...{Loading}...</h6></summary>
 
 ५५४-३। वाजसनि॥ वाजसनिः जगती सोमसूर्यौ॥
@@ -7482,7 +7482,7 @@ title = "०३ पावमानम्"
 अ꣥भ्यौ꣯हो꣯वा꣯हा꣯इप्रिया꣤णी꣥॥ प꣡वता꣢इ᳐चा꣣ऽ२३४नो꣥। हि꣢ताः꣡। ना꣢꣯मा꣡नि꣢यह्वो꣯ अधिये꣯षुवर्द्धता꣡इ॥ आ꣢꣯सू꣡र्य꣢स्यबृहतो꣯बृहन्नधा꣡इ॥ र꣢थ꣡म्। वाइश्व꣢ञ्चमरु꣡ह꣢त्। विचाऽ३᳐१उवाऽ२३॥ क्षा꣢ऽ᳐३णा꣡ऽ२३꣡४꣡५ः꣡॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/10_0554_abhi_priyANi/04.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/10_0554_abhi_priyANi/04.md">
 <details open><summary><h6>10_0554 अभि प्रियाणि - 04 ...{Loading}...</h6></summary>
 
 ५५४-४। वाजजिनी द्वे॥ द्वयोर्वाजजित् (प्रजापतिः) जगती सोमसूर्यौ॥
@@ -7490,7 +7490,7 @@ title = "०३ पावमानम्"
 अ꣢भिप्रि꣡या। णी꣢꣯प꣡वताइ। होइहोवा꣢ऽ᳐३हो꣡ये꣢ऽ३४। चनो꣥꣯हिताः꣤। हा꣥꣯हो꣤। वाहा꣥इ॥ ना꣢꣯मा꣯नि꣡या। ह्वो꣢꣯अ꣡धियाइ। होइहोवा꣢ऽ᳐३हो꣡ये꣢ऽ३४। षुव꣥र्द्धता꣤इ। हा꣥꣯हो꣤। वाहा꣥इ॥ आ꣢꣯सू꣯रि꣡या। स्या꣢꣯बृ꣡हताः। होइहोवा꣢ऽ᳐३हो꣡ये꣢ऽ३४। बृह꣥न्नधी꣤। हा꣥꣯हो꣤। वाहा꣥इ॥ र꣢थंवि꣡श्वा। चा꣢꣯म꣡रुहात्। होइहोवा꣢ऽ᳐३हो꣡ये꣢ऽ३४। विच꣥क्षणाः꣤। हा꣥꣯हो꣤। वा꣥ऽ६हा꣥उ। वा॥ वा꣢꣯जी꣡꣯जिगी꣢ऽ३वाꣳ꣢ऽ१॥ दी-१५। प-२६। मा-१६॥ ४ (पू) १०९२॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/10_0554_abhi_priyANi/05.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/10_0554_abhi_priyANi/05.md">
 <details open><summary><h6>10_0554 अभि प्रियाणि - 05 ...{Loading}...</h6></summary>
 
 ५५४-५।
@@ -7498,7 +7498,7 @@ title = "०३ पावमानम्"
 अ꣢भिप्रि꣡या। णी꣢꣯प꣡वताइ। चा꣢꣯नो꣡꣯हिताः। होवा꣢ऽ᳐३हो꣡इ॥ ना꣢꣯मा꣯नि꣡या। ह्वो꣢꣯अ꣡धियाइ। षू꣢꣯व꣡र्द्धताइ। होवा꣢ऽ᳐३हो꣡इ॥ आ꣢꣯सू꣯रि꣡या। स्या꣢꣯बृ꣡हताः। बॄ꣢꣯ह꣡ न्नधाइ। होवा꣢ऽ᳐३हो꣡॥ र꣢थंवि꣡श्वा। चा꣢꣯म꣡रुहात्। वी꣢꣯च꣡क्षणाः। होवा꣢ऽ३हो꣡ऽ२᳐। वा꣣ऽ२३४औ꣥꣯हो꣯वा॥ वा꣢꣯जी꣡꣯जिगी꣢꣯वा꣡꣯विश्वा꣢꣯ध꣡ना꣰꣯ऽ२नी꣣ऽ२३꣡४꣡५꣡॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/10_0554_abhi_priyANi/06.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/10_0554_abhi_priyANi/06.md">
 <details open><summary><h6>10_0554 अभि प्रियाणि - 06 ...{Loading}...</h6></summary>
 
 ५५४-६। स्वारंकावम्॥ कविः प्रजापतिर्जगती सोमसूर्यौ॥
@@ -7566,7 +7566,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/11_0555_achodaso_no/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/11_0555_achodaso_no/01.md">
 <details open><summary><h6>11_0555 अचोदसो नो - 01 ...{Loading}...</h6></summary>
 
 ५५५-१। उद्वद्भार्गवम्॥ भृगुर्जगती सोमो देवाश्च॥
@@ -7574,7 +7574,7 @@ title = "०३ पावमानम्"
 अ꣢चो꣯दा꣡सोऽ२३। नो꣢꣯धनू꣡वाऽ२३। तू꣢꣯इ꣡न्दवाः॥ प्र꣢स्वा꣯ना꣡सोऽ२३। बृ꣢हद्दा꣡इवेऽ२३। षू꣢꣯ह꣡रयाः॥ वि꣢चिदा꣡श्नाऽ२३। ना꣢꣯इषा꣡याऽ२३ः। आ꣢꣯रा꣡꣯तयाः॥ अ꣢र्यो꣯ना꣡स्साऽ२३। तू꣢꣯सना꣡इषाऽ२३। तू꣢꣯नो꣡꣯धिया꣢ऽ३१उ"वाऽ२३꣡४꣡५꣡॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/11_0555_achodaso_no/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/11_0555_achodaso_no/02.md">
 <details open><summary><h6>11_0555 अचोदसो नो - 02 ...{Loading}...</h6></summary>
 
 ५५५-२। आङ्गिरसे द्वे॥ द्वयोः अङ्गिरसो जगती सोमो देवाश्च॥
@@ -7582,7 +7582,7 @@ title = "०३ पावमानम्"
 आ꣡चो꣢꣯द꣣सो꣢। नो꣣꣯ध꣤नुवन्तु꣥। इ꣤न्दवाः꣥॥ प्रा꣡स्वा꣢꣯ना꣣꣯सो꣢᳐॥ बृ꣣ह꣤द्दे꣯वे꣯षु꣥। ह꣤रयाः꣥। वा꣡इचि꣢द꣣श्ना꣢᳐। ना꣣꣯इ꣤षयो꣯अ꣥। रा꣤꣯तयाः꣥॥ आ꣡र्यो꣢꣯न꣣स्सा꣢᳐। तु꣣स꣤निष꣥। तु꣤नो ऽ५धियाउ॥ वा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/11_0555_achodaso_no/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/11_0555_achodaso_no/03.md">
 <details open><summary><h6>11_0555 अचोदसो नो - 03 ...{Loading}...</h6></summary>
 
 ५५५-३।
@@ -7590,7 +7590,7 @@ title = "०३ पावमानम्"
 हा꣢꣯उहो꣯वा᳐ऽ३हा꣢इ। अचो꣯दसो꣯नो꣯ऽ३धा꣡। नु꣢वाऽ᳐३न्तू꣤ऽ३। इ꣢न्दवा꣣ ऽ२३꣡४꣡५ः꣡॥ हा꣢꣯उहो꣯वाऽ᳐३हा꣢इ। प्रस्वा꣯ना꣯सो꣯बॄऽ᳐३हा꣡त्। दे꣢꣯वेऽ᳐३षू꣤ऽ३। ह꣢र᳐या꣣ ऽ२३꣡४꣡५ः꣡॥ हा꣢꣯उहो꣯वाऽ᳐३हा꣢इ। विचिदश्ना꣯ना꣯ऽ३आ꣡इ। ष꣢योऽ᳐३आ꣤ऽ३। रा꣢꣯तया꣣ ऽ२३꣡४꣡५ः꣡॥ हा꣢꣯उहो꣯वाऽ᳐३हा꣢इ। अर्यो꣯नस्सन्तुऽ᳐३सा꣡। नि꣢षाऽ᳐३न्तू꣤ऽ३। नो꣢꣯धियाऽ᳐३२उवाऽ३꣡४꣡५꣡॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/11_0555_achodaso_no/04.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/11_0555_achodaso_no/04.md">
 <details open><summary><h6>11_0555 अचोदसो नो - 04 ...{Loading}...</h6></summary>
 
 ५५५-४। सामराजे द्वे॥ सामराजो जगती सोमो देवाश्च॥
@@ -7598,7 +7598,7 @@ title = "०३ पावमानम्"
 अ꣥चो꣤हाइ॥ दा꣡सो꣯नो꣯धनुवा। तु꣢इन्दा꣡वाऽ᳒२ः᳒। प्र꣡स्वा꣯ना꣯꣯सो꣯बृहद्दे꣯वाइ। षु꣢हरा꣡याऽ२ः᳐। वि꣣चोऽ२३४हा꣥इ। अ꣣श्नोऽ२३४हा꣥इ। ना꣢꣯इषयः। अ꣣रोऽ२३४हा꣥इ। ता꣡याः꣢॥ अर्यो꣣ऽ२३४हा꣥इ। न꣣स्सोऽ२३४हा꣥॥ तू꣢सा᳐नी꣣ऽ२३४षा꣥। तू꣡ना꣭ऽ३ उवा꣢ऽ᳐३॥ धीऽ२३४याः꣥॥ दी-७। प-१५। मा-१४॥ १० (ञी) १०९८॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/11_0555_achodaso_no/05.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/11_0555_achodaso_no/05.md">
 <details open><summary><h6>11_0555 अचोदसो नो - 05 ...{Loading}...</h6></summary>
 
 ५५५-५। स्वार सामराजम्॥
@@ -7606,7 +7606,7 @@ title = "०३ पावमानम्"
 अ꣥चौ꣯हो꣤वा꣥॥ दा꣡सो꣯नो꣯धनुवा। तु꣢इन्दा꣡वाऽ᳒२ः᳒। प्र꣡स्वा꣯ना꣯सो꣯बृहद्दे꣯वाइ। षु꣢꣢हरा꣡याऽ२३ः। वा꣡इची꣢ऽ३दा꣤श्ना꣥। ना꣢इषा꣣ऽ२३४याः꣥। हो꣢इ᳐। अ꣣रा꣢᳐ता꣣ऽ२३४ याः꣥॥ हो꣢ऽ३इ। आ꣡र्यो꣢ऽ३ना꣤स्सा꣥॥ तू꣢सा᳐नी꣣ऽ२३४षा꣥। हो꣢। तु꣣नो꣢ऽ᳐३धा꣤ऽ५" याऽ६५६ः॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/11_0555_achodaso_no/06.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/11_0555_achodaso_no/06.md">
 <details open><summary><h6>11_0555 अचोदसो नो - 06 ...{Loading}...</h6></summary>
 
 ५५५-६। सिमानान्निषेधः॥
@@ -7674,7 +7674,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/12_0556_eSha_pra/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/12_0556_eSha_pra/01.md">
 <details open><summary><h6>12_0556 एष प्र - 01 ...{Loading}...</h6></summary>
 
 ५५६-१। वैधृतं वासिष्ठम्॥ वसिष्ठो जगती इन्द्रः॥
@@ -7742,7 +7742,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/13_0557_pro_ayAsIdindurindrasya/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/13_0557_pro_ayAsIdindurindrasya/01.md">
 <details open><summary><h6>13_0557 प्रो अयासीदिन्दुरिन्द्रस्य - 01 ...{Loading}...</h6></summary>
 
 ५५७-१। लौशे द्वे॥ द्वयोर्लुशो जगती इन्द्रसोमौ॥
@@ -7750,7 +7750,7 @@ title = "०३ पावमानम्"
 प्रो꣢᳐या꣣ऽ२३४सी꣥त्। इ꣡न्दुरिन्द्राऽ२३। स्या꣤ऽ३नि꣢ष्कृ꣣त꣥म्। स꣣खा꣢꣯स꣣ख्युः꣥। न꣡प्रमिनाऽ२३। ती꣤ऽ३स꣢ङ्गि꣣र꣥म्। म꣣र्य꣢इ꣣व꣥। यु꣡वतिभाऽ२३इः। सा꣤ऽ३म꣢र्ष꣣ति꣥। सो꣣꣯मᳲ꣢क꣣ला꣥। शे꣡꣯शतयाऽ२३। मना꣢ऽ᳐३पा꣤ऽ५था"ऽ६५६॥ दी-७। प-१२। मा-७॥ १४ (ठे) ११०२॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/13_0557_pro_ayAsIdindurindrasya/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/13_0557_pro_ayAsIdindurindrasya/02.md">
 <details open><summary><h6>13_0557 प्रो अयासीदिन्दुरिन्द्रस्य - 02 ...{Loading}...</h6></summary>
 
 ५५७-२।
@@ -7758,7 +7758,7 @@ title = "०३ पावमानम्"
 प्रो꣣꣯या꣤꣯सी꣯दि꣣न्दु꣤रि꣣न्द्र꣤स्य꣥निः। कृ꣣ता꣢म्। कृता꣣ऽ२३꣡४꣡५꣡म्॥ स꣣खा꣢ऽ३१२३४। सख्यु꣥र्न꣤प्रमि꣥ना꣯तिसम्। गि꣤रा꣥ङ्गि꣤रा꣥म्॥ म꣣र्या꣢ऽ३१२३४ः। इव꣥युवति꣤ भि꣥स्स꣤म꣥। ष꣤ता꣥इष꣤ता꣥इ॥ सो꣣꣯मा꣢ऽ३१२३४ः। कलशे꣥꣯शत꣤या꣥꣯। म꣣ना꣢ऽ᳐३पा꣤ऽ५ था"ऽ६५६॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/13_0557_pro_ayAsIdindurindrasya/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/13_0557_pro_ayAsIdindurindrasya/03.md">
 <details open><summary><h6>13_0557 प्रो अयासीदिन्दुरिन्द्रस्य - 03 ...{Loading}...</h6></summary>
 
 ५५७-३। प्रवद्भार्गवम्॥ भृगुः जगती इन्द्रसोमौ॥
@@ -7766,7 +7766,7 @@ title = "०३ पावमानम्"
 प्रो꣢꣯अया꣡꣯साइत्। इ꣢न्दुरि꣡न्द्रा। स्याऽ᳒२᳒नि꣡ष्कृताम्॥ स꣢खा꣯स꣡ख्यूः। न꣢प्र꣡मिना। ताऽ᳒२᳒इस꣡ङ्गिराम्॥ म꣢र्यइ꣡वा। यु꣢वति꣡भाइः। साऽ᳒२᳒म꣡र्षताइ॥ सो꣢꣯मᳲक꣡ला। शे꣢꣯श꣡तया। माऽ᳒२᳒ना꣡꣯पथा꣢ऽ३१उ॥ वाऽ२३꣡४꣡५꣡॥ दी-६। प-१३। मा-१२॥ १६ (गा) ११०४॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/13_0557_pro_ayAsIdindurindrasya/04.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/13_0557_pro_ayAsIdindurindrasya/04.md">
 <details open><summary><h6>13_0557 प्रो अयासीदिन्दुरिन्द्रस्य - 04 ...{Loading}...</h6></summary>
 
 ५५७-४। तन्त्रम्॥ विरूपो जगती इन्द्रसोमौ॥
@@ -7774,7 +7774,7 @@ title = "०३ पावमानम्"
 प्रो꣢꣯अया꣡꣯साइत्। इ꣢न्दुरि꣡न्द्रा। स्या꣢꣯नि꣡ष्कृताऽ२३म्॥ सखा꣢꣯स꣣ख्युः꣥। न꣣प्रा꣢᳐मि꣣ना꣥꣯। ति꣣स꣢ङ्गा꣣ऽ२३४इरा꣥म्॥ म꣢र्यइ꣡वा। यु꣢वति꣡भाइः। सा꣢꣯म꣡र्षताये꣢ऽ३॥ सो꣯मᳲ꣢क꣣ला꣥। शे꣣꣯शा꣢᳐त꣣या꣥꣯। म꣣ना꣢ऽ᳐३पा꣤ऽ५था"ऽ६५६॥ दी-९। प-१२। मा-१०॥ १७ (थौ) ११०५॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/13_0557_pro_ayAsIdindurindrasya/05.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/13_0557_pro_ayAsIdindurindrasya/05.md">
 <details open><summary><h6>13_0557 प्रो अयासीदिन्दुरिन्द्रस्य - 05 ...{Loading}...</h6></summary>
 
 ५५७-५। यामम्॥ यमो जगती इन्द्रसमौ॥
@@ -7842,7 +7842,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/14_0558_dhartA_divaH/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/14_0558_dhartA_divaH/01.md">
 <details open><summary><h6>14_0558 धर्ता दिवः - 01 ...{Loading}...</h6></summary>
 
 ५५८-१। दास(वात्स) शिरसी द्वे॥ द्वयोर्दसशिरा जगती सोमः॥
@@ -7850,7 +7850,7 @@ title = "०३ पावमानम्"
 ध꣢र्ता꣡दाइवा꣢ऽ३। ओ꣤꣯वाऽ५ए॥ प꣢वते꣯कृत्विऽ३यो꣡रासा꣢ऽ३। ओ꣤꣯वाऽ५ए। द꣢क्षो꣡दाइवा꣢ऽ᳐३। ओ꣤꣯वाऽ५ए॥ ना꣢꣯मनुमा꣯दिऽ३यो꣡नॄभा꣢ऽ३। ओ꣤꣯वाऽ५ए॥ ह꣢रा꣡इस्सार्जा꣢ऽ३। ओ꣤꣯वाऽ५ए॥ नो꣢꣯अतियो꣯नऽ३सा꣡त्वाभा꣢ऽ३। ओ꣤꣯वाऽ५ए। वृ꣢था꣡पाजा꣢ऽ᳐३। ओ꣤꣯वाऽ५ए॥ सि꣢कृणुषाइनदा꣡इषूवा꣢ऽ३। ओ꣤꣯वाऽ५ए। हो꣤ऽ५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/14_0558_dhartA_divaH/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/14_0558_dhartA_divaH/02.md">
 <details open><summary><h6>14_0558 धर्ता दिवः - 02 ...{Loading}...</h6></summary>
 
 ५५८-२।
@@ -7918,7 +7918,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/15_0559_vRShA_matInAm/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/15_0559_vRShA_matInAm/01.md">
 <details open><summary><h6>15_0559 वृषा मतीनाम् - 01 ...{Loading}...</h6></summary>
 
 ५५९-१। यामानि त्रीणि॥ (ऐडयामम्) त्रयाणां यमो जगती सोमेन्द्रौ॥
@@ -7926,7 +7926,7 @@ title = "०३ पावमानम्"
 वृ꣢षा꣯मा꣡तीऽ२३। ना꣢꣯म्पवा꣡ताऽ२३इ। ए꣢ऽ᳐३। वि꣢चक्षणए᳐ऽ३॥ सो꣢꣯मो꣯ आ꣡ह्नाऽ२३म्। प्र꣢तरा꣡इताऽ२३। ए꣢ऽ᳐३। उ꣢षसा꣯न्दिवए᳐ऽ३॥ प्रा꣢꣯णा꣯सा꣡इन्धू ऽ२३। नां꣢꣯कला꣡शाꣳऽ२३। ए꣢ऽ᳐३। अ꣢चिक्रददेऽ᳐३॥ इ꣢न्द्रस्या꣡हाऽ२३। दि꣢या꣯ वा꣡इशाऽ२३न्। ए꣢ऽ᳐३। म꣢नी꣯षिभिरेऽ३४३। ओ꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/15_0559_vRShA_matInAm/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/15_0559_vRShA_matInAm/02.md">
 <details open><summary><h6>15_0559 वृषा मतीनाम् - 02 ...{Loading}...</h6></summary>
 
 ५५९-२।
@@ -7934,7 +7934,7 @@ title = "०३ पावमानम्"
 वृ꣡षा꣢꣯मती꣯ना꣡꣯म्पव। ताइवा꣢ऽ१इचाऽ२३४। क्ष꣥। णा꣣ऽ२३꣡४꣡५ः꣡॥ सो꣡꣯मो꣢꣯ अ꣡ह्ना꣢꣯म्प्र꣡तरी꣢꣯। तो꣡षा꣢ऽ१साऽ२३४म्। दि꣥। वा꣣ऽ२३꣡४꣡५ः꣡॥ प्रा꣢꣯णा꣡꣯सिन्धू꣢꣯नां꣯कल꣡। शाꣳआ꣢ऽ१चाऽ२३४इ। क्र꣥। दा꣣ऽ२३꣡४꣡५꣡त्॥ आ꣡इन्द्रस्य꣢हा꣡꣯र्दिया꣯वि। शान्मा꣢ ऽ१नाऽ२३४इ। षिभा꣥ऽ२उ। वाऽ३꣡४꣡५꣡॥ दी-१३। प-१६। मा-१२॥ २२ (टा) १११०॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/15_0559_vRShA_matInAm/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/15_0559_vRShA_matInAm/03.md">
 <details open><summary><h6>15_0559 वृषा मतीनाम् - 03 ...{Loading}...</h6></summary>
 
 ५५९-३।
@@ -8002,7 +8002,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/16_0560_trirasmai_sapta/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/16_0560_trirasmai_sapta/01.md">
 <details open><summary><h6>16_0560 त्रिरस्मै सप्त - 01 ...{Loading}...</h6></summary>
 
 ५६०-१। मरुतान्धेनु॥ मरुतो जगती सोमः॥
@@ -8070,7 +8070,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/17_0561_indrAya_soma/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/17_0561_indrAya_soma/01.md">
 <details open><summary><h6>17_0561 इन्द्राय सोम - 01 ...{Loading}...</h6></summary>
 
 ५६१-१। इन्द्रस्यापामीवम्॥ इन्द्रो जगती इन्द्रसोमौ॥
@@ -8078,7 +8078,7 @@ title = "०३ पावमानम्"
 इ꣢न्द्रा꣡। य꣢सो꣯मसुषुताऽ᳐३ᳲपा꣤ऽ३रि꣢स्र꣣व꣥॥ अ꣢पा꣡। मी꣢꣯वा꣯भवतुराऽ३क्षा꣤ऽ३ सा꣢꣯स꣣ह꣥॥ मा꣢꣯ता꣡इ। र꣢सस्यमत्सताऽ᳐३द्वा꣤ऽ३या꣢꣯वि꣣नः꣥॥ द्र꣢वा꣡इ। ण꣢स्वन्तइहस। तु꣣वा꣢ऽ᳐३इन्दा꣤ऽ५वा"ऽ६५६ः॥ दी-६। प-९। मा-६॥ २५ (घू) १११३॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/17_0561_indrAya_soma/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/17_0561_indrAya_soma/02.md">
 <details open><summary><h6>17_0561 इन्द्राय सोम - 02 ...{Loading}...</h6></summary>
 
 ५६१-२। वायोरभिक्रन्दम्॥ वायुः जगती इन्द्रसोमौ॥
@@ -8146,7 +8146,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/18_0562_asAvi_somo/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/18_0562_asAvi_somo/01.md">
 <details open><summary><h6>18_0562 असावि सोमो - 01 ...{Loading}...</h6></summary>
 
 ५६२-१। यामानि त्रीणि॥ त्रयाणां यमो जगती सोमश्येनौ॥
@@ -8154,7 +8154,7 @@ title = "०३ पावमानम्"
 अ꣢सा꣯वि꣡सो। मो꣢꣯अ꣡रुषोऽ२३४। वृषा꣥꣯ह꣤राइः॥ रा꣢꣯जे꣯व꣡दा। स्मो꣢꣯अ꣡भिगा ऽ२३४ः। अचि꣥क्र꣤दात्। पु꣢ना꣯नो꣡꣯वा॥ रा꣢꣯म꣡तियाऽ२३४इ। षिअ꣥व्य꣤याम्। श्ये꣢꣯नो꣯न꣡यो। निं꣢घृ꣡तवाऽ२३। त꣤माऽ५सदात्। हो꣤ऽ५इ॥ डा॥ दी-११। प-१४। मा-११॥ २७ (घ) १११५॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/18_0562_asAvi_somo/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/18_0562_asAvi_somo/02.md">
 <details open><summary><h6>18_0562 असावि सोमो - 02 ...{Loading}...</h6></summary>
 
 ५६२-२।
@@ -8162,7 +8162,7 @@ title = "०३ पावमानम्"
 आ꣢सा᳐वी꣣ऽ२३४सो꣥। मो꣢अ᳐रू꣣ऽ२३४षाः꣥। वा꣢꣯र्षा꣡꣯हराये꣢ऽ३ः॥ रा꣢जे᳐वा꣣ऽ२३४दा꣥। स्मो꣢अभी꣣ऽ२३४गाः꣥। आ꣢꣯चि꣡क्रदाऽ२३त्॥ पू꣢ना᳐नो꣣ऽ२३४वा꣥। रा꣢मा᳐ती꣣ऽ२३४ ये꣥। षी꣢꣯अ꣡व्ययाऽ२३म्॥ श्ये꣢नो᳐ना꣣ऽ२३४यो꣥। नि꣢घा᳐र्त्ता꣣ऽ२३४वा꣥। त꣣मा꣢ऽ᳐३। सा꣡ऽ२᳐दा꣣ऽ२३४औ꣥꣯हो꣯वा॥ दे꣢ऽ३। दि꣡वीऽ२३꣡४꣡५꣡॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/18_0562_asAvi_somo/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/18_0562_asAvi_somo/03.md">
 <details open><summary><h6>18_0562 असावि सोमो - 03 ...{Loading}...</h6></summary>
 
 ५६२-३।
@@ -8230,7 +8230,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/19_0563_pra_devamachChA/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/19_0563_pra_devamachChA/01.md">
 <details open><summary><h6>19_0563 प्र देवमच्छा - 01 ...{Loading}...</h6></summary>
 
 ५६३-१। मरुतान्धेनु॥ मरुतो जगती सोमः॥
@@ -8298,7 +8298,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/20_0564_anjate_vyanjate/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/20_0564_anjate_vyanjate/01.md">
 <details open><summary><h6>20_0564 अञ्जते व्यञ्जते - 01 ...{Loading}...</h6></summary>
 
 ५६४-१। काक्षीवतानि(शार्गा११नि) त्रीणि॥ अञ्जतः कक्षीवान् जगती सोमः॥
@@ -8306,7 +8306,7 @@ title = "०३ पावमानम्"
 अ꣢ञ्ज꣡ताइ। वि꣢यञ्ज꣡ताइ। स꣢मञ्जा꣡ताऽ᳒२᳒इ। क्रतुꣳरि꣡हा। ती꣢꣯म꣡धुवा। भि꣢यञ्जा꣡ताऽ᳒२᳒इ। सिन्धो꣯रु꣡च्छ्वा। से꣢꣯प꣡तया। त꣢मुक्षा꣡णाऽ᳒२᳒म्। हिरण्य꣡पा। वाᳲ꣢꣯प꣡शुमा। प्सू꣢꣯गृ꣡भ्णता꣢ऽ᳐३१उवा"ऽ२३꣡४꣡५꣡॥ दी-५। प-१२। मा-६॥ ३१ (फू) १११९॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/20_0564_anjate_vyanjate/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/20_0564_anjate_vyanjate/02.md">
 <details open><summary><h6>20_0564 अञ्जते व्यञ्जते - 02 ...{Loading}...</h6></summary>
 
 ५६४-२। व्यञ्जतᳲ कक्षीवान्॥
@@ -8314,7 +8314,7 @@ title = "०३ पावमानम्"
 अ꣣ञ्जा꣢ऽ३हो꣡। ते꣢ऽ᳐३हो꣡इ। वि꣢यञ्जतेऽ᳐३सा꣤ऽ३म꣢ञ्ज꣣ता꣥इ॥ क्र꣣तू꣢ऽ३ꣳ हो꣡इ। रि꣣हा꣢ऽ᳐३हो꣡।
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/20_0564_anjate_vyanjate/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/20_0564_anjate_vyanjate/03.md">
 <details open><summary><h6>20_0564 अञ्जते व्यञ्जते - 03 ...{Loading}...</h6></summary>
 
 ५६४-३। समञ्जतᳲ कक्षीवान्॥
@@ -8382,7 +8382,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/21_0565_pavitraM_te/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/21_0565_pavitraM_te/01.md">
 <details open><summary><h6>21_0565 पवित्रं ते - 01 ...{Loading}...</h6></summary>
 
 ५६५-१। अर्कपुष्पे द्वे॥ द्वयोरादित्यो जगती ब्रह्मणस्पतिः॥
@@ -8390,7 +8390,7 @@ title = "०३ पावमानम्"
 प꣢वि꣡त्रंते꣢꣯वि꣡ततं꣢ब्र꣡ह्मण꣢स्पतेऽ᳐३। हु꣡वेऽ२३। हु꣡वेऽ२३। हो꣡वा꣢ऽ᳐३हा꣢ऽ᳐३। हा꣢इ॥ प्रभु꣡र्गा꣯त्रा꣢꣯णिप꣡रिये꣢꣯षिविश्व꣡ताऽ२३ः। हु꣡वेऽ२३। हु꣡वेऽ२३। हो꣡वा꣢ऽ᳐३ हा꣢ऽ᳐३। हा꣢इ॥ अ꣡तप्त꣢तनू꣯र्न्न꣡तदा꣰꣯ऽ२मो꣡꣯अश्नु꣢तेऽ᳐३। हु꣡वेऽ२३। हु꣡वेऽ२३। हो꣡वा꣢ ऽ᳐३हा꣢ऽ᳐३। हा꣢इ॥ शृता꣡꣯स꣢इ꣡द्वह꣢न्तस्स꣡न्तदा꣰꣯ऽ२शत। हु꣡वेऽ२३। हु꣡वेऽ२३। हो꣡वा꣢ऽ᳐३हा꣢ऽ᳐३। हा꣢ऽ३४। औ꣥꣯हो꣯वा॥ अ꣢र्को꣡꣯दे꣯वा꣯ना꣰꣯ऽ२म्परमे꣡꣯वियो꣰꣯ऽ२मा꣣ऽ २३꣡४꣡५꣡न्॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/21_0565_pavitraM_te/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/21_0565_pavitraM_te/02.md">
 <details open><summary><h6>21_0565 पवित्रं ते - 02 ...{Loading}...</h6></summary>
 
 ५६५-२। अर्कपुष्पोत्तरम्॥
@@ -8464,7 +8464,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/22_0566_indramachCha_sutA/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/22_0566_indramachCha_sutA/01.md">
 <details open><summary><h6>22_0566 इन्द्रमच्छ सुता - 01 ...{Loading}...</h6></summary>
 
 ५६६-१। पदे द्वे॥ द्वयोर्वसिष्ठ उष्णिक् इन्द्रः॥
@@ -8472,7 +8472,7 @@ title = "०३ पावमानम्"
 इ꣥न्द्रमच्छा॥ सु꣢ता꣡इमा꣢᳐। औ꣣꣯होऽ२३४वा꣥। वृ꣡षणं꣢य। तू꣡ह꣪रया꣢᳐। औ꣣꣯हो ऽ२३४वा꣥॥ श्रु꣢ष्टा꣡इजा꣢꣯ता꣡। स꣢इ꣣न्द꣢वाः꣡॥ सु꣢व꣡र्वाऽ२३इदा꣢ऽ३४३ः। ओ꣡ऽ२३४५ इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/22_0566_indramachCha_sutA/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/22_0566_indramachCha_sutA/02.md">
 <details open><summary><h6>22_0566 इन्द्रमच्छ सुता - 02 ...{Loading}...</h6></summary>
 
 ५६६-२।
@@ -8480,7 +8480,7 @@ title = "०३ पावमानम्"
 इ꣥न्द्रमच्छा॥ सु꣢ता꣡इमा꣢ऽ᳐३इ। ता꣡ई꣢ऽ᳐३मा꣢इ। वृ꣡षणं꣢य। तू꣡ह꣪रयाऽ᳒२ः᳒। हा꣡रा꣢ऽ᳐३याः꣢। श्रुष्टे꣯जा꣯ता꣯ऽ३सा꣡इ꣪न्दवाऽ᳒२ः᳒॥ आ꣡इन्दा꣢ऽ᳐३वा꣢ऽ᳐३ः॥ सु꣡वरा꣢ऽ᳐३४। औ꣥꣯हो꣯वा॥ वि꣢दो꣯विऽ᳐३दा꣡ऽ२३꣡४꣡५ः꣡॥ दी-६। प-११। मा-११॥ २ (क) ११२५॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/22_0566_indramachCha_sutA/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/22_0566_indramachCha_sutA/03.md">
 <details open><summary><h6>22_0566 इन्द्रमच्छ सुता - 03 ...{Loading}...</h6></summary>
 
 ५६६-३। अनुपदे द्वे॥ द्वयोर्वसिष्ठ उष्णिक् इन्द्रः॥
@@ -8488,7 +8488,7 @@ title = "०३ पावमानम्"
 इ꣤न्द्र꣥म्। इन्द्रा꣤म्॥ अ꣢च्छऽ᳐३सू꣡ता꣢ऽ१इमेऽ᳒२᳒। आ꣡इमेऽ᳒२᳒। वृ꣡षणं꣢य। तू꣡ह꣪रयाऽ᳒२ः᳒। रा꣡याऽ᳒२ः᳒। श्रुष्टे꣯जा꣯ता꣯ऽ३सा꣡इ꣪न्दवाऽ᳒२ः᳒॥ दा꣡वाऽ२३ः॥ सु꣡वरा꣢ऽ᳐३४। औ꣥꣯हो꣯वा॥ वि꣢दोऽ᳐३वि꣡दाऽ२३꣡४꣡५ः꣡॥ दी-५। प-१२। मा-७॥ ३ (फौ) ११२६॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/22_0566_indramachCha_sutA/04.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/22_0566_indramachCha_sutA/04.md">
 <details open><summary><h6>22_0566 इन्द्रमच्छ सुता - 04 ...{Loading}...</h6></summary>
 
 ५६६-४।
@@ -8496,7 +8496,7 @@ title = "०३ पावमानम्"
 इ꣣न्द्र꣤म꣣च्छ꣤सुता꣣꣯इ꣤मे꣣꣯वृष꣤णं꣥यन्तुहा। हो꣢ऽ᳐३४३। र꣢य꣣आ꣢॥ श्रू꣡ष्टा꣢उवा। जा꣡ता꣢उवाऽ३४॥ सइ꣣न्द꣤व꣥स्सुवा। हो꣢॥ विद꣣ओ꣢ऽ᳐३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/22_0566_indramachCha_sutA/05.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/22_0566_indramachCha_sutA/05.md">
 <details open><summary><h6>22_0566 इन्द्रमच्छ सुता - 05 ...{Loading}...</h6></summary>
 
 ५६६-५। पौष्कलम्॥ प्रजापतिः उष्णिक् इन्द्रः॥
@@ -8564,7 +8564,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/23_0567_pra_dhanvA/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/23_0567_pra_dhanvA/01.md">
 <details open><summary><h6>23_0567 प्र धन्वा - 01 ...{Loading}...</h6></summary>
 
 ५६७-१। ऐषिराणि पञ्च॥ इषिर उष्णिक् इन्द्रः॥
@@ -8572,7 +8572,7 @@ title = "०३ पावमानम्"
 प्र꣢धन्वा꣡꣯सौ꣯होइ। औ꣢ऽ᳐३होऽ२३४वा꣥। म꣢जा꣡꣯गृ꣢विः॥ इन्द्रा꣯ये꣡꣯न्दौ꣯होइ। औ꣢ऽ᳐३होऽ२३४वा꣥। प꣡रिस्र꣢व॥ द्युमन्तꣳ꣡शौ꣯होइ। औ꣢ऽ᳐३होऽ२३४वा꣥। ष्म꣢मा꣡꣯भ꣢र॥ सुवर्वि꣡दौ꣯होइ। औ꣢ऽ᳐३होऽ२३४५वाऽ६५६॥ ऊ꣣ऽ२३४पा꣥॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/23_0567_pra_dhanvA/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/23_0567_pra_dhanvA/02.md">
 <details open><summary><h6>23_0567 प्र धन्वा - 02 ...{Loading}...</h6></summary>
 
 ५६७-२।
@@ -8580,7 +8580,7 @@ title = "०३ पावमानम्"
 प्र꣢धन्वा꣡꣯सौ꣯हो। वा꣢ऽ᳐३हो꣡। म꣢जा꣯गॄ꣡वीऽ᳒२ः᳒॥ इन्द्रा꣯ये꣡꣯न्दौ꣯हो। वा꣢ऽ᳐३हो꣡इ। प꣢रिस्रा꣡वाऽ᳒२᳒॥ द्युमन्तꣳ꣡शौ꣯हो। वा꣢ऽ᳐३हो꣡। ष्म꣢मा꣯भा꣡राऽ᳒२᳒॥ सुवर्वि꣡दौ꣯हो। वा꣢ऽ३᳐ हो꣡ऽ२᳐। वा꣣ऽ२३४औ꣥꣯हो꣯वा। ऊ꣣ऽ२३४पा꣥॥ दी-११। प-१३। मा-३॥ ७ (ग्वि) ११३०॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/23_0567_pra_dhanvA/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/23_0567_pra_dhanvA/03.md">
 <details open><summary><h6>23_0567 प्र धन्वा - 03 ...{Loading}...</h6></summary>
 
 ५६७-३।
@@ -8588,7 +8588,7 @@ title = "०३ पावमानम्"
 औ꣢꣯हौ꣡꣯होइ। प्र꣢धन्वा꣡सोऽ᳒२᳒। औ꣯हौ꣡꣯हो। म꣢जा꣯गॄ꣡वीऽ᳒२ः᳒॥ औ꣯꣯हौ꣡꣯होइ। इ꣢न्द्रा꣯ या꣡इन्दोऽ᳒२᳒।
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/23_0567_pra_dhanvA/04.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/23_0567_pra_dhanvA/04.md">
 <details open><summary><h6>23_0567 प्र धन्वा - 04 ...{Loading}...</h6></summary>
 
 ५६७-४।
@@ -8596,7 +8596,7 @@ title = "०३ पावमानम्"
 हु꣡वाऽ᳒२᳒इ। हु꣡वाऽ᳒२᳒इ। हु꣡वाऽ२३हो꣡इ। प्र꣢धन्वा꣡सोऽ᳒२᳒। मजा꣯गॄ꣡वीऽ᳒२ः᳒॥ इन्द्रा꣯या꣡इन्दोऽ᳒२᳒। परिस्रा꣡वाऽ᳒२᳒॥ द्युमन्ताꣳ꣡शूऽ᳒२᳒। ष्ममा꣯भा꣡राऽ᳒२᳒॥ सुवर्वा꣡ इदाऽ᳒२᳒म्। हु꣡वाऽ᳒२᳒इ। हु꣡वाऽ᳒२᳒इ। हु꣡वाऽ२३हो꣡ऽ२᳐। वा꣣ऽ२३४औ꣥꣯हो꣯वा॥ ऊ꣣ऽ२३४ पा꣥॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/23_0567_pra_dhanvA/05.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/23_0567_pra_dhanvA/05.md">
 <details open><summary><h6>23_0567 प्र धन्वा - 05 ...{Loading}...</h6></summary>
 
 ५६७-५।
@@ -8664,7 +8664,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/24_0568_sakhAya_A/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/24_0568_sakhAya_A/01.md">
 <details open><summary><h6>24_0568 सखाय आ - 01 ...{Loading}...</h6></summary>
 
 ५६८-१। शौक्तानि पञ्च॥ शुक्तिः उष्णिक् सोमः॥
@@ -8672,7 +8672,7 @@ title = "०३ पावमानम्"
 स꣢खा꣯ऽ३या꣡आऽ᳒२᳒। निषी꣡꣯दता॥ पुना꣯नाऽ२३या꣢। प्रगा꣡꣯यता॥ शिशु न्नाऽ२३या꣢॥ ज्ञैᳲ꣯परा꣡इभूऽ᳒२᳒। षता꣡श्राऽ२३या꣢ऽ᳐३४३इ। ओ꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/24_0568_sakhAya_A/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/24_0568_sakhAya_A/02.md">
 <details open><summary><h6>24_0568 सखाय आ - 02 ...{Loading}...</h6></summary>
 
 ५६८-२।
@@ -8680,7 +8680,7 @@ title = "०३ पावमानम्"
 सा꣤खा꣥या꣤आ꣥॥ नि꣢षी᳐दा꣣ऽ२३४ता꣥। पु꣡नाऽ२᳐ना꣣ऽ२३४या꣥। प्रा꣡ऽ२᳐गा꣣ऽ२३४ औ꣥꣯हो꣯वा। या꣣ऽ२३४ता꣥॥ शि꣢शू꣡न्न꣢या꣡। ज्ञैᳲ꣢꣯प꣣रि꣢भू꣡ऽ२३॥ षा꣡ऽ२᳐ता꣣ऽ२३४ औ꣥꣯हो꣯वा॥ श्रि꣢येऽ१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/24_0568_sakhAya_A/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/24_0568_sakhAya_A/03.md">
 <details open><summary><h6>24_0568 सखाय आ - 03 ...{Loading}...</h6></summary>
 
 ५६८-३।
@@ -8688,7 +8688,7 @@ title = "०३ पावमानम्"
 स꣤खा꣥꣯यआ꣤꣯नि। षी꣥꣯दाऽ६ता꣥॥ पु꣢ना꣯ना꣡꣯यप्रगा꣯याता॥ शिशुन्नयज्ञैᳲ꣯ पराऽ᳒२᳒इ॥ भू꣡꣯षाऽ२३ता꣢ऽ᳐३। श्रा꣡ऽ२३या꣢ऽ᳐३४३इ। ओ꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/24_0568_sakhAya_A/04.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/24_0568_sakhAya_A/04.md">
 <details open><summary><h6>24_0568 सखाय आ - 04 ...{Loading}...</h6></summary>
 
 ५६८-४। ७
@@ -8696,7 +8696,7 @@ title = "०३ पावमानम्"
 ओ꣥꣯हा꣯इ। स꣤खा꣥꣯यआ꣤꣯नि। षी꣥꣯दाऽ६ता꣥॥ पु꣢ना꣯नौ꣡꣯होइ। पु꣢ना꣯नौ꣡꣯होये꣢ऽ᳐३। या꣤प्रा꣥या꣤प्रा꣥॥ गा꣢꣯य꣡तौ꣯होइ। गा꣢꣯य꣡तौ꣯होये꣢ऽ᳐३। शा꣤इशूꣳ꣥शा꣤इशू꣥म्॥ न꣢य꣡ज्ञौ꣯होइ। न꣢य꣡ज्ञौ꣯होये꣢ऽ३। पा꣤री꣥। पा꣣रा꣢ऽ᳐३४औ꣥꣯हो꣯वा॥ ए꣢ऽ᳐३। भू꣢꣯षतश्रि꣣ये꣢ऽ१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/24_0568_sakhAya_A/05.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/24_0568_sakhAya_A/05.md">
 <details open><summary><h6>24_0568 सखाय आ - 05 ...{Loading}...</h6></summary>
 
 ५६८-५। शौक्तम्॥
@@ -8764,7 +8764,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/25_0569_taM_vaH/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/25_0569_taM_vaH/01.md">
 <details open><summary><h6>25_0569 तं वः - 01 ...{Loading}...</h6></summary>
 
 ५६९-१। कार्णश्रवसानि त्रीणि॥ त्रयाणां कर्णश्रवा उष्णिक् सोमः॥
@@ -8772,7 +8772,7 @@ title = "०३ पावमानम्"
 ता꣣ऽ२३४म्वः꣥। सा꣣ऽ२३४खा꣥॥ यो꣢꣯म꣡दाऽ२३या꣢। पू꣡ना꣯न꣢म। भिगा꣡꣯या ऽ२३ता꣢॥ शा꣡इशु꣢न्न꣡ह꣢᳐। व्यै꣣꣯स्स्वद꣢या꣡ऽ२३॥ त꣢गू꣣꣯र्तिभा꣢ऽ᳐३४३इः। ओ꣡ऽ २३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/25_0569_taM_vaH/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/25_0569_taM_vaH/02.md">
 <details open><summary><h6>25_0569 तं वः - 02 ...{Loading}...</h6></summary>
 
 ५६९-२।
@@ -8780,7 +8780,7 @@ title = "०३ पावमानम्"
 ओ꣢इ᳐तं꣣व꣤स्स꣥खा॥ यो꣢꣯म꣡। दाया꣢᳐ओ꣣ऽ२३४वा꣥। पु꣢ना꣯न꣡मभिगा꣭ऽ३। आ꣢᳐। ओ꣣ऽ२३४वा꣥। य꣣ता꣢᳐ओ꣣ऽ२३४वा꣥॥ शि꣡शु꣢न्न꣡ह꣢व्यै꣡꣯स्स्व꣢दयाऽ३। आ꣢᳐। ओ꣣ऽ २३४वा꣥। त꣣गा꣢᳐ओ꣣ऽ२३४वा꣥॥ ती꣣ऽ२३४भीः꣥॥ दी-३। प-१२। मा-५॥ १७ (ठु) ११४०॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/25_0569_taM_vaH/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/25_0569_taM_vaH/03.md">
 <details open><summary><h6>25_0569 तं वः - 03 ...{Loading}...</h6></summary>
 
 ५६९-३।
@@ -8848,7 +8848,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/26_0570_prANA_shishurmahInAm/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/26_0570_prANA_shishurmahInAm/01.md">
 <details open><summary><h6>26_0570 प्राणा शिशुर्महीनाम् - 01 ...{Loading}...</h6></summary>
 
 ५७०-१। वाचस्सामनी द्वे॥ द्वयोर्वाक् उष्णिक् सोमः॥
@@ -8856,7 +8856,7 @@ title = "०३ पावमानम्"
 प्रा꣤णा꣥॥ शा꣣ऽ२३४इशूः꣥। म꣢हा꣣ऽ२३४इना꣥म्। हि꣡न्वाऽ२᳐ना꣣ऽ२३४र्ता꣥। स्या꣢ऽ᳐३दा꣡इधी꣢ऽ᳐३ती꣢म्॥ वा꣡इश्वा꣢꣯प꣡रि। प्रि꣢या꣣꣯भु꣢वा꣡ऽ२३त्॥ अ꣢ध꣣द्विता꣢ऽ३४३। ओ꣡ऽ२३४५इ॥ डा॥ दी-२। प-१०। मा-९॥ १९ (ञो) ११४२॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/26_0570_prANA_shishurmahInAm/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/26_0570_prANA_shishurmahInAm/02.md">
 <details open><summary><h6>26_0570 प्राणा शिशुर्महीनाम् - 02 ...{Loading}...</h6></summary>
 
 ५७०-२।
@@ -8864,7 +8864,7 @@ title = "०३ पावमानम्"
 प्रा꣤णा꣥प्रा꣤णा꣥॥ शा꣡इशूऽ᳒२᳒श्शा꣡इशूऽ२ः꣮। महाऽ३१उवाये꣢ऽ᳐३। नाऽ२३꣡४꣡५꣡म्। हि꣢न्व꣡न्नार्तस्य꣢दाऽ३१उवाये꣢ऽ३। धीऽ२३४ती꣥म्। वि꣡श्वा꣯पारिप्रि꣢याऽ३१उवा ऽ२३। भूऽ२३४वा꣥त्। अ꣢धौऽ᳒२᳒। हौऽ᳒२᳒। हु꣡वाये꣢ऽ३॥ द्वा꣡ऽ२᳐इता꣣ऽ२३४ औ꣥꣯हो꣯वा॥ ऊ꣢ऽ᳐३२᳐३४पा꣥॥ दी-३। प-१३। मा-११॥ २० (ड्ल) ११४३॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/26_0570_prANA_shishurmahInAm/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/26_0570_prANA_shishurmahInAm/03.md">
 <details open><summary><h6>26_0570 प्राणा शिशुर्महीनाम् - 03 ...{Loading}...</h6></summary>
 
 ५७०-३। इन्द्रसामनी द्वे॥ द्वयोरिन्द्र उष्णिक् सोमः॥
@@ -8872,7 +8872,7 @@ title = "०३ पावमानम्"
 प्रा꣤꣯णा꣥꣯शिशूः꣤॥ म꣢हा꣡ऽ२꣮इना꣯म्। औ꣯हो᳐ऽ३वा꣢। हिन्व꣡न्नृतस्यदी꣯धि꣢तिम्॥ वा꣡इश्वा꣢उवा। पा꣡रा꣢उवा॥ प्रियाऽ᳒२᳒भु꣡वत्। अ꣣धा꣢उवाऽ३॥ ए꣢ऽ᳐३। द्वि꣢ताऽ१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/26_0570_prANA_shishurmahInAm/04.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/26_0570_prANA_shishurmahInAm/04.md">
 <details open><summary><h6>26_0570 प्राणा शिशुर्महीनाम् - 04 ...{Loading}...</h6></summary>
 
 ५७०-४।
@@ -8880,7 +8880,7 @@ title = "०३ पावमानम्"
 प्रा꣥꣯णा꣯। हो꣢ऽ᳐३इ। इ꣤याहा꣥इ॥ शा꣡इशु꣢र्महा꣡इ। नाऽ२३म्। आ꣢꣯उ꣣हा꣢꣯उ꣣। हो꣭ऽ३वा꣢। हिन्व꣡न्नृतस्यदी꣯धिताइम्। आ꣢꣯उ꣣हा꣢꣯उ꣣। हो꣭ऽ३वा꣢॥ वि꣡श्वा꣯पा। र्या꣢꣯उ꣣हा꣢꣯उ꣣। हो꣭ऽ३वा꣢॥ प्रिया꣡ऽ२३। भू꣡ऽ२᳐वा꣣ऽ२३४औ꣥꣯हो꣯वा। अ꣡ध꣢द्वि꣣ता꣢ऽ१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/26_0570_prANA_shishurmahInAm/05.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/26_0570_prANA_shishurmahInAm/05.md">
 <details open><summary><h6>26_0570 प्राणा शिशुर्महीनाम् - 05 ...{Loading}...</h6></summary>
 
 ५७०-५। मरुतां प्रेङ्खम्॥ मरुत उष्णिक् सोमः॥
@@ -8948,7 +8948,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/27_0571_pavasva_devavItaya/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/27_0571_pavasva_devavItaya/01.md">
 <details open><summary><h6>27_0571 पवस्व देववीतय - 01 ...{Loading}...</h6></summary>
 
 ५७१-१। प्राजापत्ये द्वे॥ प्रजापतिः उष्णिक् इन्द्रसोमौ॥
@@ -8956,7 +8956,7 @@ title = "०३ पावमानम्"
 प꣡वस्वदाऽ२᳐इ। व꣣वी꣢᳐ता꣣ऽ२३४या꣥इ॥ आ꣡इन्दो꣯धा꣯राऽ२᳐। भि꣣रो꣢᳐जा꣣ऽ२३४ सा꣥। आ꣡꣯कालशाम्। माधू꣢᳐मा꣣ऽ२३४न्त्सो꣥॥ म꣡नए꣢꣯मा꣡नाऽ२३ः॥ स꣤दाऽ५ए। हो꣤ऽ५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/27_0571_pavasva_devavItaya/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/27_0571_pavasva_devavItaya/02.md">
 <details open><summary><h6>27_0571 पवस्व देववीतय - 02 ...{Loading}...</h6></summary>
 
 ५७१-२।
@@ -9024,7 +9024,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/28_0572_somaH_punAna/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/28_0572_somaH_punAna/01.md">
 <details open><summary><h6>28_0572 सोमः पुनान - 01 ...{Loading}...</h6></summary>
 
 ५७२-१। सुज्ञाने द्वे॥ द्वयोरिन्द्र उष्णिक् सोमः॥
@@ -9032,7 +9032,7 @@ title = "०३ पावमानम्"
 सो꣥꣯मᳲपुना॥ न꣢ऊ꣯र्मि꣡णा। अ꣢व्यंवा꣡राऽ᳒२᳒म्। विधा꣯व꣡ताइ॥ अ꣢ग्रे꣯ वा꣡चाऽ᳒२ः᳒॥ पव꣡। माऽ२᳐ना꣣ऽ२३४औ꣥꣯हो꣯वा॥ क꣡निक्र꣢ददे꣯उ꣡पा꣣ऽ२३꣡४꣡५꣡॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/28_0572_somaH_punAna/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/28_0572_somaH_punAna/02.md">
 <details open><summary><h6>28_0572 सोमः पुनान - 02 ...{Loading}...</h6></summary>
 
 ५७२-२।
@@ -9040,7 +9040,7 @@ title = "०३ पावमानम्"
 सो꣥꣯मᳲपुना॥ न꣢ऊ꣯र्मि꣡णोवा꣢ऽ᳐३। ओ꣡ऽ२᳐। वा꣣ऽ२३४। औ꣥꣯हो꣯वा। अ꣡व्यंवा꣯रं विधा꣢꣯वति॥ अ꣣ग्रे꣢ऽ᳐३। हो꣡वा꣢ऽ᳐३। हो꣡ऽ२᳐। वा꣣ऽ२३४। औ꣥꣯हो꣯वा। वा꣢꣯चᳲ꣡ पवमा꣢꣯नः॥ क꣣ना꣢ऽ᳐३। हो꣡वा꣢ऽ᳐३। हो꣡ऽ२᳐। वा꣣ऽ२३४। औ꣥꣯हो꣯वा॥ क्रा꣣ऽ२३४ दा꣥त्॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/28_0572_somaH_punAna/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/28_0572_somaH_punAna/03.md">
 <details open><summary><h6>28_0572 सोमः पुनान - 03 ...{Loading}...</h6></summary>
 
 ५७२-३। द्यौते द्वे॥ द्युत उष्णिक् सोमः॥
@@ -9048,7 +9048,7 @@ title = "०३ पावमानम्"
 सो꣤꣯मᳲ꣥पुना꣯न꣤ऊ॥ मि꣡णा। अव्यंवा꣯रंवि꣢धा꣡꣯वाऽ२३ती꣢॥ अ꣡ग्रे꣯वा꣯चाः॥ प꣢व꣡मा꣯नाः। का꣢ऽ᳐३नि꣤क्र꣥॥ दा꣣ऽ२३꣡४꣡५꣡त्॥ दी-७। प-७। मा-४॥ २८ (छी) ११५१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/28_0572_somaH_punAna/04.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/28_0572_somaH_punAna/04.md">
 <details open><summary><h6>28_0572 सोमः पुनान - 04 ...{Loading}...</h6></summary>
 
 ५७२-४।
@@ -9056,7 +9056,7 @@ title = "०३ पावमानम्"
 सो꣢꣯मᳲपुना꣯नऊ꣯र्मिणा꣣ऽ२३४ऐ꣥꣯ही॥ अ꣢व्यंवा꣯रंविधा꣯वता꣣ऽ२३४ऐ꣥꣯ही॥ अ꣢ग्रे꣯ वा꣯चᳲपवमा꣯ना꣣ऽ२३४ऐ꣥꣯ही॥ का꣤नी꣥। क्र꣢ददेऽ३४। हि꣥याऽ६हा꣥॥ हो꣤ऽ५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/28_0572_somaH_punAna/05.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/28_0572_somaH_punAna/05.md">
 <details open><summary><h6>28_0572 सोमः पुनान - 05 ...{Loading}...</h6></summary>
 
 ५७२-५। आतीषादीये द्वे॥ द्वयोः प्रजापतिः उष्णिक् सोमः॥
@@ -9064,7 +9064,7 @@ title = "०३ पावमानम्"
 सो꣣꣯मᳲ꣤पु꣥ना꣯। न꣣ऊ꣢ऽ᳐३२र्मी꣣ऽ२३४णा꣥॥ अ꣡व्यंवा꣢꣯रम्। विधा꣡वति꣢॥ अ꣡ग्रा꣭ऽ३२᳐इ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/28_0572_somaH_punAna/06.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/28_0572_somaH_punAna/06.md">
 <details open><summary><h6>28_0572 सोमः पुनान - 06 ...{Loading}...</h6></summary>
 
 ५७२-६। आतीषादीयम्॥
@@ -9132,7 +9132,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/29_0573_pra_punAnAya/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/29_0573_pra_punAnAya/01.md">
 <details open><summary><h6>29_0573 प्र पुनानाय - 01 ...{Loading}...</h6></summary>
 
 ५७३-१। सोमसामानि चत्वारि॥ चतुर्णां सोम उष्णिक् सोमः॥
@@ -9140,7 +9140,7 @@ title = "०३ पावमानम्"
 प्र꣢पु꣡नाऽ२३ना꣤꣯यवे꣥꣯धसाइ॥ हो꣡इ। होइ। सो꣯मा꣯यवचाउ꣪च्याताऽ᳒२᳒इ॥ भृति꣡न्नभराम꣪तिभाऽ᳒२᳒इः॥ जुजो꣡꣯षाऽ२३ता꣢ऽ᳐३४३इ। ओ꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/29_0573_pra_punAnAya/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/29_0573_pra_punAnAya/02.md">
 <details open><summary><h6>29_0573 प्र पुनानाय - 02 ...{Loading}...</h6></summary>
 
 ५७३-२।
@@ -9208,7 +9208,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/30_0574_gomanna_indo/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/30_0574_gomanna_indo/01.md">
 <details open><summary><h6>30_0574 गोमन्न इन्दो - 01 ...{Loading}...</h6></summary>
 
 ५७४-१।
@@ -9276,7 +9276,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/31_0575_asmabhyaM_tvA/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/31_0575_asmabhyaM_tvA/01.md">
 <details open><summary><h6>31_0575 अस्मभ्यं त्वा - 01 ...{Loading}...</h6></summary>
 
 ५७५-१।
@@ -9344,7 +9344,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/32_0576_pavate_haryato/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/32_0576_pavate_haryato/01.md">
 <details open><summary><h6>32_0576 पवते हर्यतो - 01 ...{Loading}...</h6></summary>
 
 ५७६-१। यशाꣳसि त्रीणि॥ त्रयाणां सोम उष्णिक् सोमः॥
@@ -9352,7 +9352,7 @@ title = "०३ पावमानम्"
 प꣥वते꣯हा॥ र्य꣢तो꣡꣯हरिः। औ꣢ऽ᳐३हो꣢ऽ३१इ। औऽ२᳐हो꣣ऽ२३४वा꣥। आ꣡ति꣢ह्व꣡रा꣰꣯ ऽ२ꣳसिरꣳ꣡हि꣢या꣯। औ꣣꣯हो꣢ऽ᳐३१इ। औऽ२᳐हो꣣ऽ२३४वा꣥॥ अ꣢भ्य꣡र्ष꣢स्तो꣯तृ꣡भ्यो꣢꣯वा꣡। औ꣢ऽ᳐३हो꣢ऽ३१इ। औऽ२᳐हो꣣ऽ२३४वा꣥॥ रा꣡ऽ२᳐वा꣣ऽ२३४औ꣥꣯हो꣯वा। य꣢शो꣯य꣡शा꣣ ऽ२३꣡४꣡५ः꣡॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/32_0576_pavate_haryato/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/32_0576_pavate_haryato/02.md">
 <details open><summary><h6>32_0576 पवते हर्यतो - 02 ...{Loading}...</h6></summary>
 
 ५७६-२।
@@ -9360,7 +9360,7 @@ title = "०३ पावमानम्"
 प꣣वा꣢ऽ३। प꣤वते꣥꣯हा॥ र्य꣢तो꣡꣯हरिः। औ꣢꣯हो꣡इ। औ꣭ऽ३हो꣢इ। औ꣣꣯हो꣢इ। आ꣡ति꣢ ह्व꣡रा꣰꣯ऽ२ꣳसिरꣳ꣡हि꣢या꣯। औ꣯हो꣡इ। औ꣭ऽ३हो꣢इ। औ꣣꣯हो꣢इ॥ अभ्य꣡र्ष꣢स्तो꣯तृ꣡भ्यो꣢꣯वा꣡। औ꣢꣯हो꣡इ। औ꣭ऽ३हो꣢इ। औ꣣꣯हो꣢ऽ३॥ रा꣡ऽ२᳐वा꣣ऽ२३४औ꣥꣯हो꣯वा॥ य꣢शो꣯य꣡शा꣣ ऽ२३꣡४꣡५ः꣡॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/32_0576_pavate_haryato/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/32_0576_pavate_haryato/03.md">
 <details open><summary><h6>32_0576 पवते हर्यतो - 03 ...{Loading}...</h6></summary>
 
 ५७६-३।
@@ -9428,7 +9428,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/33_0577_pari_kosham/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/33_0577_pari_kosham/01.md">
 <details open><summary><h6>33_0577 परि कोशम् - 01 ...{Loading}...</h6></summary>
 
 ५७७-१। भारद्वाजम्॥ भरद्वाज उष्णिक् सोमः॥
@@ -9503,7 +9503,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/34_0578_pavasva_madhumattama/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/34_0578_pavasva_madhumattama/01.md">
 <details open><summary><h6>34_0578 पवस्व मधुमत्तम - 01 ...{Loading}...</h6></summary>
 
 ५७८-१। वासिष्ठम्॥ वसिष्ठः ककुप्सोमः॥
@@ -9511,7 +9511,7 @@ title = "०३ पावमानम्"
 पा꣤वा꣥॥ स्व꣡माधुमा। तामा꣢᳐ओ꣣ऽ२३४वा꣥। ई꣣ऽ२३४न्द्रा꣥। य꣢सो꣯मक्रतु वि꣡त्तमो꣢꣯म꣡दा꣢ऽ᳐३ः॥ ओ꣡इ। माहा꣢᳐ओ꣣ऽ२३४वा꣥॥ द्यु꣢क्ष꣡तमो꣢꣯म꣡दा꣣ऽ२३꣡४꣡५ः꣡॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/34_0578_pavasva_madhumattama/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/34_0578_pavasva_madhumattama/02.md">
 <details open><summary><h6>34_0578 पवस्व मधुमत्तम - 02 ...{Loading}...</h6></summary>
 
 ५७८-२। सफे द्वे॥ द्वयोर्देवाः ककुप् इन्द्रसोमौ॥
@@ -9519,7 +9519,7 @@ title = "०३ पावमानम्"
 पा꣢ऽ᳐३४। वस्व꣥म꣤। धु꣥मत्ताऽ६माः꣥॥ आ꣡इन्द्राऽ᳒२᳒। यसो꣡माऽ᳒२᳒। क्रतु꣡वाइ त्ता꣢ऽ३मो꣤ऽ३। मा꣢ऽ३दाः꣢॥ म꣡हिद्युक्षाता꣢ऽ᳐३मो꣤ऽ३॥ मा꣢ऽ३४५दोऽ६"हा꣥इ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/34_0578_pavasva_madhumattama/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/34_0578_pavasva_madhumattama/03.md">
 <details open><summary><h6>34_0578 पवस्व मधुमत्तम - 03 ...{Loading}...</h6></summary>
 
 ५७८-३।
@@ -9527,7 +9527,7 @@ title = "०३ पावमानम्"
 प꣤व꣥स्वम꣤धु꣥मा꣯। इ꣤हा॥ त꣡मः। इन्द्रा꣯यसो꣯मक्रतुवित्त꣢मो꣡꣯माऽ२३दाः꣢। इ꣡हा꣢॥ महा꣡इद्यूऽ२३क्षा꣢। इ꣡हा꣢॥ तमो꣡꣯माऽ२३दा꣢ऽ३४३ः। ओ꣡ऽ२३४५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/34_0578_pavasva_madhumattama/04.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/34_0578_pavasva_madhumattama/04.md">
 <details open><summary><h6>34_0578 पवस्व मधुमत्तम - 04 ...{Loading}...</h6></summary>
 
 ५७८-४। वासिष्ठम्॥ वसिष्ठः ककुप्सोमेन्द्रौ॥
@@ -9535,7 +9535,7 @@ title = "०३ पावमानम्"
 प꣤व꣥स्वमा꣤꣯। एऽ५। धु꣤मा॥ त꣡माः। इ꣢न्द्रा꣯यसोऽ᳐३। हा꣡। औ꣢ऽ᳐३हो꣢। मा꣡क्रातूवीऽ२३दा꣢ऽ᳐३। हा꣡। औ꣢ऽ᳐३हो꣢ऽ᳐३४। त꣣मो꣢ऽ᳐३४म꣣दाः꣢॥ म꣡हाये꣢ऽ᳐३॥ द्यू꣡ऽ२᳐क्षा꣣ऽ२३४औ꣥꣯हो꣯वा॥ त꣢मो꣯म꣡दा꣣ऽ२३꣡४꣡५ः꣡॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/34_0578_pavasva_madhumattama/05.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/34_0578_pavasva_madhumattama/05.md">
 <details open><summary><h6>34_0578 पवस्व मधुमत्तम - 05 ...{Loading}...</h6></summary>
 
 ५७८-५। सफम्॥ देवाः ककुप्सोमः॥
@@ -9603,7 +9603,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/35_0579_abhi_dyumnam/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/35_0579_abhi_dyumnam/01.md">
 <details open><summary><h6>35_0579 अभि द्युम्नम् - 01 ...{Loading}...</h6></summary>
 
 ५७९-१। ऐषिराणि चत्वारि॥ चतुर्णांमिषिरः ककुप्सोमः॥
@@ -9611,7 +9611,7 @@ title = "०३ पावमानम्"
 अ꣢भा꣡इ। द्यु꣢म्ना᳐ऽ३म्बॄ꣤ऽ३ह꣢द्य꣣शः꣥॥ इ꣢षाः꣡। प꣢ते꣯दिदी꣯हिदेऽ᳐३वा꣤ऽ३ दे꣢꣯व꣣यु꣥म्॥ वि꣢को꣡। श꣢म्म॥ ध्य꣣मा꣢ऽ᳐३म्यू꣤ऽ५वा"ऽ६५६॥ दी-३। प-७। मा-४॥ ६ (ठी) ११६८॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/35_0579_abhi_dyumnam/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/35_0579_abhi_dyumnam/02.md">
 <details open><summary><h6>35_0579 अभि द्युम्नम् - 02 ...{Loading}...</h6></summary>
 
 ५७९-२।
@@ -9619,7 +9619,7 @@ title = "०३ पावमानम्"
 अ꣥। भे꣤द्यूम्ना꣥म्॥ बृ꣢हा꣡द्या꣢ऽ१शाऽ᳒२ः᳒। इ꣡षास्पताइ। दीदी꣢᳐हा꣣ऽ२३४इदे꣥। व꣣दा꣢इ᳐वा꣣ऽ२३४यू꣥म्॥ वि꣢कौवा᳐ओ꣣ऽ२३४वा꣥॥ श꣡म्मध्य꣢माऽ३१उवाऽ२३॥ यूऽ२३४वा꣥॥ दी-नास्ति। प-९। मा-८॥ ७ (लै) ११६९॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/35_0579_abhi_dyumnam/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/35_0579_abhi_dyumnam/03.md">
 <details open><summary><h6>35_0579 अभि द्युम्नम् - 03 ...{Loading}...</h6></summary>
 
 ५७९-३।
@@ -9627,7 +9627,7 @@ title = "०३ पावमानम्"
 अ꣥भि꣤द्यु꣥म्न꣤म्बृ꣥ह꣤त्। इहा॥ य꣡शः। इषस्पते꣯दिदी꣯हिदे꣯व꣢दे꣡꣯वाऽ२३यू꣢म्॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/35_0579_abhi_dyumnam/04.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/35_0579_abhi_dyumnam/04.md">
 <details open><summary><h6>35_0579 अभि द्युम्नम् - 04 ...{Loading}...</h6></summary>
 
 ५७९-४।
@@ -9695,7 +9695,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/36_0580_A_sotA/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/36_0580_A_sotA/01.md">
 <details open><summary><h6>36_0580 आ सोता - 01 ...{Loading}...</h6></summary>
 
 ५८०-१। कार्णश्रवसानि त्रीणि॥ त्रयाणां कर्णश्रवा ककुबश्वः॥
@@ -9703,7 +9703,7 @@ title = "०३ पावमानम्"
 आ꣥꣯सो꣯ता꣯पा॥ रा꣡ऽ२᳐इषा꣣ऽ२३४औ꣥꣯हो꣯वा। चा꣣ऽ२३४ता꣥। अ꣡श्व꣢न्न꣡स्तो꣯ मम꣢प्तु꣡रा꣰꣯ऽ२ꣳरजस्तु꣡रम्॥ ओये꣢ऽ३। वना꣢ऽ᳐३॥ ओ꣡ये꣢ऽ᳐३। प्रक्षा꣢ऽ᳐३४। औ꣥꣯हो꣯वा॥ उ꣢दप्रु꣡ता꣣ऽ२३꣡४꣡५꣡म्॥ दी-९। प-१०। मा-४॥ १० (नी) ११७२॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/36_0580_A_sotA/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/36_0580_A_sotA/02.md">
 <details open><summary><h6>36_0580 आ सोता - 02 ...{Loading}...</h6></summary>
 
 ५८०-२।
@@ -9711,7 +9711,7 @@ title = "०३ पावमानम्"
 आ꣥꣯सो꣯ता꣯पा॥ रि꣢षि। च꣡ताऽ᳒२᳒। ऊऽ᳒२᳒। हाऽ᳒२᳒इ। ऊऽ᳒२᳒। अ꣡श्व꣢ न्न꣡स्तो꣯मम꣢। प्तु꣡राऽ᳒२᳒म्। ऊऽ᳒२᳒। हाऽ᳒२᳒इ। ऊऽ᳒२᳒। रज। स्तु꣡राऽ᳒२᳒म्। ऊऽ᳒२᳒। हाऽ᳒२᳒इ। ऊऽ᳒२᳒॥ वन। प्र꣡क्षाऽ᳒२᳒म्। ऊऽ᳒२᳒। हाऽ᳒२᳒इ। ऊ꣡ऽ२᳐॥ उ꣣द꣢। प्रू꣡ऽ२᳐ ता꣣ऽ२३४औ꣥꣯हो꣯वा॥ ऊ꣢ऽ᳐३२᳐३४पा꣥।
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/36_0580_A_sotA/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/36_0580_A_sotA/03.md">
 <details open><summary><h6>36_0580 आ सोता - 03 ...{Loading}...</h6></summary>
 
 ५८०-३।
@@ -9719,7 +9719,7 @@ title = "०३ पावमानम्"
 आ꣥꣯सो꣯ता꣯पा॥ रि꣡। षाइ। चता। अश्वान्नस्तो। माम꣢प्तू꣣ऽ२३४रा꣥म्। र꣣जा꣢᳐स्तू꣣ऽ२३४रा꣥म्॥ वनो꣤हाइ॥ प्रा꣡क्षामू꣢ऽ᳐३दा꣢। हि꣡म्माये꣢ऽ३॥ प्रूऽ२३४ ता꣥म्॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/36_0580_A_sotA/04.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/36_0580_A_sotA/04.md">
 <details open><summary><h6>36_0580 आ सोता - 04 ...{Loading}...</h6></summary>
 
 ५८०-४। वाचस्सामानि त्रीणि॥ त्रयाणां वाक्ककुबश्वः॥
@@ -9727,7 +9727,7 @@ title = "०३ पावमानम्"
 आ꣥꣯सो꣯ता꣯पा꣯रीऽ६षि꣥ञ्चता॥ आ꣡श्वा꣢᳐ओ꣣ऽ२३४वा꣥। न꣡स्तो꣯मम꣢प्तु꣡रा꣰꣯ऽ२ꣳ रजस्तु꣡राऽ२३म्॥ हो꣡इ। वाना꣢᳐ओ꣣ऽ२३४वा꣥॥ प्र꣢क्ष꣡मुद꣢प्रु꣡ता꣣ऽ२३꣡४꣡५꣡म्॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/36_0580_A_sotA/05.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/36_0580_A_sotA/05.md">
 <details open><summary><h6>36_0580 आ सोता - 05 ...{Loading}...</h6></summary>
 
 ५८०-५।
@@ -9735,7 +9735,7 @@ title = "०३ पावमानम्"
 आ꣣꣯सो꣢ऽ३४औ꣣꣯हो꣤꣯वा꣥॥ ता꣡꣯पराइषि꣪ञ्चाताऽ᳒२᳒। आ꣡श्वन्न꣢स्तो꣯। मा꣡म꣪प्तूरा ऽ२᳐म्। र꣣जा꣢᳐स्तू꣣ऽ२३४रा꣥म्॥ वनो꣤हाइ॥ प्रा꣡क्षमु꣢दाऽ३१उवाऽ२३॥ प्रूऽ२३४ ता꣥म्॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/36_0580_A_sotA/06.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/36_0580_A_sotA/06.md">
 <details open><summary><h6>36_0580 आ सोता - 06 ...{Loading}...</h6></summary>
 
 ५८०-६। वाचस्साम॥
@@ -9803,7 +9803,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/37_0581_etamu_tyam/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/37_0581_etamu_tyam/01.md">
 <details open><summary><h6>37_0581 एतमु त्यम् - 01 ...{Loading}...</h6></summary>
 
 ५८१-१। कौल्मलबर्हिषे द्वे॥ द्वयोः कुल्मलबर्हिः ककुप् वृषभः॥
@@ -9811,7 +9811,7 @@ title = "०३ पावमानम्"
 ए꣤ता꣥म्॥ ऊ꣡त्याम्। म꣪दाऽ२᳐च्यू꣣ऽ२३४ता꣥म्। स꣢हा꣡स्रधा꣢। रां꣡वृषभा꣢ ऽ᳐३म्। दि꣡वोऽ२᳐दू꣣ऽ२३४हा꣥म्॥ वि꣡श्वाऽ᳒२᳒होऽ१इ। होइ॥ वाऽ२३सू꣢ऽ᳐३। ना꣡ऽ२᳐इबा꣣ऽ२३४औ꣥꣯हो꣯वा॥ भ्रा꣣ऽ२३४ता꣥म्॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/37_0581_etamu_tyam/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/37_0581_etamu_tyam/02.md">
 <details open><summary><h6>37_0581 एतमु त्यम् - 02 ...{Loading}...</h6></summary>
 
 ५८१-२।
@@ -9819,7 +9819,7 @@ title = "०३ पावमानम्"
 ए꣤ता꣥मू꣤त्या꣥म्॥ म꣢दाऽ᳐३१उवाऽ२३। च्यूऽ२३४ता꣥म्।
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/37_0581_etamu_tyam/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/37_0581_etamu_tyam/03.md">
 <details open><summary><h6>37_0581 एतमु त्यम् - 03 ...{Loading}...</h6></summary>
 
 ५८१-३। सादन्तीयम्॥ (शङ्कु)। प्रजापतिः ककुप् वृषभः॥
@@ -9827,7 +9827,7 @@ title = "०३ पावमानम्"
 ए꣥꣯त꣤मु꣥त्य꣤म्। एऽ५। म꣤दा॥ च्यु꣡ताम्। सहस्रधा꣯रंवृषभंदि꣢वो꣡꣯दूऽ२३ हा꣢म्॥ वा꣡इश्वाऽ᳒२᳒वा꣡सूऽ२३॥ नि꣢बो꣡ऽ२३४वा꣥। भ्रा꣤ऽ५तोऽ६"हा꣥इ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/37_0581_etamu_tyam/04.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/37_0581_etamu_tyam/04.md">
 <details open><summary><h6>37_0581 एतमु त्यम् - 04 ...{Loading}...</h6></summary>
 
 ५८१-४। कौल्मलबर्हिषाणि त्रीणि॥ त्रयाणां कुल्मलबर्हिः ककुप् वृषभः॥
@@ -9835,7 +9835,7 @@ title = "०३ पावमानम्"
 ए꣥꣯त꣤मु꣥त्य꣤म्। ओहाइ। म꣥दच्यु꣤त꣥म्। ओ꣤हाइ॥ सा꣢ह᳐स्रा꣣ऽ२३४धा꣥। र꣢वा᳐र्षा꣣ऽ२३४भा꣥म्। दि꣢वो꣯दुहमो꣣ऽ२३४हा꣥इ॥ वि꣡श्वाऽ᳒२᳒होऽ१इ॥ वाऽ२३सू꣢ऽ᳐३। ना꣡ऽ२᳐इबा꣣ऽ२३४औ꣥꣯हो꣯वा॥ भ्रा꣣ऽ२३४ता꣥म्॥ दी-४। प-११। मा-१०॥ १९ (तौ) ११८१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/37_0581_etamu_tyam/05.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/37_0581_etamu_tyam/05.md">
 <details open><summary><h6>37_0581 एतमु त्यम् - 05 ...{Loading}...</h6></summary>
 
 ५८१-५।
@@ -9843,7 +9843,7 @@ title = "०३ पावमानम्"
 ए꣥꣯तामु꣣त्य꣢म꣣दा꣤च्यु꣥ताम्॥ सा꣡हस्रधा꣢। रां꣡वृ꣪षाभाऽ᳒२᳒म्। दिवोऽ᳒२᳒। दु꣡हमोइ॥ विश्वा꣯वसू꣯निबाऽ२३हो꣡इ॥ भ्रात꣢माऽ३१उवाऽ२३॥ ऊ꣢ऽ᳐३२᳐३४पा꣥॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/37_0581_etamu_tyam/06.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/37_0581_etamu_tyam/06.md">
 <details open><summary><h6>37_0581 एतमु त्यम् - 06 ...{Loading}...</h6></summary>
 
 ५८१-६।
@@ -9911,7 +9911,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/38_0582_sa_sunve/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/38_0582_sa_sunve/01.md">
 <details open><summary><h6>38_0582 स सुन्वे - 01 ...{Loading}...</h6></summary>
 
 ५८२-१। लोमनी द्वे॥ (दीर्घम्)। द्वयोर्भरद्वाजः ककुप् सोमः॥
@@ -9919,7 +9919,7 @@ title = "०३ पावमानम्"
 सा꣤सू꣥॥ न्वे꣡꣯यो꣯वसूऽ२३ना꣢म्। यो꣡राऽ᳒२᳒या꣡माऽ᳒२᳒। ने꣯ता꣯यइ꣡डाऽ२३ना꣢म्॥ सो꣡ऽ२३माः꣢॥ य꣡स्सुक्षि꣢ता꣡ऽ२३४इनो꣥ऽ६"हा꣥इ॥ दी-४। प-६। मा-६॥ २२ (तू) ११८४॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/38_0582_sa_sunve/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/38_0582_sa_sunve/02.md">
 <details open><summary><h6>38_0582 स सुन्वे - 02 ...{Loading}...</h6></summary>
 
 ५८२-२।
@@ -9927,7 +9927,7 @@ title = "०३ पावमानम्"
 स꣤सुहा꣥उ॥ न्वे꣡꣯यो꣯वसू꣯नाऽ२३ꣳहा꣢उ। यो꣡राऽ᳒२᳒या꣡माऽ᳒२᳒॥ ने꣯ता꣯यः॥ इ꣡डा꣯नाऽ२३ꣳहा꣢उ॥ सो꣡꣯मो꣯यस्सू꣢ऽ᳐३हा꣢उ॥ क्षि꣣ती꣢꣯ना꣡म्। औऽ२३हो꣤वा꣥। हो꣤ऽ५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/38_0582_sa_sunve/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/38_0582_sa_sunve/03.md">
 <details open><summary><h6>38_0582 स सुन्वे - 03 ...{Loading}...</h6></summary>
 
 ५८२-३। सोमसामानि त्रीणि॥ त्रयाणां सोमः ककुप् सोमः॥
@@ -9935,7 +9935,7 @@ title = "०३ पावमानम्"
 सः꣤। स्वेसासू꣥॥ न्वे꣡यो꣯व꣢साऽ३१उवाऽ२३। नाऽ२३꣡४꣡५꣡म्। यो꣡꣯रा꣰꣯ऽ२ या꣡꣯मा꣰꣯ऽ२ने꣯ता꣡꣯य꣢इ꣡डा꣰꣯ऽ२नाऽ᳐३म्॥ सो꣯मौ꣢वा᳐ओ꣣ऽ२३४वा꣥॥ य꣡स्सुक्षि꣢ताऽ३१ उवाये꣢ऽ३॥ नाऽ२३꣡४꣡५꣡म्॥ दी-९। प-८। मा-८॥ २४ (दै) ११८६॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/38_0582_sa_sunve/04.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/38_0582_sa_sunve/04.md">
 <details open><summary><h6>38_0582 स सुन्वे - 04 ...{Loading}...</h6></summary>
 
 ५८२-४।
@@ -9943,7 +9943,7 @@ title = "०३ पावमानम्"
 स꣢सु꣡न्वेऽ२३यो꣤꣯वसू꣥꣯नाम्॥ यो꣢꣯रा꣡या꣢ऽ१माऽ२३ने꣢। ता꣯यइ꣡डाऽ२३४५ नाऽ६५६म्॥ सो꣡꣯मो꣰꣯ऽ२य꣡स्सुक्षि꣢ती꣯ना꣡म्। सो꣯माऽ२३꣡४꣡५ः꣡॥दी-८। प-५। मा-५॥ २५ (णु) ११८७॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/38_0582_sa_sunve/05.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/38_0582_sa_sunve/05.md">
 <details open><summary><h6>38_0582 स सुन्वे - 05 ...{Loading}...</h6></summary>
 
 ५८२-५।
@@ -10011,7 +10011,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/39_0583_tva_hyA3-nga/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/39_0583_tva_hyA3-nga/01.md">
 <details open><summary><h6>39_0583 त्व ह्या३ऽङ्ग - 01 ...{Loading}...</h6></summary>
 
 ५८३-१। शैतोष्माणि चत्वारि॥ चतुर्णां शीतोष्मः ककुप् सोमः॥
@@ -10019,7 +10019,7 @@ title = "०३ पावमानम्"
 त्वꣳ꣥हिया॥ ग꣢दाइवियपवमा꣯नजनिमा꣯नि᳐ऽ३द्यू꣡माऽ᳒२᳒। ता꣡माऽ᳒२ः᳒॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/39_0583_tva_hyA3-nga/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/39_0583_tva_hyA3-nga/02.md">
 <details open><summary><h6>39_0583 त्व ह्या३ऽङ्ग - 02 ...{Loading}...</h6></summary>
 
 ५८३-२।
@@ -10027,7 +10027,7 @@ title = "०३ पावमानम्"
 त्वꣳ꣥हिया॥ ग꣢दा꣡इविय꣢। प꣡वमा꣢꣯न। हो꣡वा꣢ऽ᳐३हा꣢इ। जनि꣡माऽ२३ नी꣢ऽ३४। द्युम꣥। ता꣢ऽ᳐३माः꣢॥ अ꣡माऽ२३॥ ता꣡ऽ२᳐त्त्वा꣣ऽ२३४औ꣥꣯हो꣯वा॥ य꣢घोऽ᳐३ष꣡याऽ२३꣡४꣡५꣡न्॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/39_0583_tva_hyA3-nga/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/39_0583_tva_hyA3-nga/03.md">
 <details open><summary><h6>39_0583 त्व ह्या३ऽङ्ग - 03 ...{Loading}...</h6></summary>
 
 ५८३-३।
@@ -10035,7 +10035,7 @@ title = "०३ पावमानम्"
 त्वꣳ꣤ह्य꣥ङ्गदा꣤॥ वि꣡य। पवमा꣯नजनिमा꣯निद्यु꣢म꣡त्ताऽ२३माः꣢॥ अमा꣡र्ता ऽ२३त्त्वा꣢ऽ᳐३॥ य꣢घो꣡ऽ२३४वा꣥। षा꣤ऽ५योऽ६"हा꣥इ॥ दी-२। प-६। मा-२॥ २९ (चा) ११९१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/39_0583_tva_hyA3-nga/04.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/39_0583_tva_hyA3-nga/04.md">
 <details open><summary><h6>39_0583 त्व ह्या३ऽङ्ग - 04 ...{Loading}...</h6></summary>
 
 ५८३-४।
@@ -10103,7 +10103,7 @@ title = "०३ पावमानम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/40_0584_eSha_sya/01.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/40_0584_eSha_sya/01.md">
 <details open><summary><h6>40_0584 एष स्य - 01 ...{Loading}...</h6></summary>
 
 ५८४-१। गायत्रपार्श्वम्॥ देवाः ककुप् सोमः॥
@@ -10111,7 +10111,7 @@ title = "०३ पावमानम्"
 ए꣤षाः꣥॥ स्या꣡धा꣯र꣢याऽ३१उवाऽ२३। सूऽ२३४ताः꣥। अ꣡व्या꣰꣯ऽ२वा꣡꣯रे꣯भिᳲ꣢ पवते꣯मदि꣡न्तमः꣢॥ क्री꣯डा꣡नू꣢ऽ१र्मीऽ२ः᳐॥ अ꣣पा꣢ऽ᳐३म्। हि꣡म्ऽ२३(स्थि) बा꣤ऽ३॥ आ꣡इवाऽ२३꣡४꣡५꣡॥ दी-६। प-८। मा-८॥ ३१ (गै) ११९३॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/40_0584_eSha_sya/02.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/40_0584_eSha_sya/02.md">
 <details open><summary><h6>40_0584 एष स्य - 02 ...{Loading}...</h6></summary>
 
 ५८४-२। सन्तनि॥ देवाः ककुप् यउस्रिया अभिव्रजन्तेति विष्टारपंक्तिः सोमः॥
@@ -10119,7 +10119,7 @@ title = "०३ पावमानम्"
 ए꣤꣯षाहा꣥उ॥ स्या꣡धा꣯र꣢याऽ३१उवाऽ२३। सूऽ२३४ताः꣥। अ꣡व्या꣰꣯ऽ२वा꣡꣯रे꣯भिᳲ꣢ पवते꣯मदि꣡न्तमा꣣ऽ२३ः॥ क्री꣤꣯डन्हा꣥उ॥ ऊ꣡र्मिर꣢पाऽ३१उवाऽ२३॥ ईऽ२३४वा꣥॥ छू॥१॥ य꣡उस्रिया꣰꣯ऽ२अ꣡पिया꣯अन्तरश्मनी꣣ऽ२३॥ नि꣤र्गाहा꣥उ॥ आ꣡कृन्त꣢दा ऽ३१उवाऽ२३॥ जाऽ२३४सा꣥॥ झु॥२॥ अ꣢भि꣡व्रजन्तत्नि꣢षे꣯ग꣡व्यमश्विया꣣ ऽ२३म्॥ व꣤र्मीहा꣥उ॥ वा꣡धृष्ण꣢वाऽ३१उवाऽ२३॥ रूऽ२३४जा꣥॥ घि॥३॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/40_0584_eSha_sya/03.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/40_0584_eSha_sya/03.md">
 <details open><summary><h6>40_0584 एष स्य - 03 ...{Loading}...</h6></summary>
 
 ५८४-३। सोमसामानि त्रीणि॥ त्रयाणां सोमः ककुप्सोमः॥
@@ -10127,7 +10127,7 @@ title = "०३ पावमानम्"
 ए꣢꣯ष꣡स्यधा꣯। राया꣢ऽ१सूताऽ२ः᳐॥ अ꣣व्या꣯वा꣢꣯रा꣡इ। भाइᳲपवते꣢꣯। म꣣दिन्त꣢माः꣡॥ क्री꣢꣯ड꣡न्नूऽ२३र्मी꣢ऽ३ः॥ आ꣡ऽ᳐२३पा꣤ऽ३म्। आ꣢ऽ᳐३४५इवोऽ६" हा꣥इ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/40_0584_eSha_sya/04.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/40_0584_eSha_sya/04.md">
 <details open><summary><h6>40_0584 एष स्य - 04 ...{Loading}...</h6></summary>
 
 ५८४-४।
@@ -10135,7 +10135,7 @@ title = "०३ पावमानम्"
 ए꣢꣯ष꣡स्या꣢ऽ᳐३धा꣤꣯रया꣥꣯सुताः॥ अ꣡व्याहोऽ᳒२᳒इ। वा꣡꣯रे꣯भिᳲपवते꣯मादि꣪न्तामाऽ᳒२ः᳒॥ क्री꣡꣯डाऽ᳒२᳒न्होऽ१इ। ऊऽ२३र्मीः꣢॥ अ꣣पा꣯मि꣢वा꣡। औ꣢ऽ᳐३हो꣤वा꣥। हो꣤ऽ५इ॥ डा॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="6" open unfilled title="साम" url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/40_0584_eSha_sya/05.md">
+<div class="js_include" newlevelforh1="6" open unfilled url="/vedAH_sAma/kauthumam/prakRti-araNya-gAnAni/01_pUrvArchika-prakRti-gAnam/./1_pUrvArchikaH/6/2/40_0584_eSha_sya/05.md">
 <details open><summary><h6>40_0584 एष स्य - 05 ...{Loading}...</h6></summary>
 
 ५८४-५।
