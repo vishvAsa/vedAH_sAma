@@ -5,25 +5,14 @@ unicode_script: devanagari
 practice_weight: 0
 ---
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
 बृहत्सामेत्यस्या गानं प्रसिद्धम्! "बृहत्साम तथा साम्नां गायत्री छन्दसामहम् ।"
+</details>
 
-## ऋक्
 
-ऋग्वेदः  ६.४६.१  
-ऋषिः  शंयुर्बार्हस्पत्यः  
-देवता  इंद्रः  
-छन्दः  बृहती??  
-सायणो [ऽत्र](http://rigveda.sanatana.in/describe/rikMandala/006.046.001)।
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/046/01_tvAmiddhi_havAmahe.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-### संहिता
-
-त्वामिद्धि हवा॑महे सा॒ता +++(=सम्भजने)+++ वाज॑स्य+++(=अन्नस्य)+++ का॒रवः॑+++(=स्तोतारः)+++ ।  
-त्वां वृ॒त्रेष्वि॑न्द्र॒ सत्प॑तिं॒ नर॒स् त्वां काष्ठा॒स्व्+++(=सीमासु)+++ अर्व॑तः+++(=अश्वतः)+++ ॥
-
-### पदपाठः
-
-त्वाम् । इत् । हि । हवा॑महे । सा॒ता । वाज॑स्य । का॒रवः॑ ।  
-त्वाम् । वृ॒त्रेषु॑ । इ॒न्द्र॒ । सत्ऽप॑तिम् । नरः॑ । त्वाम् । काष्ठा॑सु । अर्व॑तः ॥
 
 {{< figure src="/devaH/AryaH/hindukaH/indraH/images/Indra-kills-vRtra-snake-with-vajra.jpg"  class="thumbnail">}}
 
