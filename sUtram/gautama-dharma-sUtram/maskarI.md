@@ -1,8 +1,32 @@
 +++
-title = "Maskar I"
+title = "मस्करी"
 
 +++
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+**Searchable Electronic Edition of Maskarin’s commentary on the _Gautamadharmasūtra_**, transcribed, edited, formatted, and color-coded by Patrick Olivelle, is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+
+_Last updated: January 2023_
+
+Patrick Olivelle ([jpo@austin.utexas.edu](mailto:jpo@austin.utexas.edu))
+
+University of Texas at Austin
+
+**Maskarin, Gautamasūtrabhāṣya**
+
+Edited by L Srinivasacharya
+
+Government Oriental Library Series
+
+Bibliotheca Sanskrita, No. 50
+
+Mysore: Government Branch Press, 1917
+
+Transcribed by Patrick Olivelle
+
+
+</details>
 
 
 
