@@ -10,5 +10,6 @@ title = "24 मणिकदेशे"
 
 <details><summary>Oldenberg</summary>
 
-24. (Another) at the middle door;
+23. (Another Bali) near the water-barrel;
 </details>
+

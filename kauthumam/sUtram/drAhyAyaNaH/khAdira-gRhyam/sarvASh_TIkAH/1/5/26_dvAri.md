@@ -10,5 +10,6 @@ title = "26 द्वारि"
 
 <details><summary>Oldenberg</summary>
 
-26. Or in the privy;
+24. (Another) at the middle door;
 </details>
+

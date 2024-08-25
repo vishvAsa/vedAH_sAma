@@ -10,5 +10,6 @@ title = "19 सिद्धे सायम्प्रातर्भूतम�
 
 <details><summary>Oldenberg</summary>
 
-19. Then in a low voice: 'May it not fail! Adoration to thee!'
+18. When (the meal) is ready, in the evening and in the morning, (the wife) should say, 'It is ready! and (the husband) with loud voice, 'Om!'
 </details>
+

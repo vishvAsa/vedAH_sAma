@@ -10,5 +10,6 @@ title = "27 शय्यामनु"
 
 <details><summary>Oldenberg</summary>
 
-27. Another on the heap of sweepings.
+25. (Another) in the bed,
 </details>
+

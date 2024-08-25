@@ -10,5 +10,6 @@ title = "25 मध्ये"
 
 <details><summary>Oldenberg</summary>
 
-25. (Another) in the bed,
+24. (Another) at the middle door;
 </details>
+

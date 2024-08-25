@@ -10,5 +10,6 @@ title = "35 सर्वस्य त्वन्नस्यैतत्कु�
 
 <details><summary>Oldenberg</summary>
 
-35. If (food is prepared) at different places, (he should take) that which belongs to the householder.
+33. He should do so (i.e. offer Balis) of all food.
 </details>
+

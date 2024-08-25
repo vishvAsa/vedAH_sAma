@@ -10,5 +10,6 @@ title = "23 बहिरन्तर्वा चतुर्निधाय"
 
 <details><summary>Oldenberg</summary>
 
-23. (Another Bali) near the water-barrel;
+22. He should put down (a Bali) at four places, inside or outside (the Agnyagāra);
 </details>
+

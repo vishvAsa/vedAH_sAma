@@ -10,5 +10,6 @@ title = "22 बलीन्नयेत्"
 
 <details><summary>Oldenberg</summary>
 
-22. He should put down (a Bali) at four places, inside or outside (the Agnyagāra);
+21. Then he should make the Bali offerings.
 </details>
+

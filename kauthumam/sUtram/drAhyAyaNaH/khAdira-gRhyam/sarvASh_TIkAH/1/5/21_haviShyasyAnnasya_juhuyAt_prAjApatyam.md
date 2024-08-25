@@ -10,5 +10,8 @@ title = "21 हविष्यस्यान्नस्य जुहुया�
 
 <details><summary>Oldenberg</summary>
 
-21. Then he should make the Bali offerings.
+20 [^fn_1002]. Of food which is fit for sacrifice he should make oblations to Prajāpati and to (Agni) Svishṭakr̥t.
+
+[^fn_1002]: 20-37 = 1, 4, 1 seqq.
 </details>
+

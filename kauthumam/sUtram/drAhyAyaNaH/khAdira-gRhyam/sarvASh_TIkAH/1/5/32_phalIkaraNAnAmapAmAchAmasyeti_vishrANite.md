@@ -10,5 +10,6 @@ title = "32 फलीकरणानामपामाचामस्येत�
 
 <details><summary>Oldenberg</summary>
 
-32. He should do so silently.
+30. Of chaff, of water, and of the scum of boiled rice (he should offer a Bali) when a donation has been made.
 </details>
+

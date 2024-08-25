@@ -10,5 +10,6 @@ title = "29 अथ सस्तूपम्"
 
 <details><summary>Oldenberg</summary>
 
-29. The remnants he should pour out together with water towards the south.
+27. Another on the heap of sweepings.
 </details>
+
