@@ -10,5 +10,6 @@ title = "18 त्रिः पिबेद्यशसो महसः"
 
 <details><summary>Oldenberg</summary>
 
-18. Instead of 'and of N.N.' (in that formula) he should put the name of the person who offers the Arghya reception.
+15. Let him drink three times with (the formulas), 'The glorys,' 'The mights,' 'The fortunes' (l.l. 12).
 </details>
+

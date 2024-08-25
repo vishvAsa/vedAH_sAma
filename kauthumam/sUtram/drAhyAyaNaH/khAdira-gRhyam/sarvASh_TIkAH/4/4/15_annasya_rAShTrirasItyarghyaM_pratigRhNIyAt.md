@@ -10,5 +10,6 @@ title = "15 अन्नस्य राष्ट्रिरसीत्यर�
 
 <details><summary>Oldenberg</summary>
 
-15. Let him drink three times with (the formulas), 'The glorys,' 'The mights,' 'The fortunes' (l.l. 12).
+12. Let him accept the Arghya water with (the formula), 'Thou art the queen of food' (l.l. 9).
 </details>
+

@@ -10,5 +10,6 @@ title = "13 दक्षिणं दक्षिणमिति"
 
 <details><summary>Oldenberg</summary>
 
-13. The water which he is to sip, (he accepts) with (the formula), 'Glory art thou' (l.l. 10).
+the right with, 'The right' (I. 1. 7); 
 </details>
+

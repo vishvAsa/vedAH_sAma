@@ -10,5 +10,6 @@ title = "12 सव्यं पादमवसिञ्चेत् सव्य
 
 <details><summary>Oldenberg</summary>
 
-12. Let him accept the Arghya water with (the formula), 'Thou art the queen of food' (l.l. 9).
+11. Let him wash his left foot with (the formula), 'The left' (l.l. 6), 
 </details>
+

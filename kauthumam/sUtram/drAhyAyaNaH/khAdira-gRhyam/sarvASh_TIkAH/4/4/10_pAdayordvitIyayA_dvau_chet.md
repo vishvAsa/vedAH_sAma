@@ -10,5 +10,6 @@ title = "10 पादयोर्द्वितीयया द्वौ चे
 
 <details><summary>Oldenberg</summary>
 
-10. Let him look at the water with (the formula), 'From which side I see the goddesses' (l.l. 5).
+9. With the feet (he treads on another bundle of grass), if there are two, with the second (verse) (l.l. 4).
 </details>
+

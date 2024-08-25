@@ -10,5 +10,8 @@ title = "21 गां वेदितामनुमन्त्रयेत म
 
 <details><summary>Oldenberg</summary>
 
-21. The six persons to whom the Arghya reception is due are, a teacher, an officiating priest, a Snātaka, a king, the father-in-law, a friend.
+17. Over the cow, when it has been announced to him, he should recite (the formula), 'Let loose the cow.'
+
+18. Instead of 'and of N.N.' (in that formula) he should put the name of the person who offers the Arghya reception.
 </details>
+

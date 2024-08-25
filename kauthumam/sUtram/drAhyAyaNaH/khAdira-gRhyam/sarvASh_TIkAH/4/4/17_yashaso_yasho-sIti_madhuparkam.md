@@ -10,5 +10,6 @@ title = "17 यशसो यशोऽसीति मधुपर्कम्"
 
 <details><summary>Oldenberg</summary>
 
-17. Over the cow, when it has been announced to him, he should recite (the formula), 'Let loose the cow.'
+14. The Madhuparka with (the formula), 'The glory's glory art thou' (l.l. 11).
 </details>
+

@@ -10,5 +10,6 @@ title = "14 उभौ शेषेण"
 
 <details><summary>Oldenberg</summary>
 
-14. The Madhuparka with (the formula), 'The glory's glory art thou' (l.l. 11).
+both with the rest (8).
 </details>
+

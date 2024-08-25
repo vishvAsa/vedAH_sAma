@@ -10,5 +10,6 @@ title = "11 अपः पश्येत् यतो"
 
 <details><summary>Oldenberg</summary>
 
-11. Let him wash his left foot with (the formula), 'The left' (l.l. 6), the right with, 'The right' (I. 1. 7); both with the rest (8).
+10. Let him look at the water with (the formula), 'From which side I see the goddesses' (l.l. 5).
 </details>
+

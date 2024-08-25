@@ -10,5 +10,6 @@ title = "22 एवमयज्ञे"
 
 <details><summary>Oldenberg</summary>
 
-22. He should honour them (with the Arghya reception) once a year;
+19. Thus if it is no sacrifice (by which the Arghya ceremony has been occasioned).
 </details>
+

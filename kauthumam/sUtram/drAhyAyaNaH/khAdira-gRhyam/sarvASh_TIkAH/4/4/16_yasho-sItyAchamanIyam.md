@@ -10,5 +10,6 @@ title = "16 यशोऽसीत्याचमनीयम्"
 
 <details><summary>Oldenberg</summary>
 
-16. Having drunk more of it a fourth time silently he should give the remainder to a Brāhmaṇa.
+13. The water which he is to sip, (he accepts) with (the formula), 'Glory art thou' (l.l. 10).
 </details>
+

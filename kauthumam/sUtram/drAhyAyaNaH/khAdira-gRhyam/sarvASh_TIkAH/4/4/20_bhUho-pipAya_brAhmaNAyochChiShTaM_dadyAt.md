@@ -10,5 +10,6 @@ title = "20 भूहोऽपिपाय ब्राह्मणायोच�
 
 <details><summary>Oldenberg</summary>
 
-20. 'Make it (ready),' if it is a sacrifice.
+he should give the remainder to a Brāhmaṇa.
 </details>
+
