@@ -10,7 +10,8 @@ title = "24 कामं त्वधियज्ञं व्याहरेत
 
 <details><summary>Oldenberg</summary>
 
-24 [^fn_977]. Let him take care not to turn his back to, or become separated (by any person or thing interposed) from what belongs to the sacrifice.
+20 [^fn_975]. But if he likes, he may speak of what refers to the sacrifice.
 
-[^fn_977]: 24 deest.
+[^fn_975]: 20-22 = I, 6, 17 seqq.
 </details>
+

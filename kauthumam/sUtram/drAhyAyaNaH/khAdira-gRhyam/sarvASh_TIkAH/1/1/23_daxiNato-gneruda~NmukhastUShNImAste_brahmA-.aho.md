@@ -5,12 +5,13 @@ title = "23 दक्षिणतोऽग्नेरुदङ्मुखस�
 
 <details><summary>मूलम्</summary>
 
-दक्षिणतोऽग्नेरुद-ङ्मुखस्तूष्णीमास्ते ब्रह्माऽऽहोमात्प्रागग्रेषु २३
+दक्षिणतोऽग्नेरुदङ्मुखस्तूष्णीमास्ते ब्रह्माऽऽहोमात्प्रागग्रेषु २३
 </details>
 
 <details><summary>Oldenberg</summary>
 
-23 [^fn_976]. If he does himself the work both of the Brahman and of the Hotr̥, let him sit down on the Brahman's seat, and (leave that seat) placing a parasol on it, or an outer garment, or a water-pot, and then let him perform his other duties.
+19 [^fn_974]. To the south of the fire the Brahman sits facing the north, silently, until the oblation has been performed, on eastward-pointed (Darbha grass).
 
-[^fn_976]: 23 = I, 6, 21.
+[^fn_974]: 19 = I, 6, 13 seqq.
 </details>
+

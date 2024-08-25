@@ -10,5 +10,6 @@ title = "08 सव्यं प्राचीनावीती"
 
 <details><summary>Oldenberg</summary>
 
-8. Having besprinkled his feet (with water), let him besprinkle his head.
+6. (If he raises) the left (arm and wears the cord on his right shoulder, he becomes) prācīnāvītin.
 </details>
+

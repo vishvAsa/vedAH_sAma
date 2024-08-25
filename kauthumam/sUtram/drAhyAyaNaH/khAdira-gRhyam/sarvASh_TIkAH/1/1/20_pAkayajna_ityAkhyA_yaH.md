@@ -10,7 +10,8 @@ title = "20 पाकयज्ञ इत्याख्या यः"
 
 <details><summary>Oldenberg</summary>
 
-20 [^fn_975]. But if he likes, he may speak of what refers to the sacrifice.
+16 [^fn_972]. The term Pākayajña is used of every sacrifice that is performed with one fire.
 
-[^fn_975]: 20-22 = I, 6, 17 seqq.
+[^fn_972]: 16 deest.
 </details>
+

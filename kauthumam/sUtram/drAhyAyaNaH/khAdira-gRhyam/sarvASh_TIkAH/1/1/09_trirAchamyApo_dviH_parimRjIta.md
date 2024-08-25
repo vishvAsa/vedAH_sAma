@@ -10,5 +10,8 @@ title = "09 त्रिराचम्यापो द्विः परिम
 
 <details><summary>Oldenberg</summary>
 
-9. Let him touch the organs of his senses (i.e. his eyes, his nose, and his ears) with water (i.e. with a wet hand).
+7 [^fn_969]. After having sipped water three times, let him wipe off the water twice.
+
+[^fn_969]: 7-10 = 1, 2, 5 seqq.
 </details>
+

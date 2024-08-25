@@ -10,5 +10,8 @@ title = "13 आसनस्थानसंवेशनान्युदगग�
 
 <details><summary>Oldenberg</summary>
 
-13. (The different ceremonies are) performed with the right hand, if no special rule is given.
+11 [^fn_970]. (If) sitting, standing, or lying down (is prescribed), he should understand (that it is to be done) on northward-pointed Darbha grass,
+
+[^fn_970]: 11-14 desunt.
 </details>
+

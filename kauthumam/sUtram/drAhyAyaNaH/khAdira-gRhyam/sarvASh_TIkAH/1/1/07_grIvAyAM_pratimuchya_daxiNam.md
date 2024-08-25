@@ -10,7 +10,6 @@ title = "07 ग्रीवायां प्रतिमुच्य दक्
 
 <details><summary>Oldenberg</summary>
 
-7 [^fn_969]. After having sipped water three times, let him wipe off the water twice.
-
-[^fn_969]: 7-10 = 1, 2, 5 seqq.
+5. If he suspends it round his neck and raises the right arm (so as to wear the cord on his left shoulder), he becomes yajñopavītin.
 </details>
+

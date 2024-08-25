@@ -10,5 +10,8 @@ title = "21 तत्रर्त्विग्ब्रह्मा साय�
 
 <details><summary>Oldenberg</summary>
 
-21. Or if he has spoken (words) which are unworthy of the sacrifice, let him murmur the Mahāvyāhr̥tis,
+17 [^fn_973]. There the Brahman is (present as) officiating priest, with the exception of the morning and evening oblations.
+
+[^fn_973]: 17, 18 = I. 9, 8. 9.
 </details>
+

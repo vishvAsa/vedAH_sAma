@@ -10,7 +10,6 @@ title = "15 पश्चादग्नेर्यत्र होमस्स�
 
 <details><summary>Oldenberg</summary>
 
-15 [^fn_971]. The Mantras have the word svāhā at their end, when offerings are made.
-
-[^fn_971]: 15 = 1, 9, 25.
+to the west of the fire with which the sacrifice is performed.
 </details>
+

@@ -10,5 +10,6 @@ title = "18 मन्त्रान्तमव्यक्तं परस्�
 
 <details><summary>Oldenberg</summary>
 
-18. The Hotr̥'s place is filled by (the sacrificer) himself.
+14. If it is not clear where a Mantra ends, one should discern it by (adverting to) the beginning of the next Mantra.
 </details>
+

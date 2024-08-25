@@ -10,7 +10,6 @@ title = "16 सहशिरसं स्नानशब्दे"
 
 <details><summary>Oldenberg</summary>
 
-16 [^fn_972]. The term Pākayajña is used of every sacrifice that is performed with one fire.
-
-[^fn_972]: 16 deest.
+12. If the word Snāna (or bathing) is used, (this refers to the whole body) with the head.
 </details>
+

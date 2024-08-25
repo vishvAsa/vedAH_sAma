@@ -10,5 +10,6 @@ title = "12 अन्ततः प्रत्युपस्पृश्य श
 
 <details><summary>Oldenberg</summary>
 
-12. If the word Snāna (or bathing) is used, (this refers to the whole body) with the head.
+10. When he has finally touched (water) again, he becomes pure.
 </details>
+

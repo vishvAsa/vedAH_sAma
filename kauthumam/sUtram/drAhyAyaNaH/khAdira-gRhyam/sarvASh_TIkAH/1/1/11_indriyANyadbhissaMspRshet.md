@@ -10,7 +10,6 @@ title = "11 इन्द्रियाण्यद्भिस्संस्�
 
 <details><summary>Oldenberg</summary>
 
-11 [^fn_970]. (If) sitting, standing, or lying down (is prescribed), he should understand (that it is to be done) on northward-pointed Darbha grass, with the face turned to the east, to the west of the fire with which the sacrifice is performed.
-
-[^fn_970]: 11-14 desunt.
+9. Let him touch the organs of his senses (i.e. his eyes, his nose, and his ears) with water (i.e. with a wet hand).
 </details>
+

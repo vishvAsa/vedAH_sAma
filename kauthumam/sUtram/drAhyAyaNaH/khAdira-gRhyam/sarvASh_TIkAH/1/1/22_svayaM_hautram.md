@@ -10,5 +10,6 @@ title = "22 स्वयं हौत्रम्"
 
 <details><summary>Oldenberg</summary>
 
-22. Or (the verse), 'Thus has Vishṇu' (Sv. I, 222).
+18. The Hotr̥'s place is filled by (the sacrificer) himself.
 </details>
+

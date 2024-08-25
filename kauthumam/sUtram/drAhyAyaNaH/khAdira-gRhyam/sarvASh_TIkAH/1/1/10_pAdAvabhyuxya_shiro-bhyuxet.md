@@ -10,5 +10,6 @@ title = "10 पादावभ्युक्ष्य शिरोऽभ्य�
 
 <details><summary>Oldenberg</summary>
 
-10. When he has finally touched (water) again, he becomes pure.
+8. Having besprinkled his feet (with water), let him besprinkle his head.
 </details>
+
