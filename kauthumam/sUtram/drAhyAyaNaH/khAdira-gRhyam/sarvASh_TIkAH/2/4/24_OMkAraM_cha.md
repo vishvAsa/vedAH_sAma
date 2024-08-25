@@ -10,5 +10,6 @@ title = "24 ॐकारं च"
 
 <details><summary>Oldenberg</summary>
 
-24. He hands over to him the staff, which should be made of (the wood of) a tree -
+23. And the word Om.
 </details>
+

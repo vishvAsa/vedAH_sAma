@@ -7,3 +7,8 @@ title = "35 सर्पिश्च मेधां त"
 
 सर्पिश्च मेधां त इति ३५
 </details>
+
+<details><summary>Oldenberg</summary>
+
+ And butter with (the verse), 'May intelligence to thee' (MB. I, 5, 9).
+</details>

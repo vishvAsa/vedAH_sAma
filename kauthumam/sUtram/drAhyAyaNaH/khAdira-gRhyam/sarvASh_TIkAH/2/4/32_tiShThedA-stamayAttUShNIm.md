@@ -10,5 +10,6 @@ title = "32 तिष्ठेदाऽस्तमयात्तूष्ण�
 
 <details><summary>Oldenberg</summary>
 
-32. Through a period of three nights he should avoid eating saline food and drinking milk.
+31. He should stand silently till sunset.
 </details>
+

@@ -10,5 +10,6 @@ title = "23 महाव्याहृतीश्चैकैकशः"
 
 <details><summary>Oldenberg</summary>
 
-23. And the word Om.
+22. And the Mahāvyāhr̥tis, one by one,
 </details>
+

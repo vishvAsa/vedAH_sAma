@@ -10,5 +10,6 @@ title = "29 मातरमग्रे"
 
 <details><summary>Oldenberg</summary>
 
-29. Then of other women friends.
+28. First of his mother,
 </details>
+

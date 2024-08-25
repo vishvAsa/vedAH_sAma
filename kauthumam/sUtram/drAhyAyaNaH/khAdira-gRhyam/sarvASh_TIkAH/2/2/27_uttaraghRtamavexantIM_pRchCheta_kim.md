@@ -10,5 +10,6 @@ title = "27 उत्तरघृतमवेक्षन्तीं पृच�
 
 <details><summary>Oldenberg</summary>
 
-27. He should make her reply, 'Offspring!'
+26. While she looks at a mess of boiled rice with sesamum seeds, covered with ghee, he should ask her, 'What dost thou see?'
 </details>
+

@@ -10,5 +10,6 @@ title = "30 या तिरश्चीति द्वाभ्याम्"
 
 <details><summary>Oldenberg</summary>
 
-30. He should give a name to the child, 'N.N.!'
+29. With the two verses, 'She who athwart' (MB. I, 5, 6 seq.).
 </details>
+

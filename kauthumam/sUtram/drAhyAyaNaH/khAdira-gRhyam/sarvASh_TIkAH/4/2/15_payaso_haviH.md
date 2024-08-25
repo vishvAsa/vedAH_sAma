@@ -7,3 +7,8 @@ title = "15 पयसो हविः"
 
 पयसो हविः १५
 </details>
+
+<details><summary>Oldenberg</summary>
+
+ Milk-rice should be offered,
+</details>

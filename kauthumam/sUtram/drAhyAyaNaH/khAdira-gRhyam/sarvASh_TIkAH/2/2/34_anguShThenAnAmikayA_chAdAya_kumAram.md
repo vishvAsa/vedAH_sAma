@@ -10,5 +10,6 @@ title = "34 अङ्गुष्ठेनानामिकया चादा�
 
 <details><summary>Oldenberg</summary>
 
-34. And butter with (the verse), 'May intelligence to thee' (MB. I, 5, 9).
+33. He should take thereof with his (right) thumb and fourth finger and give it to the child to eat, with (the formula), 'This order' (MB. I, 5, 8).
 </details>
+

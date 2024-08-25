@@ -10,5 +10,6 @@ title = "20 सम्प्रेष्योपविश्य दक्षि�
 
 <details><summary>Oldenberg</summary>
 
-20. With (the words), 'Recite, sir!' (the student) should respectfully sit down near (the teacher).
+(the teacher) sitting down should from left to right tie round the student, who bends his right knee and clasps his hands, the girdle made of Muñja grass, and should cause him to repeat (the verse), 'Protecting us from evil word' (l.l. 27).
 </details>
+

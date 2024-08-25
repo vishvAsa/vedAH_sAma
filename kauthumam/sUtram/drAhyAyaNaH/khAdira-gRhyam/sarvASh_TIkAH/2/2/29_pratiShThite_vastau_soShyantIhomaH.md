@@ -10,5 +10,8 @@ title = "29 प्रतिष्ठिते वस्तौ सोष्यन
 
 <details><summary>Oldenberg</summary>
 
-29. With the two verses, 'She who athwart' (MB. I, 5, 6 seq.).
+28 [^fn_1015]. When the child is appearing, the sacrifice for the woman in labour (is to be performed) - 
+
+[^fn_1015]: 28-34 = II, 7, 13 seqq.
 </details>
+

@@ -10,5 +10,6 @@ title = "28 भैक्षं चरेत्"
 
 <details><summary>Oldenberg</summary>
 
-28. First of his mother,
+27. Let him go to beg food;
 </details>
+

@@ -10,5 +10,6 @@ title = "22 तस्मा अन्वाह सावित्रीम्"
 
 <details><summary>Oldenberg</summary>
 
-22. And the Mahāvyāhr̥tis, one by one,
+21. He then recites the Sāvitrī (l.l. 29) to him, Pāda by Pāda, hemistich by hemistich, (and finally) the whole-thus he should teach him the Sāvitrī,
 </details>
+

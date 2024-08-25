@@ -10,5 +10,6 @@ title = "30 अथान्यास्सुहृदः"
 
 <details><summary>Oldenberg</summary>
 
-30. He should announce the alms (received) to his teacher.
+29. Then of other women friends.
 </details>
+

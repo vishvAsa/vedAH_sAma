@@ -10,5 +10,6 @@ title = "31 असाविति नाम दध्यात्"
 
 <details><summary>Oldenberg</summary>
 
-31. That (is his) secret (name).
+30. He should give a name to the child, 'N.N.!'
 </details>
+

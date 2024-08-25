@@ -10,5 +10,6 @@ title = "31 आचार्याय भैक्षं निवेदयेत
 
 <details><summary>Oldenberg</summary>
 
-31. He should stand silently till sunset.
+30. He should announce the alms (received) to his teacher.
 </details>
+
