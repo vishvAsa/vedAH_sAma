@@ -14,7 +14,8 @@ practice_weight: 0
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/046/01_tvAmiddhi_havAmahe.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
-{{< figure src="/devaH/AryaH/hindukaH/indraH/images/Indra-kills-vRtra-snake-with-vajra.jpg"  class="thumbnail">}}
+![](/devaH/AryaH/hindukaH/indraH/images/Indra-kills-vRtra-snake-with-vajra.jpg)
+{class="thumbnail"}
 
 
 ## साम

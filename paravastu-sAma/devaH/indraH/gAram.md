@@ -64,7 +64,8 @@ RV.8.2.1a
 </div>  
 
 
-{{< figure src="/devaH/AryaH/hindukaH/indraH/images/indra-squeezing-soma-into-mouth.jpg"  class="thumbnail">}}
+![](/devaH/AryaH/hindukaH/indraH/images/indra-squeezing-soma-into-mouth.jpg)
+{class="thumbnail"}
 
 
 ## साम

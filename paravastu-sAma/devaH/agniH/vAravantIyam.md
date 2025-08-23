@@ -25,7 +25,8 @@ unicode_script: devanagari
 </details>
 </div>  
 
-{{< figure src="/devaH/AryaH/hindukaH/agniH/images/agni-on-a-ram-drawn-charriot-speeding-towards-the-vedI.jpg"  class="thumbnail">}}
+![](/devaH/AryaH/hindukaH/agniH/images/agni-on-a-ram-drawn-charriot-speeding-towards-the-vedI.jpg)
+{class="thumbnail"}
 
 
 ## साम १

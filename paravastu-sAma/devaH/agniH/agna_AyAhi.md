@@ -22,7 +22,8 @@ unicode_script: devanagari
 </div>
 
 
-{{< figure src="/devaH/AryaH/hindukaH/agniH/images/agni-giving-abhaya-to-Rtvik-or-yajamAna.png"  class="thumbnail">}}
+![](/devaH/AryaH/hindukaH/agniH/images/agni-giving-abhaya-to-Rtvik-or-yajamAna.png)
+{class="thumbnail"}
 
 
 ## साम १

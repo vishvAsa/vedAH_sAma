@@ -38,7 +38,8 @@ unicode_script: devanagari
 ह꣣वि꣢र्म꣣घ꣡वा꣢ वे꣣त्व+++(=वैतु =भक्षयतु)+++ इ꣡न्द्रः꣢ ॥ 41:0333 ॥
 
 
-{{< figure src="/devaH/AryaH/hindukaH/indraH/images/indra-rising-to-protect-charriots-of-army.jpg"  class="thumbnail">}}
+![](/devaH/AryaH/hindukaH/indraH/images/indra-rising-to-protect-charriots-of-army.jpg)
+{class="thumbnail"}
 
 
 ## साम

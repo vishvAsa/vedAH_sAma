@@ -24,7 +24,8 @@ unicode_script: devanagari
 </details>
 </div>  
 
-{{< figure src="/devaH/AryaH/hindukaH/somaH/images/soma-purification.png"  class="thumbnail">}}
+![](/devaH/AryaH/hindukaH/somaH/images/soma-purification.png)
+{class="thumbnail"}
 
 
 ## साम १ प्रेङ्खपूर्णम्

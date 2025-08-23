@@ -17,7 +17,8 @@ unicode_script: devanagari
 महि त्रीणाम् अवर् अस्तु द्युक्षं मित्रस्यार्यम्णः।  
 दुराधर्षं वरुणस्य  ।। १९२  
 
-{{< figure src="/devaH/AryaH/hindukaH/AdityaH/images/varuna.png"  class="thumbnail">}}
+![](/devaH/AryaH/hindukaH/AdityaH/images/varuna.png)
+{class="thumbnail"}
 
 
 ## साम १

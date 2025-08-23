@@ -9,13 +9,15 @@ unicode_script: devanagari
 
 
 ## परवस्तुगोपालः
-{{< figure src="../images/paravastu_gopal_sheshAdri_kastUri.jpg" title="परवस्तुगोपालः तत्सुत-परवस्तुशेशाद्रिसहितः" >}}
+![](../images/paravastu_gopal_sheshAdri_kastUri.jpg)
+{caption="परवस्तुगोपालः तत्सुत-परवस्तुशेशाद्रिसहितः"}
 
 अयं विश्वासगुरुः। 
 
 ## परवस्तुरामानुजः
 
-{{< figure src="../images/paravastu_rAmAnuja.jpg" title="परवस्तुरामानुजः" >}}
+![](../images/paravastu_rAmAnuja.jpg)
+{caption="परवस्तुरामानुजः"}
 
 
 Sriman Paravastu Samavedam Srinivasa Ramanuja Swamy, (1915–2001) Vidwan, Vidya PraaveeNa, was a Sanskrit and Telugu pandit in Zilla Parishad High School, Samalkot, E. G. Dt. (A.P) between 1942 and 1973.
