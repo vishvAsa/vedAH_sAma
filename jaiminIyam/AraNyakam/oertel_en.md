@@ -1341,22 +1341,14 @@ dvitiye 'nuvāke caturthaḥ khandaḥ.
 
 
 
-8. He who knows that divinity after which he thence comes into being and which carries him beyond this death-he as udgator carries beyond death. 4. And when they thus consecrate him, then he dies for the second time. They cut [his] hair and [his] beard. They trim [his] nails. They anoint his several limbs. He bends his fingers. He sits uncovered, stripped off (?). He does not offer oblations, he does not sacrifice, he does not approach a woman, he speaks non-human speech. Verily he then has the form of one dead. 5. 3. 6. And when they lay him, having departed from this world, upon the funeral-pyre, then he dies for the third time. 7. 8." 8. Having said this much, mounting the chariot, he drove off. 9. To this Jabala, having come back, This] younger brother said: "Sir, what words hath the śudra spoken? Thou hast sought a shallow with an elephant." He (the older Jabala) set that forth to him who [had said]: "How hath he spoken, sir ?" "He who knows the carrying-over of the three deaths by means of the saman, he as udgatar carries beyond death." 
-4 
-vo. B. s. ce. 
-A. di-. 12 -ti 'ti. 
--vac. 
-9. 1anth-. 2 10 B. inserts kā. 11 yantas. celled in B. 15 yaj-. 
-16 
-16 
--ajaty. ava-. yāus-. 9sa. 13 vá. 
-insert vahati 'ti, can- 
-Jāiminīya-Upaniṣad-Brāhmaṇa. 
-169 
+[[169]]  
 III. 10. 1. tam vāva bhagavas te pito' 'dgātāram amanyate 'ti ho 'vaca, tad u ha pracinaśālā vidur ya eṣam ayam vṛta udgātā "sa." tasmin ha na 'nuviduh. 2. te ho "cur anudhāvata kandviyam iti. tam ha 'nusasruh. te ha kandviyam udgātāraṁ cakrire brahmāņam" prācīnaśālim. s. tam ha'bhyavekṣyo' 'vācāi 'vam eṣa brāhmaṇo moghūya vādāya nā’glāyat, sa nā 'ņu sāmno 'nvicchati 'ti. ati hai 'vai 'nam tac cakre. 4. sa yad dha va enam etat pita yonyam reto bhutam siñcaty adityo hai 'nam tad yonyam reto bhutam" siñcati. sa ha 'sya tatra mṛtyor iśe." 5. atho yad evai 'nam etat pitā yonyāṁ reto bhutam siñcati" tad dha vāva sa tato 'nusambhavati prānam ca. yada hy eva retas siktam prāņa āvigaty atha tat sambhavati." 6. atho yad evai 'nam etad dikṣayanty agnir hāi 'vāi 'naṁ tad yonyam reto bhutam siñcati. sa hai 'vā 'sya tatra mṛtyor iśe." 7. atho yām evāi 'tām vāisarjanīyām āhutim adhvaryur juhoti tām eva sa tato 'nusambhavati chandunsi16 cãi 'va. 8. atha ya enam etad asmāl lokut" pretam cityām ādadhati candramā hāi 'vāi 'nam tad yonya reto bhutam siñeati. sa u hai và ’sya tatra mộtyor ige. 9. atho yad evāi 'nam etad asmāl" lokāt" pretaṁ cityām āda- 
 16 
 15 
-III. 10. 1. He said: “Sir, verily, thy father thought him an udgatar; and the Pracinaśālas know it, who of them was the chosen udgatar here." To him they did not assent (?). 2. They said: "Run after Kāndviya." They ran after him. They made Kandviya the udgātar, [and] Pracinaśāli the brahman-priest. 3. He looking down at him said: "Thus this Brahman was not averse to idle talk. He doth not strive after the subtle of the saman." He did this beyond him (?). 4. When the father thus emits him as seed into the womb, then the sun thus emits him as seed in the womb. He there lords over this death. 5. And when the father thus emits him as seed into the womb, verily he thence comes into existence after that [seed] and after breath. For when breath enters the emitted seed, then it comes into being. 6. And when they thus consecrate him, it is Agni who thus emits him as seed into the womb. He there lords over this death. 7. Now what vāisarjana-offering the adhvaryu offers, after that he thence comes into existence and after the metres. 8. And when they thus lay him, having departed from this world, on the funeral pyre, it is the moon who thus emits him as seed into the womb. He there lords over this death. 9. Now when they put him, having departed from this world, 
+
+…
+
+4. When the father thus emits him as seed into the womb, then the sun thus emits him as seed in the womb. He there lords over this death. 5. And when the father thus emits him as seed into the womb, verily he thence comes into existence after that [seed] and after breath. For when breath enters the emitted seed, then it comes into being. 6. And when they thus consecrate him, it is Agni who thus emits him as seed into the womb. He there lords over this death. 7. Now what vāisarjana-offering the adhvaryu offers, after that he thence comes into existence and after the metres. 8. And when they thus lay him, having departed from this world, on the funeral pyre, it is the moon who thus emits him as seed into the womb. He there lords over this death. 9. Now when they put him, having departed from this world, 
 1 
 10. A. -e. 
 3 
