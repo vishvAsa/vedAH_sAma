@@ -1348,7 +1348,8 @@ III. 10. 1. tam vāva bhagavas te pito' 'dgātāram amanyate 'ti ho 'vaca, tad u
 
 …
 
-4. When the father thus emits him as seed into the womb, then the sun thus emits him as seed in the womb. He there lords over this death. 5. And when the father thus emits him as seed into the womb, verily he thence comes into existence after that [seed] and after breath. For when breath enters the emitted seed, then it comes into being. 6. And when they thus consecrate him, it is Agni who thus emits him as seed into the womb. He there lords over this death. 7. Now what vāisarjana-offering the adhvaryu offers, after that he thence comes into existence and after the metres. 8. And when they thus lay him, having departed from this world, on the funeral pyre, it is the moon who thus emits him as seed into the womb. He there lords over this death. 9. Now when they put him, having departed from this world, 
+
+
 1 
 10. A. -e. 
 3 
@@ -1372,7 +1373,8 @@ purvo ha jajne sa u garbhe 'ntar
 13. tad yad eso 'bhyuktu" imam eva purusaṁ yo 'yam achanno" 'ntar om ity etenai 'vā 'kṣareņa prāṇenāi 'vā 'munāi 'vā "dityena [......] 85. 
 dvitiye 'nuvāke pañcamaḥ khandaḥ, dvitiyo 'nuvākas samāptaḥ. 
 III. 11. 1. trir ha vai puruso mriyate trir jāyate.* 2. sa hai 'tad eva prathamam mriyate yad retas siktam sambhūtam bhavati. sa prānam evā 'bhisambhavati. āśām abhijāyate. 3. athāi 'tad dvitiyam mriyate yad dikṣate. sa chandānsy evā' 'bhisam- 
-on the funeral pyre, now what the waters for sprinkling are, after those he thence comes into existence and after breath also. For breath is the waters. 10. Him sacrificing an udgatar who knows thus carries beyond the sun, [i. e. beyond] death, by means of this syllable, viz. om; [saying] vac [he carries him beyond Agni; [saying] hum, beyond Vayu; [saying] bha, beyond the moon. 11. Verily beyond these same deaths an udgatar carries himself and the sacrificer, by means of this syllable, viz. om, by means of breath, by means of yonder sun. About this there is this śloka: "Is he the oldest of them or the youngest? Is he their son, or their father? Truly one god is entered in the mind; he was born of old and he is within the womb." 13. In that he is spoken of, this same man who is concealed within, by just that syllable om, by breath, by yonder sun [....... 
+
+
 12. 
 III. 11.. Verily, thrice man dies, thrice he is born. 2. Then he dies for the first time, when the seed, emitted, comes into being. He is converted into breath; he is born into space. 3. Then he dies for the second time, when he consecrates himself. He is converted into the metres; he is born unto the sacrificial 
 10. 19 A. tā. 
