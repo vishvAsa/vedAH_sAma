@@ -4,8 +4,15 @@ unicode_script: devanagari
 ---
 
 ## परिचयः
-- जैमिनीया वयम् इति कथयन्ति गुरुचरणाः, किन्तु दक्षिणद्राविडजैमिनीयगानाद् भिद्यते तदीयं गानम्। तथा द्राह्यायणसूत्रानुयानिनस्ते - न जैमिनीयसूत्रस्य।
-- यथा ऽत्रोच्यते - "Their fore fathers hailed from Azhvar-thiru-nagari, Thiru-nelveli Dist., Tamil Nadu, and the family migrated to Gutala (on the banks of godAvarI) about 200 years back." एषां श्रीवैष्णव-दक्षिणकलार्य-स्वयम्-आचार्यकुलम्। 
+जैमिनीया वयम् इति कथयन्ति गुरुचरणाः,  
+किन्तु दक्षिण-द्राविड-जैमिनीयगानाद् भिद्यते तदीयं गानम्।  
+तथा राणायनीय-प्रसिद्धस्य द्राह्यायणसूत्रस्य +अनुयानिनस्ते - न जैमिनीयसूत्रस्य।  
+
+"अग्न आयाही"त्यस्य गानम् एषां कौथुमवद् अस्ति, न जैमिनीयवत्।  
+यथा "वाइ तायाइ" इति जैमिनीया गायन्ति।  
+कौथुमवत् तु परस्वस्तुपरम्पररा  [TW](/vedAH_sAma/tANDyam/paravastu-sAma/devaH/agniH/agna_AyAhi) - "वो꣡इतोयाऽ᳒२᳒इ" । एवं च गानपर्वाण्य् अपि कौथुमवत्, न जैमिनीयवत्।  
+
+यथा ऽत्रोच्यते - "Their fore fathers hailed from Azhvar-thiru-nagari, Thiru-nelveli Dist., Tamil Nadu, and the family migrated to Gutala (on the banks of godAvarI) about 200 years back." एषां श्रीवैष्णव-दक्षिणकलार्य-स्वयम्-आचार्यकुलम्। 
 
 
 ## परवस्तुगोपालः
