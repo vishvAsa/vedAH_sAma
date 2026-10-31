@@ -8,11 +8,16 @@ unicode_script: devanagari
 किन्तु दक्षिण-द्राविड-जैमिनीयगानाद् भिद्यते तदीयं गानम्।  
 तथा राणायनीय-प्रसिद्धस्य द्राह्यायणसूत्रस्य +अनुयानिनस्ते - न जैमिनीयसूत्रस्य।  
 
-"अग्न आयाही"त्यस्य गानम् एषां कौथुमवद् अस्ति, न जैमिनीयवत्।  
+"अग्न आयाही"त्यस्य गानम् एषां ताण्ड्यवद् अस्ति, न जैमिनीयवत्।  
 यथा "वाइ तायाइ" इति जैमिनीया गायन्ति।  
-कौथुमवत् तु परस्वस्तुपरम्पररा  [TW](/vedAH_sAma/tANDyam/paravastu-sAma/devaH/agniH/agna_AyAhi) - "वो꣡इतोयाऽ᳒२᳒इ" । एवं च गानपर्वाण्य् अपि कौथुमवत्, न जैमिनीयवत्।  
+ताण्ड्यवत् तु परस्वस्तुपरम्पररा  [TW](/vedAH_sAma/tANDyam/paravastu-sAma/devaH/agniH/agna_AyAhi) - "वो꣡इतोयाऽ᳒२᳒इ" । एवं च गानपर्वाण्य् अपि ताण्ड्यवत्, न जैमिनीयवत्।  
+राणायनीयवज् जैमिनीयवच् च त्व् अक्षरैः स्वराङ्कन-पद्धतिः।
 
-यथा ऽत्रोच्यते - "Their fore fathers hailed from Azhvar-thiru-nagari, Thiru-nelveli Dist., Tamil Nadu, and the family migrated to Gutala (on the banks of godAvarI) about 200 years back." एषां श्रीवैष्णव-दक्षिणकलार्य-स्वयम्-आचार्यकुलम्। 
+गानशैल्या लेखनशैल्या च ते पूज्याः पूर्वजा राणायनीया एवेति भाति 🙏। (तेऽपि कौथुमवद् गायन्ति, परवस्तु-परम्परावद् अक्षरैः स्वराङ्कनं चक्रुः, न सङ्ख्याभिः। )
+
+> It is mentioned and taught by our elders. There were many Samaveda families in Gootaala, West Godavari dt., and Vizag migrated from AZhvaarthirunagari, Tirunelveli dt., about 200 years back. All used to chant the same raaga only. 
+
+एषां श्रीवैष्णव-दक्षिणकलार्य-स्वयम्-आचार्यकुलम्। 
 
 
 ## परवस्तुगोपालः
