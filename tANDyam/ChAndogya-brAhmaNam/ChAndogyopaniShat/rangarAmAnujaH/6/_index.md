@@ -12,7 +12,7 @@ title = "+06"
 छान्दोग्योपनिषत्
 </details>
 
-****
+
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -25,4 +25,4 @@ title = "+06"
 षष्ठः प्रपाठकः
 </details>
 
-****
+
