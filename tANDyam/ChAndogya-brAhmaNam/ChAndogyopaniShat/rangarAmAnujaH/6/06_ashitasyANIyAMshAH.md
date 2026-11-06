@@ -12,6 +12,7 @@ title = "०६ अशितस्याणीयांशाः"
 <details><summary>मूलम्</summary>
 
 ॥ षष्ठः खण्डः॥
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -24,6 +25,7 @@ title = "०६ अशितस्याणीयांशाः"
 <details><summary>मूलम्</summary>
 
 दध्नः सोम्य मथ्यमानस्य योऽणिमा स ऊर्ध्वः। समुदीषति तत्सर्पिर्भवति ॥ १॥
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -36,6 +38,7 @@ title = "०६ अशितस्याणीयांशाः"
 <details><summary>मूलम्</summary>
 
 एवमेव खलु सोम्यान्नस्याश्यमानस्य योऽणिमा स ऊर्ध्वः समुदीषति तन्मनोभवति ॥ २॥
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -48,6 +51,7 @@ title = "०६ अशितस्याणीयांशाः"
 <details><summary>मूलम्</summary>
 
 अपाँ सोम्य पीयमानानां योऽणिमा स ऊर्ध्वः । समुदीषति स प्राणोभवति ॥ ३॥
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -60,6 +64,7 @@ title = "०६ अशितस्याणीयांशाः"
 <details><summary>मूलम्</summary>
 
 तेजसः सोम्याश्यमानस्य योऽणिमा स ऊर्ध्वः समुदीषति सा वाग्भवति ॥ ४ ॥
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -75,6 +80,7 @@ title = "०६ अशितस्याणीयांशाः"
 <details><summary>मूलम्</summary>
 
 आन्नमयँ हि सोम्य मन आपोमयः प्राणस्तेजोमयी वागिति ॥ भूय एव मा भगवान् विज्ञापयत्विति । तथा सोम्येति होवाच ॥ ५ ॥
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -85,6 +91,7 @@ title = "०६ अशितस्याणीयांशाः"
 <details><summary>मूलम्</summary>
 
 ॥ इति षष्ठः खण्डः ॥
+
 </details>
 
 <details><summary>रङ्गरामानुजः - प्रकाशिका</summary>
@@ -100,5 +107,6 @@ title = "०६ अशितस्याणीयांशाः"
 <details><summary>मूलम्</summary>
 
 ॥ इति षष्ठखण्डभाष्यम् ॥
+
 </details>
 
