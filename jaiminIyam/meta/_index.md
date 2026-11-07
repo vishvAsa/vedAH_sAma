@@ -8,6 +8,10 @@ unicode_script = "devanagari"
 >
 > इति गिरिजाप्रसादः।
 
+> in coastal Karnataka, in areas around Udupi, where the majority of Brāɦmaṇá-s belonging to the Sāma-vēdá, are actually sva-șākhā́ Jāiminīya-s, and claim so in their abʰi-vā́dana, but have taken up the singing of the more common Rāṇāyanī́ya style. I believe they are now slowly trying to revive the Jāiminī́ya style amongst themselves with the help of other Jāiminī́ya-s.
+
+इति किरणः २०२६११।
+
 ## ब्राह्मणानि
 - Brahmana published (without accents) – Jaiminiya Brahmana, Arsheya Brahmana
 - Kena Upanishad

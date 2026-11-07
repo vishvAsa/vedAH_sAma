@@ -19,6 +19,14 @@ unicode_script: devanagari
 
 एषां श्रीवैष्णव-दक्षिणकलार्य-स्वयम्-आचार्यकुलम्। 
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> I showed the Paravastu manuscripts to Makarabʰūṣaṇa mama, but he was not able to recognise their written notation either. After I showed him some of the audio samples he said it definitely resembles the Káutʰuma and Rāṇāyanī́ya styles of singing rather than the Talavakārá/Jāiminī́ya styles. 
+
+इति किरणः २०२६११। 
+
+</details>
+
 
 ## परवस्तुगोपालः
 ![](../images/paravastu_gopal_sheshAdri_kastUri.jpg)
