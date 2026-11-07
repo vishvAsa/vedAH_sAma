@@ -21,8 +21,5 @@ unicode_script = "devanagari"
 - नम्बूतिरि-शैली
 - स्मार्त-चोळीय-शैली
     - गानध्वनिसञ्चिका [अत्र](https://archive.org/details/sAmavedaH-jaiminIya-shAkhA)। (Kodunthirapally chozhiyas of palakkad?)
-- चोळीय-श्रीवैष्णव-शैली
-    - श्रीरङ्ग-गानम्
-        - तोगूरु-गुरुकुलम्।
-    - आळ्वार्-तिरुनगरी-गानम् मधुरतमम्। द्राविडान्ध्रक-परवस्तु-सम्प्रदायः [परवस्तुकुलस्य](paravastu-sampradAyaH)।
-    
+- चोळीय-श्रीवैष्णव-शैली - श्रीरङ्ग-गानम्
+  - तोगूरु-गुरुकुलम्। [VI](https://vimeo.com/49210276)
