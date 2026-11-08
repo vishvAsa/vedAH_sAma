@@ -3,13 +3,16 @@ title = "संहिता"
 unicode_script = "devanagari"
 +++
 
-# ॥ जैमिनीयसामवेद संहिता (कोडुन्तिरपुळ्ळि पाठः) ॥
+॥ जैमिनीयसामवेद संहिता (कोडुन्तिरपुळ्ळि पाठः) ॥  
 
-> स्रोतः — Samam_kpully_Devanagari.html (https://sekharnarayanaswamy-del.github.io/jaimineeyasamavedam/standalone-html/renders/Samam_kpully_Devanagari.html) ।
->
-> स्वरनिर्देशः — सामगानेषु स्वराः `+++` -निर्देशेन स्थापिताः (यथा `ओ+++(त)+++`) । स्वर-मॉड् (svara-mods) `+++()+++` के अन्तः समयैव — समयैः सह (`+++ (·त)+++`), न तु `.+++(ट)+++` -रूपेण । स्रोतसि सर्वे मोड् एक-एकम् अक्षरम् एव स्पृशन्ति; बह्वक्षरीयः मोड् नास्ति, तस्मात् अतिरिक्ताः `()` न दत्ताः ।
 
-प्रत्येकं खण्डं `###` शीर्षकेण, साम `details`-पुटके अन्तर्भवन्ति ।
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Source: [TW](https://sekharnarayanaswamy-del.github.io/jaimineeyasamavedam/standalone-html/renders/Samam_kpully_Devanagari.html)
+
+Mistakes are not in the manuscripts but OCR, idiosyncrasies of mixing Malayalam for gAnas and grantha for svaras, divergence from Thogur svaras etc.
+</details>
+
 
 ## आग्नेयपाठः
 
