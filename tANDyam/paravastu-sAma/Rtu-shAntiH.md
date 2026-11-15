@@ -12,7 +12,6 @@ unicode_script: devanagari
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="../devaH/indraH/Rk/yad_dyAva/"></div>  
 
-
 ## साम
 1. य+++([])+++द्या, अवई।द्र+++([])+++ता, आउवाअ।शा+++([])+++ताअं।हा+++([])+++,अहा, आउवाअ।
 ई+++([])+++डाअ।
@@ -74,11 +73,28 @@ unicode_script: devanagari
 ह+++([])+++ओवा॥एवं त्रिः॥हु+++([])+++वे।हा+++([])+++,अओ,वाअ।न+++([])+++जातम, ष्टारोदसिइ।
 हा+++([])+++ओवा॥चतुः॥हु+++([])+++वे।ह+++([])+++ओवा॥एवं चतुः॥ना+++([])+++जा, तमष्टरोऒ,दासाइ।ऐ+++([])+++होइ।आ+++([])+++इहि॥एवं चतुः॥ह+++([])+++ओवा॥पंच॥हु+++([])+++वे।ह+++([])+++ओवा॥एवं पंच॥है+++([])+++है हैहोवा॥पंच॥है+++([])+++है हैहोवाअ।ह+++([])+++उवाअ।ऊ+++([])+++उउ॥౽॥
 
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="../devaH/indraH/idaM-hi-no-ojasA-ghRtasUktam/">
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="../devaH/indraH/idaM-hi-no-ojasA-ghRtasUktam/"></div>  
+<details open><summary><h2>इदं हि नो - घृतसूक्तम् …{Loading}…</h2></summary>
+
+### ऋक्
+इदं हि नो ओजसा  
+सुतं रथानाम् पते!
+पिब त्वा अस्य गिर्वण!
+
+### साम १
+
+<div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/idaM-hi-no-ojasA-ghRtasUkta.mp3"></div>
+
+घृतसूक्तम्।
+घृत सूक्तं।इ+++([])+++दाङ्मॆऎ।हि+++([])+++या, आनूउ, ओओजसा+++([])+++अ।सू+++([])+++तं राधा।
+ना+++([])+++अं, पाआता+++([])+++इ।पि+++([])+++बातुवस्या,गिईर्वणाः।पिबाअ, तूवाअ।स्या+++([])+++,अगाअअ, औहोवाअ।र्वा+++([])+++णाः॥౽॥
+</details>
+
+</div>  
 
 ## ऋक्
-
 
 ## साम
 गायत्री-क्रौंचम्।  
@@ -89,72 +105,342 @@ unicode_script: devanagari
 # पञ्च शांतिः
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/devaH/AryaH/hindukaH/classes/sadbhAvaH/yajuH/tach_ChaMyoH/">
-<details open><summary><h2>तच्छंय्योर् आवृणीमहे ...{Loading}...</h2></summary>
 
-सायणो [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_5_-_Kasinath_Sastri_Agase_1946#page/n92/mode/1up)। ब्राह्मणम् [अत्र](/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/2/6/vidhi-shraddhA/)।
+<details open><summary><h2>तच्छंय्योर् आवृणीमहे …{Loading}…</h2></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/3/5_iShTi-hautrAdi/11_shaMyu-vAkaH_tach_ChaMyoH">
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
-ॐ +++(फलं)+++ तच् छं॒योर् +++(बार्हस्पत्याद्)+++ आवृ॑णीमहे ।  
-+++(देवान्)+++ गा॒तुं +++(=गमयितुं [हवींषि])+++ - य॒ज्ञाय॑, गा॒तुं य॒ज्ञप॑तये ।
+1शंयुवाकाय प्रेषितो ब्रवीति - तच्छंयोरित्यादि ॥ 
+</details>
 
-दैवी॑ स्व॒स्तिर्॑ अस्तु नः । स्व॒स्तिर् मानु॑षेभ्यः ।  
-ऊ॒र्ध्वं जि॑गातु भेष॒जम् ।  
-शन् नो॑ अस्तु द्वि॒पदे॑ । शं चतु॑ष्पदे ।  
-ॐ शान्तिः॒ शान्तिः॒ शान्तिः॑ ।  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(फलं)+++ त᳓च् छंयो᳓र् +++(बार्हस्पत्याद्)+++ **आ᳓वृणीमहे** -  
++++(देवान् प्रति)+++ गातुं᳓ +++(=गमनं [हविषाम्])+++ - यज्ञा᳓य,  
+गातुं᳓+++(=गमनम्)+++ यज्ञ᳓पतये ।  
+</details>
+
+<details><summary>मूलम्</summary>
+
+तच्छय्ँ॒योरावृ॑णीमहे ।  
+गा॒तुय्ँ य॒ज्ञाय॑ ।  
+गा॒तुय्ँ य॒ज्ञप॑तये ।  
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+**तत्** तादृशं प्रशस्तफलं **शंयोः** बार्हस्पत्य्-आदौ [देः] **आवृणीमहे** प्रार्थयामहे, किं पुनस्तत्? **गातुं** गमनं देवान्प्रति **यज्ञाय** यज्ञस्य, यज्ञपतये यजमानस्य च गातुं देवस्थानं प्रति गमनं वृणीमहे ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दै᳓वी स्वस्ति᳓रस्तु नः ।  
+स्वस्ति᳓र् मा᳓नुषेभ्यः ।  
+</details>
+
+<details><summary>मूलम्</summary>
+
+दैवी॑ स्व॒स्तिर॑स्तु नः ।  
+स्व॒स्तिर्मानु॑षेभ्यः ।  
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अत्रैवं संपत्स्यमाना नः अस्माकं दैवी स्वस्तिः देवनिमित्तं विघ्नोपशमनमस्माकमस्तु । मानुषेभ्यश्च होतृभ्यः या स्वस्तिः सा चास्माकमस्तु ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऊर्ध्व᳓ञ् जिगातु+++(=गच्छतु)+++ भेषज᳓म् ।  
+श᳓न् नो अस्तु द्विप᳓दे ।  
+श᳓ञ् च᳓तुष्पदे ॥25॥  
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऊ॒र्ध्वञ्जि॑गातु भेष॒जम् ।  
+शन्नो॑ अस्तु द्वि॒पदे॑ ।  
+शञ्चतु॑ष्पदे ॥25॥  
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+किंच - **ऊर्ध्वं जिगातु** उद्गच्छतु भेषजं सर्वानिष्टशमनमेतत्कर्म सर्वोच्छ्रितमस्तु । किंच अस्माकं सम्बन्धिने द्विपदे मनुष्यादये चतुष्पदे च गवादये शं सुखं अस्तु । द्विपदोऽन्तोदात्तत्वमुक्तम् ॥  
+
+इत्येकादशोऽनुवाकः ॥  
+
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/05_taittirIyopaniShat/01-22_sAMhitopaniShat_shixA-vallI/01_shanno_mitraH_prArambhe/">
-<details open><summary><h2>शन्नो मित्रः ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="../shanno_mitraH"></div>  
+</details>
 
-त्वाम् ए॒व प्र॒त्यक्षं॒ ब्रह्म॑ वदिष्यामि ।  
-ऋ॒तव्ँ व॑दिष्यामि। स॒त्यव्ँ व॑दिष्यामि । 
-तन् माम् अ॑वतु । तद् व॒क्तार॑म् अवतु ।  
-अव॑तु॒ माम् । अव॑तु व॒क्तार॑म् ।  
+</div>
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/05_taittirIyopaniShat/01-22_sAMhitopaniShat_shixA-vallI/01_shanno_mitraH_prArambhe/">
+
+<details open><summary><h2>०१ शन्नो मित्रः प्रारम्भे …{Loading}…</h2></summary>
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantras)* Prayer for peace and auspices at the commencement of the Upanisad.
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अथ रहस्यविद्या प्रस्तूयते । ब्रह्मज्ञानं प्रधानमत्रोपदिश्यते । सर्वकामावाप्तिरपवर्गश्च तस्य फलम्, 'सोऽश्नुते सर्वान् कामान् सह' इति श्रवणात् । परार्थत्वात् फलश्रुतिरर्थवाद इति चेन्न । परार्थत्वाभावात् । नन्विदमस्ति । आत्मा वा अरे द्रष्टव्यः । इत्यादि । तत्रेयं स्तुतिः फलस्य विधायिका स्यात् । प्रकरणाद्यभावे कथमस्यास् तादर्थ्यमिति चेन्न । सर्ववेदान्तप्रत्ययानाम् ऐकविद्यात् । मैवम् । उपासनादिभेदेन विद्यानां भिन्नत्वात् । न चाङ्गभावः, नानाप्रकरणस्थत्वात् । अत एव न कर्माङ्गं ज्ञानम् । न चाधानवद् उपकारकत्वं स्यात् । न मध्यस्थोपकारकाभावात् । ज्ञानस्य च पुरुषसंस्काररूपत्वान् न माध्यस्थ्यम् । न च विदुषा कर्तव्यमितिवत् पुरुषसंस्काररूपस्य ज्ञानस्य क्रतूपकारकत्वकल्पना स्यात् । युक्तं कर्माङ्गानां याथार्थ्यवेदनं क्रतुफलभावनायामुपकरोतीति तेषामुद्भूतिहेतुत्वेन तस्याविरोधात् । आत्मज्ञानेन तु सर्वार्थप्रत्यस्तमयहेतुना न क्रतुफलभावनायामुपकारः । न च सूत्रकाराः कर्माङ्गत्वेनोपदिशन्ति । सर्वे चाश्रमिणोऽत्राधिक्रियन्ते । तस्मात् स्वतन्त्रोऽयं पुरुषसंस्कारः । तत्र 'ब्रह्मविदाप्नोति परम्'1 इत्यादिना ब्रह्मस्वरूपमुपासनं तत्फलं चोपदिशति । इतरथा सत्यत्वादिगुणविशिष्टतया आत्मनो ज्ञानं कथमुपपद्यते । अपि चात्मनोऽसिद्धत्वात् 'अपितरि पितरं जानीहि' इतिवद् अनात्मन्यात्मज्ञानविधानमपि स्यात् । तथा हि - अयुक्ता हि देहमेवात्मानं मन्यन्ते । युक्तानां तु. उपसंहृतसर्वार्थानां न द्रष्टृद्रष्टव्यदर्शनविभागोन्मेषः । तस्मात्सच्चिदानन्दात्मनो ब्रह्मण उपनिषद्भ्य एव सिद्धिरित्यौपनिषद काण्डमारभ्यते । परस्य श्रेयसस्समीपे निषीदन्तीत्य् उपनिषदः परप्राप्तिहेतवो विद्याः । ताश्च तिस्रो भवन्ति - सांहित्यो याज्ञिक्यो वारुण्यश्चेति । आधिलौकिक्यादिपञ्चमहासंहिताभावनाप्रधानाः सांहित्यः शं नो मित्रः' इत्यारभ्य द्वादशानुवाकाः । एतत्काण्डसमाननामानः काण्डदेवता अपि सांहित्य उपनिषद उच्यन्ते । 'सह नाववतु'1 इत्याद्यास् त्रयोऽनुवाका वारुण्य उपनिषदः वरुणनाम्ना ऋषिणा स्वपुत्रं प्रति प्रोक्ताः । देवताश्च तत्सनाम्न्यः । 'अम्भस्य पारे' इत्यारभ्य समस्तः प्रश्नो याज्ञिक्य उपनिषदः यज्ञनाम्ना भगवता नारायणेन दृष्टाः । पूर्ववत् तत्सनाम्न्यो देवताः ॥
+</details>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+तत्र ब्रह्माध्येष्यमाणः प्रथमं तत्प्रत्यूहशान्तिं प्रार्थयते -
+</details>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/05_taittirIyopaniShat/shanno_mitraH.md">
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+श᳓न् नो मित्र᳓श्, शव्ँ᳓ व᳓रुणः ।  
+श᳓न् नो भवत्व् अर्यमा᳓ ।  
+श᳓न् न इ᳓न्द्रो बृ᳓हस्प᳓तिः ।  
+श᳓न् नो वि᳓ष्णुर् उरुक्रमः᳓ ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Om. Auspicious for us (may) Mitra (be), auspicious (may) Varuṇa (be); auspicious for us may Aryaman be; auspicious for us (may) Indra (and) Bṛhaspati (be); auspicious for us (may) wide-strider Viṣṇu (be).
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+शं न इति ॥ समस्तोऽयमनुवाको मन्त्रः । मित्रावरुणौ प्रसिद्धौ । शं सुखं तस्य भावयिता हेतुर् मित्रः नो ऽस्माकम् आचार्यस्य ब्रह्मचारिणां च भवतु । वरुणश्च सुखहेतुर्भवतु । अविघ्नेनाध्ययनसम्पत्तिः सुखम् । अत्र 'मित्रोऽहरजनयद्वरुणो रात्रिम्' । इति ताभ्यां तत्कार्ययोरहोरात्रयोः सुखं प्रार्थयते । एवम् अर्यमादयोऽप्य् अस्माकं सुखहेतवो भवन्तु । अर्यमा आदित्यः कर्मणामीश्वरो ऽन्तर्यामी वा । छान्दसो वर्णलोपः । इन्द्रः यागेश्वरः। बृहस्पतिर् ज्ञानेश्वरः । विष्णुर् व्यापी विश्वस्याधार उरुक्रमः महाक्रमणः विश्वव्यापित्वात् । एवम् इयमनुष्टुप् ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न᳓मो ब्र᳓ह्मणे ।  
+न᳓मस् ते वायो ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Salutation to Brahman, salutation to you, O Vāyu;
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+नमो ब्रह्मणे परस्मै अविशेषात्सर्वोत्तीर्णाय येन विना तृणाग्रमपि न चलति । हे वायो! ते तुभ्यं नमः । वायुधीनाभिव्यक्तित्वाद् वेदात्मशब्दो वायुरुच्यते । प्रत्यक्षकृतत्वाय त इति युष्मच्छब्दोपादानम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त्व᳓म् एव᳓ प्रत्य᳓क्षं ब्र᳓ह्मासि ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+you, indeed, are the perceptible Brahman.
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+त्वमेव ब्रह्मासि तदनुरक्ततया तद्भावः । तदेवाह - त्वमेव प्रत्यक्षं ब्रह्म अस्माकं शब्दब्रह्मासि येन तत्परं विश्वं प्रेरयति ।
+</details>
+</div>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त्वा᳓म् एव᳓ प्रत्य᳓क्षं ब्र᳓ह्म वदिष्यामि ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+I will declare you, indeed, the perceptible Brahman;
+</details>
+
+<details><summary>मूलम्</summary>
+
+त्वाम् ए॒व प्र॒त्यक्षं॒ ब्रह्म॑ वदिष्यामि ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+तस्मात्तादृशं त्वाम् अहं वदिष्यामि । त्वमपि मे शं भवेति शेषः । ततस्सुखमेव नस्सर्वत्रेति वा ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऋतव्ँ᳓ वदिष्यामि।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+I will declare (you) settled order (ṛta),
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऋ॒तव्ँ व॑दिष्यामि।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+मनोवाक्कायकर्मभिस् तथ्यम् ऋतम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सत्यव्ँ᳓ वदिष्यामि ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+I will declare (you) truth.
+</details>
+
+<details><summary>मूलम्</summary>
+
+स॒त्यव्ँ व॑दिष्यामि ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+वाक्कर्मभ्यां तथ्यं सत्यम् । उभयोरुपादानमादरार्थम् । वाक्कर्मभ्यां मिथ्यात्वस्य अवश्यपरिहार्यत्वज्ञापनार्थं वा ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त᳓न् मा᳓म् अवतु ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+May That protect me,
+</details>
+
+<details><summary>मूलम्</summary>
+
+तन् माम् अ॑वतु ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+तत् तथा उद्यमानं ब्रह्म मामवतु । रक्षतु मिथ्याध्यापयितुराचार्यस्य त्याज्यत्वात् । शिष्यस्तु मिथ्याध्यायी नैव सिद्धिमृच्छति । मिथ्याधीतप्रायश्चित्तश्रवणाच्च ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त᳓द् वक्ता᳓रम् अवतु ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+may That protect the speaker;
+</details>
+
+<details><summary>मूलम्</summary>
+
+तद् व॒क्तार॑म् अवतु ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+तत् तथा उद्यमानं वक्तारं च माम् अवतु तर्पयत्व् अनुप्रविशतु वा । यद्वा - वक्तृत्वमाचार्यत्वं मामवतु स्थापयतु वा ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ᳓वतु मा᳓म् ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+may That protect me,
+</details>
+
+<details><summary>मूलम्</summary>
+
+अव॑तु॒ माम् ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+उक्तं वदनकाले मां रक्षत्विति ; इदानीं सर्वदा अवनं प्रार्थयते - अवतु मां सर्वदा अवदनकालेऽपि ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ᳓वतु वक्ता᳓रम् ।
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+may That protect the speaker.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अव॑तु व॒क्तार॑म् ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अवतु वक्तारमपि सर्वदा । वक्तृत्वमाचार्यत्वम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ओ᳓म् शा᳓न्तिश् शा᳓न्तिश् शा᳓न्तिः ॥
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Om. Peace, peace, peace. (1)
+</details>
+
+<details><summary>मूलम्</summary>
+
 ओम् शान्ति॒श् शान्ति॒श् शान्तिः॑ ॥
 </details>
-</div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/05_taittirIyopaniShat/23_sahanAvavatu/">
-<details open><summary><h2>सह नाववतु ...{Loading}...</h2></summary>
 
-स॒ह ना॑व् अवतु ।  
-स॒ह नौ॑ भुनक्तु ।  
-स॒ह वी॒र्यं॑ करवावहै ।  
-ते॒ज॒स्वि ना॒व् अधी॑तम् अस्तु॒,  
-मा वि॑द्विषा॒वहै॑ ।  
-ओं शान्ति॒श् शान्ति॒श् शान्तिः॑ ।। (23)
+<details><summary>भट्टभास्कर-टीका</summary>
+
+सर्वदा शान्तिः सुखं प्रत्यूहशमनं वा । अस्त्विति शेषः । आदरार्थं पुनः पाठः ; दार्ढ्यार्थं वा ॥
 </details>
+</details>
+
 </div>
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/05_taittirIyopaniShat/23_sahanAvavatu/"></div>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/089/08_bhadraM_karNebhiH.md">
-<details open><summary><h2>०८ भद्रं कर्णेभिः ...{Loading}...</h2></summary>
 
+<details open><summary><h2>०८ भद्रं कर्णेभिः …{Loading}…</h2></summary>
 
-भ॒द्रं कर्णे॑भिः शृणु॒याम॑ देवा  
-भ॒द्रं प॑श्येमा॒क्षभि॒र् यज॑त्राः+++(=यष्टव्याः)+++ ।  
-स्थि॒रैर् अङ्गै॑स् तुष्टु॒वाꣳस॑स्+++(=स्तुवन्तः)+++ त॒नूभि॑र्  
-व्यशे॑म+++(=प्राप्नुयाम)+++ दे॒वहि॑तं॒ यद् आयुः॑॥
+भद्रं᳓ क᳓र्णेभिः **शृणुयाम** देवा  
+भद्रं᳓ **पश्येमाक्ष᳓भिर्** यजत्राः+++(=यष्टव्याः)+++ ।  
+स्थिरै᳓र् अ᳓ङ्गैस् **तुष्टुवाँ᳓सस्**+++(=स्तुवन्तः)+++ तनू᳓भिर्  
+**व्य᳓शेम**+++(=प्राप्नुयाम)+++ देव᳓-हितं य᳓द् आ᳓युः॥
 
 </details>
+
 </div>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/3/1/43_0236_taM_vo.md">
-<details open><summary><h2>43_0236 तं वो ...{Loading}...</h2></summary>
+
+<details open><summary><h2>43_0236 तं वो …{Loading}…</h2></summary>
 
 तं꣡ वो꣢ द꣣स्म꣡मृ꣢ती꣣ष꣢हं꣣ व꣡सो꣢र्मन्दा꣣न꣡मन्ध꣢꣯सः। अ꣣भि꣢ व꣣त्सं꣡ न स्वस꣢꣯रेषु धे꣣न꣢व꣣ इ꣡न्द्रं꣢ गी꣣र्भि꣡र्न꣢वामहे ॥ 43:0236 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/088/01_taM_vo.md">
-<details open><summary><h4>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h4></summary>
+<details open><summary><h4>विश्वास-शाकल-प्रस्तुतिः …{Loading}…</h4></summary>
 
-
-तं वो॑ द॒स्मम्+++(=दर्शनीयम्)+++ ऋ॑ती॒+++(=बाधक)+++-षहं॒  
-वसो॑र्+++(=निवसतः)+++ मन्दा॒नम्+++(=मोदमानम्)+++ अन्ध॑सः+++(=अन्नस्य)+++ ।  
-अ॒भि व॒त्सं न स्वस॑रेषु+++(=अहस्सु)+++ धे॒नव॒  
-इन्द्रं॑ गी॒र्भिर् न॑वामहे+++(=स्तुमः)+++ ॥
+तं᳓ वो दस्म᳓म्+++(=दर्शनीयम्)+++ ऋती+++(=बाधक)+++-ष᳓हं  
+व᳓सोर्+++(=निवसतः)+++ मन्दान᳓म्+++(=मोदमानम्)+++ अ᳓न्धसः+++(=अन्नस्य)+++ ।  
+अभि᳓ वत्सं᳓ न᳓ स्व᳓सरेषु+++(=अहस्सु)+++ धेन᳓व  
+इ᳓न्द्रं गीर्भि᳓र् नवामहे+++(=स्तुमः)+++ ॥
 
 </details>
 </div>
 </details>
+
 </div>  
-
-
 
 ## साम
 तङ्+++([])+++ वः। ए+++([])+++दास्मां।ऋ+++([])+++ती, षा,हं।हा+++([])+++,इ, आ+++([])+++,।औ उहो,
@@ -190,7 +476,6 @@ unicode_script: devanagari
 ## साम
 ईनिधनं, मार्गीयवं।त+++([])+++द्वो, गायसुतॆ, ऎ, सचाoङॆयॆ, ऎ।पु+++([])+++रुहूताय सत्वनाइ।शं+++([])+++यत् गा, अवॆ।ऐ+++([])+++,हो, ओआ, इहि।ना+++([])+++,शाअ।का+++([])+++,इनाअअ, औहो,वाअ।ई+++([])+++इ॥౽॥
 
-
 # देवव्रत सामानि।
 
 ## ऋक्
@@ -203,7 +488,6 @@ unicode_script: devanagari
 वायुना विश्वाः प्रजा ऽभ्यभवत्।  
 वषट्कारेण  ऽदाभाक्+++(?)+++।  
 देवेभ्यो नमः, ये देवा अन्तरिक्षदस् स्थ - तेभ्यो वो देवदेवेभ्यो नमः।
-
 
 म॒न्युना॑ वृत्र॒हा, सौहा॑र्द्येन तनू॒धा, अन्ने॑न॒ गय॑ᳶ, पृथि॒व्यास॑नो, दृ॒ग्भिर॑न्ना॒दो, व॑षट्का॒रेण॒र्द्धस्, साम्ना॑ तनू॒पा, वि॒राजा॒ ज्योति॑ष्मा॒न्, ब्रह्म॑णा सोम॒पा। 
 
@@ -275,15 +559,273 @@ unicode_script: devanagari
 # पवित्रवर्गः।
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="../devaH/jalam/Rk/Apo_hi_ShThA/"></div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="../devaH/somaH/tarat-sa-mandI/"></div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="../devaH/somaH/Rk/yaH_pAvamAnIH/"></div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="../devaH/indraH/eto-nvindram/"></div> 
 
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="../devaH/somaH/tarat-sa-mandI/">
+
+<details open><summary><h2>तरत् स मन्दी …{Loading}…</h2></summary>
+
+### ऋक्
+
++++([सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume4SatyavrataSamasrami1877bis_201803/page/n37) कौथुमभाष्ये। कविः। जगती। सोमः।])+++
+
+४ ४ १ ०५ ०१  
++++(पापभ्यो)+++ तर॑त्+++(=तारयन्)+++ स म॒न्दी+++(=हर्षकरः [सोमः])+++ धा॑वति  
+धारा सुतस्यान्धसः  ।  
+तर॑त् स म॒न्दी धा॑वति॥
+
+उ॒स्रा+++(=उत्सरणशीला)+++ वे॑द॒ वसू॑नाम्  
+मर्त॑स्य +++(सोमधारा)+++ दे॒वी+अव॑सः ।   
+तर॑त् स म॒न्दी धा॑वति॥  
+
+ध्व॒स्रयोः॑ पुरु॒षन्त्यो॒र्  
++++(अशिवनानुग्रहपात्रौ प्रसिद्धौ दातारौ यजमानौ प्राचीनौ, सोमसोमधारानिभौ, तयोः)+++  
+आ स॒हस्रा॑णि दद्महे ।
+तर॑त् स म॒न्दी धा॑वति॥  
+
+आ ययो॑स्+++(=ध्वस्रपुरुषन्त्योः)+++ त्रिं॒शतं॒ तना+++(=वस्त्राणि)+++ 
+स॒हस्रा॑णि च॒ दद्म॑हे । 
+तर॑त् स म॒न्दी धा॑वति॥  
+
+![](/devaH/AryaH/hindukaH/somaH/images/soma-purification.png)
+{class="thumbnail"}
+
+### साम १
+- पारम्परिकगानमूलम् - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n2/mode/1up&sa=D&ust=1542425956390000)।]
+
+<div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/tarat-sa-mandI.mp3"></div>
+
+<div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/tarat-sa-mandI.mp3"></div>
+
+ओं,  
+त+++([])+++रत् स मा,अ,,न्दी+++([])+++ धाअ,वाआताइ ।  
+धा+++([])+++रा, असूता,स्या+++([])+++आ,  
+अ,,न्धा+++([])+++,असाअअ, औहो,वाअ ।  
+त+++([])+++रत्समंदीधा, अवतीइ ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="../devaH/somaH/Rk/yaH_pAvamAnIH/"></div>
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="../devaH/indraH/eto-nvindram/">
+
+<details open><summary><h2>एतो न्विन्द्रम् …{Loading}…</h2></summary>
+
+४ ६ २ ०९०१  
+एतो॒ न्विन्द्रं॒ स्तवा॑म  
+शु॒द्धं शु॒द्धेन॒ साम्ना॑ ।  
+शु॒द्धैर् उ॒क्थैर् वावृ॒ध्वांसं  
+शु॒द्ध आ॒शीर्वा॑न् ममत्तु ।। 
+
+इन्द्र॑ शु॒द्धो न॒ आ ग॑हि  
+शु॒द्धः शु॒द्धाभिः ऊ॒तिभिः ।  
+शु॒द्धो र॒यिं नि धा॑रय  
+शु॒द्धो म॑मद्धि सो॒म्यः ।।
+
+### साम १
+
+<div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/eto-nvindram-1.mp3"></div>
+
+<div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/eto-nvindram-1.mp3"></div>
+
+ए,+++([])+++ऎतोओ, न्विंद्रं+++(२)+++ स्तावाअ,माअअ ।  
+शु+++([])+++द्धं शुद्धे,,ना सा,आम्ना।  
+शु+++([])+++द्धैर् रुक्थै+++(~~ध्धै~~)+++र् वा,वृध्वा,अङ्साम्।  
+शु+++([])+++ध्धैरा,शीइ,,र्वा,+++([])+++अन्  
+म+++([])+++माअअ,औहोवाअ। तू+++([])+++उ ॥
+
+### साम २
+
+<div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/eto-nvindram-2.mp3"></div>
+
+<div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/eto-nvindram-2.mp3"></div>
+
+ए+++([])+++तो,ओ, न्विंद्रं स्तवाम्मअ।  
+शु+++([])+++द्धं, शुद्धॆ,,ना+++([])+++।  
+सा+++([])+++म्ना+++([])+++अ।  
+शु+++([])+++द्धाइर् ऊ,उक्था+++(~~ध्धा~~)+++इहि+++(v)+++।  
+वा,+++([])+++वा,अर्ध्वांसाअम्।  
+शु+++([])+++द्धैरा, आशी,,र्वा+++([])+++न् मामत्तु ।  
+इ+++([])+++डा,अभाअअ।  
+ओ+++([])+++इ । डा+++([])+++अ  ॥
+</details>
+
+</div> 
 
 इंद्र शुद्धोहिनोरयं। शुद्धो रत्नानि दाशुषे।शुद्धो वृत्राणि जघ्नसे। शुद्धो वाजं शिषासती।
 
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="../devaH/misc-devas/somaM-rAjAnam/">
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="../devaH/misc-devas/somaM-rAjAnam/"></div>
+<details open><summary><h2>सोमं राजानं …{Loading}…</h2></summary>
+
+### ऋक्
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/37_0091_somaM_rAjAnam.md">
+
+सो꣢म꣣ꣳ रा꣡जा꣢नं꣣ व꣡रु꣢णम꣣ग्नि꣢म꣣न्वा꣡र꣢भामहे । आ꣣दित्यं꣢꣫ विष्णु꣣ꣳ सू꣡र्यं꣢ ब्र꣣ह्मा꣡णं꣢ च꣣ बृ꣢ह꣣स्प꣡ति꣢म् ॥ 37:0091 ॥
+
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/141/03_somaM_rAjAnamavase_agniM.md">
+<details open><summary><h9>विश्वास-शाकल-प्रस्तुतिः …{Loading}…</h9></summary>
+
+सो᳓मं रा᳓जानम् अ᳓वसे  
+अग्निं᳓ गीर्भि᳓र् हवामहे  
+आदित्या᳓न् वि᳓ष्णुं सू᳓रियम्  
+ब्रह्मा᳓णं च बृ᳓हस्प᳓तिम्
+</details>
+</div>
+</div>  
+  
+
+### साम
+
+<div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/somaM-rAjAnam.mp3"></div>
+
+<div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/somaM-rAjAnam.mp3"></div>
+
+सो+++([])+++मङ्, राजान०, वारूणा० । अ+++([])+++ग्निमन्वारभा, महे, ऎ ।  हो,+++([])+++: वा, अहाइ । 
+आ,+++([])+++दित्य०, ०विष्णु००सू, रिय० । हो,+++([])+++: , वाअहाइ । ब्र+++([])+++ह्माणा०, चाअ । हो,+++([])+++: वाअहाइ ।  बॄ+++([])+++हा,+++([])+++अआउवाअ । पा+++([])+++तिइ० ॥
+</details>
+
+</div>
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="../devaH/indraH/yata-indra/"></div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="../devaH/lokAntaram/brahma-jajJNAnam/"></div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="../devaH/lokAntaram/pavitran-te/"></div> 
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="../devaH/lokAntaram/brahma-jajJNAnam/">
+
+<details open><summary><h2>ब्रह्म जज्ञानम् …{Loading}…</h2></summary>
+
+### ऋक्
+
+#### परिचयः
+- AV;S.4.1.1a; 5.6.1a; AVP.5.2.2a; 6.11.1a; SV.1.321a; VS.13.3a; TS.4.2.8.2a; MS.2.7.15a: 96.11; 3.2.6: 23.8; KS.16.15a; 20.5; 38.14a; AB.1.19.1; KB.8.4; ;SB.7.4.1.14; 14.1.3.3; TB.2.8.8.8a; TA.10.1.10a; A;S.4.6.3a; 9.9.12; ;S;S.5.9.5a; 15.3.6; 18.1.2. P: brahma jaj~nAnam TS.5.2.7.1 +++(bis)+++; GB.2.2.6; TB.3.12.1.1; TA.1.13.3; SaMnyAsaU.1; M;S.6.1.7.2; 11.7.3.2; Vait.14.1; 28.33; K;S.17.4.2; Ap;S.16.18.7; 22.3; Kaush.9.1; 15.12; 18.25; 19.1; 28.15; 38.23; 51.7; 79.11; 139.10; JG.2.8,9; BDh.2.10.18.7; BR^ihPDh.9.62,314
+
+- [कौथुमभाष्ये सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n706&sa=D&ust=1542425956410000)। तैत्तिरीयब्राह्मणे [अत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_037_Taittiriya_Brahmanam_with_Sayanabhashya_Part_2_-_Narayanasastri_Godbole_1898#page/n229/mode/2up&sa=D&ust=1542425956410000), [अत्र](https://archive.org/stream/taittiriya/taittiriya_brahmana_bhaskara_02#page/n569/mode/2up&sa=D&ust=1542425956411000)। मानसतरङ्गिणीकारो [अत्र](https://twitter.com/blog_supplement/status/1062936630602928128&sa=D&ust=1542425956411000)। शुक्रग्रह इत्यन्ये [केचित्](https://twitter.com/agnimaan/status/1014886758918512640&sa=D&ust=1542425956411000), वेनो गन्धर्वःकश्चिद् इति आदित्यो वेति सायणः।]
+
+#### ऋक्
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/13/03_brahma_jajnAnam.md">
+
+ब्रह्म॑ +++(=मन्त्रः ([सौरमण्डलयज्ञे]))+++ जज्ञा॒नं +++(=उत्पन्नम्)+++ प्र॑थ॒मं पु॒रस्ता॑द्  
+वि सी॑म॒तस् सु॒रुचो॑ वे॒न **आ॑वः** ।  
+स बु॒ध्न्या॑ +++(=मूले भवः ([खस्य सूर्यः]))+++ उप॒मा अ॑स्य **वि॒ष्ठाः** +++(=विस्थितः)+++,  
+स॒तश्च॒ योनि॒म् +++(सूर्यम्)+++ अस॑तश्च॒ **विवः॑** +++(=विवृतवान्)+++  ।
+
+</div>  
+
+### साम १
+
+- पारम्परिक-गान-मूलम् [अत्र](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI%23mode/1up&sa=D&ust=1542425956412000)।
+<div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/brahma-jajJNAnam-1.mp3"></div>
+
+<div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/brahma-jajJNAnam-1.mp3"></div>
+
+<div caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1x" class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018/brahma-jajJNAnam-1.mp3"></div>
+
+<div caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1.5x" class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018-150p-speed/brahma-jajJNAnam-1.mp3"></div>
+
+<div caption="गोपालपवनयोर् अनुवचनम् 2015 1x" class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/brahma-jajJNAnam-1.mp3"></div>
+
+<div caption="गोपालपवनयोर् अनुवचनम् 2015 1.5x" class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015-150p-speed/brahma-jajJNAnam-1.mp3"></div>
+
+ब्र+++([त])+++ह्मा+++(%)+++ ब्रा+++([तः]--%३)+++अह्मा, ज+++([पो])+++ज्ञा+++(")+++आनम्।
+
+प्रथमम् पूरा+++(--%३)+++स्ता+++(३)+++त+++(v)+++।
+
+वि+++([त])+++साइ-वा+++([तः]--%३)+++अइसि,म+++([पो])+++तस् सुरुचो+++(["])+++ओ,
+
+वॆए+++(["]%)+++ना+++(--%३)+++ आवा+++(३)+++ह+++(v)+++।
+
+स+++([त])+++बू+++(%)+++सा+++([तः]--%३)+++अबुध्न्या+++(["पो] ~~ध्या~~)+++उपमा+++(["])+++आ,
+
+ऽस्यावा+++(-%)+++इ,,ष्ठा+++(३)+++अह+++(v)+++।
+
+स+++([त])+++तह+++(v)+++ सा+++([तः]--%३)+++अताह+++(v)+++,
+
+च+++([पः])+++यो+++(["])+++ऒ,,निम्+असतश्चा वा+++(-%)+++इवा+++(३)+++अह+++(v)+++।
+
+ओ+++([ति]"३)+++इ,डा+++([प]--"३)+++अ॥
+
+### साम २
+<div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/brahma-jajJNAnam-2.mp3"></div>
+
+<div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/brahma-jajJNAnam-2.mp3"></div>
+
+<div caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1x" class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018/brahma-jajJNAnam-2.mp3"></div>
+
+<div caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1.5x" class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018-150p-speed/brahma-jajJNAnam-2.mp3"></div>
+
+<div caption="गोपालपवनयोर् अनुवचनम् 2015 1x" class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/brahma-jajJNAnam-2.mp3"></div>
+
+<div caption="गोपालपवनयोर् अनुवचनम् 2015 1.5x" class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015-150p-speed/brahma-jajJNAnam-2.mp3"></div>
+
+{हु+++([घॄ])+++वे+++([रॄ]"३)+++हा+++(३)+++{अ}इ।}+++([द्विः])+++। ही+++([घू]%)+++षा+++([रॄ]--%३)+++अया+++(३)+++।
+
+ब्र+++([तै])+++ह्मा जज्ञा+++(--%३)+++ना, आ+++(v)+++म्+++([रा])+++ प्राथा+++(--"३)+++मम्+++([पी]२)+++ पू+++("३)+++रस्ता+++(")+++त+++(v)+++।
+
+वि+++([र])+++सीमता+++(-%-३)+++ह+++(v)+++, सू+++([र])+++रूचह+++(v)+++, वे+++([पि])+++ना आवाह+++(v)+++।
+
+सा+++([र])+++बुध्न्या+++(-%-३)+++ह+++(v)+++, उ+++([र])+++पा+++(%३)+++मा+++(--%३)+++ अस्या+++(३)+++ विष्ठाह+++(v)+++।
+
+सा+++([र]३)+++तश्च यो+++(--%३)+++नी+++([रा]")+++,ईमासा+++(३)+++त+++([पी])+++श्चा+++(")+++ वी+++(%)+++वाह+++(v)+++।
+
+{हु+++([घॄ])+++वे+++([रॄ]"३)+++हा+++(३)+++{अ}इ।}+++([द्विः])+++। ही+++([घू]%)+++षा+++([रॄ]--%३)+++अहा+++([टृ])+++अअअ औ+++(["प])+++हो+++(%३)+++वा+++(३-")+++आ।
+
+{ए+++([पा]")+++ऎ, ऋ+++([पो])+++तम् अमृतम्}+++([द्विः])+++।
+
+ए+++([पा]")+++ऎ, ऋ+++([टू])+++तम् अमॄ+++(३)+++ता+++(३-")+++अम्॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="../devaH/lokAntaram/pavitran-te/">
+
+<details open><summary><h2>पवित्रन्ते विततम् …{Loading}…</h2></summary>
+
+### ऋक्
+पवित्रंतॆ, विततं ब्रह्मणस्पते । प्रभुर्गात्राणि, पर्येषि , विश्वतः । अतप्त तनू र्नतधामोश्नुते । श्रितास, यिद्वहंत स्संतदा शत ॥
+
+### साम १
+
+<div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/pavitran-te-1.mp3"></div>
+
+<div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/pavitran-te-1.mp3"></div>
+
+अर्कपुष्पाद्यं ।  
+प+++([])+++: वित्रंते, ऎवितातं, ब्रह्मणस्पते, ऎ ।  
+हु+++([])+++वे, ऎ ।। द्वि:।। हो+++([])+++वा, हाअहा+++([])+++इ । प्र+++([])+++: भुर्गात्राणि, पर्ये, एषि , विश्वता: । हु+++([])+++वे, ऎ ।। द्वि:।। हो+++([])+++वा, हा अहा+++([])+++इ । अ+++([])+++तप्ततनुर्नतादा, अमोश्नुते, ए । हु+++([])+++वे, ऎ 
+।। द्वि:।। हो+++([])+++वा, हाअहा+++([])+++इ । श्री+++([])+++ता, साइद्वहंत, स्स०तादा,+++([])+++आशता । हु+++([])+++वे, ऎ ।। द्वि:।। हो+++([])+++वा, हा अहा+++([])+++आअ । औ+++([])+++हो, वाअ । अ+++([])+++र्को देवान्नाअ०, परमेव्यो,+++([])+++ओमाअअन् ॥
+
+### साम २
+
+<div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/pavitran-te-2.mp3"></div>
+
+<div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/pavitran-te-2.mp3"></div>
+
+अर्कपुष्पोत्तरं । प+++([])+++: वित्रंते, ऎवितातं, ब्रह्मणस्पते, ऎ । हु+++([])+++वाइ । औ+++([])+++होवा+++([])+++अ । प्र+++([])+++: भुर्गात्राणि, पर्ये, एषि, विश्वताः । हुवा+++([])+++इ । औ+++([])+++होवा+++([])+++अ । अ+++([])+++तप्ततनूर्नतादा,+++([])+++अमोश्नुते,ए ।
+ हु+++([])+++वाइ । औ+++([])+++होवा+++([])+++अ, । श्री+++([])+++ता, साइद्वहंत, स्स०तादा,+++([])+++आशता । हु+++([])+++वाइ । औ     हो, ऒवाअअ औ+++([])+++हो वाअ । अ+++([])+++र्कस्यदे, एवा: , परमेव्यो, ओ+++([])+++माअअन् ॥
+</details>
+
+</div> 
