@@ -7,7 +7,40 @@ unicode_script: devanagari
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="../devaH/indraH/archata-prArchata/"></div>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="../devaH/agniH/IDiShva/"></div>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="../devaH/somaH/pavamAna/"></div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="../devaH/somaH/abhi-vAyum-pArtham/"></div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="../devaH/somaH/abhi-vAyum-pArtham/">
+### ऋक्
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/6/2/18-1_1426_abhi_vAyum.md">
+<details open><summary><h3>18-1_1426 अभि वायुम् ...{Loading}...</h3></summary>
+
+अ꣣भि꣢ वा꣣युं꣢ वी꣣꣬त्य꣢꣯र्षा गृणा꣣नो꣢꣣ऽ. ऽभि꣣ मि꣣त्रा꣡वरु꣢꣯णा पू꣣य꣡मा꣢नः। अ꣣भी꣡ नरं꣢꣯ धी꣣ज꣡व꣢नꣳ रथे꣣ष्ठा꣢म꣣भी꣢न्द्रं꣣ वृ꣡ष꣢णं꣣ व꣡ज्र꣢बाहुम् ॥ 18-1:1426 ॥
+
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/097/49_abhi_vAyuM.md">
+<details open><summary><h2>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h2></summary>
+
+
+अभि᳓ वायुं᳓ वीत्य्+++((त्यै)=पानाय)+++ अ᳙र्षा+++(=गच्छ)+++  गृणानो᳙+++(=स्तूयमानः)+++  
+ऽभि᳓ मित्रा᳓व᳓रुणा पूय᳓मानः ।  
+अभी᳓ न᳓रं+++(=नेतारं)+++ धीज᳓वनं+++(=धीजवं)+++  रथेष्ठा᳓म्+++(अश्वियुग्मम्)+++ अभी᳓न्द्रं वृ᳓षणं व᳓ज्रबाहुम् ॥
+
+</details>
+</div>
+</details>
+</div>  
+
+### साम
+
+<div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/abhi-vAyuM-pArdham.mp3"></div>
+
+पार्थम् ॥  
+ओ+++([])+++,ओहो, ओहोइ ।  
+अ+++([])+++भि वायुं ।  वी+++([])+++,इतीया । षा+++([])+++गृणानाहा ।  
+अ+++([])+++भिमित्रा । वा+++([])+++रूणा । पू+++([])+++यामानाहा ।  
+अ+++([])+++भी, नरां ।  धी+++([])+++,इजावा । णङ्+++([])+++राधेष्टाअं ।  
+अ+++([])+++भिइंद्राम् ।  
+वृ+++([])+++षाणं । वा+++([])+++अअ,ज्रा,अ,बाअ,हुंङुं,ङूउम् ॥ ७ ॥
+</div>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="../devaH/somaH/abhi-vastrA/"></div>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="../devaH/somaH/abhi-no-arSha/"></div>  
 
