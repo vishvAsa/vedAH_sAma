@@ -492,7 +492,7 @@ Om. Peace, peace, peace. (1)
 
 </div>
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/05_taittirIyopaniShat/23_sahanAvavatu/"></div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/05_taittirIyopaniShat/23-42_vAruNy-upaniShat/23_sahanAvavatu/"></div>
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/089/08_bhadraM_karNebhiH.md">
 
